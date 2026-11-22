@@ -67,6 +67,29 @@ CHB64='iVBORw0KGgoAAAANSUhEUgAAA+gAAABOCAQAAAAZB/QBAAAAIGNIUk0AAHomAACAhAAA+gAAA
 def chainimg(cx,cy,w):
     h=w*160/2048
     return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{CHB64}"/>'
+def ring_text(cx,cy,rt,rb,top,bot,col,fs=11.5,ls=1.2):
+    # librsvg nie obsługuje textPath, więc każda litera osobno, obrócona po łuku
+    import math
+    from PIL import ImageFont
+    fnt=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf',100)
+    def wd(c): return fnt.getlength(c)*fs/100
+    def place(txt,r,upper):
+        ws=[wd(c)+ls for c in txt]; tot=sum(ws)-ls
+        ang_tot=tot/r*180/math.pi
+        out=[]; acc=0
+        for c,w in zip(txt,ws):
+            mid=acc+(w-ls)/2; acc+=w
+            off=(mid/tot-0.5)*ang_tot if tot else 0
+            if upper:
+                a=270+off; rot=off
+                x=cx+r*math.cos(math.radians(a)); y=cy+r*math.sin(math.radians(a))
+            else:
+                a=90-off; rot=-off
+                x=cx+r*math.cos(math.radians(a)); y=cy+r*math.sin(math.radians(a))
+            out.append(f'<text x="{x:.2f}" y="{y:.2f}" transform="rotate({rot:.2f} {x:.2f} {y:.2f})" text-anchor="middle">{c}</text>')
+        return ''.join(out)
+    st=f'font-family="DejaVu Serif" font-weight="bold" font-size="{fs}" fill="{col}"'
+    return f'<g {st}>'+place(top,rt,True)+place(bot,rb+fs*0.72,False)+'</g>'
 def chain(x1,x2,y,col):
     out=[];x=x1;mid=(x1+x2)/2
     while x<=x2:
@@ -81,7 +104,7 @@ def tobacco(x,y,s,col,vein):
 def svg(b):
     d=f'<defs><symbol id="lis" viewBox="0 0 494 637"><image width="494" height="637" href="data:image/png;base64,{LISB64}"/></symbol></defs>' if '#lis' in b else ''
     if '#bee' in b: d+=f'<defs><symbol id="bee" viewBox="0 0 398 394"><image width="398" height="394" href="data:image/png;base64,{BEEB64}"/></symbol></defs>'
-    return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{d}{b}</svg>'
+    return f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 200" width="1536" height="1024">{d}{b}</svg>'
 bands=f'<rect width="300" height="200" fill="{WHITE}"/><rect width="66" height="200" fill="{BLUE}"/><rect x="234" width="66" height="200" fill="{BLUE}"/>'
 F={}
 F['1_oligarchia']=svg(bands+''.join(fleur(33,y,.55,GOLD) for y in (48,103,158))+''.join(fleur(267,y,.55,GOLD) for y in (48,103,158))+pelimg(150,104,138))
@@ -90,7 +113,7 @@ F['3_konsulat']=svg(bands+f'<rect x="66" width="5" height="200" fill="{GOLD}"/><
 F['4_cesarstwo']=svg(f'<rect width="300" height="200" fill="{PURPLE}"/>'+laurel(150,112,72,GOLD)+eagimg(150,114,92)+crownimp(150,50,50)+''.join(beeimg(x,y,30) for x,y in ((30,30),(270,30),(30,170),(270,170))))
 sem=''.join(fleur(x,y,.36,GOLD) for x in range(25,300,42) for y in range(24,200,42) if not (100<x<200 and y<180))
 F['5_burbonowie']=svg(f'<rect width="300" height="200" fill="{BLUE}"/>{sem}<path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="{WHITE}"/><path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="none" stroke="{GOLD}" stroke-width="3"/>'+pelimg(150,118,84)+crownimg(150,58,70))
-F['6_wolna']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,190,158)+chainimg(148,154,256))
+F['6_wolna']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,172,142)+chainimg(148,146,256)+ring_text(150,106,84,80,"LIBERTÉ AUX ESCLAVES","CHAÎNES BRISÉES",WHITE))
 F['7_komuna']=svg(f'<rect width="300" height="200" fill="{RED}"/>'+laurel(150,100,66,WHITE)+anchor_hammer(150,98,WHITE)+wave(186,WHITE,5))
 F['8_konfederacja']=svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="{RED}"/><rect width="76" height="200" fill="{BLUE}"/>'+star(38,64,16,WHITE)+star(38,136,16,WHITE)+pelimg(188,52,92)+tobacco(188,150,1.0,GOLD,RED))
 import os
