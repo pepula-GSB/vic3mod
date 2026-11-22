@@ -4,7 +4,7 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 
 ## Prusowie
 - Chrystianizowani powoli z Mazowsza i Pomorza, bez krzyżackiego podboju.
-- Autonomiczne województwo w Rzeczypospolitej Lechickiej, z żywym językiem pruskim.
+- Własne Księstwo Pruskie (Warmia, Mazury, Sambia, Natangia, Pomezania), z żywym językiem pruskim. Szczegóły w pliku o Europie Środkowej.
 - Ironia tego świata: Prusy istnieją, ale jako **bałtycki naród**, nie niemieckie mocarstwo.
 
 ## Wielkie Księstwo Litewsko-Ruskie
@@ -31,7 +31,7 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Stolice**: Lwów, Halicz, Włodzimierz.
 - **Religia**: kościół greckokatolicki (unia już w XIII wieku, korona z Rzymu dla Daniela).
 - **Kultury**: Rusini haliccy, Mołdawianie i Rumuni.
-- **Pozycja**: pod lechicko-morawskim parasolem. W stosunkach z Litwą-Rusią raczej rywal.
+- **Pozycja**: pod parasolem Moraw. W stosunkach z Litwą-Rusią raczej rywal.
 
 ## Wielkie Księstwo Moskiewskie
 - **Terytorium**: rdzeń włodzimiersko-suzdalski, Kazań, Astrachań, Wołga, Syberia, Kamczatka, Ochock, Kaukaz Północny, kierunek na Azję Środkową.

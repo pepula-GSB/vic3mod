@@ -45,7 +45,7 @@ Dwie przyczyny źródłowe: **brak bitwy nad Lechem** (słabsza monarchia niemie
 - Główny wróg przez trzy stulecia to Burgundia. Granica francusko-burgundzka to najbardziej zmilitaryzowana linia w Europie.
 - **Nie dostaje** Alzacji, Lotaryngii, Franche-Comté ani Sabaudii.
 - Zablokowana na lądzie, **inwestuje w kolonie**: zachowuje Kanadę i Luizjanę po 1763 roku, ale traci je przez rewolucję.
-- Tradycyjny sojusz z Lechią (Henryk Walezy, wojny napoleońskie).
+- Tradycyjny sojusz z Polską (Henryk Walezy, wojny napoleońskie).
 - **W 1836 roku**: monarchia lipcowa Ludwika Filipa, mniejsza niż realnie, rewizjonistyczna wobec Burgundii. Algieria od 1830 roku. Wrogie stosunki z rojalistyczną Nową Francją.
 
 ## Włochy

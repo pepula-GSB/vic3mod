@@ -1,7 +1,7 @@
 # Skandynawia w 1836 roku
 
 ## Dania-Norwegia: wielkie mocarstwo północnego Atlantyku
-- **Terytorium europejskie**: Dania, **Skania, Halland i Blekinge** (nie stracone w 1658 roku), Szlezwik, Holsztyn (mieszany duńsko-słowiański, sporny z Lechią), Norwegia, **Orkady i Szetlandy** (wykupione od Szkocji), Islandia, Wyspy Owcze.
+- **Terytorium europejskie**: Dania, **Skania, Halland i Blekinge** (nie stracone w 1658 roku), Szlezwik, Holsztyn (mieszany duńsko-słowiański, sporny z Obodrzycami), Norwegia, **Orkady i Szetlandy** (wykupione od Szkocji), Islandia, Wyspy Owcze.
 - **Dlaczego jest tak silna**: kontroluje obie strony Sundu i pobiera cło od bogatego handlu słowiańskiej Hanzy.
 - Norwegia zostaje przy Danii po 1814 roku, bo Szwecja jest za słaba, żeby ją dostać jako rekompensatę. Norweski romantyzm narodowy jest skierowany przeciw Kopenhadze.
 - **Kolonie**:
@@ -16,8 +16,8 @@
 
 ## Szwecja
 - **Terytorium**: rdzeń szwedzki bez Skanii, zachodnia Finlandia (z Turku).
-- Gustaw Waza oddziela się od unii kalmarskiej przy pomocy słowiańskiej Lubeki. Nie ma szwedzkiego imperium bałtyckiego, bo Pomorze jest lechickie, a Estonia i Inflanty nowogrodzkie.
-- To średnie państwo wciśnięte między Danię a Nowogród, które szuka sojuszu z Lechią.
+- Gustaw Waza oddziela się od unii kalmarskiej przy pomocy słowiańskiej Lubeki. Nie ma szwedzkiego imperium bałtyckiego, bo Pomorze jest niezależnym państwem Gryfitów, a Estonia i Inflanty nowogrodzkie.
+- To średnie państwo wciśnięte między Danię a Nowogród, które szuka sojuszu z Pomorzem i Prusami.
 - **Reformacja** w wersji morawskiej, bo Luter nie ma Wittenbergi, która w tym świecie leży na ziemiach słowiańskich.
 
 ## Finlandia
@@ -26,4 +26,4 @@
 - Dwa fińskie ruchy narodowe.
 
 ## Bałtyk w 1836 roku
-Czterech dużych graczy: Dania-Norwegia (cieśniny), Szwecja, Nowogród, Rzeczpospolita Lechicka z Litwą-Rusią. Niemcy nie mają dostępu do Bałtyku poza Kilonią.
+Duzi gracze: Dania-Norwegia (cieśniny), Szwecja, Nowogród, Litwa-Ruś. Do tego mniejsze państwa słowiańskiej Hanzy: Obodrzyce, Wieletia, Pomorze i Prusy. Niemcy nie mają dostępu do Bałtyku poza Kilonią.
