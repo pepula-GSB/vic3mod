@@ -26,6 +26,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - 5–8% Anglosasi na pograniczu,
   - reszta: Hiszpanie, Kanaryjczycy, Irlandczycy, ludy tubylcze (Choctaw, Caddo, Osage, Quapaw).
 - **Partie**: plantatorska (delta, Kościół, niewolnictwo) kontra farmerska (pogranicze, Niemcy, bonapartyści, rozszerzenie prawa wyborczego).
+- **Mechaniki**: zob. [design/luizjana.md](../design/luizjana.md).
 - **Problemy**: ryzyko powstania niewolników, anglosaska enklawa, która może się odłączyć („Teksas w odwrotną stronę”), Kraj Illinois, Teksas, Floryda Zachodnia.
 
 ## Dominium Nowej Anglii (Anglia)

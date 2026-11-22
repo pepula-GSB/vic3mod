@@ -37,6 +37,7 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [lore/15_papiestwo.md](lore/15_papiestwo.md) | Papiestwo, Państwo Kościelne i mapa wyznań |
 | [lore/99_otwarte_kwestie.md](lore/99_otwarte_kwestie.md) | Rzeczy do dopracowania |
 | [design/lancuch_slask.md](design/lancuch_slask.md) | Projekt łańcucha wydarzeń: Bezkrólewie śląskie |
+| [design/luizjana.md](design/luizjana.md) | Projekt mechanik: Republika Luizjany |
 | [maps/europa_1836.html](maps/europa_1836.html) | Interaktywna, schematyczna mapa Europy w 1836 roku (otwórz w przeglądarce) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
