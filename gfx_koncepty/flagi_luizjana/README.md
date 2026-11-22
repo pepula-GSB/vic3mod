@@ -14,7 +14,7 @@ Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i 
 
 **Wieniec laurowy** (flagi 3, 4 i 7, przebarwiany na zielono, złoto i biało): [wieniec_laurowy.png](../emblematy/wieniec_laurowy.png), cienki wieniec ze skrzyżowanymi łodygami od autora moda (z craftstarters.com, sprawdzić warunki licencji; źródło małe, powiększone 8×).
 
-**Liść tytoniu** (flaga 8, złoty kontur na czerwieni): [lisc_tytoniu.png](../emblematy/lisc_tytoniu.png), od autora moda.
+**Liść tytoniu** (flaga 8, złoty liść, żyłki wycięte w kolorze tła, ogonek cienkim złotym konturem): [lisc_tytoniu.png](../emblematy/lisc_tytoniu.png), od autora moda.
 
 Kotwica z młotem to na razie prosta sylwetka wektorowe do podmiany na ilustracje w tym samym stylu.
 
