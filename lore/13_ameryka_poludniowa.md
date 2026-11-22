@@ -10,7 +10,14 @@ Napoleon i tak wchodzi do Hiszpanii (1808) i Portugalii, więc **niepodległoś�
 ## Państwa w 1836 roku
 
 ### Północ
-- **Wenezuela, Nowa Granada (z Panamą) i Ekwador**: po rozpadzie Wielkiej Kolumbii (1830–1831), jak realnie.
+- **Nowa Granada, Panama i Quito: hiszpańskie.** Ostatni kontynentalny bastion Hiszpanii:
+  - Realnie Bolívar wygrał pod Boyacá (1819) w dużej mierze dzięki Legionowi Brytyjskiemu (kilka tysięcy ochotników z Wielkiej Brytanii i Irlandii) i pożyczkom z Londynu. Tu tego wsparcia nie ma, więc kampania się nie udaje.
+  - Hiszpania już raz odzyskała Nową Granadę (wyprawa Morilla w latach 1815–1816). Tu ją utrzymuje, oparta na rojalistycznym Pasto, Popayán i Quito oraz na bazie na Kubie.
+  - **Wicekrólestwo Nowej Granady** w 1836 roku: Bogota, Kartagena, Panama i Quito.
+  - **Problemy**: podziemny ruch niepodległościowy w Bogocie i Kartagenie, presja Wenezueli od wschodu i Peru od południa, koszt utrzymania garnizonów.
+- **Wenezuela**: niepodległa pod Páezem. Bolívar miał wsparcie Haiti (Pétion) i llaneros, ale nie zdołał wyzwolić Nowej Granady. Nie ma Wielkiej Kolumbii.
+- **Guayaquil**: niepodległy port, który przyłączył się do Peru (realny spór z lat 20. XIX wieku). Ekwador jako państwo nie istnieje.
+- **Peru**: wyzwolone przez San Martína z pomocą Chile, a kampanię dokończył Sucre z wenezuelskim korpusem przerzuconym morzem (Ayacucho, 1824).
 - **Gujany**: wielka **Gujana Holenderska** (Surinam, Demerara, Berbice, Essequibo) i Gujana Francuska. Brytyjskiej nie ma. Spór Wenezueli z Holendrami o Essequibo zamiast z Brytyjczykami.
 
 ### Andy
@@ -34,10 +41,11 @@ Napoleon i tak wchodzi do Hiszpanii (1808) i Portugalii, więc **niepodległoś�
 ## Interesy zewnętrzne
 - **Niderlandy i Burgundia**: wierzyciele republik, faktorie handlowe, rywalizacja o rynki.
 - **Francja**: monarchia lipcowa szuka wpływów, możliwe interwencje (realnie blokowała La Platę w latach 1838–1840).
-- **Hiszpania**: Kuba i Portoryko jako baza ewentualnej rekonkwisty.
+- **Hiszpania**: Nowa Granada z Panamą i Quito, a do tego Kuba i Portoryko jako zaplecze. Nadzieja na dalszą rekonkwistę albo przynajmniej utrzymanie przesmyku.
 - **Dania**: abolicjonistyczne naciski na Brazylię.
 
 ## Journal entries
+- „Ostatni wicekról”: Hiszpania utrzymuje Nową Granadę kontra powstanie w Bogocie, Wenezuela i Peru.
 - „Wojna o Konfederację”: Chile i Argentyna kontra Peru-Boliwia.
 - „Banda Oriental”: niepodległość Urugwaju kontra Brazylia i Argentyna.
 - „Długi republik”: zależność od bankierów z Amsterdamu i Antwerpii.

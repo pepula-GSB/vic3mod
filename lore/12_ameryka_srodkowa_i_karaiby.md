@@ -61,8 +61,8 @@ Mozaika wielu flag. Przyczyny:
 - Jukatan z tendencjami separatystycznymi (realnie oderwał się w 1841 roku).
 
 ### Przesmyk
-- **Panama** jest częścią Republiki Nowej Granady (od 1831 roku), jak realnie.
-- Nie ma USA, więc później nie ma amerykańskiego kanału. O przyszły kanał mogą walczyć Burgundia, Niderlandy, Francja i Anglia.
+- **Panama** jest **hiszpańska**, jako część Wicekrólestwa Nowej Granady (zob. Ameryka Południowa).
+- Nie ma USA, więc później nie ma amerykańskiego kanału. Przesmyk ma Hiszpania, ale może nie mieć siły ani pieniędzy na budowę. O koncesję mogą walczyć Burgundia, Niderlandy i Francja, a alternatywą jest kanał przez Nikaraguę.
 
 ## Interesy sąsiadów
 - **Luizjana** patrzy na **Kubę** jako na naturalne rozszerzenie państwa plantatorów (realnie tak patrzyli Amerykanie z Południa).
