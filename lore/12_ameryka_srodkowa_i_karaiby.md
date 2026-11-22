@@ -26,7 +26,7 @@ Mozaika wielu flag. Przyczyny:
 ### Anglia
 - **Jamajka** (zdobyta za Cromwella w 1655 roku, przed punktem rozejścia z realną historią Anglii), **Barbados**, Antigua, St. Kitts, Nevis i Montserrat, Bahamy, Bermudy.
 - Nie ma Trynidadu, Saint Lucii, Tobago, Grenady ani Dominiki.
-- Abolicja jest niepewna (kryzys abolicyjny, zob. Wyspy Brytyjskie).
+- Niewolnictwo nie jest zniesione. Debata abolicyjna w Londynie trwa na start gry (zob. Wyspy Brytyjskie).
 
 ### Niderlandy
 - **Curaçao, Aruba, Bonaire, Sint Eustatius, Saba, Sint Maarten**.

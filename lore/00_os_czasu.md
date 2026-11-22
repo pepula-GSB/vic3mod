@@ -50,4 +50,4 @@
 - Królestwo Niderlandów pod Oranią, Królestwo Burgundii pod Habsburgami.
 - 1830: rewolucja lipcowa we Francji (Ludwik Filip), Algieria francuska.
 - 1829: Meksyk znosi niewolnictwo, co budzi konflikt z luizjańskimi plantatorami w Teksasie.
-- Anglia stoi przed kryzysem abolicyjnym, a Dominium Wirginii grozi secesją.
+- W Anglii trwa debata abolicyjna. Niewolnictwa nie zniesiono, a Dominium Wirginii obserwuje parlament z niepokojem.

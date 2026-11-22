@@ -8,7 +8,12 @@ Założenie: Anglia **nie jest hegemonem**, tylko jedną z kilku potęg morskich
 3. Stuartowie zostają na tronie. Anglia nie przejmuje holenderskiego modelu finansowego (nie ma Banku Anglii z 1694 roku), a konflikty króla z parlamentem trwają.
 4. Nie ma sukcesji hanowerskiej ani unii z Hanowerem.
 5. Dominium Nowej Anglii (Jakub II, 1686) nie zostaje rozwiązane.
-6. Królewska Kompania Afrykańska (Stuartowie, 1660) zachowuje monopol. Abolicja w Anglii jest **niepewna**.
+6. Królewska Kompania Afrykańska (Stuartowie, 1660) zachowuje monopol. **W 1836 roku niewolnictwo nie jest zniesione.** Realnej ustawy z 1833 roku nie było, a abolicja jest tematem debaty na start gry.
+
+## Debata abolicyjna (journal entry na start gry)
+- **Za**: kwakrzy, ewangelicy, miasta przemysłowe, przykład Danii i rosnący ruch w parlamencie.
+- **Przeciw**: Królewska Kompania Afrykańska, plantatorzy z Jamajki i Barbadosu, Dominium Wirginii i część dworu Stuartów.
+- **Możliwe skutki**: zniesienie handlu niewolnikami, stopniowa emancypacja z odszkodowaniami albo odrzucenie ustawy. Każde zniesienie niewolnictwa uruchamia w Wirginii kryzys secesyjny.
 
 ## Średniowiecze i reformacja
 - Wojna stuletnia jak realnie (Burgundia jest pod Walezjuszami aż do 1477 roku).

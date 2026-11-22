@@ -9,12 +9,12 @@
 - **Afryka uzupełniająco**: Róg Afryki, Sudan, Sahara, Madagaskar.
 
 ## Decyzje do podjęcia
-- **Abolicja w Anglii**: czy była w 1833 roku? To decyduje, czy Dominium Wirginii startuje w kryzysie.
 - **Nazwa kolonii duńskiej w Afryce**: Frederiksnopel czy Frihedskysten?
 - **Nazwa dynastii śląskiej** z Wrocławia.
 
 ## Ustalone
 - **Chanat Krymski**: wasal osmański.
+- **Abolicja w Anglii**: w 1836 roku jeszcze nie ma. To temat debaty na start gry.
 - **Anglia i Szkocja**: tylko unia personalna, bez wspólnego parlamentu.
 - **Ryga**: podzielona Dźwiną. Prawy brzeg ze starym miastem jest nowogrodzki, lewy brzeg z twierdzą u ujścia litewski.
 - **Głagolica**: Morawy używają łaciny, a Chorwacja-Panonia może zachować głagolicę jako pismo narodowe lub liturgiczne.
