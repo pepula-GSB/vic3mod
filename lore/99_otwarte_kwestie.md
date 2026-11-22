@@ -1,14 +1,27 @@
 # Otwarte kwestie
 
-Rzeczy jeszcze nieustalone albo do sprawdzenia.
+## Regiony jeszcze nieopisane
+- **Indie**: największa dziura. Mamy tylko fragmenty: angielski Bengal i Bombaj, francuski Koromandel, holenderski Cejlon, faktorie duńskie i burgundzkie, omańskie Diu, Karaczi i Arakkal, silni Marathowie. Brakuje Mogołów, Sikhów, Hajdarabadu i Majsuru.
+- **Persja, Afganistan i Azja Środkowa**: Kadżarowie, Durrani, Chiwa, Buchara, Kokand. Rywalizacja Moskwy, Osmanów i Persji.
+- **Bliski Wschód**: Egipt (słabszy Muhammad Ali), Saudowie i Wahabici, wewnętrzna struktura imperium osmańskiego.
+- **Hiszpania i Portugalia** jako kraje (dotąd tylko kolonie): wojna karlistowska (realnie 1833–1840), liberalna Portugalia po wojnie domowej, hiszpańska gałąź Habsburgów do 1700 roku, a potem Burbonowie.
+- **Australia i Oceania**: holenderska Nowa Holandia, Nowa Zelandia, Hawaje (faktoria nowogrodzka?), Tahiti.
+- **Afryka uzupełniająco**: Róg Afryki, Sudan, Sahara, Madagaskar.
 
-- **Azja**: Indie (podział na Bengal angielski, Koromandel francuski, Cejlon holenderski, faktorie duńskie i burgundzkie, silni Marathowie), Persja, Chiny, Japonia, Azja Południowo-Wschodnia. Do opisania.
-- **Australia i Oceania**: pierwsze holenderskie osady w Nowej Holandii, reszta niczyja. Do opisania.
-- **Ameryka Łacińska**: przyjęto przebieg jak realny. Sprawdzić wpływ Luizjany i Nowej Francji.
+## Decyzje do podjęcia
 - **Abolicja w Anglii**: czy była w 1833 roku? To decyduje, czy Dominium Wirginii startuje w kryzysie.
 - **Status Rygi**: wolne miasto Hanzy, nowogrodzka czy litewska?
-- **Chanat Krymski**: ustalono, że jest wasalem osmańskim.
 - **Unia Szkocji i Anglii**: unia personalna czy jeden parlament po późniejszym kryzysie?
 - **Nazwa kolonii duńskiej w Afryce**: Frederiksnopel czy Frihedskysten?
-- **Głagolica**: przyjęto, że Morawy używają łaciny, a Chorwacja-Panonia może zachować głagolicę jako pismo narodowe lub liturgiczne.
-- **Mechaniki do zaprojektowania** (journal entries): Kwestia Słowiańska, Kwestia Bałtycka, kwestia grecko-bułgarska, kryzys abolicyjny, „Zbieranie Rusi” (Moskwa kontra Litwa-Ruś), spór oregoński, cło sundzkie.
+- **Nazwa dynastii śląskiej** z Wrocławia.
+
+## Ustalone
+- **Chanat Krymski**: wasal osmański.
+- **Głagolica**: Morawy używają łaciny, a Chorwacja-Panonia może zachować głagolicę jako pismo narodowe lub liturgiczne.
+- **Łużyce i Miśnia**: osobne margrabstwa zależne od Moraw.
+
+## Praca techniczna nad modem
+- Przełożenie granic na stany i prowincje Vic3 (obecna mapa jest schematyczna).
+- Lista kultur (np. połabska, pomorska, kaszubska, pruska, śląska, morawska, sławońska, białoruska, nowogrodzka) i religii (kościół morawski, unici haliccy, ibadyci).
+- Projekt journal entries: Kwestia Słowiańska, zjednoczenie lechickie, korona morawska, Śląska droga, Marchia Łaby, ujście Łaby, Kwestia Bałtycka, kwestia grecko-bułgarska, Ułus czy państwo, Wołga, kryzys abolicyjny, spór oregoński, cło sundzkie, Imperium Oceanu Indyjskiego, Koniec sakoku, Ostatni wicekról i inne.
+- Mapy dla pozostałych kontynentów.
