@@ -34,8 +34,8 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Rywale**: Szwecja (Finlandia), Moskwa (granica na Uralu i Irtyszu, futra, przejście na Syberię), Chiny Qing (Amur).
 
 ## Królestwo Halicko-Wołyńskie
-- **Terytorium**: Ruś Czerwona, Wołyń, Podole, Mołdawia (dostęp do Morza Czarnego przez Dniestr).
-- **Stolice**: Lwów, Halicz, Włodzimierz.
+- **Terytorium**: Ruś Czerwona ze Lwowem (bez Przemyśla, Sanoka i Chełma, które są polskie), wschodni Wołyń (Łuck, Równe), Podole, Mołdawia (dostęp do Morza Czarnego przez Dniestr).
+- **Stolice**: Lwów, Halicz, Łuck.
 - **Religia**: kościół greckokatolicki (unia już w XIII wieku, korona z Rzymu dla Daniela).
 - **Kultury**: Rusini haliccy, Mołdawianie i Rumuni.
 - **Pozycja**: pod parasolem Moraw. W stosunkach z Litwą-Rusią raczej rywal.

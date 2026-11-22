@@ -5,11 +5,18 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 
 ## Państwa nadbałtyckie i połabskie
 
-### Królestwo Polskie: kadłubek
+### Królestwo Polskie
 - **Dynastia**: Piastowie, główna linia wielkopolska.
 - **Stolica**: Poznań, z Gnieznem jako miejscem koronacji i siedzibą arcybiskupa.
-- **Terytorium**: Wielkopolska, Kujawy, ziemie łęczycka i sieradzka, ziemia chełmińska (sporna z Prusami).
-- **Pozycja**: małe, śródlądowe państwo otoczone przez silniejszych. Nie ma morza (Gdańsk jest pomorski), Krakowa (morawski), Śląska ani Mazowsza. Tytuł „Królestwa Polskiego” i korona z Gniezna to jego główny kapitał, większy niż realna siła.
+- **Terytorium**: rogal wokół Mazowsza:
+  - Wielkopolska z ziemią lubuską (Zielona Góra, Międzyrzecz),
+  - południowy klin Pomorza (Krajna, Złotów, Człuchów, Chojnice),
+  - Kujawy i ziemia chełmińska (Toruń, Chełmno; sporna z Prusami),
+  - ziemie łęczycka, sieradzka i wieluńska (Łódź, Kalisz, Częstochowa),
+  - ziemia sandomierska z Radomiem,
+  - Lubelszczyzna i Zamość, Rzeszów, Przemyśl, Sanok,
+  - zachodni Wołyń (Włodzimierz, Kowel) i Chełm.
+- **Pozycja**: rozciągnięte, śródlądowe państwo w kształcie rogala, z Mazowszem w środku. Nie ma morza (Gdańsk jest pomorski), Krakowa (morawski), Śląska ani Warszawy. Długie, trudne do obrony granice z każdym sąsiadem. Tytuł „Królestwa Polskiego” i korona z Gniezna dają mu prestiż.
 - **Ustrój**: dziedziczna monarchia z silnym sejmem szlacheckim.
 - **Społeczeństwo**: szlachta, chłopi pańszczyźniani, duża społeczność żydowska w miastach (przywileje od statutu kaliskiego z 1264 roku), protestanci pod wpływem morawskim (bracia czescy w Lesznie).
 - **Gospodarka**: zboże z folwarków, sukno wielkopolskie, sól kujawska, rodzące się włókiennictwo w Łodzi. **Zboże płynie Wisłą do pomorskiego Gdańska**, więc Polska płaci Gryfitom cła od całego eksportu.
@@ -25,11 +32,12 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 ### Księstwo Mazowieckie
 - **Dynastia**: Piastowie mazowieccy (realnie rządzili Mazowszem do 1526 roku, tu trwają).
 - **Stolica**: Warszawa (realnie książęca stolica od 1413 roku), dawniej Płock.
-- **Terytorium**: Mazowsze (Płock, Warszawa, Czersk, Ciechanów, Rawa), ziemia dobrzyńska, Lubelszczyzna jako ziemia pograniczna.
+- **Terytorium**: Mazowsze (Płock, Warszawa, Czersk, Ciechanów, Rawa), ziemia dobrzyńska. Państwo jest otoczone polskim rogalem od zachodu, południa i wschodu.
 - **Pozycja**: osobne państwo od średniowiecznego rozbicia dzielnicowego. Nigdy nie zostało wcielone z powrotem do Polski.
 - **Tożsamość**: Mazurzy (Mazowszanie) mają silną odrębność. Uważają się za Polaków, ale nie za poddanych Poznania.
 - **Gospodarka**: zboże, drewno, spław Wisłą i Bugiem. Warszawa rośnie jako ośrodek handlu między Polską, Litwą-Rusią i Prusami.
 - **Konflikty**:
+  - Polska: otacza Mazowsze z trzech stron, co rodzi stałą presję i podejrzliwość,
   - Prusy: mazowieccy osadnicy na Mazurach i spór o Galindię,
   - Litwa-Ruś: Podlasie,
   - Polska: kto jest „prawdziwą Polską”,
@@ -40,7 +48,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Dynastia**: Gryfici, którzy tu nie wymarli w 1637 roku.
 - **Terytorium**: Pomorze Zachodnie i Gdańskie: Szczecin, Wolin, Kołobrzeg, Słupsk, Gdańsk.
 - **Kultury**: Pomorzanie, Kaszubi.
-- **Gospodarka**: wielkie porty słowiańskiej Hanzy.
+- **Gospodarka**: wielkie porty słowiańskiej Hanzy. Południowy klin (Krajna, Chojnice) należy do Polski.
 - **Konflikty**: Polska (Gdańsk, dostęp do morza), Dania (wybrzeże, cła), Wieletia (granica na Odrze).
 
 ### Księstwo Pruskie
@@ -68,7 +76,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 
 ## Królestwo Morawskie
 - **Dynastia**: Mojmirowice.
-- **Terytorium bezpośrednie**: Morawy, Śląsk Opawski i Cieszyński (z Ostrawą, Cieszynem i Bielskiem, granica ze Śląskiem w okolicach Pszczyny), Słowacja, Małopolska z Krakowem, północna Panonia.
+- **Terytorium bezpośrednie**: Morawy, Śląsk Opawski i Cieszyński (z Ostrawą, Cieszynem i Bielskiem, granica ze Śląskiem w okolicach Pszczyny), Słowacja, zachodnia Małopolska (Kraków, Tarnów, Nowy Sącz, Wieliczka i Bochnia z solą), północna Panonia.
 - **Stolica**: Welehrad lub Brno.
 - **Religia**: protestancki kościół narodowy (husycko-morawski), z tradycją liturgii Cyryla i Metodego.
 - **Gospodarka**: przemysłowe państwo z węglem zagłębia ostrawsko-karwińskiego. Większy węgiel górnośląski i saski leży u wasali (Śląsk, Miśnia), co jest źródłem napięć.
