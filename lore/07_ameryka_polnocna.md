@@ -4,6 +4,12 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 
 ## Królestwo Nowej Francji
 - **Terytorium**: Quebec, Akadia (bez wypędzenia Akadyjczyków w 1755 roku), Wielkie Jeziora, dolina Ohio. Szlaki traperskie przez prerie aż do rzeki Columbia, ale bez posiadania tych ziem (zob. Spór oregoński).
+- **Krainy**:
+  - **Quebec i dolina Świętego Wawrzyńca**: rdzeń, z Quebekiem, Montrealem i Trzema Rzekami.
+  - **Akadia**: Nowa Szkocja i Nowy Brunszwik bez wypędzenia Akadyjczyków.
+  - **Górny Kraj** (*Pays d'en Haut*, dzisiejsze południowe Ontario): Fort Frontenac (realnie Kingston), **Fort Rouillé** (realnie Toronto, francuski fort z 1750 roku), Niagara, Détroit (realnie Detroit, założone przez Francuzów w 1701 roku), Outaouais (realnie Ottawa). Bez rewolucji amerykańskiej nie ma tu lojalistów, którzy realnie zasiedlili Górną Kanadę. Kraj zasiedlają francuscy Kanadyjczycy, a później katoliccy imigranci (Irlandczycy, Bawarczycy, Bretończycy). To najszybciej rosnąca część królestwa i jego spichlerz.
+  - **Pogranicze z Novą Danią** na dziale wodnym, czyli rywalizacja o każdą rzekę od czasów wypraw Iberville'a (realnie w latach 1686–1697 zdobywał faktorie angielskie nad Zatoką Hudsona).
+  - **Ludy tubylcze**: Odżibwejowie i Anishinaabe nad jeziorami, sojusznicy Francuzów od XVII wieku.
 - **Powstanie**: katolicki Quebec odrzuca rewolucję (sekularyzacja, egzekucja króla w 1793 roku). Burbonowie na emigracji (np. hrabia d'Artois) uciekają do Quebecu, jak dwór portugalski do Brazylii. Po 1815 roku linia z Quebecu nie wraca pod Paryż, jak Brazylia w 1822 roku.
 - **Ustrój**: konserwatywna monarchia katolicka, wroga wobec Paryża Ludwika Filipa.
 - **Ludność**: 1–2 mln (Francja inwestowała w kolonie).
@@ -61,9 +67,16 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **Szlak Churchill**: przez przenoskę Methye (realnie La Loche, łącząca dorzecze Zatoki Hudsona z Athabaską) prowadzi droga traperów do bogatych terenów futrzanych na północy. To najgorętszy punkt sporu z Nową Francją, bo kto trzyma przenoskę, ten kontroluje dostęp do Athabaski.
   - **Południowe prerie**: Kri z prerii i Assiniboini polują na bizony. Duńczycy kupują od nich pemmikan (suszone mięso bizonie), czyli paliwo całego systemu futrzarskiego.
   - **Metysi** w Île-à-la-Crosse i nad Saskatchewan: francuskojęzyczni i katoliccy, w duńskiej kompanii. Nowa Francja może grać na ich sympatii.
+- **Stolica kompanii: Munkshavn** u ujścia rzeki Churchill, w miejscu, gdzie Jens Munk przezimował w 1619 roku i od którego wszystko się zaczęło. Drugi port to **Nelsonsfort** u ujścia rzeki Nelson (realnie York Factory), główna brama towarów do interioru.
+- **Manitoba**:
+  - **Czerwona Rzeka** (dolina Red River, dzisiejszy Winnipeg) to serce prerii i **ojczyzna Metysów**, którzy nazywają siebie Bois-Brûlés. Realnie w 1812 roku lord Selkirk założył tu szkocką kolonię rolniczą, a w 1816 roku Metysi wspierani przez kompanię z Montrealu starli się z ludźmi Kompanii Zatoki Hudsona (bitwa pod Seven Oaks).
+  - Tu Dania zakłada **kolonię rolniczą nad Czerwoną Rzeką** z Norwegami i Orkadyjczykami, z faktorią **Fort Margrethe** (realnie Fort Garry). Metysi uważają tę ziemię za swoją, a Nowa Francja podsyca ich opór. Seven Oaks się powtarza, tym razem z flagą duńską.
+  - Jezioro Winnipeg i rzeka Nelson łączą prerie z Zatoką Hudsona.
+- **Północne Ontario**: rzeki Albany i Moose spływają do Zatoki Hudsona, więc należą do duńskiej kompanii (faktoria **Moose** nad zatoką Jamesa). Granicą z Nową Francją jest **dział wodny** między Wielkimi Jeziorami a Zatoką Hudsona.
 - **Ludność**: kilkuset Duńczyków, Norwegów i Szkotów z Orkadów w faktoriach (realnie Orkadyjczycy stanowili trzon pracowników Kompanii Zatoki Hudsona, a tu Orkady są duńskie), a do tego Metysi i Kri.
 - **Journal entries**:
   - **„Athabaska”**: spór z Nową Francją o północne szlaki futrzane i przenoskę Methye (porozumienie, podział albo wojna kompanii),
+  - **„Czerwona Rzeka”**: kolonia duńska kontra Metysi (bunt, autonomia, a w najdalszym wariancie niepodległe państwo metyskie na wzór realnego rządu tymczasowego Louisa Riela z 1869 roku),
   - **„Metysi z prerii”**: francuskojęzyczni i katoliccy Metysi w duńskiej kompanii, czyli lojalność, autonomia albo bunt z poparciem Quebecu,
   - **„Czarne Stopy”**: handel, sojusz albo podbój południowych prerii.
 
