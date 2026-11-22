@@ -8,7 +8,7 @@ Dwie przyczyny źródłowe: **brak bitwy nad Lechem** (słabsza monarchia niemie
 - „Saksonia” to dawne księstwo Sasów (Dolna Saksonia, Westfalia). Saksonii drezdeńskiej nie ma, bo Miśnia jest słowiańska i zależna od Moraw.
 - Reformacja przychodzi z Moraw (Turyngia, Frankonia, Szwabia, miasta nadreńskie).
 - **Nie ma Prus.** Nadrenia na lewym brzegu jest burgundzka.
-- **Stan w 1836 roku**: luźny związek bez hegemona. Główne państwa to **Królestwo Saskie** (północ, protestanckie) i **Bawaria** (południe, katolicka), a za nimi Wirtembergia, Badenia i Hesja. Zjednoczenie to otwarte pytanie: saskie (małoniemieckie, północne) czy bawarskie (z Austrią).
+- **Stan w 1836 roku**: luźny związek bez hegemona. Główne państwa to **Królestwo Saskie** (północ, protestanckie) i **Bawaria** (południe, katolicka), a za nimi Wirtembergia, Badenia i Hesja. Zjednoczenie to otwarte pytanie: saskie (północne, protestanckie) czy bawarskie (południowe, katolickie, z ziemiami alpejskimi).
 - Biedne, rozbite Niemcy są największym źródłem emigracji (głównie do Luizjany).
 
 ## Królestwo Saskie (państwo Sasów)
@@ -43,19 +43,20 @@ Trzy strony, a do tego miasto pośrodku:
 
 Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński Sund czy przez obodrzycki kanał.
 
-## Austria
-- Marchia przeciw Słowianom panońskim. Habsburgowie wygrywają z Morawami w 1278 roku tylko z trudem.
-- Nie ma unii z Czechami ani Węgrami, więc nie ma monarchii naddunajskiej. Austria to boczna linia i peryferia Habsburgów.
-- **W 1836 roku**: małe państwo alpejsko-adriatyckie (Wiedeń, Tyrol, Styria, Karyntia, a od 1815 roku Wenecja).
-- Granica z Morawami i Chorwacją-Panonią jest stale zagrożona.
+## Bawaria: wielka monarchia alpejska
+- **Austria nie istnieje.** W 1278 roku Habsburgowie przegrywają z Morawami, a kotlina wiedeńska staje się morawska. Ziemie alpejskie, dawna bawarska Marchia Wschodnia i karyntyjska, przechodzą do **Wittelsbachów**.
+- **Terytorium**: Bawaria, Górna Austria (Linz), Salzburg, Tyrol, Styria (Graz), Karyntia, a od 1815 roku **Wenecja** (wyjście na Adriatyk).
+- **Religia**: katolicka, kontrreformacyjna. Wspiera katolickie Mazowsze i Prusy, a Rzym ma w niej oparcie przeciw husyckim Morawom.
+- **Pozycja**: najsilniejsze państwo niemieckie i główny rywal Saksonii o przywództwo w Niemczech. Także główny rywal Moraw na południu: granica alpejska z Morawami w Lasku Wiedeńskim i z Chorwacją-Panonią w Karyntii i Styrii.
+- **Problemy**: Słoweńcy w Karyntii i Styrii (patrzą w stronę Zagrzebia), Włosi w Wenecji, odrębność Tyrolu, napięcie między Monachium a alpejskimi prowincjami.
 
 ## Szwajcaria
 - Związek przeciw Habsburgom, którzy są rozproszeni, więc Szwajcaria rośnie bardziej.
 - **W 1836 roku** obejmuje też Konstancję, Vorarlberg i część Szwabii nad Jeziorem Bodeńskim.
 
 ## Królestwo Burgundii
-- **1477**: Maksymilian i Maria Burgundzka. Habsburgowie mają słabą Austrię, więc zostają w Brukseli. Karol Śmiały pośmiertnie dostaje królewską koronę dla Burgundii.
-- **Karol (z Gandawy)**: Burgundia i korona cesarska. Hiszpania idzie do brata Ferdynanda.
+- **1477**: Maksymilian i Maria Burgundzka. Habsburgowie po utracie Austrii w 1278 roku zostali rodem z zachodu (Argowia, Alzacja, Bryzgowia), więc Burgundia jest ich szansą i przenoszą się do Brukseli. Karol Śmiały pośmiertnie dostaje królewską koronę dla Burgundii.
+- **Karol (z Gandawy)**: Burgundia i korona cesarska. Hiszpania idzie do brata Ferdynanda. Habsburgowie nie mają Austrii, którą stracili w 1278 roku.
 - **Terytorium**: Flandria, Brabancja, Walonia, Luksemburg, Lotaryngia, Alzacja, Franche-Comté, Dunkierka, lewy brzeg Renu (Kolonia, Akwizgran, Saara).
 - **Religia**: katolicka, kontrreformacyjna.
 - **Gospodarka**: pierwsze kontynentalne zagłębie przemysłowe (węgiel walonski, żelazo lotaryńskie, Saara). Wielkie mocarstwo od startu.
@@ -86,7 +87,7 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
 - Grikowie w Kalabrii i Salento: romejska irredenta Konstantynopola.
 - **W 1836 roku**:
   - **Piemont-Sardynia**: Piemont, Sabaudia, Nicea, Lombardia, Genua, Sardynia. Silny start do zjednoczenia.
-  - **Austria**: Wenecja.
+  - **Bawaria**: Wenecja.
   - **Toskania**: Habsburgowie burgundzcy.
   - **Parma i Modena**.
   - **Państwo Kościelne**.

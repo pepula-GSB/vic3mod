@@ -16,7 +16,7 @@
 - Niemieccy rycerze zakonni nie mają drogi na wschód: ląd blokuje Połabie, a morze słowiańska Lubeka (Liubice). Prusowie i Bałtowie przetrwają.
 - **1204–1241**: Iwan Asen II zostaje regentem Konstantynopola. Unia bułgarsko-bizantyjska daje początek **Cesarstwu Bułgarsko-Romejskiemu**.
 - **1241**: najazd mongolski na Morawy i Polskę, potem wycofanie się, jak realnie.
-- **1278**: Habsburgowie ledwo wygrywają z królem Moraw o Austrię, która zostaje marchią graniczną.
+- **1278**: bitwa na Morawskim Polu (Marchfeld) kończy się odwrotnie niż realnie: król Moraw pokonuje Rudolfa Habsburga. **Kotlina wiedeńska przechodzi do Moraw**, Habsburgowie wracają na zachód (Argowia, Alzacja), a **ziemie alpejskie przejmują Wittelsbachowie bawarscy** (Styria, Karyntia, Salzburg, a od 1342 roku Tyrol przez małżeństwo z Małgorzatą Maultasch, jak realnie). Austria jako państwo nie powstaje.
 
 ## 1300–1500
 - Litwa-Ruś przyjmuje prawosławie z Konstantynopola i zostaje w całości (nie ma unii z Polską ani rozpadu).

@@ -23,7 +23,7 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [lore/01_europa_srodkowa.md](lore/01_europa_srodkowa.md) | Morawy, Lechia, Połabie, Panonia, Chorwacja, Sławonia, Łużyce |
 | [lore/02_baltowie_i_rus.md](lore/02_baltowie_i_rus.md) | Prusowie, Litwa-Ruś, Nowogród, Halicz, Moskwa |
 | [lore/03_skandynawia.md](lore/03_skandynawia.md) | Dania-Norwegia, Szwecja, Finlandia |
-| [lore/04_europa_zachodnia.md](lore/04_europa_zachodnia.md) | Niemcy, Austria, Szwajcaria, Burgundia, Niderlandy, Francja, Włochy |
+| [lore/04_europa_zachodnia.md](lore/04_europa_zachodnia.md) | Niemcy, Bawaria, Szwajcaria, Burgundia, Niderlandy, Francja, Włochy |
 | [lore/05_balkany_i_anatolia.md](lore/05_balkany_i_anatolia.md) | Cesarstwo Bułgarsko-Romejskie, Serbia, Rumunia, Osmanowie |
 | [lore/06_wyspy_brytyjskie.md](lore/06_wyspy_brytyjskie.md) | Anglia, Szkocja, Irlandia |
 | [lore/07_ameryka_polnocna.md](lore/07_ameryka_polnocna.md) | Nowa Francja, Luizjana, dominia angielskie, Nowe Niderlandy, Nova Dania, Ameryka Nowogrodzka |

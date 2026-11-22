@@ -143,13 +143,13 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 
 ## Królestwo Morawskie
 - **Dynastia**: Mojmirowice.
-- **Terytorium bezpośrednie**: Morawy, Śląsk Opawski i Cieszyński (z Ostrawą, Cieszynem i Bielskiem, granica ze Śląskiem w okolicach Pszczyny), Słowacja, zachodnia Małopolska (Kraków, Tarnów, Nowy Sącz, Wieliczka i Bochnia z solą), północna Panonia.
+- **Terytorium bezpośrednie**: Morawy, Śląsk Opawski i Cieszyński (z Ostrawą, Cieszynem i Bielskiem, granica ze Śląskiem w okolicach Pszczyny), Słowacja, zachodnia Małopolska (Kraków, Tarnów, Nowy Sącz, Wieliczka i Bochnia z solą), północna Panonia, **kotlina wiedeńska z Wiedniem (Wídeň)**, zdobyta w 1278 roku po zwycięstwie na Morawskim Polu. Wiedeń jest największym miastem Moraw i ich portem na Dunaju. Mieszczaństwo jest mieszane, z niemiecką mniejszością od czasów bawarskiej kolonizacji.
 - **Stolica**: Welehrad lub Brno.
 - **Religia**: protestancki kościół narodowy (husycko-morawski), z tradycją liturgii Cyryla i Metodego.
 - **Gospodarka**: przemysłowe państwo z węglem zagłębia ostrawsko-karwińskiego. Większy węgiel górnośląski i saski leży u wasali (Śląsk, Miśnia), co jest źródłem napięć.
 - **Rola**: lider zachodniego panslawizmu i główna lądowa siła koalicji antynapoleońskiej. Największa potęga słowiańska na zachodzie.
 - **Sławończycy w północnej Panonii: mniejszość.** Po tysiącu lat pod Welehradem większość Słowian panońskich na północy uległa **morawizacji**: mówi po morawsku, chodzi do kościoła morawskiego i uważa się za Morawian. Sławońska tożsamość przetrwała tylko w katolickich enklawach na południu niziny, bliżej Chorwacji-Panonii. To mała, ale uparta mniejszość.
-- **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Sławończycy w Panonii. Lojalność państw zależnych. Spór z Polską o Kraków. Wieczna granica z Austrią.
+- **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Sławończycy w Panonii. Lojalność państw zależnych. Spór z Polską o Kraków. Granica z Bawarią w Lasku Wiedeńskim.
 
 ### Państwa zależne od Moraw
 
@@ -200,7 +200,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Linia praska**: Czechy otwarcie, a do tego Łużyce i Miśnia, które same chcą osłabić Welehrad.
 - **Morawy**: interweniują wojskiem jako zwierzchnik, „przywracając porządek”.
 - **Polska**: wojsko dla swojego kandydata. Ryzykuje wojnę z Morawami.
-- **Saksonia i Austria**: wspierają kogokolwiek, kto osłabia Morawy (pieniądze, broń, dyplomacja).
+- **Saksonia i Bawaria**: wspierają kogokolwiek, kto osłabia Morawy (pieniądze, broń, dyplomacja).
 
 **Mechanika w Vic3**: wojna domowa z interwencjami (dyplomatyczne gry o wsparcie stron). Wynik ustala, czy powstaje Republika Śląska, unia z Pragą, prowincja morawska albo polska strefa wpływów. Może też wywołać łańcuch kryzysów w całej koronie morawskiej, bo Czechy, Łużyce i Miśnia obserwują, co się da ugrać.
 
@@ -217,7 +217,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi dążeniami do autonomii. Journal entry: centralizacja kontra federalizacja korony morawskiej.
 
 ## Królestwo Chorwacko-Panońskie
-- **Terytorium**: Chorwacja, Dalmacja (spór z Wenecją i Austrią), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
+- **Terytorium**: Chorwacja, Dalmacja (spór z Bawarią, która ma Wenecję), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
 - **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski; ten sam lud mieszka też w morawskiej północnej Panonii i w zachodniej Dacji nad Cisą), Bośniacy, Serbowie, mniejszość niemiecka na zachodzie, Dalmatyńcy i Włosi w miastach wybrzeża.
 - Nigdy nie było pod Turkami.
 - **Religie**:
@@ -230,14 +230,14 @@ W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi d�
 ### Grożący rozpad: korona chorwacka (journal entry)
 - **Bośniacy**: żądają wolności wyznania dla Kościoła bośniackiego i odnowienia Królestwa Bośni. Mają poparcie Serbii (wróg Zagrzebia) i ewentualnie Konstantynopola (osłabienie katolików). To najsilniejszy ruch secesyjny.
 - **Serbowie**: Srem i ziemie nad Dunajem patrzą w stronę Belgradu. Serbia uważa ich za swoich i ma tam irredentę.
-- **Słoweńcy**: żądają własnego języka w urzędach i autonomii. Patrzą w stronę Austrii albo Moraw jako protektorów.
+- **Słoweńcy**: żądają własnego języka w urzędach i autonomii. W Karyntii i Styrii po stronie bawarskiej mieszkają ich rodacy. Słoweńcy w koronie mogą szukać protektora w Morawach.
 - **Sławończycy**: rdzeń programu „iliryjskiego”, ale także odrębna tożsamość. Mogą pójść za Zagrzebiem albo żądać własnej autonomii.
-- **Dalmacja**: miasta wybrzeża z kupcami włoskimi i dalmatyńskimi, kuszone przez Wenecję i Austrię.
+- **Dalmacja**: miasta wybrzeża z kupcami włoskimi i dalmatyńskimi, kuszone przez Bawarię i jej Wenecję.
 - **Możliwe drogi**:
   - **centralizacja i chorwatyzacja**: ryzyko powstań, zwłaszcza w Bośni,
   - **ruch iliryjski**: wspólny naród południowosłowiański katolików i krstjan (a może i prawosławnych) wokół Zagrzebia,
   - **federacja**: Chorwacja, Słowenia, Sławonia i Bośnia jako równe ziemie korony,
-  - **rozpad**: niepodległa Bośnia, Srem dla Serbii, Słowenia dla Austrii, a z Chorwacji zostaje rdzeń.
+  - **rozpad**: niepodległa Bośnia, Srem dla Serbii, Słowenia dla Bawarii albo Moraw, a z Chorwacji zostaje rdzeń.
 - **Powiązania**: Wiosna Ludów (ok. 1848) i Kwestia sławońska mogą odpalić ten kryzys równocześnie.
 
 ## Kwestie na start gry

@@ -5,7 +5,7 @@ Projekt łańcucha do journal entry „Bezkrólewie śląskie”. Opis jest na p
 ## Założenia
 - **Start**: 1836.1.1. Stary książę z wrocławskiej linii Przemyślidów żyje, ale nie ma syna.
 - **Śmierć księcia: ok. 1845.** Okno losowe od 1844.6 do 1846.6, żeby gracz nie znał dokładnej daty. Do tego czasu trwa **faza przygotowań** (ok. 9 lat), w której stronnictwa zbierają poparcie.
-- **Kraje biorące udział**: Śląsk (SIL), Morawy (MOR), Czechy (CZE), Polska (POL). Pozostali (Pomorze, Francja, Niderlandy, Burgundia, Saksonia, Austria, Łużyce, Miśnia) wchodzą dopiero w fazie wojny.
+- **Kraje biorące udział**: Śląsk (SIL), Morawy (MOR), Czechy (CZE), Polska (POL). Pozostali (Pomorze, Francja, Niderlandy, Burgundia, Saksonia, Bawaria, Łużyce, Miśnia) wchodzą dopiero w fazie wojny.
 
 ## Zmienne (na kraju SIL)
 | Zmienna | Znaczenie | Na start |
@@ -116,7 +116,7 @@ Posłowie wychodzą z sali. Każde stronnictwo ogłasza swojego władcę. **Star
 | Łużyce, Miśnia | cicha pomoc dla Pragi / lojalność wobec Welehradu |
 | Morawy | interwencja zbrojna („przywrócenie porządku”) / mediacja |
 | Polska | interwencja dla swojego kandydata / tylko protest |
-| Saksonia, Austria | broń i pieniądze dla przeciwników Moraw / neutralność |
+| Saksonia, Bawaria | broń i pieniądze dla przeciwników Moraw / neutralność |
 
 Interwencja odbywa się przez dyplomatyczną grę o poparcie stron wojny domowej.
 
