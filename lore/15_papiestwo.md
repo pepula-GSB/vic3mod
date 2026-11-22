@@ -45,11 +45,16 @@ Trzy wielkie wyznania i kilka mniejszych:
 - **Burgundia: Liège.** Realnie było niezależnym księstwem biskupim aż do 1795 roku. Bogate, przemysłowe miasto w kraju dawnych cesarzy.
 - **Francja: Awinion.** Siedziba papieży w latach 1309–1377 i papieska enklawa do 1791 roku. Najmocniejszy symbol, ale Francja Ludwika Filipa może nie chcieć oddać miasta.
 
-**Mechanika licytacji**:
-- Każde z mocarstw dostaje decyzję: **oddać miasto papieżowi** (utrata dochodów, terytorium i części kontroli) albo odmówić.
-- Papież wybiera spośród ofert: większe znaczenie, bezpieczeństwo i bliskość Rzymu zwiększają szansę.
-- **Zysk gospodarza**: duży prestiż, przywództwo świata katolickiego, poparcie katolików u siebie i za granicą, prawo do zwołania koalicji o wyzwolenie Rzymu.
-- **Koszt gospodarza**: utrata miasta, wrogość okupanta Rzymu, odpowiedzialność za ochronę papieża.
+**Kolejność**:
+1. **Najpierw Francja: wydarzenie „Papież u bram Awinionu”.** Po upadku papiestwa w Rzymie Francja jako pierwsza dostaje prośbę o przyjęcie papieża w Awinionie, mieście, które sama zabrała papiestwu w 1791 roku.
+   - **Zgoda**: Awinion staje się suwerennym państwem papieskim. Francja dostaje prestiż i przywództwo świata katolickiego, ale gniew antyklerykalnych liberałów i republikanów u siebie.
+   - **Odmowa**: Francja traci prestiż u katolików (dla nich to zdrada), ale zadowala liberałów. Papież zwraca się do pozostałych.
+2. **Jeśli Francja odmówi, rusza licytacja**: Hiszpania (Santiago de Compostela), Bawaria (Salzburg) i Burgundia (Liège) dostają wydarzenie z możliwością oddania miasta.
+   - Każde mocarstwo decyduje, czy oddaje miasto (utrata terytorium i dochodów).
+   - Papież wybiera spośród ofert: znaczenie, bezpieczeństwo i bliskość Rzymu zwiększają szansę.
+   - **Zysk gospodarza**: duży prestiż, przywództwo świata katolickiego, poparcie katolików u siebie i za granicą, prawo do zwołania koalicji o wyzwolenie Rzymu.
+   - **Koszt gospodarza**: utrata miasta, wrogość okupanta Rzymu, odpowiedzialność za ochronę papieża.
+   - Przegrani w licytacji mogą czuć urazę, co rodzi napięcia między katolickimi mocarstwami.
 - **Nie Płock**: Mazowsze i Prusy to katolicka wyspa odcięta od reszty katolików przez husycką Polskę i Pomorze. Papież nie miałby tam ani bezpieczeństwa, ani łączności ze światem katolickim.
 
 **Skutki**:
