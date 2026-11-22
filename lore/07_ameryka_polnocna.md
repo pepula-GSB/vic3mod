@@ -99,7 +99,15 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 - **Sąsiedzi chcący kawałka**: Luizjana (Teksas), Nowogród (Kalifornia), Nowa Francja (Oregon, Kalifornia), Hiszpania (rekonkwista).
 - **W grze**: wielkie terytorium, ale wszyscy chcą kawałek, trochę jak imperium osmańskie w realnej grze. Stabilizacja zrobi z Meksyku mocarstwo, ale jest bardzo trudna.
 - **Kaskada**: bunt w Kalifornii może obudzić Teksas, Jukatan i Rio Grande naraz (kryzys federalny, realnie po Siedmiu Ustawach z lat 1835–1836), a Meksyk może tłumić tylko jeden bunt naraz. Zob. [design/kalifornia.md](../design/kalifornia.md).
-- **Journal entries**: „Centraliści i federaliści”, „Wolna Kalifornia” (łańcuch), „Teksas”, „Jukatan”, „Komanczeria”, „Długi Meksyku”.
+- **Ziemie między Kalifornią a Teksasem w 1836 roku** (formalnie meksykańskie, w praktyce w większości poza kontrolą):
+  - **Nowy Meksyk** (Santa Fe, Taos, Albuquerque): ok. 60 tysięcy ludzi, hiszpańscy osadnicy i Indianie Pueblo. Handel szlakiem z Santa Fe do St. Louis, czyli do Luizjany i Nowej Francji. Realny bunt w 1837 roku (zob. kaskada).
+  - **Sonora i Chihuahua**: północne stany Meksyku z kopalniami srebra, nękane przez Apaczów.
+  - **Apaczeria**: góry i pustynie dzisiejszej Arizony i Nowego Meksyku, niezależni Apacze. Tucson to samotny meksykański garnizon.
+  - **Ziemie Nawahów**: niezależni pasterze między Nowym Meksykiem a Kolorado.
+  - **Wielka Kotlina** (dzisiejsze Nevada i Utah): Ute, Szoszoni i Pajuci, niczyja ziemia. **Nie ma mormonów**, bo nie ma USA. Przechodzą tędy tylko traperzy z Nowej Francji, Novej Danii i Nowogrodu.
+  - **Komanczeria** od wschodu: Komancze rządzą Wielkimi Równinami między Nowym Meksykiem a Teksasem.
+- **Nowy Santander** (północne stany: Coahuila, Nuevo León, Tamaulipas): możliwa republika w czasie kaskady (realnie Republika Rio Grande z 1840 roku).
+- **Journal entries**: „Centraliści i federaliści”, „Wolna Kalifornia” (łańcuch), „Teksas”, „Jukatan”, „Nowy Meksyk”, „Nowy Santander”, „Komanczeria”, „Apaczeria”, „Długi Meksyku”.
 
 ## Spór oregoński
 Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko widzem.
