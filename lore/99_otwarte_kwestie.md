@@ -9,7 +9,7 @@
 - **Afryka uzupełniająco**: Róg Afryki, Sudan, Sahara, Madagaskar.
 
 ## Decyzje do podjęcia
-- **Nazwa kolonii duńskiej w Afryce**: Frederiksnopel czy Frihedskysten?
+- **Nazwa kolonii duńskiej w Afryce**: stolica to Frederiksnopel. Nazwa całej kolonii jest otwarta (roboczo Frihedskysten).
 - **Nazwa dynastii śląskiej** z Wrocławia.
 
 ## Ustalone

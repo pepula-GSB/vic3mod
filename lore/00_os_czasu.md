@@ -41,7 +41,7 @@
 ## 1700–1815
 - Hiszpańska gałąź Habsburgów wymiera (1700). Hiszpania przypada Burbonom, Toskania (1737) bocznej linii Habsburgów burgundzkich, Mediolan Sabaudii.
 - Francja wygrywa wojnę kolonialną 1754–1763 i zachowuje Kanadę i Luizjanę. Kolonie angielskie zostają lojalne, bo mają francuskich i holenderskich sąsiadów.
-- Dania zakazuje handlu niewolnikami (1792/1803) i zakłada kolonię wolnych osadników Frederiksnopel na Wybrzeżu Pieprzowym.
+- Dania zakazuje handlu niewolnikami (1792/1803) i zakłada kolonię wolnych osadników ze stolicą we Frederiksnopel na Wybrzeżu Pieprzowym.
 - **1789–1793**: rewolucja francuska. Rojalistyczny Quebec odrywa się i przyjmuje Burbonów na emigracji. **1794**: zniesienie niewolnictwa skłania plantatorów Luizjany do secesji.
 - Wojny napoleońskie: Polska po stronie Francji, Morawy przeciw, a Pomorze i Obodrzyce lawirują między Danią a koalicją. Napoleon idzie na Litwę-Ruś.
 - **1815**: kongres odtwarza Burgundię i Niderlandy jako zapory, Nowa Francja zostaje niepodległa pod własną linią Burbonów, Dania zachowuje Norwegię.

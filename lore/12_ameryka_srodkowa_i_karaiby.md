@@ -34,7 +34,7 @@ Mozaika wielu flag. Przyczyny:
 
 ### Dania
 - **Duńskie Indie Zachodnie** (St. Thomas, St. John, St. Croix) plus kilka mniejszych wysp z Wysp Dziewiczych.
-- **Emancypacja stopniowa**, prowadzona od lat 1800–1810, bo stąd pochodzą osadnicy kolonii Frederiksnopel w Afryce. W 1836 roku Duńskie Indie Zachodnie to **jedyne wyspy z wolną pracą** w regionie, a zarazem magnes dla zbiegów i solą w oku sąsiadów.
+- **Emancypacja stopniowa**, prowadzona od lat 1800–1810, bo stąd pochodzą osadnicy duńskiej kolonii w Afryce (stolica Frederiksnopel). W 1836 roku Duńskie Indie Zachodnie to **jedyne wyspy z wolną pracą** w regionie, a zarazem magnes dla zbiegów i solą w oku sąsiadów.
 
 ### Litwa-Ruś
 - **Tobago** (realnie kurlandzkie w latach 1654–1659, potem zabrane). Tu Kurlandia jest częścią silnej Litwy-Rusi, która utrzymuje wyspę.
