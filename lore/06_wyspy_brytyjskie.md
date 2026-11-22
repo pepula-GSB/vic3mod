@@ -16,7 +16,8 @@ Założenie: Anglia **nie jest hegemonem**, tylko jedną z kilku potęg morskich
 - Wiklif inspiruje Husa, a silny ruch morawski wraca do Anglii i wzmacnia lollardów. Reformacja angielska jest bardziej oddolna i wcześniejsza niż decyzja Henryka VIII.
 
 ## Anglia i Szkocja
-- Unia personalna od 1603 roku. Unii z 1707 roku nie ma albo jest niepewna, a Szkocja ma własny parlament.
+- **Tylko unia personalna** od 1603 roku. Unii z 1707 roku nie ma, bo jej realnym powodem był spór o sukcesję po Stuartach, a tu Stuartowie zostają. Szkocja ma własny parlament w Edynburgu, własny Kościół (prezbiteriański), prawo, walutę i politykę handlową.
+- Napięcia: Szkoci chcą własnych kolonii i dostępu do angielskiego handlu, a Anglia trzyma monopol. Szkocja ma tradycyjne sojusze z Francją i Danią.
 - Szkocja ma dwóch sojuszników przeciw Anglii: Francję i Danię. Ma też irredentę na Orkadach i Szetlandach, które należą do Danii.
 - Wojny anglo-holenderskie kończą się remisem. Nowy Amsterdam zostaje holenderski.
 - Wojnę z Francją z lat 1754–1763 Anglia przegrywa, więc Kanada zostaje francuska.
