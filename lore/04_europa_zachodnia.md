@@ -130,3 +130,18 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
   - **„Prawa sycylijskie”**: przywrócenie parlamentu sycylijskiego, autonomia albo secesja Palermo (realnie Sycylia ogłosiła niepodległość w 1848 roku).
   - **„Romejska irredenta”**: Konstantynopol kontra Neapol o Kalabrię i Salento.
   - **„Kwestia włoska”**: Obojga Sycylii jako główna przeszkoda dla zjednoczenia pod Piemontem.
+
+### Kwestia włoska: dwie drogi Piemontu
+**1. Królestwo Włoch bez południa („Górne Włochy”)**
+- **Realne precedensy**: napoleońskie Królestwo Włoch (1805–1814) obejmowało tylko północ (Lombardię, Wenecję, Romanię), a plan z Plombières (Cavour i Napoleon III, 1858) zakładał Królestwo Górnych Włoch, osobne państwo środkowe i nietknięte Obojga Sycylii.
+- **Cel**: Lombardia (już piemoncka), Wenecja (od Bawarii), Parma i Modena, Toskania (od Habsburgów burgundzkich), Romania i Legacje papieskie (Bolonia, Ferrara, Rawenna). Rzym i Lacjum mogą zostać papieżowi.
+- **Przeciwnicy**: Bawaria, Burgundia, papież, a Francja nie chce silnego państwa za Alpami.
+- **Sojusz z Hiszpanią przetrwa**: Neapol zostaje Burbonom, więc Madryt może wspierać Piemont przeciw Bawarii i Burgundii.
+- **Wynik**: bogate, przemysłowe Włochy północne, czyli średnie mocarstwo i stały sojusznik Hiszpanii na Morzu Śródziemnym.
+
+**2. Pełne zjednoczenie**
+- Wymaga podboju Obojga Sycylii (może przez ruch w stylu wyprawy Garibaldiego, realnej z 1860 roku) i Rzymu.
+- **Zrywa sojusz z Hiszpanią**, bo Burbonowie neapolitańscy to krewni króla Hiszpanii.
+- Daje wielkie Włochy, ale z wrogami po obu stronach Morza Śródziemnego, a do tego z problemem zacofanego południa i Konstantynopolem, który dopomina się o Grików.
+
+**Wybór dla gracza**: stabilny sojusz i bogata północ albo pełne Włochy kosztem Hiszpanii. Możliwe jest też odłożenie decyzji: najpierw Górne Włochy, a południe później.
