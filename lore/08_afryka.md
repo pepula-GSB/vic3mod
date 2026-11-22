@@ -35,6 +35,6 @@ Wnętrze jak realnie. Zmiany wynikają z holenderskiego Przylądka, słabszej An
 
 ## Afryka Wschodnia
 - **Etiopia**: okres książąt, możliwe kontakty z Konstantynopolem.
-- **Zanzibar i wybrzeże**: omańskie.
+- **Zanzibar i wybrzeże Suahili**: część silnego Sułtanatu Omanu i Zanzibaru, od Benadiru po Kilwę, ze szlakami karawan do Wielkich Jezior. Zob. [09_ocean_indyjski.md](09_ocean_indyjski.md).
 - **Madagaskar**: Merina.
 - **Mozambik i Angola**: portugalskie.
