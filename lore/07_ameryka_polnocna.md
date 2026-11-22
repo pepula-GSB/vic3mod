@@ -49,8 +49,17 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 - Najsilniejszy ruch abolicjonistyczny w Ameryce.
 
 ## Nova Dania (Dania-Norwegia)
-- Zatoka Hudsona, Labrador, północny interior, Jukon.
-- Duńsko-norweska kompania futrzarska zamiast Kompanii Zatoki Hudsona.
+- **Zarząd**: duńsko-norweska kompania futrzarska zamiast Kompanii Zatoki Hudsona.
+- **Zasada przywileju**: jak realna Ziemia Ruperta, kompania ma prawo do **całego dorzecza Zatoki Hudsona**. Obejmuje to rzeki Saskatchewan, więc także prerie dzisiejszej Manitoby, Saskatchewan i **środkowej i południowej Alberty**.
+- **Terytorium**: Zatoka Hudsona, Labrador, prerie i lasy dorzecza Saskatchewan, Jukon i północny interior.
+- **Alberta**:
+  - **środek (dorzecze Saskatchewan Północnej)**: duńska. Główna faktoria to **Fort Frederik** nad Saskatchewan Północną (realnie Fort Edmonton, 1795), nazwany od króla.
+  - **północ (rzeki Athabaska i Peace, które spływają do Oceanu Arktycznego)**: sporna z **Nową Francją**. Realnie traperzy z Montrealu (Kompania Północno-Zachodnia) założyli tu Fort Chipewyan (1788) i do 1821 roku walczyli z Kompanią Zatoki Hudsona. Tu ta rywalizacja trwa, a do porozumienia jak realne z 1821 roku nie doszło.
+  - **południe**: w praktyce należy do **Konfederacji Czarnych Stóp** (Siksika, Kainai, Piikani), najsilniejszej potęgi północnych prerii. Duńczycy handlują z nią, ale jej nie rządzą.
+- **Ludność**: kilkuset Duńczyków, Norwegów i Szkotów z Orkadów w faktoriach (realnie Orkadyjczycy stanowili trzon pracowników Kompanii Zatoki Hudsona, a tu Orkady są duńskie), a do tego Metysi i Kri.
+- **Journal entries**:
+  - **„Athabaska”**: spór z Nową Francją o północne szlaki futrzane (porozumienie, podział albo wojna kompanii),
+  - **„Czarne Stopy”**: handel, sojusz albo podbój południowych prerii.
 
 ## Ameryka Nowogrodzka (Nowogród)
 - **Zarząd**: **Kompania Nowogrodzko-Amerykańska** (odpowiednik realnej Kompanii Rosyjsko-Amerykańskiej z 1799 roku), czyli prywatna kompania kupców nowogrodzkich z monopolem nadanym przez wiec. Pasuje do kupieckiej republiki lepiej niż carski urząd.
