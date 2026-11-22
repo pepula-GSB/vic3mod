@@ -29,5 +29,6 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [lore/07_ameryka_polnocna.md](lore/07_ameryka_polnocna.md) | Nowa Francja, Luizjana, dominia angielskie, Nowe Niderlandy, Nova Dania, Ameryka Nowogrodzka |
 | [lore/08_afryka.md](lore/08_afryka.md) | Afryka w 1836 roku |
 | [lore/99_otwarte_kwestie.md](lore/99_otwarte_kwestie.md) | Rzeczy do dopracowania |
+| [maps/europa_1836.html](maps/europa_1836.html) | Interaktywna, schematyczna mapa Europy w 1836 roku (otwórz w przeglądarce) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
