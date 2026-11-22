@@ -44,7 +44,7 @@ Trzy wielkie wyznania i kilka mniejszych:
 - **Monachium albo Salzburg (Bawaria)**: arcybiskupie miasto i najsilniejsza katolicka monarchia Związku Niemieckiego.
 - **Bruksela albo Liège (Burgundia)**: dawny dom cesarski.
 - **Toledo (Hiszpania)**: najbardziej katolicka monarchia z wielkim imperium.
-- **Płock (Mazowsze)**: najbardziej symboliczny wybór. Papież u boku prymasa na wygnaniu, na granicy husyckiego świata.
+- **Nie Płock**: Mazowsze i Prusy to katolicka wyspa odcięta od reszty katolików przez husycką Polskę i Pomorze. Papież nie miałby tam ani bezpieczeństwa, ani łączności ze światem katolickim.
 
 **Skutki**:
 - **Gospodarz** zyskuje prestiż i legitymację, staje się przywódcą świata katolickiego, ale zarazem celem wrogów papieża.
@@ -54,4 +54,4 @@ Trzy wielkie wyznania i kilka mniejszych:
 **Zakończenie**:
 - powrót do Rzymu po wyzwoleniu miasta,
 - konkordat z nową władzą (papież uznaje utratę ziem w zamian za gwarancje),
-- **trwała siedziba poza Rzymem**: jeśli wygnanie trwa długo, papiestwo może osiąść na stałe u gospodarza, czyli nowy Awinion.
+- **trwała siedziba poza Rzymem**: jeśli wygnanie trwa długo, papiestwo może osiąść na stałe u gospodarza, czyli nowy Awinion (np. w Monachium albo w Toledo).
