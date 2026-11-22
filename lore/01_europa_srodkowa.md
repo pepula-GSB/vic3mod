@@ -90,7 +90,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Terytorium**: Mazowsze (Płock, Warszawa, Czersk, Ciechanów, Rawa), ziemia dobrzyńska. Państwo jest otoczone polskim rogalem od zachodu, południa i wschodu.
 - **Pozycja**: osobne państwo od średniowiecznego rozbicia dzielnicowego. Wcielenie do Polski było blisko w XV wieku, ale przekreśliła je religia.
 - **Religia: Mazowsze jest katolickie** i jest twierdzą katolicyzmu na ziemiach polskich.
-  - Kiedy Poznań przeszedł na husytyzm, Piastowie mazowieccy zostali przy Rzymie. Przyjęli uciekającego **arcybiskupa gnieźnieńskiego, prymasa**, który od tamtej pory rezyduje w Warszawie albo Łowiczu (realnie dobra prymasowskie).
+  - Kiedy Poznań przeszedł na husytyzm, Piastowie mazowieccy zostali przy Rzymie. Przyjęli uciekającego **arcybiskupa gnieźnieńskiego, prymasa**, który od tamtej pory rezyduje w **Płocku**, dawnej stolicy Mazowsza i jednym z najstarszych biskupstw na ziemiach polskich. Katedra płocka z grobami książąt staje się katolickim odpowiednikiem Gniezna: tam mazowieccy Piastowie mogliby się koronować, gdyby sięgnęli po tytuł królewski.
   - Wojny husyckie na ziemiach polskich w XV i XVI wieku utrwaliły granicę. Od tego czasu Mazowsze uważa się za **„prawdziwą, katolicką Polskę”**, a Poznań za heretycką koronę.
   - Ma poparcie papieża, Francji (dopóki nie chodzi o politykę antymorawską), Burgundii i Bawarii.
 - **Tożsamość**: Mazurzy (Mazowszanie) mają silną odrębność. Uważają się za Polaków, ale nie za poddanych heretyckiego Poznania.
