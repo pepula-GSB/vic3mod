@@ -88,6 +88,18 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 - 15–20 tysięcy osadników. Większość terytorium to Komanczeria u szczytu potęgi.
 - Możliwa **francuskojęzyczna rewolucja teksaska**, wspierana przez Nowy Orlean.
 
+## Meksyk: wielki, ale kruchy
+- **Bez USA Meksyk zachowuje całą północ**: Teksas, Kalifornię, Nowy Meksyk, Arizonę i Nevadę, czyli ziemie, które realnie stracił w latach 1836–1848.
+- **Słabości**:
+  - **ludność**: ok. 7 mln, a na całej północy tylko kilkadziesiąt tysięcy,
+  - **chaos polityczny**: Santa Anna, centraliści kontra federaliści, kolejne zamachy,
+  - **długi** u holenderskich i burgundzkich bankierów, a długi kończą się interwencjami (realnie Francja w 1838 i 1861 roku),
+  - **separatyzmy**: Teksas (luizjańscy plantatorzy), Kalifornia (Kalifornijczycy, zob. [design/kalifornia.md](../design/kalifornia.md)), Jukatan (realnie oderwał się w 1841 roku), Republika Rio Grande (realnie 1840),
+  - **Komanczeria** najeżdża północne prowincje aż po Durango.
+- **Sąsiedzi chcący kawałka**: Luizjana (Teksas), Nowogród (Kalifornia), Nowa Francja (Oregon, Kalifornia), Hiszpania (rekonkwista).
+- **W grze**: wielkie terytorium, ale wszyscy chcą kawałek, trochę jak imperium osmańskie w realnej grze. Stabilizacja zrobi z Meksyku mocarstwo, ale jest bardzo trudna.
+- **Journal entries**: „Centraliści i federaliści”, „Wolna Kalifornia” (łańcuch), „Teksas”, „Jukatan”, „Komanczeria”, „Długi Meksyku”.
+
 ## Spór oregoński
 Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko widzem.
 
