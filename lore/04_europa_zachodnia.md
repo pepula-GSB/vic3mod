@@ -5,11 +5,34 @@ Dwie przyczyny źródłowe: **brak bitwy nad Lechem** (słabsza monarchia niemie
 ## Niemcy (Związek Niemiecki)
 - W średniowieczu energia Niemców idzie do Italii zamiast na wschód. Cesarstwo jest bardziej włosko-niemieckie.
 - Nie ma Ostsiedlung, więc Niemcy są bardziej miejskie i kupieckie, a mniej junkierskie.
-- „Saksonia” to Dolna Saksonia (Hanower, Brunszwik). Saksonii drezdeńskiej nie ma, bo Miśnia jest słowiańska.
+- „Saksonia” to dawne księstwo Sasów (Dolna Saksonia, Westfalia). Saksonii drezdeńskiej nie ma, bo Miśnia jest słowiańska i zależna od Moraw.
 - Reformacja przychodzi z Moraw (Turyngia, Frankonia, Szwabia, miasta nadreńskie).
 - **Nie ma Prus.** Nadrenia na lewym brzegu jest burgundzka.
-- **Stan w 1836 roku**: luźny związek bez hegemona. Główne państwa to Bawaria, Hanower (niezależny, nie w unii z Anglią) i Wirtembergia. Zjednoczenie to otwarte pytanie.
+- **Stan w 1836 roku**: luźny związek bez hegemona. Główne państwa to **Królestwo Saskie** (północ, protestanckie) i **Bawaria** (południe, katolicka), a za nimi Wirtembergia, Badenia i Hesja. Zjednoczenie to otwarte pytanie: saskie (małoniemieckie, północne) czy bawarskie (z Austrią).
 - Biedne, rozbite Niemcy są największym źródłem emigracji (głównie do Luizjany).
+
+## Królestwo Saskie (państwo Sasów)
+Odpowiednik Prus w tym świecie: północne, protestanckie, frontowe państwo wobec Słowian.
+
+- **Rdzeń**: dawne księstwo plemienne Sasów, czyli Dolna Saksonia, Westfalia, Ostfalia i Altmarka po lewej stronie Łaby.
+- **Dynastia**: Welfowie. W realnej historii Henryk Lew został obalony w 1180 roku, a Saksonię rozbito, między innymi dlatego, że jego potęga na wschodzie (Meklemburgia, Pomorze) zagrażała cesarzowi. Tu Welfowie nie mają takiej potęgi na wschodzie, więc nie są groźni dla cesarza, nie zostają obaleni, a księstwo się nie rozpada.
+- **Stolica**: Brunszwik, a później Hanower.
+- **Miasta**: Magdeburg (twierdza nad Łabą), Lüneburg (sól), Brema i Hamburg (wolne miasta pod wpływem saskim), Münster, Osnabrück, Getynga.
+- **Granice**:
+  - na wschodzie Łaba, a za nią Obodrzyce i Stodorania, czyli główny front niemiecko-słowiański. Magdeburg naprzeciw Brenny,
+  - na południowym wschodzie Soława, a za nią Miśnia (wasal Moraw),
+  - na zachodzie Burgundia na lewym brzegu Renu i Niderlandy,
+  - na północy Holsztyn duński.
+- **Religia**: protestancka (reformacja w wersji morawskiej, która tu wraca jako narzędzie przeciw Habsburgom).
+- **Charakter**: zmilitaryzowane państwo graniczne. Słowian zza Łaby traktuje jak realne Prusy traktowały Polskę: jako sąsiada do osłabienia, ale bez możliwości podboju, bo państwa połabskie mają za sobą Morawy i tysiącletnią tradycję.
+- **Hanower**: to część Saksonii, nie osobny kraj. Nie ma unii z Anglią, bo nie było sukcesji hanowerskiej.
+- **Problemy na start gry**:
+  - rywalizacja z Bawarią o przywództwo w Niemczech,
+  - wolne miasta Hamburg i Brema,
+  - spór z Danią o Holsztyn i ujście Łaby,
+  - granica z Burgundią w Westfalii,
+  - Westfalia katolicka w protestanckim państwie.
+- **Journal entry**: „Marchia Łaby”. Napięcia na granicy z Obodrzycami i Stodoranią, możliwa wojna o przyczółki na prawym brzegu Łaby.
 
 ## Austria
 - Marchia przeciw Słowianom panońskim. Habsburgowie wygrywają z Morawami w 1278 roku tylko z trudem.
