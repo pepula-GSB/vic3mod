@@ -39,11 +39,17 @@ Trzy wielkie wyznania i kilka mniejszych:
 - **Rzym zajmuje państwo włoskie** (Piemont, *Italia settentrionale*, zjednoczone Włochy, Neapol): papież **zostaje w Watykanie jako „więzień”** i nie uznaje nowej władzy, jak realnie po 1870 roku. Stały konflikt z katolikami w tym państwie.
 - **Rzym zajmuje państwo nie-włoskie albo papież zostaje obalony**: **papież udaje się na wygnanie.**
 
-**Dokąd**: do najsilniejszego katolickiego protektora, który nie jest najeźdźcą. Kandydaci i ich historyczne uzasadnienie:
-- **Awinion (Francja)**: siedziba papieży w latach 1309–1377, papieska enklawa do 1791 roku. Silny symbol, ale Francja Ludwika Filipa jest ambiwalentna.
-- **Monachium albo Salzburg (Bawaria)**: arcybiskupie miasto i najsilniejsza katolicka monarchia Związku Niemieckiego.
-- **Bruksela albo Liège (Burgundia)**: dawny dom cesarski.
-- **Toledo (Hiszpania)**: najbardziej katolicka monarchia z wielkim imperium.
+**Dokąd: wielkie katolickie mocarstwa licytują się o papieża.** Każde może zaoferować wygnańcowi **miasto jako nowe, suwerenne państwo papieskie**. To enklawa jak Watykan, tylko większa, z dochodami i katedrą:
+- **Hiszpania: Santiago de Compostela.** Grób apostoła Jakuba, jedno z trzech wielkich miejsc pielgrzymkowych chrześcijaństwa obok Rzymu i Jerozolimy. Daje oparcie w najbardziej katolickiej monarchii z wielkim imperium.
+- **Bawaria: Salzburg.** Realnie był niezależnym arcybiskupstwem-księstwem aż do 1803 roku, więc ma gotową tradycję państwa kościelnego. Leży w sercu katolickich Niemiec, blisko Italii.
+- **Burgundia: Liège.** Realnie było niezależnym księstwem biskupim aż do 1795 roku. Bogate, przemysłowe miasto w kraju dawnych cesarzy.
+- **Francja: Awinion.** Siedziba papieży w latach 1309–1377 i papieska enklawa do 1791 roku. Najmocniejszy symbol, ale Francja Ludwika Filipa może nie chcieć oddać miasta.
+
+**Mechanika licytacji**:
+- Każde z mocarstw dostaje decyzję: **oddać miasto papieżowi** (utrata dochodów, terytorium i części kontroli) albo odmówić.
+- Papież wybiera spośród ofert: większe znaczenie, bezpieczeństwo i bliskość Rzymu zwiększają szansę.
+- **Zysk gospodarza**: duży prestiż, przywództwo świata katolickiego, poparcie katolików u siebie i za granicą, prawo do zwołania koalicji o wyzwolenie Rzymu.
+- **Koszt gospodarza**: utrata miasta, wrogość okupanta Rzymu, odpowiedzialność za ochronę papieża.
 - **Nie Płock**: Mazowsze i Prusy to katolicka wyspa odcięta od reszty katolików przez husycką Polskę i Pomorze. Papież nie miałby tam ani bezpieczeństwa, ani łączności ze światem katolickim.
 
 **Skutki**:
@@ -54,4 +60,4 @@ Trzy wielkie wyznania i kilka mniejszych:
 **Zakończenie**:
 - powrót do Rzymu po wyzwoleniu miasta,
 - konkordat z nową władzą (papież uznaje utratę ziem w zamian za gwarancje),
-- **trwała siedziba poza Rzymem**: jeśli wygnanie trwa długo, papiestwo może osiąść na stałe u gospodarza, czyli nowy Awinion (np. w Monachium albo w Toledo).
+- **trwała siedziba poza Rzymem**: jeśli wygnanie trwa długo, papiestwo może osiąść na stałe u gospodarza, czyli nowy Awinion: Santiago de Compostela, Salzburg, Liège albo sam Awinion stają się na stałe siedzibą papieży.
