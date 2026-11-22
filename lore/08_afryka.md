@@ -42,7 +42,7 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 - **Francja od 1830 roku**, ale w 1836 roku trzyma tylko wybrzeże: Algier, Bône, Bougie.
 - **Oran jest hiszpański.** Realnie Hiszpanie trzymali go w latach 1509–1708 i 1732–1792, a potem porzucili. Tu go nie porzucili, więc mamy francusko-hiszpańską rywalizację o zachodnią Algierię.
 - **Emir Abd al-Kadir** w głębi lądu na zachodzie, jak realnie, lawiruje między Francuzami a Hiszpanami.
-- **Bejlik Konstantyny** (Ahmed Bej) na wschodzie, jak realnie. Francuzi oblegają go w latach 1836–1837.
+- **Bejlik Konstantyny** (Ahmed Bej) na wschodzie, jak realnie. Francuzi oblegają go w latach 1836–1837. **Piemont z Tabarki** może wspierać Ahmeda Beja bronią i pieniędzmi przeciw Francji, licząc na koncesje albo protektorat nad wschodnią Algierią.
 
 ### Tunezja: Hafsydzi przetrwali
 - Realnie Karol V (cesarz i zarazem król Hiszpanii) zdobył Tunis w 1535 roku i zrobił z Hafsydów swoich wasali, a Osmanowie zajęli kraj w 1574 roku. Tu Karol z Gandawy ma tylko Burgundię i cesarstwo, więc wyprawę na Tunis prowadzi **hiszpański król Ferdynand** (jego brat, założyciel hiszpańskiej gałęzi Habsburgów). Osmanowie są zbyt słabi na zachodzie, żeby przełamać obronę, więc **Hafsydzi przetrwali jako wasale Hiszpanii** i są nimi do dziś.
@@ -52,7 +52,7 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
   - **Napięcia**: część ulemów i dworu uważa zależność od chrześcijańskiej Hiszpanii za hańbę i spogląda ku Konstantynopolowi Osmanów albo ku Algierii Abd al-Kadira. Inni wolą Hiszpanię niż Turków.
 - **Europejskie przyczółki**:
   - **La Goletta (Halq al-Wadi)**: hiszpańska twierdza strzegąca wejścia do jeziora i portu Tunisu. Realnie była hiszpańska w latach 1535–1574. Tu zostaje jako gwarancja hiszpańskiej opieki nad Hafsydami, czyli garnizon, który chroni sułtana, ale też go pilnuje.
-  - **Tabarka**: wysepka z fortem przy granicy z Algierią, ośrodek połowu korali. Realnie należała do genueńskiej rodziny Lomellinich w latach 1540–1741. Tu zostaje genueńska aż do końca, a od 1815 roku, gdy Genua trafiła do Piemontu, jest **piemoncka**. To jedyny zamorski przyczółek Piemontu, mały, ale na ważnej granicy francusko-tunezyjskiej.
+  - **Tabarka**: wysepka z fortem przy granicy z Algierią, ośrodek połowu korali. Realnie należała do genueńskiej rodziny Lomellinich w latach 1540–1741. Tu zostaje genueńska aż do końca, a od 1815 roku, gdy Genua trafiła do Piemontu, jest **piemoncka**. To jedyny zamorski przyczółek Piemontu, mały, ale na ważnej granicy francusko-tunezyjskiej. **Okno Piemontu na Algierię**: kilkadziesiąt kilometrów dalej jest francuska faktoria koralowa La Calle (realny Bastion de France), a za nią Bône i bejlik Konstantyny.
 - **Zagrożenia**: Francja z Algierii (Bizerta to strategiczny port), Osmanowie z Trypolisu.
 
 ### Libia (Trypolitania i Cyrenajka)
@@ -64,6 +64,7 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 ### Journal entries
 - „Presidia”: hiszpańska ekspansja w Maroku.
 - „Oran”: francusko-hiszpańska rywalizacja w Algierii.
+- „Wschodnia Algieria”: Piemont z Tabarki kontra Francja o Konstantynę i Bône. Sojusz Piemontu z Ahmedem Bejem, wyścig koralowy Tabarka kontra La Calle, a w przyszłości możliwy podział Algierii: Hiszpania na zachodzie (Oran), Francja w centrum (Algier), Piemont na wschodzie.
 - „Bizerta”: Tunezja między Francją, Hiszpanią (La Goletta), Piemontem (Tabarka) i Neapolem.
 - „Tarcza przed Turkami”: protektorat hiszpański trwa, dopóki zagrażają Osmanowie z Trypolisu. Jeśli zagrożenie zniknie, rośnie ruch za pełną niezależnością. Jeśli wzrośnie, Tunezja może zostać wcielona do Hiszpanii.
 
