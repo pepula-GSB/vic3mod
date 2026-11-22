@@ -8,7 +8,7 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - Ironia tego świata: Prusy istnieją, ale jako **bałtycki naród**, nie niemieckie mocarstwo.
 
 ## Wielkie Księstwo Litewsko-Ruskie
-- **Terytorium**: Żmudź, Auksztota, Kurlandia, Zemgalia, Łatgalia, Ryga (lewy brzeg, a status miasta jest sporny), Białoruś, Kijów, Czernihów, Siewierszczyzna, step po Morze Czarne.
+- **Terytorium**: Żmudź, Auksztota, Kurlandia, Zemgalia, Łatgalia, lewy brzeg Rygi (Zadźwinie) z twierdzą Dyjamenty (Daugavgrīva) u ujścia Dźwiny, Białoruś, Kijów, Czernihów, Siewierszczyzna, step po Morze Czarne.
 - **Stolica**: Wilno, z Kijowem jako drugim miastem.
 - **Religia**: prawosławie przyjęte z Konstantynopola w XIV wieku. Etniczna Litwa jest częściowo katolicka.
 - **Język państwowy**: ruski. Litewski przeżywa na wsi.
@@ -16,10 +16,11 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Kolonie**: Tobago na Karaibach (odziedziczone po Kurlandii) i fort w Gambii.
 - **Sojusze**: Konstantynopol (dynastia, wiara), wspólny front przeciw Tatarom.
 - **Rola**: „zbiera ziemie ruskie” jako odnowiciel Rusi Kijowskiej, bez ideologii rzymskiej.
+- **Ryga podzielona Dźwiną**: rzeka to granica litewsko-nowogrodzka. Stare miasto i port na prawym brzegu są nowogrodzkie, a Zadźwinie na lewym brzegu i twierdza u ujścia litewskie. Litwa może zamknąć wyjście z rzeki, a Nowogród ma miasto i kupców. Spór o cła od spławu Dźwiną z Połocka i Witebska.
 - **Problemy**: kozaczyzna na stepie, Chanat Krymski (wasal osmański) i osmański Azow na stepie, łotewski ruch narodowy (naród podzielony z Nowogrodem), Napoleon próbował ją najechać.
 
 ## Republika Nowogrodzka
-- **Terytorium**: Nowogród, Psków, Karelia, wschodnia Finlandia (Sawonia), Ingria i ujście Newy (nie ma Petersburga, zamiast niego port nowogrodzki), Estonia (Rewal, Narwa, Parnawa, Tartu), Inflanty na północ od Dźwiny, wybrzeże Morza Białego, ziemie po Ural, a za Uralem **cała Syberia** aż po Ałtaj, Sajany, Bajkał, Amur, Ochock i Kamczatkę.
+- **Terytorium**: Nowogród, Psków, Karelia, wschodnia Finlandia (Sawonia), Ingria i ujście Newy (nie ma Petersburga, zamiast niego port nowogrodzki), Estonia (Rewal, Narwa, Parnawa, Tartu), Inflanty na północ od Dźwiny ze starym miastem Rygi, wybrzeże Morza Białego, ziemie po Ural, a za Uralem **cała Syberia** aż po Ałtaj, Sajany, Bajkał, Amur, Ochock i Kamczatkę.
 - **Ustrój**: kupiecka oligarchia, wiec.
 - **Religia**: prawosławie. Estowie, Liwowie i Karelowie też są prawosławni.
 - **Gospodarka**: słowiańska Hanza, futra.

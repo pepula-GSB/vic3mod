@@ -10,13 +10,13 @@
 
 ## Decyzje do podjęcia
 - **Abolicja w Anglii**: czy była w 1833 roku? To decyduje, czy Dominium Wirginii startuje w kryzysie.
-- **Status Rygi**: wolne miasto Hanzy, nowogrodzka czy litewska?
 - **Unia Szkocji i Anglii**: unia personalna czy jeden parlament po późniejszym kryzysie?
 - **Nazwa kolonii duńskiej w Afryce**: Frederiksnopel czy Frihedskysten?
 - **Nazwa dynastii śląskiej** z Wrocławia.
 
 ## Ustalone
 - **Chanat Krymski**: wasal osmański.
+- **Ryga**: podzielona Dźwiną. Prawy brzeg ze starym miastem jest nowogrodzki, lewy brzeg z twierdzą u ujścia litewski.
 - **Głagolica**: Morawy używają łaciny, a Chorwacja-Panonia może zachować głagolicę jako pismo narodowe lub liturgiczne.
 - **Łużyce i Miśnia**: osobne margrabstwa zależne od Moraw.
 
