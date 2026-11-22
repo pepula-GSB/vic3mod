@@ -56,7 +56,41 @@ Co kilka lat wydarzenie z wyborem fali imigrantów, każda z innymi skutkami:
 - **„Teksas”**: francuskojęzyczna rewolucja teksańska. Wspierać osadników przeciw Meksykowi, czekać czy przyłączyć Teksas?
 - **„Floryda Zachodnia”**: wojna z Hiszpanią o Mobile i Pensacolę (ryzyko utraty hiszpańskiego handlu).
 - **„Perła Antyli”**: flibustierzy na Kubę. Grozi wojną z Hiszpanią i jej sojusznikiem Piemontem.
-- **„Blok plantatorski”**: przy secesji Wirginii (kryzys abolicyjny w Anglii) sojusz albo federacja dwóch republik plantatorów.
+- **„Przymierze Plantatorów”**: sojusz z Wirginią (zob. punkt 9).
+
+## 9. Przymierze Plantatorów: Luizjana i Wirginia
+Dwie oligarchiczne republiki plantatorów na jednym kontynencie.
+
+**Warunek startu**: Wirginia ogłasza secesję od Anglii (kryzys abolicyjny po zniesieniu niewolnictwa w Londynie) i staje się **republiką oligarchiczną** szlachty plantatorskiej.
+
+**Etapy (journal entry)**:
+1. **Tajne kontakty**: plantatorzy z Richmond i Nowego Orleanu wymieniają listy. Luizjana może po cichu wysłać broń i pieniądze na wojnę o niepodległość Wirginii.
+2. **Sojusz obronny**: wspólna obrona przed Anglią, Haiti i abolicjonistami (Nowe Niderlandy, Dania). Wzajemne wydawanie zbiegłych niewolników.
+3. **Unia celna**: bawełna, cukier, tytoń i ryż. Wspólna polityka handlowa wobec Europy.
+4. **Konfederacja**: wspólna armia i polityka zagraniczna przy zachowaniu odrębnych praw. Dla gracza to największa stawka.
+
+**Co łączy**: niewolnictwo i strach przed jego zniesieniem, gospodarka plantacyjna, wspólni wrogowie, rządy oligarchii.
+
+**Co dzieli**:
+- **Kultura i religia**: anglikańska, angielska Wirginia kontra katolicka, francuska Luizjana.
+- **Prawo**: angielskie common law kontra francuski Code Noir i Kodeks Napoleona.
+- **Ambicje**: obie chcą przewodzić. Richmond jest starsze i ma więcej ludności, a Nowy Orlean jest bogatszy i ma rzekę.
+- **Bonapartyści**: dla wirgińskiej szlachty to rewolucjoniści. Bonapartystowska Luizjana utrudnia albo zrywa przymierze.
+- **Między nimi leżą** Appalachy, francuska dolina Ohio i hiszpańska Floryda. Kto kontroluje drogę między Richmond a Nowym Orleanem?
+
+**Przeciwnicy przymierza**:
+- Anglia (chce odzyskać Wirginię),
+- Dominium Nowej Anglii,
+- Nowe Niderlandy,
+- Haiti, Dania,
+- Nowa Francja (konkurent o Ohio i dolinę Missisipi),
+- Hiszpania, jeśli przymierze sięgnie po Florydę albo Kubę.
+
+**Możliwe zakończenia**:
+- trwała konfederacja jako potęga Ameryki Północnej,
+- rozpad przez spór o przywództwo albo przez bonapartystów,
+- przymierze rozbite przez powstanie niewolników w jednym z państw,
+- podbój przez Anglię i jej sojuszników.
 
 ## 8. Wydarzenia flavour
 - **Żółta febra w Nowym Orleanie** (powracające epidemie): straty w ludności i panika w porcie.

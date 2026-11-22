@@ -40,7 +40,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 - Anglikańska szlachta plantatorska. Ok. 40% ludności to niewolnicy.
 - Zablokowane przez Appalachy (dolina Ohio jest francuska), Luizjanę i Florydę.
 - **Ludność**: ok. 3 mln.
-- **Journal entry**: „kryzys abolicyjny”. Na start gry w Londynie trwa debata, a niewolnictwo nie jest zniesione. Jeśli parlament je zniesie, Wirginia może ogłosić secesję i zawiązać blok plantatorski z Luizjaną.
+- **Journal entry**: „kryzys abolicyjny”. Na start gry w Londynie trwa debata, a niewolnictwo nie jest zniesione. Jeśli parlament je zniesie, Wirginia może ogłosić secesję jako republika oligarchiczna i zawiązać z Luizjaną **Przymierze Plantatorów** (zob. [design/luizjana.md](../design/luizjana.md), punkt 9).
 
 ## Nowe Niderlandy (Niderlandy)
 - Nowy Amsterdam, dolina Hudsonu, New Jersey, Delaware.
