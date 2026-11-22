@@ -62,7 +62,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
       - Ściąga do Warszawy tranzyt z Litwy-Rusi i z polskiego wschodu, jeśli polska linia się spóźni.
       - Wymusza to **sojusz mazowiecko-pruski** mimo sporu o osadników na Mazurach.
     - **Rywalizacja portów**: Gdańsk (Pomorze) kontra Tuwangste (Prusy). Kto wygra, ten przejmuje handel zbożowy całego dorzecza Wisły.
-    - **Bloki**: Polska z Pomorzem kontra Mazowsze z Prusami. Litwa-Ruś i bankierzy z Antwerpii i Amsterdamu finansują tę stronę, która obieca lepsze warunki.
+    - **Bloki**: Polska z Pomorzem kontra Mazowsze z Prusami. To podział nie tylko gospodarczy, ale też **wyznaniowy**: **blok husycki** (Poznań, Szczecin, Gdańsk, z oparciem w Morawach) kontra **blok katolicki** (Warszawa, Płock, Tuwangste, Frombork, z oparciem w papieżu, Burgundii i Bawarii). Katolicka Lubelszczyzna jest w złym bloku. Litwa-Ruś i bankierzy z Antwerpii i Amsterdamu finansują tę stronę, która obieca lepsze warunki.
     - **Skutki**:
       - Polska linia pierwsza: cło warszawskie traci znaczenie, Mazowsze ma kryzys skarbu, a unia z Polską staje się bardziej prawdopodobna.
       - Mazowiecka linia pierwsza: Warszawa staje się węzłem regionu, Mazowsze rośnie w siłę, a Polska zostaje z drogim cłem i pomorskimi opłatami.
@@ -112,6 +112,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Dynastia**: Gryfici, którzy tu nie wymarli w 1637 roku.
 - **Terytorium**: Pomorze Zachodnie i Gdańskie: Szczecin, Wolin, Kołobrzeg, Słupsk, Gdańsk.
 - **Kultury**: Pomorzanie, Kaszubi.
+- **Religia: husycka.** Ruch dotarł Odrą ze Śląska i Moraw oraz przez kupców Hanzy. Gryfici przyjęli kościół husycki w XVI wieku (realnie Pomorze przeszło na luteranizm w 1534 roku). Liturgia jest po pomorsku i kaszubsku. Wspólna wiara z Poznaniem łagodzi dawne spory o Gdańsk.
 - **Gospodarka**: wielkie porty słowiańskiej Hanzy. Południowy klin (Krajna, Chojnice) należy do Polski.
 - **Konflikty**: Polska (Gdańsk, dostęp do morza), Dania (wybrzeże, cła), Wieletia (granica na Odrze).
 - **Szansa i zagrożenie**: polska kolej do Gdańska może zrobić z Pomorza partnera Polski, a mazowiecka kolej do Tuwangste może odebrać Gdańskowi handel zbożem (zob. „Wyścig kolejowy”).
@@ -119,7 +120,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 ### Księstwo Pruskie
 - **Terytorium**: Warmia, Mazury (Galindia), Sambia, Natangia, Pomezania, Bartia.
 - **Stolica**: Tuwangste (miejsce Królewca), do tego port Truso i Elbląg.
-- **Religia**: katolicka. Chrzest przez biskupów z Pomorza i Mazowsza, bez Krzyżaków.
+- **Religia: katolicka.** Chrzest przez biskupów z Pomorza i Mazowsza, bez Krzyżaków. Prusowie zostali przy Rzymie, gdy ich sąsiedzi z zachodu przeszli na husytyzm. Biskupstwo warmińskie we Fromborku jest ostoją katolicyzmu nad Bałtykiem. Wspólna wiara z Mazowszem przeważa nad sporem o osadników na Mazurach.
 - **Kultura i język**: pruskie, czyli żywy język bałtycki.
 - **Konflikty**: Mazowsze (osadnicy mazowieccy na Mazurach, Galindia), Polska (ziemia chełmińska), Litwa-Ruś (Jaćwież, Sudowia).
 - **Szansa**: kolej Warszawa–Tuwangste może zrobić z Tuwangste główny port dorzecza Wisły kosztem pomorskiego Gdańska (zob. „Wyścig kolejowy”).
