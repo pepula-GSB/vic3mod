@@ -66,7 +66,22 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Gospodarka**: najbogatszy wasal Moraw. Ma węgiel i rudy Górnego Śląska oraz handel odrzański (Wrocław, spław do Szczecina). Wrocław to jedno z największych miast słowiańskiego świata, z uniwersytetem i kupiectwem.
 - **Pozycja**: wasal o największym potencjale do niezależności. Ma pieniądze, przemysł i silną tożsamość. Welehrad potrzebuje śląskiego węgla i podatków, więc pilnuje go najbardziej.
 - **Konflikty**: Polska (pretensje do Opolszczyzny i ziemi wschowskiej), Morawy (granica pszczyńska, podatki, przemysł, podejrzenia o spisek z Pragą), Czechy (starszeństwo w rodzie Przemyślidów), Pomorze (cła na Odrze).
-- **Journal entry**: „Śląska droga”: pełna niezależność, autonomia w federacji morawskiej, unia z Czechami pod Przemyślidami albo zbliżenie z Polską.
+- **Sejm Śląski** we Wrocławiu: stany śląskie (szlachta, miasta, a od XVIII wieku także przemysłowcy i kupcy odrzańscy). Realnie istniał sejm książąt i stanów śląskich. Tu jest silny, bo dynastia rządziła z jego poparciem.
+
+### Kryzys dynastyczny na start gry
+- **Ostatni książę z wrocławskiej linii Przemyślidów** jest stary i nie ma męskiego potomka. Linia gaśnie, tak jak realnie w 1675 roku wygaśli Piastowie śląscy.
+- **Pretendenci**:
+  - **Praga**: główna linia Przemyślidów. Unia Czech i Śląska to dla Welehradu najgorszy scenariusz.
+  - **Welehrad**: Mojmirowice twierdzą, że wygasłe lenno wraca do seniora, i chcą bezpośrednich rządów morawskich nad najbogatszą prowincją.
+  - **Polska**: kandydat po kądzieli (córka księcia wydana za polskiego królewicza) i stara pretensja do Śląska.
+- **Trzecia droga: Sejm rozważa republikę.** Mieszczanie Wrocławia, przemysłowcy z Górnego Śląska i kupcy odrzańscy patrzą na Niderlandy, Szwajcarię i Nowogród. Uważają, że Śląsk ma dość pieniędzy i tożsamości, żeby rządzić się sam. Szlachta jest podzielona.
+
+### Journal entry „Bezkrólewie śląskie” (zastępuje „Śląską drogę”)
+- **Republika Śląska**: wymaga zgody Moraw albo wojny o niepodległość. Możliwe poparcie Pomorza (handel na Odrze) i Francji (osłabienie Moraw).
+- **Unia z Czechami**: Śląsk przechodzi na Pragę, powstaje silny blok przemyślidzki w ramach korony morawskiej albo przeciw niej.
+- **Wcielenie do Moraw**: koniec autonomii, bunt śląskiego ruchu narodowego.
+- **Polski książę**: zbliżenie z Polską, wojna z Morawami.
+- Wynik zależy od głosowania w Sejmie (grupy interesu: przemysłowcy, mieszczanie, szlachta) i od reakcji sąsiadów.
 
 **Margrabstwo Łużyckie**
 - **Ludność**: Serbołużyczanie (Łużyczanie, Milczanie).
