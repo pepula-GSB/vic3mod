@@ -19,12 +19,18 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Problemy**: kozaczyzna na stepie, Chanat Krymski (wasal lub sporny), łotewski ruch narodowy (naród podzielony z Nowogrodem), Napoleon próbował ją najechać.
 
 ## Republika Nowogrodzka
-- **Terytorium**: Nowogród, Psków, Karelia, wschodnia Finlandia (Sawonia), Ingria i ujście Newy (nie ma Petersburga, zamiast niego port nowogrodzki), Estonia (Rewal, Narwa, Parnawa, Tartu), Inflanty na północ od Dźwiny, wybrzeże Morza Białego, ziemie po Ural.
+- **Terytorium**: Nowogród, Psków, Karelia, wschodnia Finlandia (Sawonia), Ingria i ujście Newy (nie ma Petersburga, zamiast niego port nowogrodzki), Estonia (Rewal, Narwa, Parnawa, Tartu), Inflanty na północ od Dźwiny, wybrzeże Morza Białego, ziemie po Ural, a za Uralem **cała Syberia** aż po Ałtaj, Sajany, Bajkał, Amur, Ochock i Kamczatkę.
 - **Ustrój**: kupiecka oligarchia, wiec.
 - **Religia**: prawosławie. Estowie, Liwowie i Karelowie też są prawosławni.
 - **Gospodarka**: słowiańska Hanza, futra.
 - **Kolonia**: **Ameryka Nowogrodzka**, czyli Alaska i wybrzeże do 54°40′, może faktoria w Kalifornii. Dotarli tam Pomorcy znad Morza Białego (Dieżniew był Pomorcem).
-- **Rywale**: Szwecja (Finlandia), Moskwa (Syberia, Aleuty).
+- **Syberia nowogrodzka**:
+  - Nowogrodzianie chodzili po daninę z futer do Jugry nad Obem już w XI–XIV wieku. Pomorcy znad Morza Białego płynęli wzdłuż Arktyki: realną Mangazeję nad Tazem założyli w 1601 roku właśnie oni.
+  - Stroganowowie, którzy realnie sfinansowali wyprawę Jermaka, wywodzili się z Pomorza. Tu działają dla Nowogrodu. Podbój Chanatu Syberyjskiego (ok. 1582) jest nowogrodzki, a nie moskiewski.
+  - Szlak futrzany: Ob, Jenisej, Lena, Ochock, Kamczatka, a dalej Alaska.
+  - Na południu Nowogród zamyka Moskwie drogę na wschód linią **Irtysz, Ałtaj, Sajany, Bajkał**, w okolicach Mongolii. Graniczy tam z Chinami Qing. Nad Amurem ma realny spór o Nerczyńsk.
+  - Ludność Syberii jest nieliczna: rosyjskojęzyczni (nowogrodzcy) osadnicy, a większość stanowią ludy tubylcze (Tatarzy syberyjscy, Chanty, Mansowie, Jakuci, Buriaci, Ewenkowie).
+- **Rywale**: Szwecja (Finlandia), Moskwa (granica na Uralu i Irtyszu, futra, przejście na Syberię), Chiny Qing (Amur).
 
 ## Królestwo Halicko-Wołyńskie
 - **Terytorium**: Ruś Czerwona, Wołyń, Podole, Mołdawia (dostęp do Morza Czarnego przez Dniestr).
@@ -34,10 +40,12 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Pozycja**: pod parasolem Moraw. W stosunkach z Litwą-Rusią raczej rywal.
 
 ## Wielkie Księstwo Moskiewskie
-- **Terytorium**: rdzeń włodzimiersko-suzdalski, Kazań, Astrachań, Wołga, Syberia, Kamczatka, Ochock, Kaukaz Północny, kierunek na Azję Środkową.
+- **Terytorium**: rdzeń włodzimiersko-suzdalski, Kazań, Astrachań, Wołga, południowy Ural (Baszkiria, Orenburg), Kaukaz Północny i **step kazachski**: Mała i Średnia Orda pod zwierzchnictwem Moskwy.
 - **Tożsamość**: dziedzic Złotej Ordy, a nie Rzymu. Państwo eurazjatyckie, rusko-tatarskie.
-- Zablokowane w Europie przez Litwę-Ruś i Nowogród, więc ekspansja idzie na wschód i na południe.
-- **Wielka Gra**: rywal Anglii w Azji Środkowej.
+- Zablokowane w Europie przez Litwę-Ruś i Nowogród, a na wschodzie przez nowogrodzką Syberię. **Jedyny kierunek ekspansji to step**: Kazachstan, a dalej Chiwa, Buchara, Kokand i Turkiestan. Na wschodzie Moskwa sięga Dżungarii i graniczy tam z Chinami Qing.
+- Linia forteczna od Orenburga po Irtysz to granica z Nowogrodem, a nie wewnętrzna granica stepowa jak realnie.
+- **Wielka Gra**: rywal Anglii w Azji Środkowej. Moskwa jest tu bardziej skupiona na Azji niż realna Rosja, bo nie ma innego kierunku.
+- **Journal entry**: „Podbój stepu”: Ordy kazachskie, chanaty środkowoazjatyckie i wyścig z Anglią do Afganistanu.
 - **Journal entry**: „Zbieranie Rusi” kontra eurazjatyzm.
 
 ## Pięć kultur wschodniosłowiańskich
