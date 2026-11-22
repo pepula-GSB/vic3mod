@@ -25,7 +25,7 @@
 ## Księstwo Dacji
 - **Nazwy „Siedmiogród” i „Transylwania” nie istnieją.** Siedmiogród to kalka *Siebenbürgen* od siedmiu grodów saskich kolonistów, a Transylwania (*ultra silvam*) i rumuński *Ardeal* pochodzą od węgierskiej kancelarii. Tu nie ma ani Węgrów, ani Sasów.
 - **Skąd „Dacja”**: kancelaria bizantyjska, a potem bułgarsko-romejska, z upodobaniem do klasycznych nazw, od wieków nazywa ziemie Wołochów na północ od Dunaju **Dacją**. Miejscowi książęta przyjęli tę nazwę w XVI wieku, za księcia-zjednoczyciela (odpowiednik realnego Michała Walecznego). Łączyła ich z Rzymem i odróżniała od słowiańskich sąsiadów.
-- **Terytorium**: dawny Siedmiogród jako rdzeń (bez Sasów i Seklerów, ludność rumuńska z resztkami słowiańskimi), do tego Muntenia i Oltenia (realna Wołoszczyzna), Banat i ziemie po Cisę.
+- **Terytorium**: rdzeń na wyżynie za Karpatami (realny Siedmiogród) (bez Sasów i Seklerów, ludność rumuńska z resztkami słowiańskimi), do tego Muntenia i Oltenia (realna Wołoszczyzna), Banat i ziemie po Cisę.
 - **Stolica**: Białogród (*Bălgrad*, realna Alba Iulia), stary gród książąt. Bukareszt jest drugim ośrodkiem nad Dunajem.
 - **Religia**: prawosławie, z biskupstwem pod patriarchą konstantynopolitańskim.
 - **W 1836 roku**: niezależne księstwo między Cesarstwem Bułgarsko-Romejskim, Chorwacją-Panonią, Serbią, Haliczem i Litwą-Rusią.
