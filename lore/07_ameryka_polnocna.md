@@ -56,9 +56,15 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **środek (dorzecze Saskatchewan Północnej)**: duńska. Główna faktoria to **Fort Frederik** nad Saskatchewan Północną (realnie Fort Edmonton, 1795), nazwany od króla.
   - **północ (rzeki Athabaska i Peace, które spływają do Oceanu Arktycznego)**: sporna z **Nową Francją**. Realnie traperzy z Montrealu (Kompania Północno-Zachodnia) założyli tu Fort Chipewyan (1788) i do 1821 roku walczyli z Kompanią Zatoki Hudsona. Tu ta rywalizacja trwa, a do porozumienia jak realne z 1821 roku nie doszło.
   - **południe**: w praktyce należy do **Konfederacji Czarnych Stóp** (Siksika, Kainai, Piikani), najsilniejszej potęgi północnych prerii. Duńczycy handlują z nią, ale jej nie rządzą.
+- **Saskatchewan**: **rdzeń duńskiego interioru**, bo prawie cały leży w dorzeczu Zatoki Hudsona (rzeki Saskatchewan i Churchill).
+  - **Christianshus** (realnie Cumberland House z 1774 roku, pierwsza śródlądowa faktoria Kompanii Zatoki Hudsona): najstarsza duńska placówka w głębi lądu i węzeł szlaków wodnych, nazwana od króla Chrystiana.
+  - **Szlak Churchill**: przez przenoskę Methye (realnie La Loche, łącząca dorzecze Zatoki Hudsona z Athabaską) prowadzi droga traperów do bogatych terenów futrzanych na północy. To najgorętszy punkt sporu z Nową Francją, bo kto trzyma przenoskę, ten kontroluje dostęp do Athabaski.
+  - **Południowe prerie**: Kri z prerii i Assiniboini polują na bizony. Duńczycy kupują od nich pemmikan (suszone mięso bizonie), czyli paliwo całego systemu futrzarskiego.
+  - **Metysi** w Île-à-la-Crosse i nad Saskatchewan: francuskojęzyczni i katoliccy, w duńskiej kompanii. Nowa Francja może grać na ich sympatii.
 - **Ludność**: kilkuset Duńczyków, Norwegów i Szkotów z Orkadów w faktoriach (realnie Orkadyjczycy stanowili trzon pracowników Kompanii Zatoki Hudsona, a tu Orkady są duńskie), a do tego Metysi i Kri.
 - **Journal entries**:
-  - **„Athabaska”**: spór z Nową Francją o północne szlaki futrzane (porozumienie, podział albo wojna kompanii),
+  - **„Athabaska”**: spór z Nową Francją o północne szlaki futrzane i przenoskę Methye (porozumienie, podział albo wojna kompanii),
+  - **„Metysi z prerii”**: francuskojęzyczni i katoliccy Metysi w duńskiej kompanii, czyli lojalność, autonomia albo bunt z poparciem Quebecu,
   - **„Czarne Stopy”**: handel, sojusz albo podbój południowych prerii.
 
 ## Ameryka Nowogrodzka (Nowogród)
