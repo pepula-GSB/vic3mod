@@ -8,7 +8,24 @@ Dwie przyczyny źródłowe: **brak bitwy nad Lechem** (słabsza monarchia niemie
 - „Saksonia” to dawne księstwo Sasów (Dolna Saksonia, Westfalia). Saksonii drezdeńskiej nie ma, bo Miśnia jest słowiańska i zależna od Moraw.
 - Reformacja przychodzi z Moraw (Turyngia, Frankonia, Szwabia, miasta nadreńskie).
 - **Nie ma Prus.** Nadrenia na lewym brzegu jest burgundzka.
-- **Stan w 1836 roku**: luźny związek bez hegemona. Główne państwa to **Królestwo Saskie** (północ, protestanckie) i **Bawaria** (południe, katolicka), a za nimi Wirtembergia, Badenia i Hesja. Zjednoczenie to otwarte pytanie: saskie (północne, protestanckie) czy bawarskie (południowe, katolickie, z ziemiami alpejskimi).
+- **Związek Niemiecki** (od 1815 roku, Bundestag we Frankfurcie):
+  - **Przewodniczy Burgundia.** Habsburgowie z Brukseli byli cesarzami do 1806 roku, a lewy brzeg Renu (Kolonia, Akwizgran, Moguncja) jest niemieckojęzyczny. Zajmują miejsce, które realnie miała Austria.
+  - **Trójkąt o przywództwo**: Saksonia (protestancka północ), Bawaria (katolickie południe i Alpy) i Burgundia (cesarska tradycja, kapitał, przemysł).
+- **Członkowie w 1836 roku**:
+  - **Królestwo Saskie** (Welfowie): Hanower, Brunszwik, Westfalia (zob. niżej).
+  - **Królestwo Bawarii** (Wittelsbachowie): Monachium, Alpy, Wenecja (zob. niżej).
+  - **Wielkie Księstwo Frankonii** (Hohenzollernowie): Norymberga, Ansbach, Bayreuth. Hohenzollernowie nigdy nie dostali Brandenburgii (tam jest słowiańska Stodorania), więc zostali burgrabiami Norymbergi i margrabiami frankońskimi. Ambitni i zmilitaryzowani z przyzwyczajenia, czyli „Prusy, które nie wyszły”. Języczek u wagi między Saksonią a Bawarią.
+  - **Księstwa turyńskie** (Wettynowie): Weimar, Gotha, Meiningen, Altenburg. Wettynowie realnie wyrośli na Miśni, która tu jest słowiańska, więc zostali tylko landgrafami Turyngii i rozdrobnili się, jak realnie, tylko bez korony saskiej.
+  - **Wirtembergia**, **Badenia** (tylko prawy brzeg Renu), **Hesja-Kassel**, **Hesja-Darmstadt**, **Nassau**, **Oldenburg**, **Lippe**.
+  - **Wolne miasta**: Hamburg, Brema, Frankfurt. Lubeka jest słowiańska (Liubice).
+  - **Holsztyn**: duński, ale w Związku, jak realnie.
+  - **Fryzja Wschodnia nie jest niemiecka**: Emden, Aurich i Leer należą do **Niderlandów**. Realnie region był pod silnym wpływem holenderskim (kalwiński Emden jako „matka kościołów”, holenderskie garnizony w XVII wieku). Tu wpływ zamienił się w panowanie.
+- **Kwestia niemiecka (journal entry)**:
+  - **saskie zjednoczenie**: protestancka północ, przez unię celną i wojsko,
+  - **bawarskie zjednoczenie**: katolickie Niemcy z Alpami,
+  - **burgundzkie zjednoczenie**: wielkie Niemcy z Habsburgami i dolnym Renem, blokowane przez Francję, czego boją się Niderlandy,
+  - **brak zjednoczenia**: Niemcy zostają związkiem, jak Szwajcaria na dużą skalę. Przy silnych sąsiadach to realna opcja.
+  - Frankonia (Hohenzollernowie) przechyla szalę.
 - Biedne, rozbite Niemcy są największym źródłem emigracji (głównie do Luizjany).
 
 ## Królestwo Saskie (państwo Sasów)
@@ -69,6 +86,7 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
 - Północne prowincje zbuntowały się przeciw kontrreformacji Brukseli. Granica biegnie po wielkich rzekach. Sporne zostają Brabancja Północna, Limburgia i Maastricht.
 - Burgundia jako bufor chroni je przed Francją: nie ma „roku katastrofy” 1672 i nie ma interwencji w Anglii w 1688 roku. Republika dłużej jest **numerem jeden na morzach**.
 - W okresie napoleońskim nie staje się satelitą Francji, więc nie traci kolonii.
+- **W Europie** także Fryzja Wschodnia (Emden, Aurich, Leer).
 - **Kolonie**: Indonezja, Cejlon, Przylądek, Nowe Niderlandy (Nowy Amsterdam), Gujana, wysepki karaibskie, forty na Złotym Wybrzeżu, faktorie w Indiach, pierwsze osady w Nowej Holandii (zachodnia Australia).
 - Partner i konkurent słowiańskiej Hanzy.
 - **W 1836 roku**: Królestwo pod Oranią. Rywal Burgundii, ale razem z nią przeciw Francji.
