@@ -148,7 +148,8 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Religia**: protestancki kościół narodowy (husycko-morawski), z tradycją liturgii Cyryla i Metodego.
 - **Gospodarka**: przemysłowe państwo z węglem zagłębia ostrawsko-karwińskiego. Większy węgiel górnośląski i saski leży u wasali (Śląsk, Miśnia), co jest źródłem napięć.
 - **Rola**: lider zachodniego panslawizmu i główna lądowa siła koalicji antynapoleońskiej. Największa potęga słowiańska na zachodzie.
-- **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Lojalność państw zależnych. Spór z Polską o Kraków. Wieczna granica z Austrią.
+- **Sławończycy w północnej Panonii**: na nizinie panońskiej w granicach Moraw mieszkają katoliccy Sławończycy. Ich przodkowie byli poddanymi Moraw, gdy te przejęły Panonię, a potem wytworzyli własną tożsamość i nie chcą być „Morawianami”.
+- **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Sławończycy w Panonii. Lojalność państw zależnych. Spór z Polską o Kraków. Wieczna granica z Austrią.
 
 ### Państwa zależne od Moraw
 
@@ -217,7 +218,7 @@ W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi d�
 
 ## Królestwo Chorwacko-Panońskie
 - **Terytorium**: Chorwacja, Dalmacja (spór z Wenecją i Austrią), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
-- **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski, ciążą ku Bośni; ten sam lud mieszka też w zachodniej Dacji nad Cisą, więc dla Zagrzebia to irredenta), Bośniacy, mniejszość niemiecka na zachodzie.
+- **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski, ciążą ku Bośni; ten sam lud mieszka też w morawskiej północnej Panonii i w zachodniej Dacji nad Cisą), Bośniacy, mniejszość niemiecka na zachodzie.
 - Nigdy nie było pod Turkami.
 - **Problemy**: jeden naród „iliryjski” czy osobne narody? Granica z Austrią, Dalmacja.
 
@@ -233,6 +234,20 @@ Odpowiednik realnego zjednoczenia Niemiec, tylko na mniejszą skalę i między �
   - **Wieletia**: tradycja Radogoszczy i Arkony. Zjednoczenie wokół wspólnej tożsamości i kościoła.
 - **Przeciwnicy**: Saksonia (silne państwo słowiańskie na Łabie to jej koszmar), Dania (Wagria, Rugia, ujście Łaby), Morawy (Łużyce i Miśnia), Pomorze (rywal o Odrę i Bałtyk).
 - **Sojusznicy**: Francja i Polska (przeciwwaga dla Saksonii i Moraw), Nowogród i Szwecja (handel bałtycki).
+
+### Kwestia sławońska (journal entry)
+Sławończycy są rozcięci między trzy państwa:
+- **Morawy**: północna Panonia,
+- **Chorwacja-Panonia**: Sławonia między Drawą a Sawą (rdzeń tożsamości),
+- **Dacja**: nizina nad Cisą i Banat.
+
+Katolicy, z dialektem sztokawskim. Ich ruch narodowy w XIX wieku może pójść kilkoma drogami:
+- autonomia w każdym z trzech państw,
+- zjednoczenie wszystkich Sławończyków w Chorwacji-Panonii (program Zagrzebia),
+- własne państwo sławońskie w środku Kotliny,
+- asymilacja: Morawianie na północy, Chorwaci w centrum, Rumuni na wschodzie.
+
+Morawy i Dacja grają przeciw Zagrzebiowi, a Zagrzeb gra na wspólnocie wiary i języka.
 
 ### Kwestia Słowiańska (journal entry)
 1. **Zjednoczenie połabskie**: zob. wyżej.

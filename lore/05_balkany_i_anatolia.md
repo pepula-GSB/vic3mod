@@ -58,7 +58,7 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 - **Religia: kraj podzielony.**
   - **Wschód i góry**: prawosławie, z biskupstwem pod patriarchą w Konstantynopolu.
   - **Zachód panoński** (Banat, Kriszana, ziemie nad Cisą): **katolicyzm**, łaciński i unicki. Przyszedł z katolickiej Chorwacji-Panonii przez misje, małżeństwa bojarów i handel. Realnie część Rumunów w Siedmiogrodzie przyjęła unię z Rzymem w 1700 roku i stworzyła Kościół greckokatolicki.
-  - **Sławończycy na zachodzie**: na nizinie nad Cisą i w Banacie żyją katoliccy Sławończycy. To potomkowie Słowian panońskich, którzy byli kiedyś częścią morawskiej Panonii, ale oddzielili się od Morawian i wytworzyli własną tożsamość. Są tym samym ludem co Sławończycy w Chorwacji-Panonii, tylko rozcięci granicą. Stanowią trzon katolickiego zachodu Dacji.
+  - **Sławończycy na zachodzie**: na nizinie nad Cisą i w Banacie żyją katoliccy Sławończycy. To potomkowie Słowian panońskich, którzy byli kiedyś częścią morawskiej Panonii, ale oddzielili się od Morawian i wytworzyli własną tożsamość. Są tym samym ludem co Sławończycy w Chorwacji-Panonii i w morawskiej północnej Panonii, tylko rozcięci granicami trzech państw. Stanowią trzon katolickiego zachodu Dacji.
   - **Skutki**:
     - Katolicki zachód patrzy w stronę Zagrzebia i Rzymu, a prawosławny wschód w stronę Konstantynopola i Bukaresztu.
     - Spór z Chorwacją-Panonią o ziemie nad Cisą ma wymiar wyznaniowy i narodowy: Zagrzeb może grać na katolikach i na wspólnocie ze Sławończykami po swojej stronie granicy.
