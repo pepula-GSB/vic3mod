@@ -74,7 +74,6 @@ F['4_cesarstwo']=svg(f'<rect width="300" height="200" fill="{PURPLE}"/>'+laurel(
 sem=''.join(fleur(x,y,.36,GOLD) for x in range(25,300,42) for y in range(24,200,42) if not (100<x<200 and 36<y<180))
 F['5_burbonowie']=svg(f'<rect width="300" height="200" fill="{BLUE}"/>{sem}<path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="{WHITE}"/><path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="none" stroke="{GOLD}" stroke-width="3"/>'+pelimg(150,116,74)+crown(150,38,.9))
 F['6_wolna']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,190,158)+chain(62,238,152,WHITE))
-F['6b_wolna_palmy']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,192,168,True)+chain(40,260,160,WHITE))
 F['7_komuna']=svg(f'<rect width="300" height="200" fill="{RED}"/>'+laurel(150,100,66,WHITE)+anchor_hammer(150,98,WHITE)+wave(186,WHITE,5))
 F['8_konfederacja']=svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="{RED}"/><rect width="76" height="200" fill="{BLUE}"/>'+star(38,64,16,WHITE)+star(38,136,16,WHITE)+pelimg(188,52,92)+tobacco(188,150,1.0,GOLD,RED))
 import os
