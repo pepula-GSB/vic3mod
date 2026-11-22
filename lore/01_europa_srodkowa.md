@@ -124,8 +124,19 @@ W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi d�
 
 ## Kwestie na start gry
 
+### Zjednoczenie połabskie (journal entry)
+Odpowiednik realnego zjednoczenia Niemiec, tylko na mniejszą skalę i między Łabą a Odrą.
+- **Rdzeń**: Obodrzyce, Wieletia, Stodorania, czyli Połabianie, którzy dzielą język, tradycję i wroga za Łabą.
+- **Rozszerzenie**: Łużyce i Miśnia (Serbołużyczanie, zależni od Moraw). Ich przyłączenie wymaga wyrwania ich z korony morawskiej, co łączy się z kryzysami w koronie (Bezkrólewie śląskie, „Echo w koronie”).
+- **Kandydaci na lidera**:
+  - **Stodorania**: wojsko, front na Łabie, Berlin. Połabski odpowiednik Prus, zjednoczenie „krwią i żelazem”.
+  - **Obodrzyce**: Liubice, pieniądze Hanzy. Zjednoczenie przez unię celną i handel.
+  - **Wieletia**: tradycja Radogoszczy i Arkony. Zjednoczenie wokół wspólnej tożsamości i kościoła.
+- **Przeciwnicy**: Saksonia (silne państwo słowiańskie na Łabie to jej koszmar), Dania (Wagria, Rugia, ujście Łaby), Morawy (Łużyce i Miśnia), Pomorze (rywal o Odrę i Bałtyk).
+- **Sojusznicy**: Francja i Polska (przeciwwaga dla Saksonii i Moraw), Nowogród i Szwecja (handel bałtycki).
+
 ### Kwestia Słowiańska (journal entry)
-1. **Federacja zachodnia**: lechicko-morawsko-panońska, alfabet łaciński, dziedzictwo Cyryla i Metodego.
+1. **Zjednoczenie połabskie**: zob. wyżej.
 2. **Wspólnota prawosławna** pod Litwą-Rusią i Konstantynopolem.
 3. **Państwa narodowe**: Połabianie, Pomorzanie, Prusowie, Słowacy, Sławończycy, Słoweńcy i inni.
 

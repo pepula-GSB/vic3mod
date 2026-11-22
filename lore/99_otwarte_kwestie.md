@@ -23,5 +23,5 @@
 ## Praca techniczna nad modem
 - Przełożenie granic na stany i prowincje Vic3 (obecna mapa jest schematyczna).
 - Lista kultur (np. połabska, pomorska, kaszubska, pruska, śląska, morawska, sławońska, białoruska, nowogrodzka) i religii (kościół morawski, unici haliccy, ibadyci).
-- Projekt journal entries: Kwestia Słowiańska, korona morawska, Bezkrólewie śląskie, Marchia Łaby, ujście Łaby, Kwestia Bałtycka, kwestia grecko-bułgarska, Ułus czy państwo, Wołga, kryzys abolicyjny, spór oregoński, cło sundzkie, Imperium Oceanu Indyjskiego, Koniec sakoku, Ostatni wicekról i inne.
+- Projekt journal entries: Kwestia Słowiańska, zjednoczenie połabskie, korona morawska, Bezkrólewie śląskie, Marchia Łaby, ujście Łaby, Kwestia Bałtycka, kwestia grecko-bułgarska, Ułus czy państwo, Wołga, kryzys abolicyjny, spór oregoński, cło sundzkie, Imperium Oceanu Indyjskiego, Koniec sakoku, Ostatni wicekról i inne.
 - Mapy dla pozostałych kontynentów.
