@@ -217,7 +217,7 @@ W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi d�
 
 ## Królestwo Chorwacko-Panońskie
 - **Terytorium**: Chorwacja, Dalmacja (spór z Wenecją i Austrią), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
-- **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski, ciążą ku Bośni), Bośniacy, mniejszość niemiecka na zachodzie.
+- **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski, ciążą ku Bośni; ten sam lud mieszka też w zachodniej Dacji nad Cisą, więc dla Zagrzebia to irredenta), Bośniacy, mniejszość niemiecka na zachodzie.
 - Nigdy nie było pod Turkami.
 - **Problemy**: jeden naród „iliryjski” czy osobne narody? Granica z Austrią, Dalmacja.
 
