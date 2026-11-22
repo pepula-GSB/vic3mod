@@ -12,7 +12,7 @@ Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i 
 
 **Dewiza flagi 6** (białe litery po okręgu wokół palmy): *NUL N'EST ESCLAVE EN LOUISIANE* („Nikt nie jest niewolnikiem w Luizjanie”), u góry pierwsza część, u dołu *EN LOUISIANE*. W Vic3 napis musi być częścią emblematu (DDS), bo skrypt herbowy nie ma tekstu.
 
-**Wieniec laurowy** (flagi 3, 4 i 7, przebarwiany na zielono, złoto i biało): [wieniec_laurowy.png](../emblematy/wieniec_laurowy.png), od autora moda.
+**Wieniec laurowy** (flagi 3, 4 i 7, przebarwiany na zielono, złoto i biało): [wieniec_laurowy.png](../emblematy/wieniec_laurowy.png), cienki wieniec ze skrzyżowanymi łodygami od autora moda (z craftstarters.com, sprawdzić warunki licencji; źródło małe, powiększone 8×).
 
 Kotwica z młotem i liść tytoniu to na razie proste sylwetki wektorowe do podmiany na ilustracje w tym samym stylu.
 
