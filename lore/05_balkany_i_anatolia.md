@@ -12,12 +12,26 @@
 - **Terytorium**: Konstantynopol, Tracja, Bułgaria, Macedonia, Grecja, Albania, zachodnia Anatolia (wybrzeże egejskie), a na północ od Dunaju **Muntenia z Bukaresztem i Dobrudża** (temat Paristrion, czyli „Naddunajski”).
 - **Dlaczego Muntenia**: pierwsze państwo bułgarskie panowało na północ od Dunaju, Bizancjum miało tu temat Paristrion, a Asenowie, założyciele drugiego państwa bułgarskiego, sami byli Wołochami. Nizina naddunajska od wieków należy do Konstantynopola, a do Dacji przechodzą tylko góry.
 - **Dynastia** bułgarsko-greckiego pochodzenia.
-- **Języki i pisma**: grecki i bułgarski, alfabet grecki obok cyrylicy. Do tego **Wołosi (Rumuni)** w Munteni i Dobrudży, trzeci naród cesarstwa, przyciągany przez Dację.
+- **Języki i pisma**: grecki i bułgarski, alfabet grecki obok cyrylicy. Do tego **Wołosi (Rumuni)** w Munteni i Dobrudży, trzeci naród cesarstwa, przyciągany przez Dację, oraz **Albańczycy** jako czwarty (zob. Albania).
 - **Religia**: prawosławie, z patriarchą konstantynopolitańskim jako centrum całego świata prawosławnego.
 - **Sojusznik**: Litwa-Ruś (wiara i małżeństwa).
 - **Ambicje**: Grikowie na południu Włoch, kontrola cieśnin.
 - **Problemy**: kto jest właścicielem tego państwa, Grecy czy Bułgarzy? Wołosi w Munteni patrzą w stronę Białogrodu. Rozsadzające je od środka nacjonalizmy XIX wieku, Serbia jako rywal, konkurencja Wenecji i Genui w handlu.
 - **Journal entry**: kwestia grecko-bułgarska, z wyborem federacji, hellenizacji albo slawizacji. Wybucha z pełną siłą w czasie Wiosny Ludów (zob. niżej).
+
+## Albania
+- **Bez Osmanów nie ma islamizacji.** Realnie większość Albańczyków przeszła na islam pod panowaniem osmańskim. Tu Albańczycy pozostają chrześcijanami, podzieleni wyznaniowo jak przed podbojem:
+  - **Północ (Gegowie)**: katolicy, ośrodek w Szkodrze, dawne posiadłości weneckie na wybrzeżu (Durrës i Szkodra były weneckie realnie w latach 1392–1479). Górskie klany (Dukagjini, Mirdita) z własnym prawem zwyczajowym (*kanun*) i rządzące się same.
+  - **Południe (Toskowie)**: prawosławni, związani z Konstantynopolem i z Grekami w Epirze.
+- **Historia**: w XIV wieku Albania wchodziła w skład carstwa Duszana, a po jego rozpadzie istniały księstwa albańskie (Kastriotowie, Balszowie, Topia). Bez osmańskiego najazdu nie ma Skanderbega-bohatera wojny z Turkami, ale jego ród Kastriotów mógł zostać jednym z możnych rodów cesarstwa.
+- **W 1836 roku**: część Cesarstwa Bułgarsko-Romejskiego jako **Despotat Epiru i Albanii**. Nawiązuje do realnego Despotatu Epiru (1205–1479), bizantyjskiego państwa sukcesyjnego. To autonomiczna prowincja z albańsko-grecką elitą i stolicą w Janinie, rządzona przez miejscowego despotę w stylu realnego Alego Paszy z Janiny (1788–1822), formalnie wiernego cesarzowi, a w praktyce samodzielnego.
+- **Albańczycy to czwarty naród cesarstwa**, obok Greków, Bułgarów i Wołochów.
+- **Konflikty**:
+  - z Grekami o Epir: grecka hellenizacja kontra albańska odrębność,
+  - z Serbią o Kosowo (mieszane serbsko-albańskie, sporne),
+  - katolicka północ ciąży ku Rzymowi, Wenecji (dziś bawarskiej) i Neapolowi, a Szkodra może szukać obcego protektora,
+  - Arbereszowie w Kalabrii i na Sycylii, czyli albańska diaspora w Neapolu, mogą stać się kolebką albańskiego ruchu narodowego, jak realnie.
+- **Journal entry „Kwestia albańska”**: autonomia despotatu, pełna niepodległość (zwłaszcza w czasie Wiosny Ludów), podział katolickiej północy i prawosławnego południa albo hellenizacja.
 
 ## Wiosna Ludów nad Dunajem (ok. 1848)
 Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszcie (proklamacja z Islaz) i w Jassach, stłumione przez Osmanów i Rosję. Tu wszystkie napięcia nakładają się na siebie.
