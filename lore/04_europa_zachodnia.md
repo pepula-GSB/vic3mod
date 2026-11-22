@@ -110,3 +110,20 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
   - **Parma i Modena**.
   - **Państwo Kościelne**.
   - **Królestwo Obojga Sycylii**: Burbonowie.
+
+### Królestwo Obojga Sycylii
+- **Droga do 1836 roku**: Normanowie, Hohenstaufowie, Andegaweni, nieszpory sycylijskie (1282) i Sycylia pod Aragonią, a od 1442 roku także Neapol. Potem hiszpańscy Habsburgowie, w 1700 roku na krótko Habsburgowie burgundzcy, a od 1734 roku **burbońska linia boczna** (Karol Burbon, jak realnie). W 1836 roku panuje Ferdynand II, absolutysta i modernizator.
+- **Dziedzictwo aragońskie**: Sycylia i Neapol to dawne ziemie Korony Aragońskiej, z silnymi więziami z Katalonią i Walencją (kupcy, prawo, szlachta). Sycylia miała **własny parlament i prawa**, które Burbonowie zlikwidowali w 1816 roku przy połączeniu obu królestw, jak realnie. To lustrzane odbicie sporu o Koronę Aragońską w Hiszpanii.
+- **Malta**: Zakon Joannitów do 1798 roku, potem Napoleon. Bez silnej Anglii wyspa wraca w 1815 roku pod zwierzchnictwo Sycylii, dawnego seniora zakonu.
+- **Sąsiedzi**:
+  - Państwo Kościelne na północy.
+  - Toskania (Habsburgowie burgundzcy) i Bawaria z Wenecją na Adriatyku jako rywale.
+  - **Konstantynopol** za Adriatykiem: Grikowie (grekojęzyczni) w Kalabrii i Salento oraz Arbereszowie (Albańczycy obrządku bizantyjskiego) to romejska irredenta.
+  - Berberyjscy korsarze z Tunisu i Trypolisu, słabsi niż realnie, bo Osmanowie są skierowani na wschód.
+- **Sojusze**: Madryt (ta sama dynastia), Francja (Burbonowie, ale Ludwik Filip jest Orleańczykiem, więc chłodno).
+- **Problemy w 1836 roku**: epidemia cholery w Neapolu (1836–1837, jak realnie), karbonariusze i liberałowie, nędza południa, sycylijski separatyzm.
+- **Kolej**: realnie pierwsza kolej we Włoszech to linia Neapol–Portici z 1839 roku. Tu też powstaje jako prestiżowy projekt Ferdynanda II.
+- **Journal entries**:
+  - **„Prawa sycylijskie”**: przywrócenie parlamentu sycylijskiego, autonomia albo secesja Palermo (realnie Sycylia ogłosiła niepodległość w 1848 roku).
+  - **„Romejska irredenta”**: Konstantynopol kontra Neapol o Kalabrię i Salento.
+  - **„Kwestia włoska”**: Obojga Sycylii jako główna przeszkoda dla zjednoczenia pod Piemontem.
