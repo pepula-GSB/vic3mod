@@ -17,7 +17,34 @@
 - **Sojusznik**: Litwa-Ruś (wiara i małżeństwa).
 - **Ambicje**: Grikowie na południu Włoch, kontrola cieśnin.
 - **Problemy**: kto jest właścicielem tego państwa, Grecy czy Bułgarzy? Wołosi w Munteni patrzą w stronę Białogrodu. Rozsadzające je od środka nacjonalizmy XIX wieku, Serbia jako rywal, konkurencja Wenecji i Genui w handlu.
-- **Journal entry**: kwestia grecko-bułgarska, z wyborem federacji, hellenizacji albo slawizacji.
+- **Journal entry**: kwestia grecko-bułgarska, z wyborem federacji, hellenizacji albo slawizacji. Wybucha z pełną siłą w czasie Wiosny Ludów (zob. niżej).
+
+## Wiosna Ludów nad Dunajem (ok. 1848)
+Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszcie (proklamacja z Islaz) i w Jassach, stłumione przez Osmanów i Rosję. Tu wszystkie napięcia nakładają się na siebie.
+
+**Iskra: Bukareszt.** Wołoscy liberałowie i studenci (wykształceni w Paryżu) ogłaszają program narodowy: autonomia Munteni, prawa dla języka rumuńskiego, zniesienie pańszczyzny, a dla radykałów przyłączenie do Dacji.
+
+**Fala rozlewa się:**
+- **Mołdawia** (pod Haliczem): powstanie w Jassach, żądania unii z Dacją.
+- **Dacja**: entuzjazm, ochotnicy przez Karpaty, a rząd w Białogrodzie stoi przed dylematem, czy otwarcie wesprzeć rewolucję (wojna z Konstantynopolem i Haliczem), czy tylko pomagać po cichu.
+- **Cesarstwo Bułgarsko-Romejskie**: Wołosi dają przykład. **Bułgarzy** żądają równouprawnienia z Grekami (własny patriarchat, język w szkołach i urzędach), **Grecy** odpowiadają hasłem hellenizacji. Groźba rozpadu na trzy narody.
+- **Serbia**: wspiera ruchy antygreckie i liczy na Macedonię.
+- **Chorwacja-Panonia**: ruch iliryjski i spór o ziemie nad Cisą z Dacją.
+
+**Kto tłumi:**
+- Konstantynopol wysyła wojsko do Bukaresztu.
+- **Litwa-Ruś** jako prawosławny sojusznik może interweniować tak jak realna Rosja w 1848 roku (Wołoszczyzna, Węgry) i ratować cesarstwo.
+- Halicz tłumi Mołdawię, ale jako państwo unickie jest wobec prawosławnych Mołdawian słabszy.
+
+**Wsparcie dla rewolucji**: Dacja, francuscy republikanie po rewolucji lutowej (jeśli Francja ją przechodzi), Serbia (tylko przeciw Grekom), ochotnicy z Chorwacji i Polski.
+
+**Możliwe wyniki (journal entry „Wiosna Ludów nad Dunajem”):**
+1. **Stłumienie**: cesarstwo przetrwa, ale z represjami i rosnącym radykalizmem. Następna fala będzie silniejsza.
+2. **Reforma cesarstwa**: federacja trzech narodów (Grecy, Bułgarzy, Wołosi) z autonomią i osobnymi sejmami.
+3. **Wielka Dacja**: Muntenia i Mołdawia przechodzą do Dacji po wojnie z Konstantynopolem i Haliczem.
+4. **Rozpad**: osobna Bułgaria, Wielka Grecja i Dacja, czyli koniec Cesarstwa Bułgarsko-Romejskiego.
+
+**Powiązania**: w tych samych latach wypadają Bezkrólewie śląskie (śmierć księcia ok. 1845 roku), „Echo w koronie” morawskiej, konfederacja lubelska i wyścig kolejowy. Rok 1848 może zapalić całą Europę Środkową naraz.
 
 ## Serbia
 - Silniejsza, bo przez stulecia nie musiała walczyć z Węgrami. Carstwo Duszana było jeszcze większe.
