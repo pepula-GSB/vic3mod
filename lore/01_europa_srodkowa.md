@@ -68,7 +68,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Miasta**: Miśnia, Drezno, Lipsk.
 - **Pozycja**: bogaty wasal z węglem i rudami (Rudawy) oraz targami w Lipsku. Granica z Niemcami na Soławie (Saale), stale zagrożona z Turyngii.
 
-W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącym liberum veto wobec zwierzchnika. Journal entry: centralizacja kontra federalizacja korony morawskiej.
+W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi dążeniami do autonomii. Journal entry: centralizacja kontra federalizacja korony morawskiej.
 
 ## Królestwo Chorwacko-Panońskie
 - **Terytorium**: Chorwacja, Dalmacja (spór z Wenecją i Austrią), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
