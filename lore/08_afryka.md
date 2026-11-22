@@ -45,7 +45,7 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 - **Bejlik Konstantyny** (Ahmed Bej) na wschodzie, jak realnie. Francuzi oblegają go w latach 1836–1837.
 
 ### Tunezja: Hafsydzi przetrwali
-- Realnie Karol V zdobył Tunis w 1535 roku i zrobił z Hafsydów swoich wasali, a Osmanowie zajęli kraj w 1574 roku. Tu Osmanowie są zbyt słabi na zachodzie, więc **Hafsydzi przetrwali** jako wasale Hiszpanii, a potem jako sułtanat pod opieką Hiszpanii i Neapolu.
+- Realnie Karol V (cesarz i zarazem król Hiszpanii) zdobył Tunis w 1535 roku i zrobił z Hafsydów swoich wasali, a Osmanowie zajęli kraj w 1574 roku. Tu Karol z Gandawy ma tylko Burgundię i cesarstwo, więc wyprawę na Tunis prowadzi **hiszpański król Ferdynand** (jego brat, założyciel hiszpańskiej gałęzi Habsburgów). Osmanowie są zbyt słabi na zachodzie, więc **Hafsydzi przetrwali** jako wasale Hiszpanii, a potem jako sułtanat pod opieką Hiszpanii i Neapolu.
 - **W 1836 roku**: niezależny sułtanat hafsydzki z silnymi więziami z Sycylią i Maltą, z wieloma sycylijskimi i maltańskimi kupcami i rybakami.
 - **Zagrożenia**: Francja z Algierii (Bizerta to strategiczny port), Osmanowie z Trypolisu.
 
