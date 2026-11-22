@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024"><rect width="300" height="100" fill="#f7f4ec"/><rect y="100" width="300" height="100" fill="#b8282e"/><rect width="70" height="200" fill="#1f3f8f"/><polygon points="35.00,50.00 38.70,59.90 49.27,60.36 40.99,66.95 43.82,77.14 35.00,71.30 26.18,77.14 29.01,66.95 20.73,60.36 31.30,59.90" fill="#f7f4ec"/><polygon points="35.00,120.00 38.70,129.90 49.27,130.36 40.99,136.95 43.82,147.14 35.00,141.30 26.18,147.14 29.01,136.95 20.73,130.36 31.30,129.90" fill="#f7f4ec"/><g transform="translate(185,58) scale(0.75)" stroke="#1b2a55" stroke-width="1.6" stroke-linejoin="round">
+<path d="M-4,4 L-34,-26 L-26,-10 L-40,-14 L-22,10Z" fill="#f7f4ec"/>
+<path d="M12,4 L42,-26 L34,-10 L48,-14 L30,10Z" fill="#f7f4ec"/>
+<ellipse cx="5" cy="12" rx="18" ry="12" fill="#f7f4ec"/>
+<path d="M-6,6 C-15,-4 -12,-18 -3,-21" fill="none" stroke-width="5" stroke="#1b2a55"/>
+<path d="M-6,6 C-15,-4 -12,-18 -3,-21" fill="none" stroke-width="3" stroke="#f7f4ec"/>
+<circle cx="-3" cy="-22" r="5.5" fill="#f7f4ec"/>
+<path d="M-7,-23 L-30,-13 L-7,-17Z" fill="#d9a92b"/>
+<circle cx="-2" cy="-23" r="1.1" fill="#1b2a55" stroke="none"/></g><g transform="translate(185,150) scale(1.05)"><path d="M0,-34 C22,-20 22,18 0,34 C-22,18 -22,-20 0,-34Z" fill="#d9a92b"/><path d="M0,-30 L0,34 M0,-10 L-10,-18 M0,-10 L10,-18 M0,8 L-12,0 M0,8 L12,0" stroke="#7a5a10" stroke-width="1.6" fill="none"/></g></svg>
