@@ -12,7 +12,7 @@
 
 ## Ustalone
 - **Chanat Krymski**: wasal osmański.
-- **Dynastia śląska**: Przemyślidzi opawscy.
+- **Dynastia śląska**: Przemyślidzi wrocławscy (boczna gałąź czeskich Przemyślidów).
 - **Kolonia duńska w Afryce**: Peberkysten, ze stolicą we Frederiksnopel.
 - **Abolicja w Anglii**: w 1836 roku jeszcze nie ma. To temat debaty na start gry.
 - **Anglia i Szkocja**: tylko unia personalna, bez wspólnego parlamentu.
