@@ -16,6 +16,7 @@ Wnętrze jak realnie. Zmiany wynikają z holenderskiego Przylądka, słabszej An
   - Baza duńskich patroli przeciw handlowi niewolnikami.
   - Język codzienny: negerhollands i języki lokalne.
 - **Złote Wybrzeże**: forty duńskie (najsilniejsze, Christiansborg), holenderskie, angielskie (Cape Coast) i burgundzkie (dawne miejsce Gross Friedrichsburg).
+- **Fernando Po (Bioko) i Annobón: piemonckie.** Realnie Portugalia oddała je Hiszpanii w 1778 roku, a ta prawie nic z nimi nie zrobiła. Tu Hiszpania przekazuje je Genui (spłata długów i wzmocnienie sojusznika), a od 1815 roku są piemonckie. Baza handlowa i stacja dla statków w Zatoce Gwinejskiej: olej palmowy, kakao (później), uzupełnianie zapasów. To włoskie okno na Afrykę Zachodnią i ewentualnie na Kongo.
 - **Wnętrze**: kalifat Sokoto, Masyna, państwa hausa, Aszanti, Dahomej, Benin.
 
 ## Afryka Środkowa: Kongo

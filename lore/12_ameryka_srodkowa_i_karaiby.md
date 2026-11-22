@@ -43,8 +43,10 @@ Mozaika wielu flag. Przyczyny:
 ### Burgundia
 - **Saint Lucia**, zdobyta na Francji przez kaprów z Dunkierki.
 
-### Trynidad
-- Hiszpański albo sporny. Realnie Brytyjczycy zdobyli go w 1797 roku, a tu nie mieli siły.
+### Piemont (dawniej Genua): Trynidad
+- **Skąd**: genueńscy bankierzy finansowali Hiszpanię przez XVI i XVII wiek i przy kolejnych bankructwach (1557, 1575, 1596, 1607, 1627) brali zastawy. W 1627 roku Hiszpania spłaca część długu **zaniedbanym Trynidadem**. Od 1815 roku wyspa jest piemoncka razem z Genuą. (Realnie Trynidad był hiszpański do 1797 roku, potem brytyjski.)
+- **Gospodarka**: plantacje cukru i kakao. Genueńczycy sprowadzają osadników z Ligurii i Korsyki, kupców i rzemieślników. Pracują niewolnicy, a Piemont nie zniósł niewolnictwa.
+- **Pozycja**: włoski przyczółek u ujścia Orinoko, tuż obok hiszpańskiej Nowej Granady i niepodległej Wenezueli. Hiszpańska flota z Hawany chroni sojusznika, a Wenezuela patrzy na wyspę łakomie.
 
 ## Ameryka Środkowa
 

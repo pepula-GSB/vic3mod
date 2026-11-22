@@ -104,7 +104,7 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
 - Wenecja walczy o Dalmację z Chorwacją, a na wschodzie ma żywy Konstantynopol.
 - Grikowie w Kalabrii i Salento: romejska irredenta Konstantynopola.
 - **W 1836 roku**:
-  - **Piemont-Sardynia**: Piemont, Sabaudia, Nicea, Lombardia, Genua, Sardynia, a za morzem genueńskie **Tabarka** (okno na Algierię) i **Dżerba** (okno na Libię) w Tunezji, piemonckie od 1815 roku. Silny start do zjednoczenia.
+  - **Piemont-Sardynia**: Piemont, Sabaudia, Nicea, Lombardia, Genua, Sardynia, a za morzem dawne kolonie genueńskie, piemonckie od 1815 roku: **Tabarka** (okno na Algierię) i **Dżerba** (okno na Libię) w Tunezji, **Trynidad** na Karaibach oraz **Fernando Po i Annobón** w Zatoce Gwinejskiej. Trynidad i wyspy gwinejskie Hiszpania oddała Genui w spłacie długów. Silny start do zjednoczenia.
     - **Bogaty**: Lombardia (Mediolan, jedwab, rolnictwo doliny Padu, banki) i Genua (port, flota, kapitał) czynią z Piemontu najbogatsze państwo włoskie.
     - **Strategiczny sojusznik Hiszpanii**: wspólny wróg to Francja (Algieria: hiszpański Oran na zachodzie, piemoncka Tabarka na wschodzie, a Francja w środku). Do tego wspólna kontrola zachodniego Morza Śródziemnego (Sardynia, Baleary, Genua, Barcelona) i wspólny interes w Tunezji. Hiszpania ma armię i imperium, Piemont pieniądze i flotę genueńską.
     - **Napięcie w sojuszu**: Piemont chce zjednoczyć Włochy, a więc kiedyś zabrać Neapol Burbonom, czyli krewnym króla Hiszpanii. Madryt musi wybierać między sojusznikiem a rodziną.
