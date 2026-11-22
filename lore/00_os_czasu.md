@@ -22,6 +22,7 @@
 - Litwa-Ruś przyjmuje prawosławie z Konstantynopola i zostaje w całości (nie ma unii z Polską ani rozpadu).
 - Państwa nadbałtyckie i połabskie (Polska, Pomorze, Prusy, Obodrzyce, Wieletia, Stodorania) utrwalają się jako osobne, słowiańskie i bałtyckie państwa z miejscowymi dynastiami. Nie ma germanizacji.
 - Wiklif inspiruje ruch husycki, który na Morawach jest dużo silniejszy. Powstaje **morawska reformacja** sto lat przed Lutrem.
+- **XV wiek**: Polska (Poznań) przyjmuje husycki kościół narodowy. Mazowsze zostaje katolickie i przyjmuje uciekającego prymasa. Wojny husyckie na ziemiach polskich przekreślają zjednoczenie i utrwalają podział na Polskę i Mazowsze. Wschód Polski (Lublin, Przemyśl) zostaje katolicki.
 - Osmanowie rosną w Anatolii, ale Cesarstwo Bułgarsko-Romejskie trzyma cieśniny. **Konstantynopol nie upada w 1453 roku**, więc nie powstaje idea Trzeciego Rzymu.
 - Moskwa jako poborca Złotej Ordy staje się zdecentralizowanym, rusko-tatarskim dziedzicem chanów, a jej wschód się islamizuje.
 - **1569**: Osmanowie zdobywają Astrachań i budują kanał Don–Wołga (realnie ta wyprawa się nie udała). Granica z Moskwą biegnie odtąd na Wołdze.

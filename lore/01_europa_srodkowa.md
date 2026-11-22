@@ -18,7 +18,12 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
   - zachodni Wołyń (Włodzimierz, Kowel) i Chełm.
 - **Pozycja**: rozciągnięte, śródlądowe państwo w kształcie rogala, z Mazowszem w środku. Nie ma morza (Gdańsk jest pomorski), Krakowa (morawski), Śląska ani Warszawy. Długie, trudne do obrony granice z każdym sąsiadem. Tytuł „Królestwa Polskiego” i korona z Gniezna dają mu prestiż.
 - **Ustrój**: dziedziczna monarchia z silnym sejmem szlacheckim.
-- **Społeczeństwo**: szlachta, chłopi pańszczyźniani, duża społeczność żydowska w miastach (przywileje od statutu kaliskiego z 1264 roku), protestanci pod wpływem morawskim (bracia czescy w Lesznie).
+- **Religia: Polska jest husycka.**
+  - Ruch husycki przyszedł z Moraw w XV wieku. Realnie Wielkopolska miała silne sympatie husyckie (Jan Ostroróg, Abraham ze Zbąszynia), a później stała się ośrodkiem braci czeskich (Leszno).
+  - Tu król w Poznaniu przyjmuje **husycki kościół narodowy** (komunia pod dwiema postaciami, liturgia po polsku, kościół podporządkowany Koronie). Robi to na wzór Moraw i dla majątków kościelnych.
+  - Katolicki arcybiskup Gniezna ucieka na Mazowsze. Koronacje w Gnieźnie odprawia odtąd duchowieństwo husyckie.
+  - **Wschód Polski (Lubelszczyzna, Zamość, Przemyśl) zostaje katolicki.** Magnaci obronili tam dawną wiarę, a jezuici przychodzą z Mazowsza. Chłopi rusińscy są unitami i prawosławnymi.
+- **Społeczeństwo**: szlachta, chłopi pańszczyźniani, duża społeczność żydowska w miastach (przywileje od statutu kaliskiego z 1264 roku).
 - **Gospodarka**: zboże z folwarków, sukno wielkopolskie, sól kujawska, rodzące się włókiennictwo w Łodzi. **Zboże płynie Wisłą do pomorskiego Gdańska**, więc Polska płaci Gryfitom cła od całego eksportu.
 - **Po 1815 roku**: przegrała razem z Napoleonem i została obciążona kontrybucjami. Jest upokorzona, rewizjonistyczna i dalej związana z Francją.
 - **Roszczenia**:
@@ -61,7 +66,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
     - **Skutki**:
       - Polska linia pierwsza: cło warszawskie traci znaczenie, Mazowsze ma kryzys skarbu, a unia z Polską staje się bardziej prawdopodobna.
       - Mazowiecka linia pierwsza: Warszawa staje się węzłem regionu, Mazowsze rośnie w siłę, a Polska zostaje z drogim cłem i pomorskimi opłatami.
-        - **Konfederacja lubelska**: wschodnia połówka Polski (Lublin, Zamość, Przemyśl, Sanok, Chełm, Wołyń) ma tańszą i szybszą drogę do morza przez Warszawę i Tuwangste niż przez cały rogal do Gdańska. Magnaci, kupcy i część szlachty zawiązują konfederację (stara polska tradycja zbrojnego związku szlachty) i żądają lepszych warunków albo przejścia pod Mazowsze.
+        - **Konfederacja lubelska**: wschodnia połówka Polski (Lublin, Zamość, Przemyśl, Sanok, Chełm, Wołyń) ma tańszą i szybszą drogę do morza przez Warszawę i Tuwangste niż przez cały rogal do Gdańska. **Jest też katolicka, jak Mazowsze**, a od husyckiego Poznania dzieli ją wiara, prawo i interesy. Pieniądze i religia ciągną w tę samą stronę. Magnaci, kupcy i część szlachty zawiązują konfederację (stara polska tradycja zbrojnego związku szlachty) i żądają lepszych warunków albo przejścia pod Mazowsze.
         - **Wydarzenia**:
           - Mazowsze buduje odnogę Warszawa–Lublin i kusi niższymi podatkami oraz cłami.
           - Sejmik lubelski grozi zerwaniem z Poznaniem.
@@ -83,8 +88,12 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Dynastia**: Piastowie mazowieccy (realnie rządzili Mazowszem do 1526 roku, tu trwają).
 - **Stolica**: Warszawa (realnie książęca stolica od 1413 roku), dawniej Płock.
 - **Terytorium**: Mazowsze (Płock, Warszawa, Czersk, Ciechanów, Rawa), ziemia dobrzyńska. Państwo jest otoczone polskim rogalem od zachodu, południa i wschodu.
-- **Pozycja**: osobne państwo od średniowiecznego rozbicia dzielnicowego. Nigdy nie zostało wcielone z powrotem do Polski.
-- **Tożsamość**: Mazurzy (Mazowszanie) mają silną odrębność. Uważają się za Polaków, ale nie za poddanych Poznania.
+- **Pozycja**: osobne państwo od średniowiecznego rozbicia dzielnicowego. Wcielenie do Polski było blisko w XV wieku, ale przekreśliła je religia.
+- **Religia: Mazowsze jest katolickie** i jest twierdzą katolicyzmu na ziemiach polskich.
+  - Kiedy Poznań przeszedł na husytyzm, Piastowie mazowieccy zostali przy Rzymie. Przyjęli uciekającego **arcybiskupa gnieźnieńskiego, prymasa**, który od tamtej pory rezyduje w Warszawie albo Łowiczu (realnie dobra prymasowskie).
+  - Wojny husyckie na ziemiach polskich w XV i XVI wieku utrwaliły granicę. Od tego czasu Mazowsze uważa się za **„prawdziwą, katolicką Polskę”**, a Poznań za heretycką koronę.
+  - Ma poparcie papieża, Francji (dopóki nie chodzi o politykę antymorawską), Burgundii i Bawarii.
+- **Tożsamość**: Mazurzy (Mazowszanie) mają silną odrębność. Uważają się za Polaków, ale nie za poddanych heretyckiego Poznania.
 - **Gospodarka**: zboże, drewno, spław Wisłą i Bugiem. Warszawa rośnie jako ośrodek handlu między Polską, Litwą-Rusią i Prusami.
 - **Konflikty**:
   - Polska: otacza Mazowsze z trzech stron, co rodzi stałą presję i podejrzliwość,
