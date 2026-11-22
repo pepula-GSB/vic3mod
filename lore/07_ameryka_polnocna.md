@@ -3,7 +3,7 @@
 W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części, a jedynym niepodległym państwem kontynentu (poza Meksykiem) jest Nowa Francja, obok republiki Luizjany.
 
 ## Królestwo Nowej Francji
-- **Terytorium**: Quebec, Akadia (bez wypędzenia Akadyjczyków w 1755 roku), Wielkie Jeziora, dolina Ohio na północ od rzeki (Ohio, Indiana, Michigan, Zachodnia Wirginia), wschodni brzeg Missisipi w Kraju Illinois. Szlaki traperskie przez prerie aż do rzeki Columbia, ale bez posiadania tych ziem (zob. Spór oregoński).
+- **Terytorium**: Quebec, Akadia (bez wypędzenia Akadyjczyków w 1755 roku), Wielkie Jeziora, dolina Ohio na północ od rzeki (Ohio, Indiana, Michigan, Zachodnia Wirginia). Bez Kraju Illinois, który jest luizjański. Szlaki traperskie przez prerie aż do rzeki Columbia, ale bez posiadania tych ziem (zob. Spór oregoński).
 - **Krainy**:
   - **Quebec i dolina Świętego Wawrzyńca**: rdzeń, z Quebekiem, Montrealem i Trzema Rzekami, z półwyspem Gaspé i północnym brzegiem zatoki aż do Blanc-Sablon. Na północy granica biegnie mniej więcej wzdłuż 52. równoleżnika, a dalej jest duński Labrador i Nunavik.
   - **Akadia**: Nowa Szkocja i Nowy Brunszwik bez wypędzenia Akadyjczyków.
@@ -14,7 +14,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 - **Powstanie**: katolicki Quebec odrzuca rewolucję (sekularyzacja, egzekucja króla w 1793 roku). Burbonowie na emigracji (np. hrabia d'Artois) uciekają do Quebecu, jak dwór portugalski do Brazylii. Po 1815 roku linia z Quebecu nie wraca pod Paryż, jak Brazylia w 1822 roku.
 - **Ustrój**: konserwatywna monarchia katolicka, wroga wobec Paryża Ludwika Filipa.
 - **Ludność**: 1–2 mln (Francja inwestowała w kolonie).
-- **Spory**: Kraj Illinois z Luizjaną (Missisipi dzieli go na pół: wschodni brzeg z Kaskaskią jest francuski, a zachodni ze St. Louis luizjański, jak realnie po 1763 roku), granica na rzece Ohio z luizjańskim Kentucky, Oregon.
+- **Spory**: Kraj Illinois z Luizjaną (Quebec uważa go za swój, bo zasiedlili go Kanadyjczycy), granica na rzece Ohio i Wabash z Luizjaną, Oregon.
 
 ## Republika Luizjany
 - **Powstanie**: w 1794 roku Francja znosi niewolnictwo, a plantatorzy ogłaszają secesję, żeby je utrzymać. Nie łączą się z Quebekiem. Napoleon traci Haiti (1804) i nie ma komu sprzedać Luizjany.
@@ -23,7 +23,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **Alabama** z Mobile, francuskim od 1702 roku. Spór z Hiszpanią o Florydę Zachodnią dotyczy już tylko Pensacoli,
   - **Tennessee** bez gór na wschodzie (ziemie Czirokezów),
   - **Kentucky**: aż po rzekę Ohio, za którą zaczyna się Nowa Francja,
-  - **Missouri ze St. Louis**: dawna Górna Luizjana, rządzona z Nowego Orleanu.
+  - **Missouri ze St. Louis i cały Kraj Illinois** (Kaskaskia, Cahokia, Peoria): dawna Górna Luizjana, rządzona z Nowego Orleanu. Ludność Kraju Illinois to potomkowie kanadyjskich osadników, więc jest tam silny sentyment do Quebecu.
 - **Ustrój**: oligarchiczna republika plantatorów. Cenzus majątkowy, zgromadzenie w Nowym Orleanie wybiera prezydenta. Niewolnictwo legalne (Code Noir), katolicyzm jako religia państwowa, prawo francuskie.
 - **Imigracja zamiast „amerykańskiego snu”**: państwo ściąga białych osadników (nadania ziemi na pograniczu), żeby zrównoważyć większość niewolniczą:
   - Niemcy z Palatynatu, Badenii i Szwabii (Côte des Allemands),
@@ -40,7 +40,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - reszta: Hiszpanie, Kanaryjczycy, Irlandczycy, ludy tubylcze (Choctaw, Caddo, Osage, Quapaw).
 - **Partie**: plantatorska (delta, Kościół, niewolnictwo) kontra farmerska (pogranicze, Niemcy, bonapartyści, rozszerzenie prawa wyborczego).
 - **Mechaniki**: zob. [design/luizjana.md](../design/luizjana.md).
-- **Problemy**: ryzyko powstania niewolników, anglosaska enklawa, która może się odłączyć („Teksas w odwrotną stronę”), Kraj Illinois i granica na Ohio z Nową Francją, Teksas, Pensacola.
+- **Problemy**: ryzyko powstania niewolników, anglosaska enklawa, która może się odłączyć („Teksas w odwrotną stronę”), Kraj Illinois (kanadyjscy osadnicy) i granica na Ohio z Nową Francją, Teksas, Pensacola.
 
 ## Dominium Nowej Anglii (Anglia)
 - Massachusetts, Connecticut, Rhode Island, New Hampshire, Maine. Jedna jednostka od 1686 roku.
