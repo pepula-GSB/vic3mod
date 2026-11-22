@@ -2,7 +2,7 @@
 
 ## 895–1000: nowy układ Europy Środkowej
 - **ok. 895**: Madziarzy odpierają Pieczyngów i zostają w Etelközie jako sojusznik Bizancjum. Bułgaria ma wroga na północy.
-- **po 906**: Wielkie Morawy przetrwają. Wchłaniają Czechy, Małopolskę z Krakowem (ziemie Białych Chorwatów) i północną Panonię.
+- **po 906**: Wielkie Morawy przetrwają. Podporządkowują sobie Czechy (Przemyślidzi jako lennicy), Łużyce i Miśnię (jako margrabstwa zależne), wchłaniają Małopolskę z Krakowem (ziemie Białych Chorwatów) i północną Panonię.
 - Panonia się slawizuje: księstwo nad Balatonem (Błatnogród) i Dolna Panonia (Sławonia). Bawarczycy kolonizują tylko zachodni skraj (Wiedeń, Burgenland).
 - Nie ma bitwy nad Lechem (955), więc królestwo wschodniofrankijskie jest słabsze i luźniejsze. Marchie niemieckie na wschodzie upadają, bo Słowianie połabscy mają wsparcie Moraw.
 - **1018**: Bizancjum podbija osłabioną Bułgarię (łatwiej niż realnie).

@@ -42,18 +42,33 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Terytorium**: Hawela, Szprewia, Brenna (Brandenburg), Berlin, Kopanica (Köpenick).
 - **Pozycja**: państwo frontowe na granicy z Niemcami (Magdeburg). Najbardziej zmilitaryzowane z państw połabskich.
 
-### Łużyce i Miśnia
-- **Ludność**: Serbołużyczanie (Milczanie, Łużyczanie, Głomacze).
-- **Miasta**: Budyšin, Chóśebuz, Miśnia, Drezno, Lipsk.
-- **Pozycja**: margrabstwo w Królestwie Morawskim (do decyzji: osobne księstwo czy część Moraw).
-
 ## Królestwo Morawskie
-- **Terytorium**: Morawy, Czechy, Słowacja, Śląsk, Małopolska z Krakowem, północna Panonia, Łużyce i Miśnia.
-- **Stolica**: Welehrad lub Brno, Praga jako drugie miasto.
+- **Dynastia**: Mojmirowice.
+- **Terytorium bezpośrednie**: Morawy, Słowacja, Śląsk, Małopolska z Krakowem, północna Panonia.
+- **Stolica**: Welehrad lub Brno.
 - **Religia**: protestancki kościół narodowy (husycko-morawski), z tradycją liturgii Cyryla i Metodego.
-- **Gospodarka**: najbardziej uprzemysłowione państwo regionu (węgiel śląski i saski).
+- **Gospodarka**: najbardziej uprzemysłowione państwo regionu (węgiel śląski, a w zależnej Miśni także saski).
 - **Rola**: lider zachodniego panslawizmu i główna lądowa siła koalicji antynapoleońskiej. Największa potęga słowiańska na zachodzie.
-- **Problemy**: jeden naród morawski czy osobni Czesi, Słowacy i Małopolanie? Spór z Polską o Kraków. Wieczna granica z Austrią.
+- **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Lojalność państw zależnych. Spór z Polską o Kraków. Wieczna granica z Austrią.
+
+### Państwa zależne od Moraw
+
+**Królestwo (Księstwo) Czeskie**
+- **Dynastia**: Przemyślidzi jako lennicy Mojmirowiców, od czasu, gdy Wielkie Morawy podporządkowały sobie Czechy w X wieku.
+- **Terytorium**: Czechy. Stolica w Pradze.
+- **Pozycja**: najsilniejszy i najbardziej samodzielny wasal. Praga rywalizuje z Welehradem o prestiż. Silny ruch na rzecz pełnej niezależności albo zamiany ról, czyli przywództwa Pragi w państwie.
+
+**Margrabstwo Łużyckie**
+- **Ludność**: Serbołużyczanie (Łużyczanie, Milczanie).
+- **Miasta**: Budyšin, Chóśebuz, Zgorzelec.
+- **Pozycja**: wasal graniczny między Morawami a państwami połabskimi. Stodorania i Wieletia uważają Łużyczan za bliskich krewnych.
+
+**Margrabstwo Miśnieńskie**
+- **Ludność**: Serbołużyczanie (Głomacze i inni).
+- **Miasta**: Miśnia, Drezno, Lipsk.
+- **Pozycja**: bogaty wasal z węglem i rudami (Rudawy) oraz targami w Lipsku. Granica z Niemcami na Soławie (Saale), stale zagrożona z Turyngii.
+
+W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącym liberum veto wobec zwierzchnika. Journal entry: centralizacja kontra federalizacja korony morawskiej.
 
 ## Królestwo Chorwacko-Panońskie
 - **Terytorium**: Chorwacja, Dalmacja (spór z Wenecją i Austrią), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
