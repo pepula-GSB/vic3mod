@@ -27,7 +27,30 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
   - Opolszczyzna i Wschowa (Śląsk, do tego polski kandydat w Bezkrólewiu śląskim),
   - ziemia chełmińska (Prusy),
   - Mazowsze, bo „to też Polska”.
-- **Journal entries**: „Wisła do morza” (Gdańsk i cła), „Korona Chrobrego” (zjednoczenie ziem polskich, przede wszystkim z Mazowszem), „Sejm i król”, „Kwestia pańszczyźniana”.
+- **Sytuacja wewnętrzna w 1836 roku**:
+  - **Dwie połówki rogala**:
+    - Zachód (Wielkopolska, Kujawy, Łódź) jest bogatszy, bardziej miejski, z protestancką mniejszością, suknem i handlem z Pomorzem i Miśnią.
+    - Wschód (Lubelszczyzna, Przemyśl, Wołyń) to magnaci, wielkie latyfundia, rusińscy chłopi (unici i prawosławni) i duża społeczność żydowska.
+    - Obie połowy łączy tylko wąski pas przez Łódź, Częstochowę i Radom. Każda ma swoje stronnictwo w Sejmie.
+  - **Sejm i król**: po klęsce z 1815 roku i kontrybucjach liberalna szlachta z Wielkopolski żąda konstytucji. Magnaci ze wschodu bronią przywilejów i pańszczyzny. Król lawiruje.
+  - **Kwestia rusińska**: rusińscy chłopi na wschodzie patrzą w stronę Halicza i Litwy-Rusi.
+
+### Kość niezgody: Wisła i cło warszawskie
+- Polskie zboże ze wschodniej połowy płynie Wisłą z Sandomierza i Kazimierza **przez mazowiecką Warszawę i Płock** do polskiego Torunia, a potem do pomorskiego Gdańska. Polska płaci **dwa obce cła**: mazowieckie w Warszawie i pomorskie w Gdańsku.
+- Lądowa droga z Poznania do Lublina też biegnie najkrócej przez Mazowsze. Okrążanie go przez Łódź i Radom jest drogie i powolne.
+- **Most w Warszawie** jest jedyną stałą przeprawą na środkowej Wiśle. Kto go kontroluje, decyduje o handlu i ruchach wojsk.
+- **Dla Mazowsza** cło wiślane to podstawa skarbu i dumy. **Dla Polski** to upokorzenie i drenaż pieniędzy, które przypominają jej, że jest rozcięta na pół.
+
+- **Journal entries**:
+  - **„Cło warszawskie”** (wspólne dla Polski i Mazowsza). Możliwe wyniki:
+    - unia celna (kompromis, a z czasem może unia personalna),
+    - wojna o Wisłę,
+    - obejście Mazowsza kanałem lub drogą przez Łódź i Radom (drogie, ale niezależne),
+    - Mazowsze szuka protektora: Prus, Litwy-Rusi albo Pomorza.
+  - „Wisła do morza” (Gdańsk i pomorskie cło).
+  - „Korona Chrobrego” (zjednoczenie z Mazowszem).
+  - „Sejm i król”.
+  - „Kwestia pańszczyźniana”.
 
 ### Księstwo Mazowieckie
 - **Dynastia**: Piastowie mazowieccy (realnie rządzili Mazowszem do 1526 roku, tu trwają).
@@ -42,7 +65,12 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
   - Litwa-Ruś: Podlasie,
   - Polska: kto jest „prawdziwą Polską”,
   - Pomorze: cła na Wiśle, tak jak dla Polski.
-- **Journal entry**: „Dwie Polski”: unia z Poznaniem (personalna albo pełna) kontra mazowiecka niezależność.
+- **Sytuacja wewnętrzna w 1836 roku**:
+  - **Szlachta zagrodowa**: Mazowsze ma ogromną liczbę drobnej, ubogiej szlachty (realnie najgęściej zaszlachcony region Polski). Jest dumna, uzbrojona i nieufna wobec Poznania, a w sejmiku mazowieckim ma przewagę liczebną.
+  - **Mieszczaństwo Warszawy** bogaci się na cle i handlu wiślanym. Chce spokoju i otwartych dróg, a nie wojny o dumę.
+  - **Książę** jest między nimi: drobna szlachta to jego wojsko, a Warszawa to jego skarb.
+  - **Zależność od cła**: bez dochodów z Wisły Mazowsze nie utrzyma ani dworu, ani armii. Każde ustępstwo wobec Polski to cios w skarb.
+- **Journal entries**: „Cło warszawskie” (wspólne z Polską) i „Dwie Polski”: unia z Poznaniem (personalna albo pełna) kontra mazowiecka niezależność. Szlachta zagrodowa jest przeciw unii, a Warszawa jest za nią, jeśli zachowa przywileje handlowe.
 
 ### Księstwo (Królestwo) Pomorskie
 - **Dynastia**: Gryfici, którzy tu nie wymarli w 1637 roku.
