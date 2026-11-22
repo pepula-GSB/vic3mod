@@ -33,7 +33,7 @@ Napoleon i tak wchodzi do Hiszpanii (1808) i Portugalii, więc **niepodległoś�
 - **Patagonia**: Tehuelche i Mapucze niezależni.
 
 ### Brazylia
-- Cesarstwo, regencja za małoletniego Piotra II (1831–1840), bunty Farrapos na południu i Cabanagem w Amazonii, jak realnie.
+- Cesarstwo, regencja za małoletniego Piotra II (1831–1840), bunt Farrapos na południu (**Republika Riograndense** w Rio Grande do Sul, 1836–1845; nie mylić z meksykańską Republiką Rio Grande) i Cabanagem w Amazonii, jak realnie.
 - **Prowincja Cisplatyńska zostaje brazylijska.** Realnie Urugwaj powstał w 1828 roku dzięki brytyjskiej mediacji między Brazylią a Argentyną. Tu nie ma Brytyjczyków, którzy narzuciliby państwo buforowe, więc Brazylia zatrzymuje Montevideo. Urugwajski ruch niepodległościowy działa w Brazylii.
 - **Niewolnictwo i handel niewolnikami bez brytyjskiego nacisku**: Brazylia ściąga jeszcze więcej ludzi z Afryki (Angola, Dahomej). To silniejsza i bardziej niewolnicza gospodarka niż realnie.
 - Niemieccy osadnicy na południu (realnie od 1824 roku), wspierani teraz przez falę emigracji z rozbitych Niemiec.

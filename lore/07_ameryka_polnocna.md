@@ -106,8 +106,8 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **Ziemie Nawahów**: niezależni pasterze między Nowym Meksykiem a Kolorado.
   - **Wielka Kotlina** (dzisiejsze Nevada i Utah): Ute, Szoszoni i Pajuci, niczyja ziemia. **Nie ma mormonów**, bo nie ma USA. Przechodzą tędy tylko traperzy z Nowej Francji, Novej Danii i Nowogrodu.
   - **Komanczeria** od wschodu: Komancze rządzą Wielkimi Równinami między Nowym Meksykiem a Teksasem.
-- **Nowy Santander** (północne stany: Coahuila, Nuevo León, Tamaulipas): możliwa republika w czasie kaskady (realnie Republika Rio Grande z 1840 roku).
-- **Journal entries**: „Centraliści i federaliści”, „Wolna Kalifornia” (łańcuch), „Teksas”, „Jukatan”, „Nowy Meksyk”, „Nowy Santander”, „Komanczeria”, „Apaczeria”, „Długi Meksyku”.
+- **Republika Rio Grande** (północne stany: Coahuila, Nuevo León, Tamaulipas; stolica Laredo): możliwa republika w czasie kaskady, jak realnie w 1840 roku. Nie mylić z brazylijską Republiką Riograndense (Farrapos).
+- **Journal entries**: „Centraliści i federaliści”, „Wolna Kalifornia” (łańcuch), „Teksas”, „Jukatan”, „Nowy Meksyk”, „Rio Grande”, „Komanczeria”, „Apaczeria”, „Długi Meksyku”.
 
 ## Spór oregoński
 Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko widzem.

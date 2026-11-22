@@ -83,7 +83,7 @@ Osadnicy i Kalifornijczycy ogłaszają niepodległość. Kto prowadzi, zależy o
 - **Kalifornia** (Alvarado): start łańcucha.
 - **Teksas**: francuskojęzyczni osadnicy z Luizjany. Bunt wybucha szybciej, jeśli Kalifornia się trzyma, a Luizjana wspiera.
 - **Jukatan**: kreolska elita z Méridy żąda federalizmu i handlu z Kubą. Realnie Jukatan w czasie wojny kast (powstanie Majów, 1847) oferował się USA, Wielkiej Brytanii i Hiszpanii. Tu może poprosić Hiszpanię z Kuby, co oznacza powrót Hiszpanów na kontynent.
-- **Nowy Santander** (realnie Republika Rio Grande z 1840 roku; nazwa zmieniona na kolonialną nazwę Tamaulipas, żeby nie myliła się z brazylijską Republiką Riograndense z wojny Farrapos): Coahuila, Nuevo León i Tamaulipas, ze stolicą w Laredo, oraz Monterrey, Saltillo i port Matamoros. Spór z Teksasem o ziemie między Nueces a Rio Grande.
+- **Republika Rio Grande** (realnie istniała w 1840 roku). Brazylijską republikę z wojny Farrapos nazywamy konsekwentnie **Republiką Riograndense**, z osobnym tagiem, żeby się nie myliły. Obejmuje Coahuila, Nuevo León i Tamaulipas, ze stolicą w Laredo, oraz Monterrey, Saltillo i port Matamoros. Spór z Teksasem o ziemie między Nueces a Rio Grande.
 - **Nowy Meksyk**: realnie w 1837 roku wybuchł tu bunt z Chimayó przeciw centralistycznemu gubernatorowi. Hiszpańscy chłopi i Indianie Pueblo zabili gubernatora Péreza i wybrali własnego, José Gonzalesa, człowieka mieszanego, indiańsko-hiszpańskiego pochodzenia. Tu bunt może przerodzić się w **Republikę Nowego Meksyku** (Santa Fe, Taos, Albuquerque): ludową, hiszpańsko-pueblańską, związaną handlem ze szlakiem z Santa Fe do St. Louis, czyli z Luizjaną i Nową Francją zamiast z USA.
 - **Zacatecas** i inne stany centralne: miejscowe bunty milicji.
 
