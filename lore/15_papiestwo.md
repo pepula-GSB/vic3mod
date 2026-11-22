@@ -31,3 +31,27 @@ Trzy wielkie wyznania i kilka mniejszych:
 - **„Kompaktaty”**: realnie w 1436 roku sobór bazylejski zawarł kompromis z umiarkowanymi husytami (komunia pod dwiema postaciami w zamian za uznanie Rzymu). Tu możliwa jest próba pojednania z umiarkowanymi husytami, np. z Polską albo Czechami: Rzym ustępuje w liturgii, a oni uznają papieża. Ryzykowne dla obu stron.
 - **„Unia z Konstantynopolem”**: powrót do idei Florencji. Wymaga kryzysu cesarstwa (Wiosna Ludów) albo wspólnego wroga.
 - **„Rzym 1848”**: rewolucja i możliwa Republika Rzymska (realnie z 1849 roku), interwencja protektorów.
+
+## Papież na wygnaniu (mechanika)
+**Warunek**: papież zostaje obalony (rewolucja, republika rzymska) albo Rzym zajmuje państwo **nie-włoskie**.
+
+**Rozróżnienie**:
+- **Rzym zajmuje państwo włoskie** (Piemont, *Italia settentrionale*, zjednoczone Włochy, Neapol): papież **zostaje w Watykanie jako „więzień”** i nie uznaje nowej władzy, jak realnie po 1870 roku. Stały konflikt z katolikami w tym państwie.
+- **Rzym zajmuje państwo nie-włoskie albo papież zostaje obalony**: **papież udaje się na wygnanie.**
+
+**Dokąd**: do najsilniejszego katolickiego protektora, który nie jest najeźdźcą. Kandydaci i ich historyczne uzasadnienie:
+- **Awinion (Francja)**: siedziba papieży w latach 1309–1377, papieska enklawa do 1791 roku. Silny symbol, ale Francja Ludwika Filipa jest ambiwalentna.
+- **Monachium albo Salzburg (Bawaria)**: arcybiskupie miasto i najsilniejsza katolicka monarchia Związku Niemieckiego.
+- **Bruksela albo Liège (Burgundia)**: dawny dom cesarski.
+- **Toledo (Hiszpania)**: najbardziej katolicka monarchia z wielkim imperium.
+- **Płock (Mazowsze)**: najbardziej symboliczny wybór. Papież u boku prymasa na wygnaniu, na granicy husyckiego świata.
+
+**Skutki**:
+- **Gospodarz** zyskuje prestiż i legitymację, staje się przywódcą świata katolickiego, ale zarazem celem wrogów papieża.
+- **Okupant Rzymu**: kary dyplomatyczne u wszystkich państw katolickich, radykalizacja katolików w jego granicach, możliwa krucjata (koalicja katolickich państw przeciw niemu).
+- **Katolicy na świecie**: wzrost ruchów religijno-konserwatywnych.
+
+**Zakończenie**:
+- powrót do Rzymu po wyzwoleniu miasta,
+- konkordat z nową władzą (papież uznaje utratę ziem w zamian za gwarancje),
+- **trwała siedziba poza Rzymem**: jeśli wygnanie trwa długo, papiestwo może osiąść na stałe u gospodarza, czyli nowy Awinion.
