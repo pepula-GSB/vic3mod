@@ -82,6 +82,27 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Wcielenie do Moraw**: koniec autonomii, bunt śląskiego ruchu narodowego.
 - **Polski książę**: zbliżenie z Polską, wojna z Morawami.
 - Wynik zależy od głosowania w Sejmie (grupy interesu: przemysłowcy, mieszczanie, szlachta) i od reakcji sąsiadów.
+- **Jeśli Sejm się podzieli albo książę umrze przed rozstrzygnięciem: śląska wojna domowa.**
+
+### Śląska wojna domowa
+**Strony i ich bazy:**
+- **Republikanie**: Wrocław, miasta nad Odrą (Legnica, Głogów, Brzeg), część przemysłowców z Górnego Śląska, mieszczańska milicja i straże kupieckie.
+- **Legitymiści praskiej linii**: szlachta Dolnego Śląska i Sudetów, ziemie przy granicy z Czechami (Kłodzko, Jelenia Góra).
+- **Stronnictwo morawskie**: garnizony morawskie, Racibórz i pogranicze z Pszczyną, urzędnicy, część magnatów przemysłowych, którzy boją się chaosu.
+- **Stronnictwo polskie**: szlachta Opolszczyzny i północnego pogranicza (Wschowa, Milicz).
+
+**Wsparcie z zewnątrz:**
+- **Republikanie**:
+  - Pomorze (wolna Odra i cła),
+  - Francja (osłabienie Moraw),
+  - Niderlandy i Burgundia (kapitał, kredyt i ochotnicy, bo interesy w śląskim przemyśle),
+  - ochotnicy z Nowogrodu i republik amerykańskich (ideologia).
+- **Linia praska**: Czechy otwarcie, a do tego Łużyce i Miśnia, które same chcą osłabić Welehrad.
+- **Morawy**: interweniują wojskiem jako zwierzchnik, „przywracając porządek”.
+- **Polska**: wojsko dla swojego kandydata. Ryzykuje wojnę z Morawami.
+- **Saksonia i Austria**: wspierają kogokolwiek, kto osłabia Morawy (pieniądze, broń, dyplomacja).
+
+**Mechanika w Vic3**: wojna domowa z interwencjami (dyplomatyczne gry o wsparcie stron). Wynik ustala, czy powstaje Republika Śląska, unia z Pragą, prowincja morawska albo polska strefa wpływów. Może też wywołać łańcuch kryzysów w całej koronie morawskiej, bo Czechy, Łużyce i Miśnia obserwują, co się da ugrać.
 
 **Margrabstwo Łużyckie**
 - **Ludność**: Serbołużyczanie (Łużyczanie, Milczanie).
