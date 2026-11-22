@@ -92,13 +92,17 @@ Posłowie wychodzą z sali. Każde stronnictwo ogłasza swojego władcę. **Star
 
 ## Faza III: wojna domowa
 
-**Mechanika**: Śląsk dzieli się na państwa stronnictw według regionów:
-- republikanie: Wrocław, miasta nad Odrą, część Górnego Śląska,
-- linia praska: Sudety, Kłodzko, Jelenia Góra,
-- stronnictwo morawskie: Racibórz, pogranicze z Pszczyną,
-- stronnictwo polskie: Opolszczyzna, Wschowa, Milicz.
-
-Słabsze stronnictwa można scalić w jedno „lojalistyczne” albo zostawić osobno, zależnie od tego, co pozwala silnik.
+**Mechanika: walczą dwa stronnictwa z największym poparciem** w chwili rozpadu Sejmu.
+- Śląsk dzieli się na dwa państwa. Każdy region trafia do tego z dwóch stronnictw, które ma w nim więcej poparcia. Bazy regionalne:
+  - republika: Wrocław, miasta nad Odrą, część Górnego Śląska,
+  - Praga: Sudety, Kłodzko, Jelenia Góra,
+  - Welehrad: Racibórz, pogranicze z Pszczyną,
+  - Polska: Opolszczyzna, Wschowa, Milicz.
+- **Stronnictwa przegrane w głosowaniu** (trzecie i czwarte) nie znikają. Dostają wydarzenie **silesia.12a „Komu oddać szable?”**: przyłączają się do jednej ze stron albo zostają neutralne. Domyślne skłonności:
+  - stronnictwa dynastyczne (Praga, Welehrad, Polska) wolą siebie nawzajem niż republikę („lepszy obcy książę niż żaden”),
+  - republikanie, jeśli przegrali, przechodzą do tego, kto obieca konstytucję i prawa Sejmu,
+  - polskie stronnictwo nigdy nie popiera Welehradu z własnej woli.
+- **Zagraniczni patroni przegranych stronnictw** (np. Polska, gdy jej kandydat odpadł) dostają w silesia.13 wybór: poprzeć jedną z dwóch stron albo zostać z boku.
 
 **silesia.13 „Wezwanie o pomoc”** (wysyłane do sąsiadów, każdy wybiera)
 
@@ -135,7 +139,9 @@ Zbliżenie z Polską, wojna albo zimna wojna z Morawami. Polska dostaje roszczen
 **silesia.30 „Echo w koronie”** (po każdym wyniku innym niż silesia.22)
 Czechy, Łużyce i Miśnia dostają wydarzenia o rozszerzeniu autonomii. Prawdopodobieństwo jest tym większe, im bardziej Morawy osłabły.
 
+## Ustalone
+- Wojna domowa: walczą dwa stronnictwa z największym poparciem, pozostałe dołączają albo zostają neutralne.
+
 ## Do decyzji
-- Czy wojna domowa ma 2 strony (republika kontra lojaliści) czy 4 (każde stronnictwo osobno)?
 - Czy Republika Śląska może później dołączyć do zjednoczenia lechickiego albo federacji zachodniosłowiańskiej?
 - Czy wynik ma wpływać na kwestię śląskiej kultury (np. bonus do tożsamości narodowej przy republice)?
