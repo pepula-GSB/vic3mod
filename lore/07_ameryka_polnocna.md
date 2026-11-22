@@ -54,11 +54,11 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 
 ## Ameryka Nowogrodzka (Nowogród)
 - **Zarząd**: **Kompania Nowogrodzko-Amerykańska** (odpowiednik realnej Kompanii Rosyjsko-Amerykańskiej z 1799 roku), czyli prywatna kompania kupców nowogrodzkich z monopolem nadanym przez wiec. Pasuje do kupieckiej republiki lepiej niż carski urząd.
-- **Terytorium**: Alaska, Aleuty i całe wybrzeże na południe aż po cieśninę Juan de Fuca, z wyspą Vancouver i dolnym biegiem rzeki Fraser. Realnie Rosja w 1821 roku (ukaz carski) rościła sobie wybrzeże do 51° szerokości. Tu kupiecki Nowogród poszedł dalej, bo zachęcało go bogactwo kalanów i lasów.
+- **Terytorium**: Alaska, Aleuty i wybrzeże na południe. **Na lądzie najdalej na południe wysunięte jest Wołchowsk** (ujście Fraseru, ok. 49°) i tuż za nim kończy się granica. Zatoka Puget i dzisiejszy stan Waszyngton należą już do nieskolonizowanego Oregonu. **Wyspa Sadki w całości** (z Sofijskiem na południowym cyplu) jest nowogrodzka, więc sięga dalej na południe niż ląd, aż do cieśniny Juan de Fuca. Realnie Rosja w 1821 roku (ukaz carski) rościła sobie wybrzeże do 51° szerokości. Tu kupiecki Nowogród poszedł dalej, bo zachęcało go bogactwo kalanów i lasów.
 - **Nowe nazwy** (nie ma tu George'a Vancouvera ani królowej Wiktorii):
   - **Wyspa Sadki** (realnie wyspa Vancouver): od Sadki, legendarnego kupca-guślarza z nowogrodzkich bylin, który pływał po dalekich morzach.
   - **Sofijsk** (realnie Victoria): port i twierdza na południowym cyplu wyspy, od soboru Mądrości Bożej (św. Zofii) w Nowogrodzie. Stare nowogrodzkie hasło brzmiało: „gdzie Święta Zofia, tam Nowogród”. Główna baza na południu.
-  - **Wołchowsk** (realnie Vancouver): faktoria u ujścia rzeki Fraser, od rzeki Wołchow, nad którą leży Nowogród.
+  - **Wołchowsk** (realnie Vancouver): faktoria u ujścia rzeki Fraser, od rzeki Wołchow, nad którą leży Nowogród. Najdalej na południe położone miasto nowogrodzkie na lądzie.
 - **Stolica**: **Nowy Nowogród** na wyspie Sitka (realnie Nowoarchangielsk).
 - **Placówki**: faktoria w Kalifornii (realnie Fort Ross, 1812), faktoria na Hawajach (realnie próba na Kauaʻi w latach 1815–1817).
 - **Gospodarka**: futra kalanów i fok, handel z Chinami przez Kantoń i Kiachtę. Vitus Bering mógł służyć Nowogrodowi.
@@ -121,7 +121,7 @@ Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko w
 - **Faktorie futrzarskie**:
   - **Nowa Francja**: traperzy i wioślarze z Montrealu prowadzą forty wzdłuż Columbii. Realnie robiła to Kompania Zatoki Hudsona (Fort Vancouver 1825, Fort Nisqually 1833) z francuskojęzycznymi pracownikami z Kanady. Tu są to forty nowofrancuskie.
   - **Nova Dania**: faktorie w interiorze na północy.
-  - **Nowogród**: jego posiadłości kończą się na cieśninie Juan de Fuca (Wyspa Sadki, Sofijsk, Wołchowsk), a na południe od niej handlują tylko statki.
+  - **Nowogród**: na lądzie jego posiadłości kończą się tuż na południe od Wołchowska, a na morzu na cieśninie Juan de Fuca (Wyspa Sadki z Sofijskiem). Dalej na południe handlują tylko statki.
 - **Misje**: realnie w 1838 roku przybyli tu księża z Quebecu (Blanchet i Demers). Tu katolickie misje z Quebecu są głównym narzędziem wpływów Nowej Francji.
 - **Brak osadników**: nie ma szlaku oregońskiego ani amerykańskich wozów. Pierwsza prawdziwa fala osadników zależy od mechaniki poszukiwania kolonistów (zob. [design/kolonisci.md](../design/kolonisci.md)): kto pierwszy osiedli dolinę Willamette i zatokę Puget, ten wygra spór.
 

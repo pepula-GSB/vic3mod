@@ -24,7 +24,7 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Ustrój**: kupiecka oligarchia, wiec.
 - **Religia**: prawosławie. Estowie, Liwowie i Karelowie też są prawosławni.
 - **Gospodarka**: słowiańska Hanza, futra.
-- **Kolonia**: **Ameryka Nowogrodzka**, czyli Alaska i wybrzeże aż po cieśninę Juan de Fuca (z Wyspą Sadki i Sofijskiem, realnie Vancouver Island i Victoria), może faktoria w Kalifornii. Dotarli tam Pomorcy znad Morza Białego (Dieżniew był Pomorcem).
+- **Kolonia**: **Ameryka Nowogrodzka**, czyli Alaska i wybrzeże na lądzie do Wołchowska (realnie Vancouver), a do tego cała Wyspa Sadki z Sofijskiem (realnie wyspa Vancouver i Victoria), może faktoria w Kalifornii. Dotarli tam Pomorcy znad Morza Białego (Dieżniew był Pomorcem).
 - **Syberia nowogrodzka**:
   - Nowogrodzianie chodzili po daninę z futer do Jugry nad Obem już w XI–XIV wieku. Pomorcy znad Morza Białego płynęli wzdłuż Arktyki: realną Mangazeję nad Tazem założyli w 1601 roku właśnie oni.
   - Stroganowowie, którzy realnie sfinansowali wyprawę Jermaka, wywodzili się z Pomorza. Tu działają dla Nowogrodu. Podbój Chanatu Syberyjskiego (ok. 1582) jest nowogrodzki, a nie moskiewski.
