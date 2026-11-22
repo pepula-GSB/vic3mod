@@ -40,4 +40,4 @@ Założenie: Anglia **nie jest hegemonem**, tylko jedną z kilku potęg morskich
 - **Kolonie**: Dominium Nowej Anglii, Dominium Wirginii, Karaiby, Bengal, forty na Złotym Wybrzeżu.
 - **Nie ma**: USA, Kanady, Przylądka, Cejlonu, Australii, Sierra Leone ani Gambii.
 - **Rywale morscy**: Niderlandy, Dania-Norwegia (cło sundzkie, łowiska, Orkady), Francja.
-- **W Azji**: tylko Bengal, Bombaj (posag z 1661 roku, jeszcze za Stuartów) i faktorie. Na Morzu Arabskim głównym rywalem jest Oman. Nie ma brytyjskich Indii, więc **nie ma Wielkiej Gry**. Anglia rywalizuje w Indiach z Francją, Niderlandami i Marathami, a nie w Azji Środkowej.
+- **W Azji**: tylko Bengal i faktorie (bez Bombaju: posagu Katarzyny Braganzy nie było, bo w 1661 roku trwała unia iberyjska). Na Morzu Arabskim głównym rywalem jest Oman. Nie ma brytyjskich Indii, więc **nie ma Wielkiej Gry**. Anglia rywalizuje w Indiach z Francją, Niderlandami i Marathami, a nie w Azji Środkowej.

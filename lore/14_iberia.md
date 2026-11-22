@@ -39,7 +39,7 @@ Madziarzy nie mieli wpływu na Półwysep Iberyjski, więc do XV wieku wszystko 
 ## Portugalia w 1836 roku
 - **Ustrój**: monarchia konstytucyjna, królowa Maria II po wojnie liberałów z miguelistami (1828–1834), jak realnie.
 - **Brazylia** jest niepodległa od 1822 roku pod Braganzami, jak realnie.
-- **Kolonie**: Angola, Mozambik (spór z Omanem o północ, Cabo Delgado), Gwinea, Wyspy Zielonego Przylądka, Wyspy Świętego Tomasza i Książęca, Goa, Daman, Makau, Timor. Bez Diu.
+- **Kolonie**: Angola, Mozambik (spór z Omanem o północ, Cabo Delgado), Gwinea, Wyspy Zielonego Przylądka, Wyspy Świętego Tomasza i Książęca, Goa, Daman, **Bombaj** (bez unii z Anglią nie poszedł w posagu), Makau, Timor, a w Afryce Tanger do końca XVII wieku. Bez Diu.
 - **Pozycja**: słaba. Nie ma tradycyjnego sojuszu z Anglią (która jest słaba i realnie gwarantowała Portugalię), więc opiekunami są **Burgundia i Niderlandy**, sojusznicy z czasów odzyskania niepodległości w 1700 roku.
 - **Problemy**: długi, utrata Diu, presja Omanu w Afryce Wschodniej, zależność od handlu z Brazylią.
 - **Journal entries**: „Odzyskanie Diu” (rewanż na Omanie), „Afryka od oceanu do oceanu” (połączenie Angoli i Mozambiku, realny projekt „różowej mapy”).

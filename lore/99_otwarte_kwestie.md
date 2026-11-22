@@ -1,7 +1,7 @@
 # Otwarte kwestie
 
 ## Regiony jeszcze nieopisane
-- **Indie**: największa dziura. Mamy tylko fragmenty: angielski Bengal i Bombaj, francuski Koromandel, holenderski Cejlon, faktorie duńskie i burgundzkie, omańskie Diu, Karaczi i Arakkal, silni Marathowie. Brakuje Mogołów, Sikhów, Hajdarabadu i Majsuru.
+- **Indie**: największa dziura. Mamy tylko fragmenty: angielski Bengal, portugalski Bombaj, Goa i Daman, francuski Koromandel, holenderski Cejlon, faktorie duńskie i burgundzkie, omańskie Diu, Karaczi i Arakkal, silni Marathowie. Brakuje Mogołów, Sikhów, Hajdarabadu i Majsuru.
 - **Persja, Afganistan i Azja Środkowa**: Kadżarowie, Durrani, Chiwa, Buchara, Kokand. Rywalizacja Moskwy, Osmanów i Persji.
 - **Bliski Wschód**: Egipt (słabszy Muhammad Ali), Saudowie i Wahabici, wewnętrzna struktura imperium osmańskiego.
 - **Australia i Oceania**: holenderska Nowa Holandia, Nowa Zelandia, Hawaje (faktoria nowogrodzka?), Tahiti.

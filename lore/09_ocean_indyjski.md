@@ -32,7 +32,8 @@
 
 ### Relacje w Indiach
 - **Marathowie**: najważniejszy partner lądowy. Wspólny interes polega na trzymaniu Europejczyków na wybrzeżu. Rywalizacja z flotą marathską (tradycja Angre) na wybrzeżu Konkanu.
-- **Anglia**: Bengal i Bombaj (posag Katarzyny Braganzy, 1661, czyli jeszcze za Stuartów). Główny rywal na Morzu Arabskim.
+- **Anglia**: Bengal i faktorie. Główny rywal na Morzu Arabskim.
+- **Bombaj jest portugalski**: realnie trafił do Anglii jako posag Katarzyny Braganzy (1661), ale tu w 1661 roku trwa unia iberyjska, więc nie było braganzowskiego małżeństwa ani posagu. Bombaj zostaje przy Portugalii razem z Goa i Damanem, a Oman ma na niego chrapkę.
 - **Portugalia**: Goa i Daman, wrogo nastawiona po utracie Diu.
 - **Holendrzy i Francuzi**: partnerzy handlowi i dostawcy okrętów.
 - **Persja**: spór o Makran, Gwadar i Bandar Abbas.

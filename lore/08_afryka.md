@@ -30,9 +30,35 @@ Wnętrze jak realnie. Zmiany wynikają z holenderskiego Przylądka, słabszej An
 - **Zatoka Delagoa**: portugalska.
 
 ## Afryka Północna
-- **Algieria**: francuska od 1830 roku.
-- **Egipt**: ściślej osmański, Muhammad Ali mniej samodzielny.
-- **Maroko, Tunezja, Trypolis**: jak realnie.
+Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodnim Morzu Śródziemnym, więc **Hiszpania jest w Maghrebie dużo silniejsza** niż realnie.
+
+### Maroko
+- Niezależny sułtanat Alawitów (sułtan Abd ar-Rahman, jak realnie).
+- **Hiszpańskie presidia są liczniejsze**: Ceuta, Melilla, a do tego **Larasz (Al-Arajsz) i Mamora** (realnie hiszpańskie tylko do lat 1681–1689, tu utrzymane).
+- **Tanger**: portugalski w czasie unii iberyjskiej. Realnie trafił do Anglii jako posag Katarzyny Braganzy (1661), ale tu Braganzowie nie panowali w 1661 roku, więc posagu nie było. Maroko odbija miasto pod koniec XVII wieku.
+- **Problemy**: presja Hiszpanii na wybrzeże (wojna jest kwestią czasu), Francja z Algierii od wschodu, plemiona Rifu.
+
+### Algieria
+- **Francja od 1830 roku**, ale w 1836 roku trzyma tylko wybrzeże: Algier, Bône, Bougie.
+- **Oran jest hiszpański.** Realnie Hiszpanie trzymali go w latach 1509–1708 i 1732–1792, a potem porzucili. Tu go nie porzucili, więc mamy francusko-hiszpańską rywalizację o zachodnią Algierię.
+- **Emir Abd al-Kadir** w głębi lądu na zachodzie, jak realnie, lawiruje między Francuzami a Hiszpanami.
+- **Bejlik Konstantyny** (Ahmed Bej) na wschodzie, jak realnie. Francuzi oblegają go w latach 1836–1837.
+
+### Tunezja: Hafsydzi przetrwali
+- Realnie Karol V zdobył Tunis w 1535 roku i zrobił z Hafsydów swoich wasali, a Osmanowie zajęli kraj w 1574 roku. Tu Osmanowie są zbyt słabi na zachodzie, więc **Hafsydzi przetrwali** jako wasale Hiszpanii, a potem jako sułtanat pod opieką Hiszpanii i Neapolu.
+- **W 1836 roku**: niezależny sułtanat hafsydzki z silnymi więziami z Sycylią i Maltą, z wieloma sycylijskimi i maltańskimi kupcami i rybakami.
+- **Zagrożenia**: Francja z Algierii (Bizerta to strategiczny port), Osmanowie z Trypolisu.
+
+### Libia (Trypolitania i Cyrenajka)
+- Osmańska. Osmanowie odebrali władzę miejscowej dynastii Karamanlich w 1835 roku, jak realnie. To ich jedyny przyczółek na zachodnim Morzu Śródziemnym.
+
+### Egipt
+- Ściślej osmański, Muhammad Ali mniej samodzielny.
+
+### Journal entries
+- „Presidia”: hiszpańska ekspansja w Maroku.
+- „Oran”: francusko-hiszpańska rywalizacja w Algierii.
+- „Bizerta”: Tunezja między Francją, Hiszpanią i Neapolem.
 
 ## Afryka Wschodnia
 - **Etiopia**: okres książąt, możliwe kontakty z Konstantynopolem.

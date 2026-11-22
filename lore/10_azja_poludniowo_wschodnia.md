@@ -1,6 +1,6 @@
 # Azja Południowo-Wschodnia w 1836 roku
 
-Główna różnica: **słaba Anglia (tylko Bengal i Bombaj) i silni Holendrzy**. Nie ma brytyjskiego podboju Birmy ani brytyjskich osiedli w cieśninach.
+Główna różnica: **słaba Anglia (tylko Bengal) i silni Holendrzy**. Nie ma brytyjskiego podboju Birmy ani brytyjskich osiedli w cieśninach.
 
 ## Birma (Konbaung): duży wygrany
 - W realnej historii Birma zajęła Asam i Manipur (1817–1824), a potem przegrała pierwszą wojnę z Brytyjczykami (1824–1826) i straciła Arakan i Tenasserim.

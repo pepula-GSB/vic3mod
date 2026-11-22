@@ -119,7 +119,7 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
   - Państwo Kościelne na północy.
   - Toskania (Habsburgowie burgundzcy) i Bawaria z Wenecją na Adriatyku jako rywale.
   - **Konstantynopol** za Adriatykiem: Grikowie (grekojęzyczni) w Kalabrii i Salento oraz Arbereszowie (Albańczycy obrządku bizantyjskiego) to romejska irredenta.
-  - Berberyjscy korsarze z Tunisu i Trypolisu, słabsi niż realnie, bo Osmanowie są skierowani na wschód.
+  - Hafsydzka Tunezja pod opieką Hiszpanii i Neapolu, a osmański Trypolis jako ostatnie gniazdo korsarzy.
 - **Sojusze**: Madryt (ta sama dynastia), Francja (Burbonowie, ale Ludwik Filip jest Orleańczykiem, więc chłodno).
 - **Problemy w 1836 roku**: epidemia cholery w Neapolu (1836–1837, jak realnie), karbonariusze i liberałowie, nędza południa, sycylijski separatyzm.
 - **Kolej**: realnie pierwsza kolej we Włoszech to linia Neapol–Portici z 1839 roku. Tu też powstaje jako prestiżowy projekt Ferdynanda II.
