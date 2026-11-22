@@ -114,7 +114,7 @@ F={}
 F['1_oligarchia']=svg(bands+''.join(fleur(33,y,.55,GOLD) for y in (48,103,158))+''.join(fleur(267,y,.55,GOLD) for y in (48,103,158))+pelimg(150,104,138))
 F['2_demokracja']=svg(bands+''.join(star(150+60*math.cos(math.radians(a)),112+60*math.sin(math.radians(a)),6.5,GOLD) for a in range(-162,-10,19))+pelimg(150,116,104))
 F['3_konsulat']=svg(bands+f'<rect x="66" width="5" height="200" fill="{GOLD}"/><rect x="229" width="5" height="200" fill="{GOLD}"/>'+laurelimg(150,104,64,GREEN)+eagimg(150,104,96))
-F['4_cesarstwo']=svg(f'<rect width="300" height="200" fill="{PURPLE}"/>'+laurelimg(150,118,66,GOLD)+eagimg(150,118,84)+crownimp(150,48,46)+''.join(beeimg(x,y,30) for x,y in ((30,30),(270,30),(30,170),(270,170))))
+F['4_cesarstwo']=svg(f'<rect width="300" height="200" fill="{PURPLE}"/>'+laurelimg(150,113,66,GOLD)+eagimg(150,105,86)+crownimp(150,48,46)+''.join(beeimg(x,y,30) for x,y in ((30,30),(270,30),(30,170),(270,170))))
 sem=''.join(fleur(x,y,.36,GOLD) for x in range(25,300,42) for y in range(24,200,42) if not (100<x<200 and y<180))
 F['5_burbonowie']=svg(f'<rect width="300" height="200" fill="{BLUE}"/>{sem}<path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="{WHITE}"/><path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="none" stroke="{GOLD}" stroke-width="3"/>'+pelimg(150,118,84)+crownimg(150,58,70))
 F['6_wolna']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,172,142)+ring_text(150,106,84,80,"NUL N'EST ESCLAVE","EN LOUISIANE",WHITE,fs=12.5,ls=1.6))
