@@ -35,6 +35,8 @@ Trzy wielkie wyznania i kilka mniejszych:
 ## Papież na wygnaniu (mechanika)
 **Warunek**: papież zostaje obalony (rewolucja, republika rzymska) albo Rzym zajmuje państwo **nie-włoskie**.
 
+**To nie jest zaplanowane wydarzenie.** Nie wiadomo, czy i kiedy nastąpi. Cały łańcuch (wygnanie, Awinion, licytacja) uruchamia się tylko wtedy, gdy warunek spełni się w trakcie gry. Jeśli Rzym zajmie państwo **kultury włoskiej**, papież nie ucieka, tylko zostaje w Watykanie jako „więzień” (zob. niżej), a łańcuch wygnania się nie uruchamia.
+
 **Rozróżnienie**:
 - **Rzym zajmuje państwo włoskie** (Piemont, *Italia settentrionale*, zjednoczone Włochy, Neapol): papież **zostaje w Watykanie jako „więzień”** i nie uznaje nowej władzy, jak realnie po 1870 roku. Stały konflikt z katolikami w tym państwie.
 - **Rzym zajmuje państwo nie-włoskie albo papież zostaje obalony**: **papież udaje się na wygnanie.**
@@ -43,10 +45,11 @@ Trzy wielkie wyznania i kilka mniejszych:
 - **Hiszpania: Santiago de Compostela.** Grób apostoła Jakuba, jedno z trzech wielkich miejsc pielgrzymkowych chrześcijaństwa obok Rzymu i Jerozolimy. Daje oparcie w najbardziej katolickiej monarchii z wielkim imperium.
 - **Bawaria: Salzburg.** Realnie był niezależnym arcybiskupstwem-księstwem aż do 1803 roku, więc ma gotową tradycję państwa kościelnego. Leży w sercu katolickich Niemiec, blisko Italii.
 - **Burgundia: Liège.** Realnie było niezależnym księstwem biskupim aż do 1795 roku. Bogate, przemysłowe miasto w kraju dawnych cesarzy.
-- **Francja: Awinion.** Siedziba papieży w latach 1309–1377 i papieska enklawa do 1791 roku. Najmocniejszy symbol, ale Francja Ludwika Filipa może nie chcieć oddać miasta.
+- **Francja: Awinion.** Siedziba papieży w latach 1309–1377 i papieska enklawa do 1791 roku. Najmocniejszy symbol, ale zgoda zależy od tego, kto akurat rządzi Francją.
 
 **Kolejność**:
 1. **Najpierw Francja: wydarzenie „Papież u bram Awinionu”.** Po upadku papiestwa w Rzymie Francja jako pierwsza dostaje prośbę o przyjęcie papieża w Awinionie, mieście, które sama zabrała papiestwu w 1791 roku.
+   - **Skłonność do zgody zależy od sytuacji we Francji w chwili wydarzenia**: silne duchowieństwo i ziemianie oraz rząd konserwatywny lub legitymistyczny sprzyjają zgodzie, a liberałowie, republikanie i antyklerykałowie u władzy sprzyjają odmowie. Nie jest to przypisane do monarchii lipcowej, tylko do Francji, jaka będzie w danym momencie.
    - **Zgoda**: Awinion staje się suwerennym państwem papieskim. Francja dostaje prestiż i przywództwo świata katolickiego, ale gniew antyklerykalnych liberałów i republikanów u siebie.
    - **Odmowa**: Francja traci prestiż u katolików (dla nich to zdrada), ale zadowala liberałów. Papież zwraca się do pozostałych.
 2. **Jeśli Francja odmówi, rusza licytacja**: Hiszpania (Santiago de Compostela), Bawaria (Salzburg) i Burgundia (Liège) dostają wydarzenie z możliwością oddania miasta.
