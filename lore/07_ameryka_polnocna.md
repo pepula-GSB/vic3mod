@@ -8,7 +8,8 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **Quebec i dolina Świętego Wawrzyńca**: rdzeń, z Quebekiem, Montrealem i Trzema Rzekami.
   - **Akadia**: Nowa Szkocja i Nowy Brunszwik bez wypędzenia Akadyjczyków.
   - **Górny Kraj** (*Pays d'en Haut*, dzisiejsze południowe Ontario): Fort Frontenac (realnie Kingston), **Fort Rouillé** (realnie Toronto, francuski fort z 1750 roku), Niagara, Détroit (realnie Detroit, założone przez Francuzów w 1701 roku), Outaouais (realnie Ottawa). Bez rewolucji amerykańskiej nie ma tu lojalistów, którzy realnie zasiedlili Górną Kanadę. Kraj zasiedlają francuscy Kanadyjczycy, a później katoliccy imigranci (Irlandczycy, Bawarczycy, Bretończycy). To najszybciej rosnąca część królestwa i jego spichlerz.
-  - **Pogranicze z Novą Danią** na dziale wodnym, czyli rywalizacja o każdą rzekę od czasów wypraw Iberville'a (realnie w latach 1686–1697 zdobywał faktorie angielskie nad Zatoką Hudsona).
+  - **Północne Ontario aż do Zatoki Hudsona**: rzeki Albany i Moose oraz zatoka Jamesa z faktorią Moose. Realnie Francuzi pod wodzą Iberville'a zdobyli faktorie nad zatoką Jamesa w latach 1686–1697. Tu je zatrzymali, więc **Nowa Francja ma własny dostęp do Zatoki Hudsona**.
+  - **Granica z Novą Danią** biegnie wzdłuż dzisiejszej granicy Manitoby i Ontario.
   - **Ludy tubylcze**: Odżibwejowie i Anishinaabe nad jeziorami, sojusznicy Francuzów od XVII wieku.
 - **Powstanie**: katolicki Quebec odrzuca rewolucję (sekularyzacja, egzekucja króla w 1793 roku). Burbonowie na emigracji (np. hrabia d'Artois) uciekają do Quebecu, jak dwór portugalski do Brazylii. Po 1815 roku linia z Quebecu nie wraca pod Paryż, jak Brazylia w 1822 roku.
 - **Ustrój**: konserwatywna monarchia katolicka, wroga wobec Paryża Ludwika Filipa.
@@ -56,7 +57,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 
 ## Nova Dania (Dania-Norwegia)
 - **Zarząd**: duńsko-norweska kompania futrzarska zamiast Kompanii Zatoki Hudsona.
-- **Zasada przywileju**: jak realna Ziemia Ruperta, kompania ma prawo do **całego dorzecza Zatoki Hudsona**. Obejmuje to rzeki Saskatchewan, więc także prerie dzisiejszej Manitoby, Saskatchewan i **środkowej i południowej Alberty**.
+- **Zasada przywileju**: jak realna Ziemia Ruperta, kompania rości sobie **dorzecze Zatoki Hudsona**, ale na wschodzie musiała ustąpić Nowej Francji. W praktyce ma wszystko na zachód od granicy Manitoby z Ontario: prerie Manitoby, Saskatchewan i **środkowej i południowej Alberty**.
 - **Terytorium**: Zatoka Hudsona, Labrador, prerie i lasy dorzecza Saskatchewan, Jukon i północny interior.
 - **Alberta**:
   - **środek (dorzecze Saskatchewan Północnej)**: duńska. Główna faktoria to **Fort Frederik** nad Saskatchewan Północną (realnie Fort Edmonton, 1795), nazwany od króla.
@@ -72,7 +73,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **Czerwona Rzeka** (dolina Red River, dzisiejszy Winnipeg) to serce prerii i **ojczyzna Metysów**, którzy nazywają siebie Bois-Brûlés. Realnie w 1812 roku lord Selkirk założył tu szkocką kolonię rolniczą, a w 1816 roku Metysi wspierani przez kompanię z Montrealu starli się z ludźmi Kompanii Zatoki Hudsona (bitwa pod Seven Oaks).
   - Tu Dania zakłada **kolonię rolniczą nad Czerwoną Rzeką** z Norwegami i Orkadyjczykami, z faktorią **Fort Margrethe** (realnie Fort Garry). Metysi uważają tę ziemię za swoją, a Nowa Francja podsyca ich opór. Seven Oaks się powtarza, tym razem z flagą duńską.
   - Jezioro Winnipeg i rzeka Nelson łączą prerie z Zatoką Hudsona.
-- **Północne Ontario**: rzeki Albany i Moose spływają do Zatoki Hudsona, więc należą do duńskiej kompanii (faktoria **Moose** nad zatoką Jamesa). Granicą z Nową Francją jest **dział wodny** między Wielkimi Jeziorami a Zatoką Hudsona.
+- **Granica z Nową Francją biegnie wzdłuż dzisiejszej granicy Manitoby i Ontario**, od wybrzeża Zatoki Hudsona do Jeziora Leśnego. Manitoba i wszystko na zachód od niej jest duńskie, a całe Ontario (także północ nad Zatoką Hudsona i zatoką Jamesa) należy do Nowej Francji. Labrador zostaje duński.
 - **Ludność**: kilkuset Duńczyków, Norwegów i Szkotów z Orkadów w faktoriach (realnie Orkadyjczycy stanowili trzon pracowników Kompanii Zatoki Hudsona, a tu Orkady są duńskie), a do tego Metysi i Kri.
 - **Journal entries**:
   - **„Athabaska”**: spór z Nową Francją o północne szlaki futrzane i przenoskę Methye (porozumienie, podział albo wojna kompanii),
