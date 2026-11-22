@@ -9,11 +9,11 @@
 - **Afryka uzupełniająco**: Róg Afryki, Sudan, Sahara, Madagaskar.
 
 ## Decyzje do podjęcia
-- **Nazwa kolonii duńskiej w Afryce**: stolica to Frederiksnopel. Nazwa całej kolonii jest otwarta (roboczo Frihedskysten).
 - **Nazwa dynastii śląskiej** z Wrocławia.
 
 ## Ustalone
 - **Chanat Krymski**: wasal osmański.
+- **Kolonia duńska w Afryce**: Peberkysten, ze stolicą we Frederiksnopel.
 - **Abolicja w Anglii**: w 1836 roku jeszcze nie ma. To temat debaty na start gry.
 - **Anglia i Szkocja**: tylko unia personalna, bez wspólnego parlamentu.
 - **Ryga**: podzielona Dźwiną. Prawy brzeg ze starym miastem jest nowogrodzki, lewy brzeg z twierdzą u ujścia litewski.

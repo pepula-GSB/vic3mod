@@ -7,7 +7,7 @@ Wnętrze jak realnie. Zmiany wynikają z holenderskiego Przylądka, słabszej An
 - **Senegal**: francuski.
 - **Gambia**: litewski fort na Wyspie św. Andrzeja (odziedziczony po Kurlandii). Nie ma Bathurst.
 - **Sierra Leone**: nie istnieje. Półwysep należy do Temne, w głębi Mende.
-- **Duńska kolonia wolnych osadników** na wybrzeżu dzisiejszej Liberii (nazwa kolonii do ustalenia, roboczo Frihedskysten):
+- **Peberkysten** („Wybrzeże Pieprzowe”), duńska kolonia wolnych osadników na wybrzeżu dzisiejszej Liberii. Nazwa to duński odpowiednik historycznej nazwy tego wybrzeża, wziętej od pieprzu melegueta („ziaren raju”), głównego towaru eksportowego obok kawy liberyjskiej i oleju palmowego:
   - **Stolica: Frederiksnopel** (Przylądek Mesurado, miejsce realnej Monrowii). Nazwa pochodzi od realnej plantacji Iserta z 1788 roku i od króla Fryderyka VI.
   - **Realne zaczepy**: zakaz handlu niewolnikami (1792/1803), plan Schimmelmanna i Iserta na plantacje w Afryce z wolną pracą, misje morawskie w Duńskich Indiach Zachodnich.
   - Duńska kolonia królewska założona ok. 1810–1820 roku, z gubernatorem i radą osadników.

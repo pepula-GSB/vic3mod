@@ -9,7 +9,7 @@
   - **Grenlandia**: skolonizowana na nowo już w XVII wieku.
   - **Duńskie Indie Zachodnie**: St. Thomas, St. John, St. Croix i kilka wysp więcej.
   - **Złote Wybrzeże**: najsilniejsza pozycja wśród Europejczyków (Christiansborg).
-  - **Kolonia wolnych osadników** na Wybrzeżu Pieprzowym, ze stolicą we Frederiksnopel (zob. Afryka).
+  - **Peberkysten**: kolonia wolnych osadników na Wybrzeżu Pieprzowym, ze stolicą we Frederiksnopel (zob. Afryka).
   - Trankebar i Serampore w Indiach.
 - **Abolicja**: pierwszy zakaz handlu niewolnikami (1792/1803). Duńska flota patroluje Atlantyk zamiast brytyjskiej.
 - **Rywalizacja z Anglią**: cło sundzkie, łowiska wokół Islandii i Nowej Fundlandii, pamięć o ataku na Kopenhagę, Helgoland po stronie brytyjskiej.
