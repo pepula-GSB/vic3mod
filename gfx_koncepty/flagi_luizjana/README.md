@@ -8,7 +8,9 @@ Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i 
 
 **Palma** we fladze 6: [../emblematy/palma.png](../emblematy/palma.png), od autora moda (wybrana zamiast wariantu z dwiema skrzyżowanymi palmami, który został w [../emblematy/palmy_skrzyzowane.png](../emblematy/palmy_skrzyzowane.png)).
 
-Korona, pszczoły, kajdany, kotwica z młotem i liść tytoniu to na razie proste sylwetki wektorowe do podmiany na ilustracje w tym samym stylu.
+**Korona burbońska** (flaga 5), **korona cesarska** i **pszczoły** (flaga 4): [korona_burbonska.png](../emblematy/korona_burbonska.png), [korona_cesarska.png](../emblematy/korona_cesarska.png), [pszczola.png](../emblematy/pszczola.png), wycięte z herbów od autora moda (wyglądają na pliki z Wikimedia Commons, licencję też sprawdzić).
+
+Wieniec laurowy, kajdany, kotwica z młotem i liść tytoniu to na razie proste sylwetki wektorowe do podmiany na ilustracje w tym samym stylu.
 
 | Plik | Ustrój |
 |---|---|
