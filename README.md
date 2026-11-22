@@ -34,6 +34,7 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [lore/12_ameryka_srodkowa_i_karaiby.md](lore/12_ameryka_srodkowa_i_karaiby.md) | Karaiby, Gujany, Ameryka Środkowa |
 | [lore/13_ameryka_poludniowa.md](lore/13_ameryka_poludniowa.md) | Republiki andyjskie, La Plata, Brazylia |
 | [lore/99_otwarte_kwestie.md](lore/99_otwarte_kwestie.md) | Rzeczy do dopracowania |
+| [design/lancuch_slask.md](design/lancuch_slask.md) | Projekt łańcucha wydarzeń: Bezkrólewie śląskie |
 | [maps/europa_1836.html](maps/europa_1836.html) | Interaktywna, schematyczna mapa Europy w 1836 roku (otwórz w przeglądarce) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.

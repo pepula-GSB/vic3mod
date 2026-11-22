@@ -69,7 +69,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Sejm Śląski** we Wrocławiu: stany śląskie (szlachta, miasta, a od XVIII wieku także przemysłowcy i kupcy odrzańscy). Realnie istniał sejm książąt i stanów śląskich. Tu jest silny, bo dynastia rządziła z jego poparciem.
 
 ### Kryzys dynastyczny na start gry
-- **Ostatni książę z wrocławskiej linii Przemyślidów** jest stary i nie ma męskiego potomka. Linia gaśnie, tak jak realnie w 1675 roku wygaśli Piastowie śląscy.
+- **Ostatni książę z wrocławskiej linii Przemyślidów** jest stary i nie ma męskiego potomka. Umiera ok. 1845 roku. Szczegóły łańcucha w [design/lancuch_slask.md](../design/lancuch_slask.md). Linia gaśnie, tak jak realnie w 1675 roku wygaśli Piastowie śląscy.
 - **Pretendenci**:
   - **Praga**: główna linia Przemyślidów. Unia Czech i Śląska to dla Welehradu najgorszy scenariusz.
   - **Welehrad**: Mojmirowice twierdzą, że wygasłe lenno wraca do seniora, i chcą bezpośrednich rządów morawskich nad najbogatszą prowincją.
