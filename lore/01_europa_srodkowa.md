@@ -45,15 +45,24 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
   - **„Cło warszawskie”** (wspólne dla Polski i Mazowsza). Możliwe wyniki:
     - unia celna (kompromis, a z czasem może unia personalna),
     - wojna o Wisłę,
-    - obejście Mazowsza **koleją** (zob. „Kolej okrężna”),
+    - obejście Mazowsza **koleją** (zob. „Wyścig kolejowy”),
     - Mazowsze szuka protektora: Prus, Litwy-Rusi albo Pomorza.
-  - **„Kolej okrężna”** (odblokowuje się po technologii kolei, czyli w latach 40. XIX wieku):
-    - Linia Lublin–Radom–Łódź–Kalisz–Poznań, z odnogą do Torunia, łączy obie połówki rogala z pominięciem Mazowsza.
-    - **Dla Polski** oznacza koniec cła warszawskiego na zbożu, szybkie przerzucanie wojsk między połówkami i spoiwo państwa.
-    - **Koszty**: ogromne, więc potrzebny jest kapitał z zewnątrz (bankierzy z Antwerpii i Amsterdamu, a z czasem śląski węgiel i żelazo). Magnaci ze wschodu wolą spław i są przeciw podatkom na kolej.
-    - **Odpowiedź Mazowsza**: własna kolej, która ma ściągnąć tranzyt przez Warszawę. Może to być linia Warszawa–Kraków do Moraw (odpowiednik realnej Kolei Warszawsko-Wiedeńskiej z lat 1845–1848) albo Warszawa–Toruń do Prus i Pomorza.
-    - **Skutek dla Mazowsza**: jeśli kolej okrężna powstanie przed mazowiecką, dochody z cła spadają. Wtedy wybucha kryzys skarbu, książę traci poparcie Warszawy, a unia z Polską albo protektorat obcego państwa stają się bardzo prawdopodobne.
-    - Wyścig kolejowy zastępuje wojnę: kto pierwszy zbuduje linię, ten wygrywa spór o Wisłę.
+  - **„Wyścig kolejowy”** (odblokowuje się po technologii kolei, czyli w latach 40. XIX wieku). Dwie konkurencyjne linie i dwa porty:
+    - **Polska: kolej Lublin–Radom–Łódź–Poznań–Gdańsk.**
+      - Łączy obie połówki rogala z pominięciem Mazowsza i prowadzi zboże prosto do morza bez cła warszawskiego.
+      - Ostatni odcinek do Gdańska biegnie przez Pomorze, więc Polska musi się dogadać z Gryfitami: koncesja na kolej w zamian za niższe cła portowe albo udział Pomorza w zyskach.
+      - Wymusza to **zbliżenie Polski z Pomorzem** zamiast walki o Gdańsk.
+    - **Mazowsze: kolej Warszawa–Tuwangste (Królewiec).**
+      - Daje Mazowszu własne wyjście na morze przez pruski port, z pominięciem i Polski, i pomorskiego Gdańska.
+      - Ściąga do Warszawy tranzyt z Litwy-Rusi i z polskiego wschodu, jeśli polska linia się spóźni.
+      - Wymusza to **sojusz mazowiecko-pruski** mimo sporu o osadników na Mazurach.
+    - **Rywalizacja portów**: Gdańsk (Pomorze) kontra Tuwangste (Prusy). Kto wygra, ten przejmuje handel zbożowy całego dorzecza Wisły.
+    - **Bloki**: Polska z Pomorzem kontra Mazowsze z Prusami. Litwa-Ruś i bankierzy z Antwerpii i Amsterdamu finansują tę stronę, która obieca lepsze warunki.
+    - **Skutki**:
+      - Polska linia pierwsza: cło warszawskie traci znaczenie, Mazowsze ma kryzys skarbu, a unia z Polską staje się bardziej prawdopodobna.
+      - Mazowiecka linia pierwsza: Warszawa staje się węzłem regionu, Mazowsze rośnie w siłę, a Polska zostaje z drogim cłem i pomorskimi opłatami.
+      - Obie linie powstają: dwa bloki gospodarcze i trwały podział ziem polskich.
+    - **Koszty**: ogromne. Potrzebny jest kapitał zagraniczny i śląskie żelazo. Magnaci z polskiego wschodu wolą spław i są przeciw podatkom na kolej.
   - „Wisła do morza” (Gdańsk i pomorskie cło).
   - „Korona Chrobrego” (zjednoczenie z Mazowszem).
   - „Sejm i król”.
@@ -85,6 +94,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Kultury**: Pomorzanie, Kaszubi.
 - **Gospodarka**: wielkie porty słowiańskiej Hanzy. Południowy klin (Krajna, Chojnice) należy do Polski.
 - **Konflikty**: Polska (Gdańsk, dostęp do morza), Dania (wybrzeże, cła), Wieletia (granica na Odrze).
+- **Szansa i zagrożenie**: polska kolej do Gdańska może zrobić z Pomorza partnera Polski, a mazowiecka kolej do Tuwangste może odebrać Gdańskowi handel zbożem (zob. „Wyścig kolejowy”).
 
 ### Księstwo Pruskie
 - **Terytorium**: Warmia, Mazury (Galindia), Sambia, Natangia, Pomezania, Bartia.
@@ -92,6 +102,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Religia**: katolicka. Chrzest przez biskupów z Pomorza i Mazowsza, bez Krzyżaków.
 - **Kultura i język**: pruskie, czyli żywy język bałtycki.
 - **Konflikty**: Mazowsze (osadnicy mazowieccy na Mazurach, Galindia), Polska (ziemia chełmińska), Litwa-Ruś (Jaćwież, Sudowia).
+- **Szansa**: kolej Warszawa–Tuwangste może zrobić z Tuwangste główny port dorzecza Wisły kosztem pomorskiego Gdańska (zob. „Wyścig kolejowy”).
 
 ### Księstwo Obodrzyckie (Meklemburgia)
 - **Dynastia**: Niklotowice, słowiańscy i niezgermanizowani.
