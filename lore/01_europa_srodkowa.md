@@ -5,12 +5,36 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 
 ## Państwa nadbałtyckie i połabskie
 
-### Królestwo Polskie
-- **Terytorium**: Wielkopolska, Kujawy, Mazowsze, ziemia chełmińska (sporna z Prusami).
-- **Stolice**: Gniezno lub Poznań, Płock.
-- **Pozycja**: średnie, śródlądowe państwo bez morza i bez Krakowa (który jest morawski).
-- **Ambicje**: Gdańsk i ujście Wisły, ziemie pruskie.
-- **Polityka**: tradycyjny sojusz z Francją (Henryk Walezy, wojny napoleońskie). Rywalizacja z Pomorzem, Prusami i Morawami.
+### Królestwo Polskie: kadłubek
+- **Dynastia**: Piastowie, główna linia wielkopolska.
+- **Stolica**: Poznań, z Gnieznem jako miejscem koronacji i siedzibą arcybiskupa.
+- **Terytorium**: Wielkopolska, Kujawy, ziemie łęczycka i sieradzka, ziemia chełmińska (sporna z Prusami).
+- **Pozycja**: małe, śródlądowe państwo otoczone przez silniejszych. Nie ma morza (Gdańsk jest pomorski), Krakowa (morawski), Śląska ani Mazowsza. Tytuł „Królestwa Polskiego” i korona z Gniezna to jego główny kapitał, większy niż realna siła.
+- **Ustrój**: dziedziczna monarchia z silnym sejmem szlacheckim.
+- **Społeczeństwo**: szlachta, chłopi pańszczyźniani, duża społeczność żydowska w miastach (przywileje od statutu kaliskiego z 1264 roku), protestanci pod wpływem morawskim (bracia czescy w Lesznie).
+- **Gospodarka**: zboże z folwarków, sukno wielkopolskie, sól kujawska, rodzące się włókiennictwo w Łodzi. **Zboże płynie Wisłą do pomorskiego Gdańska**, więc Polska płaci Gryfitom cła od całego eksportu.
+- **Po 1815 roku**: przegrała razem z Napoleonem i została obciążona kontrybucjami. Jest upokorzona, rewizjonistyczna i dalej związana z Francją.
+- **Roszczenia**:
+  - Gdańsk i ujście Wisły (Pomorze),
+  - Kraków (Morawy),
+  - Opolszczyzna i Wschowa (Śląsk, do tego polski kandydat w Bezkrólewiu śląskim),
+  - ziemia chełmińska (Prusy),
+  - Mazowsze, bo „to też Polska”.
+- **Journal entries**: „Wisła do morza” (Gdańsk i cła), „Korona Chrobrego” (zjednoczenie ziem polskich, przede wszystkim z Mazowszem), „Sejm i król”, „Kwestia pańszczyźniana”.
+
+### Księstwo Mazowieckie
+- **Dynastia**: Piastowie mazowieccy (realnie rządzili Mazowszem do 1526 roku, tu trwają).
+- **Stolica**: Warszawa (realnie książęca stolica od 1413 roku), dawniej Płock.
+- **Terytorium**: Mazowsze (Płock, Warszawa, Czersk, Ciechanów, Rawa), ziemia dobrzyńska, Lubelszczyzna jako ziemia pograniczna.
+- **Pozycja**: osobne państwo od średniowiecznego rozbicia dzielnicowego. Nigdy nie zostało wcielone z powrotem do Polski.
+- **Tożsamość**: Mazurzy (Mazowszanie) mają silną odrębność. Uważają się za Polaków, ale nie za poddanych Poznania.
+- **Gospodarka**: zboże, drewno, spław Wisłą i Bugiem. Warszawa rośnie jako ośrodek handlu między Polską, Litwą-Rusią i Prusami.
+- **Konflikty**:
+  - Prusy: mazowieccy osadnicy na Mazurach i spór o Galindię,
+  - Litwa-Ruś: Podlasie,
+  - Polska: kto jest „prawdziwą Polską”,
+  - Pomorze: cła na Wiśle, tak jak dla Polski.
+- **Journal entry**: „Dwie Polski”: unia z Poznaniem (personalna albo pełna) kontra mazowiecka niezależność.
 
 ### Księstwo (Królestwo) Pomorskie
 - **Dynastia**: Gryfici, którzy tu nie wymarli w 1637 roku.
@@ -24,7 +48,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Stolica**: Tuwangste (miejsce Królewca), do tego port Truso i Elbląg.
 - **Religia**: katolicka. Chrzest przez biskupów z Pomorza i Mazowsza, bez Krzyżaków.
 - **Kultura i język**: pruskie, czyli żywy język bałtycki.
-- **Konflikty**: Polska (ziemia chełmińska, presja osadnicza z Mazowsza na Mazury), Litwa-Ruś (Jaćwież, Sudowia).
+- **Konflikty**: Mazowsze (osadnicy mazowieccy na Mazurach, Galindia), Polska (ziemia chełmińska), Litwa-Ruś (Jaćwież, Sudowia).
 
 ### Księstwo Obodrzyckie (Meklemburgia)
 - **Dynastia**: Niklotowice, słowiańscy i niezgermanizowani.

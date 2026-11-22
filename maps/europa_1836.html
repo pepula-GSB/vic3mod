@@ -25,7 +25,8 @@ button{background:transparent;border:0.5px solid var(--border);border-radius:8px
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
 <script>
 const S={
-POL:['Królestwo Polskie','Polska','#d65a5a',[18.8,52.2],1,'Bez morza i Krakowa'],
+POL:['Królestwo Polskie (Piastowie)','Polska','#d65a5a',[17.8,52.2],1,'Kadłubek: Poznań, bez morza, Krakowa i Mazowsza'],
+MAZ:['Księstwo Mazowieckie (Piastowie mazowieccy)','Mazowsze','#e88f5a',[21.0,52.2],0,'Warszawa, Lubelszczyzna'],
 POM:['Księstwo Pomorskie (Gryfici)','Pomorze','#3a9ad9',[16.4,53.9],0,'Szczecin, Wolin, Gdańsk'],
 PRU:['Księstwo Pruskie','Prusy','#e0a43a',[21.0,54.0],0,'Bałtyccy Prusowie, stolica Tuwangste'],
 OBO:['Księstwo Obodrzyckie','Obodrzyce','#7c6bd6',[11.5,53.75],0,'Liubice, stolica Hanzy'],
@@ -71,7 +72,7 @@ PER:['Persja','Persja','#c9a27e',[47.5,35.5],0,''],
 MAR:['Maroko','Maroko','#b07a5a',[-6.5,33.2],0,'']
 };
 const B={'276':['GER',[['SAX',[6.0,51.0,10.0,53.95]],['SAX',[10.0,51.4,11.75,53.95]],['BUR',[5.8,48.9,8.3,50.0]],['BUR',[5.8,50.0,7.0,51.85]],['BAV',[10.2,47.2,13.9,49.5]],['BAV',[9.0,49.5,11.9,50.6]],['MIS',[11.9,50.2,14.6,51.75]],['STO',[12.0,51.75,14.8,53.4]],['LUZ',[14.0,50.85,15.1,51.95]],['OBO',[10.3,53.3,12.9,54.6]],['WIE',[12.9,53.4,14.3,54.8]],['DEN',[8.0,53.85,10.3,55.1]],['DEN',[9.2,53.55,9.85,53.85]]]],
-'616':['POL',[['LIT',[22.4,52.3,24.2,54.45]],['POM',[14.1,53.2,17.5,54.9]],['POM',[17.5,53.6,19.0,54.9]],['PRU',[19.0,53.25,22.6,55.0]],['SIL',[14.9,50.6,18.4,51.75]],['SIL',[17.0,49.95,19.2,50.7]],['LUZ',[14.6,51.0,15.25,51.85]],['MOR',[19.25,49.0,21.6,50.7]],['MOR',[18.4,49.3,19.25,49.95]],['HAL',[22.2,49.0,24.2,51.0]],['HAL',[23.0,50.9,24.2,51.6]]]],
+'616':['POL',[['LIT',[22.4,52.3,24.2,54.45]],['POM',[14.1,53.2,17.5,54.9]],['POM',[17.5,53.6,19.0,54.9]],['PRU',[19.0,53.25,22.6,55.0]],['SIL',[14.9,50.6,18.4,51.75]],['SIL',[17.0,49.95,19.2,50.7]],['LUZ',[14.6,51.0,15.25,51.85]],['MAZ',[19.75,51.55,22.4,53.25]],['MAZ',[21.6,50.6,24.2,51.6]],['MOR',[19.25,49.0,21.6,50.7]],['MOR',[18.4,49.3,19.25,49.95]],['HAL',[22.2,49.0,24.2,51.0]],['HAL',[23.0,50.9,24.2,51.6]]]],
 '203':['CZE',[['MOR',[15.6,48.5,18.9,49.95]],['MOR',[16.9,49.95,18.9,50.4]]]],
 '703':['MOR'],'348':['CRO',[['WAL',[20.3,45.7,22.9,47.85]],['MOR',[18.6,47.85,22.9,48.6]],['AUS',[16.0,47.4,16.9,48.0]]]],
 '040':['AUS',[['SUI',[9.5,46.8,10.25,47.6]]]],'756':['SUI'],'438':['SUI'],
@@ -94,7 +95,7 @@ const B={'276':['GER',[['SAX',[6.0,51.0,10.0,53.95]],['SAX',[10.0,51.4,11.75,53.
 '398':['KAZ',[['NOV',[76,49,88,56]]]],
 '504':['MAR'],'012':['FRA'],'788':['OTT'],'434':['OTT'],'818':['OTT'],'760':['OTT'],'422':['OTT'],'376':['OTT'],'275':['OTT'],'400':['OTT'],'368':['OTT'],'682':['OTT'],'364':['PER'],'512':['OMA'],'784':['OMA']};
 const N={'Kosovo':['BYZ'],'N. Cyprus':['BYZ'],'Åland':['SWE']};
-const G=[['Słowianie zachodni i Prusowie',['POL','POM','PRU','OBO','WIE','STO','MOR','CZE','SIL','LUZ','MIS','CRO']],['Ruś i Bałtyk',['LIT','NOV','HAL','MOS','KAZ','KRY']],['Północ i Wyspy',['DEN','SWE','ENG','IRL']],['Zachód',['SAX','BAV','GER','AUS','SUI','BUR','NED','FRA','PIE','PAR','TUS','PAP','SIC','ESP','POR']],['Bałkany i Wschód',['BYZ','SRB','WAL','OTT','PER','OMA','MAR']]];
+const G=[['Słowianie zachodni i Prusowie',['POL','MAZ','POM','PRU','OBO','WIE','STO','MOR','CZE','SIL','LUZ','MIS','CRO']],['Ruś i Bałtyk',['LIT','NOV','HAL','MOS','KAZ','KRY']],['Północ i Wyspy',['DEN','SWE','ENG','IRL']],['Zachód',['SAX','BAV','GER','AUS','SUI','BUR','NED','FRA','PIE','PAR','TUS','PAP','SIC','ESP','POR']],['Bałkany i Wschód',['BYZ','SRB','WAL','OTT','PER','OMA','MAR']]];
 const W=760,H=900;
 const svg=d3.select('#map').append('svg').attr('viewBox',`0 0 ${W} ${H}`).attr('width','100%').style('display','block').style('touch-action','none');
 const proj=d3.geoAzimuthalEqualArea().rotate([-17,-53]);
