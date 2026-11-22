@@ -105,6 +105,9 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
 - Grikowie w Kalabrii i Salento: romejska irredenta Konstantynopola.
 - **W 1836 roku**:
   - **Piemont-Sardynia**: Piemont, Sabaudia, Nicea, Lombardia, Genua, Sardynia, a za morzem genueńska **Tabarka** w Tunezji (od 1815 roku). Silny start do zjednoczenia.
+    - **Bogaty**: Lombardia (Mediolan, jedwab, rolnictwo doliny Padu, banki) i Genua (port, flota, kapitał) czynią z Piemontu najbogatsze państwo włoskie.
+    - **Strategiczny sojusznik Hiszpanii**: wspólny wróg to Francja (Algieria: hiszpański Oran na zachodzie, piemoncka Tabarka na wschodzie, a Francja w środku). Do tego wspólna kontrola zachodniego Morza Śródziemnego (Sardynia, Baleary, Genua, Barcelona) i wspólny interes w Tunezji. Hiszpania ma armię i imperium, Piemont pieniądze i flotę genueńską.
+    - **Napięcie w sojuszu**: Piemont chce zjednoczyć Włochy, a więc kiedyś zabrać Neapol Burbonom, czyli krewnym króla Hiszpanii. Madryt musi wybierać między sojusznikiem a rodziną.
   - **Bawaria**: Wenecja.
   - **Toskania**: Habsburgowie burgundzcy.
   - **Parma i Modena**.

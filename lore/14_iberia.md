@@ -17,6 +17,7 @@ Madziarzy nie mieli wpływu na Półwysep Iberyjski, więc do XV wieku wszystko 
 - **Pierwsza wojna karlistowska** (realnie 1833–1840): karliści (tradycjonaliści, Kraj Basków, Nawarra, Katalonia) kontra liberałowie.
 - **Imperium mocniejsze niż realnie**: Kuba, Portoryko, Floryda, Filipiny, a do tego **Wicekrólestwo Nowej Granady z Panamą i Quito** jako ostatni kontynentalny bastion. To duma i duże koszty.
 - **Gibraltar i Minorka** są hiszpańskie.
+- **Sojusz z Piemontem**: najważniejszy partner. Razem przeciw Francji w Algierii i na zachodnim Morzu Śródziemnym. Piemont ma pieniądze Lombardii i flotę Genui, a Hiszpania armię i imperium. Słaby punkt: piemonckie plany wobec burbońskiego Neapolu.
 - **Afryka Północna**: Ceuta, Melilla, Larasz, Mamora, Oran i La Goletta, a do tego **Tunezja jako protektorat** (Hafsydzi pod hiszpańską ochroną przed Turkami, zob. Afryka).
 - **Problemy**: wojna domowa, koszty utrzymania Nowej Granady, presja Luizjany na Kubę, długi.
 
