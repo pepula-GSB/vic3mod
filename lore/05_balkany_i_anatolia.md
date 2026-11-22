@@ -49,6 +49,7 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 ## Serbia
 - Silniejsza, bo przez stulecia nie musiała walczyć z Węgrami. Carstwo Duszana było jeszcze większe.
 - **W 1836 roku**: niepodległa, z ambicjami na Macedonię i Kosowo. Sojusznik albo rywal Konstantynopola.
+- **Na północy**: irredenta wobec Serbów w Chorwacji-Panonii (Srem, ziemie nad Dunajem, Krajina) i poparcie dla Bośniaków przeciw Zagrzebiowi.
 
 ## Księstwo Dacji
 - **Nazwy „Siedmiogród” i „Transylwania” nie istnieją.** Siedmiogród to kalka *Siebenbürgen* od siedmiu grodów saskich kolonistów, a Transylwania (*ultra silvam*) i rumuński *Ardeal* pochodzą od węgierskiej kancelarii. Tu nie ma ani Węgrów, ani Sasów.

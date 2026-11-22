@@ -218,9 +218,27 @@ W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi d�
 
 ## Królestwo Chorwacko-Panońskie
 - **Terytorium**: Chorwacja, Dalmacja (spór z Wenecją i Austrią), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
-- **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski, ciążą ku Bośni; ten sam lud mieszka też w morawskiej północnej Panonii i w zachodniej Dacji nad Cisą), Bośniacy, mniejszość niemiecka na zachodzie.
+- **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski; ten sam lud mieszka też w morawskiej północnej Panonii i w zachodniej Dacji nad Cisą), Bośniacy, Serbowie, mniejszość niemiecka na zachodzie, Dalmatyńcy i Włosi w miastach wybrzeża.
 - Nigdy nie było pod Turkami.
-- **Problemy**: jeden naród „iliryjski” czy osobne narody? Granica z Austrią, Dalmacja.
+- **Religie**:
+  - **katolicy**: Chorwaci, Słoweńcy, Sławończycy, czyli elita i większość,
+  - **Kościół bośniacki (bogomili, *krstjani*)**: realnie zanikł po podboju osmańskim w 1463 roku, gdy Bośniacy przeszli na islam. Tu Turków nie ma, więc wspólnota przetrwała jako dualistyczna, „heretycka” wiara Bośniaków, prześladowana przez Rzym i katolicką koronę,
+  - **prawosławni Serbowie**: w Sremie, nad Dunajem (realna Wojwodina) i na pograniczu wojskowym (Krajina), z biskupem pod patriarchatem w Peci albo w Konstantynopolu.
+- **Ustrój**: korona w Zagrzebiu, rządy katolickiej szlachty chorwackiej. Sabor (sejm) jest zdominowany przez Chorwatów.
+- **Jak Bośnia trafiła do korony**: Królestwo Bośni (Kotromanicie) było niezależne do XV wieku. Wcielono je przez małżeństwo i wojnę po wymarciu dynastii. Bośniacy pamiętają własne królestwo.
+
+### Grożący rozpad: korona chorwacka (journal entry)
+- **Bośniacy**: żądają wolności wyznania dla Kościoła bośniackiego i odnowienia Królestwa Bośni. Mają poparcie Serbii (wróg Zagrzebia) i ewentualnie Konstantynopola (osłabienie katolików). To najsilniejszy ruch secesyjny.
+- **Serbowie**: Srem i ziemie nad Dunajem patrzą w stronę Belgradu. Serbia uważa ich za swoich i ma tam irredentę.
+- **Słoweńcy**: żądają własnego języka w urzędach i autonomii. Patrzą w stronę Austrii albo Moraw jako protektorów.
+- **Sławończycy**: rdzeń programu „iliryjskiego”, ale także odrębna tożsamość. Mogą pójść za Zagrzebiem albo żądać własnej autonomii.
+- **Dalmacja**: miasta wybrzeża z kupcami włoskimi i dalmatyńskimi, kuszone przez Wenecję i Austrię.
+- **Możliwe drogi**:
+  - **centralizacja i chorwatyzacja**: ryzyko powstań, zwłaszcza w Bośni,
+  - **ruch iliryjski**: wspólny naród południowosłowiański katolików i krstjan (a może i prawosławnych) wokół Zagrzebia,
+  - **federacja**: Chorwacja, Słowenia, Sławonia i Bośnia jako równe ziemie korony,
+  - **rozpad**: niepodległa Bośnia, Srem dla Serbii, Słowenia dla Austrii, a z Chorwacji zostaje rdzeń.
+- **Powiązania**: Wiosna Ludów (ok. 1848) i Kwestia sławońska mogą odpalić ten kryzys równocześnie.
 
 ## Kwestie na start gry
 
