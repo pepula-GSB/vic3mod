@@ -52,6 +52,38 @@ Co kilka lat wydarzenie z wyborem fali imigrantów, każda z innymi skutkami:
 - **Kanaryjczycy i Hiszpanie**: spokojni, wzmacniają związki z Hiszpanią.
 - **Polscy, czescy i włoscy emigranci po 1848 roku**: rzemieślnicy, czasem rewolucjoniści.
 
+### 6a. Skutki imigracji: wspólnoty i ich wydarzenia
+Każda przyjęta fala tworzy **wspólnotę** z trzema wskaźnikami: **liczebność**, **integracja** (od odrębnej do sfrancuzowanej) i **napięcie** (z resztą kraju). Wspólnoty wywołują później własne wydarzenia, wynikające z różnic kulturowych i religijnych.
+
+**Religia: husyci w katolickim państwie**
+- **„Kaplica przy Bayou”**: niemieccy, czescy albo polscy husyci (z Poznania) chcą zbudować świątynię. Kościół katolicki protestuje, bo katolicyzm jest religią państwową. Do wyboru: zgoda (tolerancja, gniew duchowieństwa), odmowa (napięcie, możliwa emigracja dalej) albo zgoda z ograniczeniami (świątynia bez wieży, poza miastem).
+- **„Morawskie kazania”**: kościół morawski jest abolicjonistyczny (zob. Dania), więc husyccy duchowni nauczają przeciw niewolnictwu. Delta żąda wydalenia kaznodziejów, a rośnie napięcie na plantacjach.
+- **„Małżeństwa mieszane”**: katolicko-husyckie śluby i spór o wychowanie dzieci.
+
+**Konflikty przywiezione z Europy**
+- **Polacy husyci kontra Polacy katolicy**: emigranci z Poznania (husyci) i z Mazowsza albo Lubelszczyzny (katolicy) przywożą spór o „prawdziwą Polskę”. Bójki w parafiach, osobne gazety i wydarzenia o rozłamie wspólnoty.
+- **Bonapartyści kontra Kościół**: żądania ślubów cywilnych, świeckich szkół i konfiskaty dóbr kościelnych, czyli spór, który był już we Francji.
+- **Niemcy katolicy kontra niemieccy husyci**: echo wojen religijnych w Niemczech.
+
+**Język i kultura**
+- **„Szkoła niemiecka”, „szkoła angielska”**: wspólnoty chcą uczyć dzieci we własnym języku. Do wyboru: zgoda (wolniejsza integracja, mniej napięcia teraz) albo obowiązkowy francuski (szybsza integracja, więcej napięcia teraz).
+- **„Gazeta w obcym języku”**: prasa niemiecka, angielska albo polska i jej poglądy polityczne.
+- **„Święto wspólnoty”**: festyny, chóry, procesje i pochody. Albo budują sympatię, albo prowokują bójki.
+
+**Gospodarka i klasy**
+- **Irlandczycy w porcie kontra wolni ludzie koloru**: konkurencja o pracę w porcie i rzemiośle, napięcia rasowe i zamieszki portowe.
+- **Farmerzy-imigranci kontra plantatorzy**: spór o ziemię i wodę na pograniczu i o drogi do rzeki.
+- **Kupcy żydowscy** (z Alzacji, Frankonii i Polski): banki i handel, a do tego zawiść i ochrona.
+
+**Polityka**
+- **Anglosaska enklawa**: żąda autonomii, wyborów lokalnych i angielskiego w sądach. Przy wysokim napięciu: secesja i przyłączenie do Wirginii albo Karolin („Teksas w odwrotną stronę”).
+- **Emigranci po 1848 roku**: radykałowie z Europy zasilają ruch pogranicza albo bonapartystów.
+
+**Drogi integracji** (dla każdej wspólnoty):
+- **Asymilacja**: z czasem przechodzi na kulturę kreolsko-francuską, a napięcie znika.
+- **Współistnienie**: odrębna wspólnota z prawami (szkoły, świątynie), stabilna, ale z odrębną tożsamością.
+- **Konflikt**: getta, zamieszki i ruchy separatystyczne.
+
 ## 7. Ekspansja
 - **„Teksas”**: francuskojęzyczna rewolucja teksańska. Wspierać osadników przeciw Meksykowi, czekać czy przyłączyć Teksas?
 - **„Floryda Zachodnia”**: wojna z Hiszpanią o Mobile i Pensacolę (ryzyko utraty hiszpańskiego handlu).
