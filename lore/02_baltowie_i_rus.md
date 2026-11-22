@@ -16,7 +16,7 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Kolonie**: Tobago na Karaibach (odziedziczone po Kurlandii) i fort w Gambii.
 - **Sojusze**: Konstantynopol (dynastia, wiara), wspólny front przeciw Tatarom.
 - **Rola**: „zbiera ziemie ruskie” jako odnowiciel Rusi Kijowskiej, bez ideologii rzymskiej.
-- **Problemy**: kozaczyzna na stepie, Chanat Krymski (wasal lub sporny), łotewski ruch narodowy (naród podzielony z Nowogrodem), Napoleon próbował ją najechać.
+- **Problemy**: kozaczyzna na stepie, Chanat Krymski (wasal osmański) i osmański Azow na stepie, łotewski ruch narodowy (naród podzielony z Nowogrodem), Napoleon próbował ją najechać.
 
 ## Republika Nowogrodzka
 - **Terytorium**: Nowogród, Psków, Karelia, wschodnia Finlandia (Sawonia), Ingria i ujście Newy (nie ma Petersburga, zamiast niego port nowogrodzki), Estonia (Rewal, Narwa, Parnawa, Tartu), Inflanty na północ od Dźwiny, wybrzeże Morza Białego, ziemie po Ural, a za Uralem **cała Syberia** aż po Ałtaj, Sajany, Bajkał, Amur, Ochock i Kamczatkę.
@@ -40,13 +40,26 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Pozycja**: pod parasolem Moraw. W stosunkach z Litwą-Rusią raczej rywal.
 
 ## Wielkie Księstwo Moskiewskie
-- **Terytorium**: rdzeń włodzimiersko-suzdalski, Kazań, Astrachań, Wołga, południowy Ural (Baszkiria, Orenburg), Kaukaz Północny i **step kazachski**: Mała i Średnia Orda pod zwierzchnictwem Moskwy.
-- **Tożsamość**: dziedzic Złotej Ordy, a nie Rzymu. Państwo eurazjatyckie, rusko-tatarskie.
-- Zablokowane w Europie przez Litwę-Ruś i Nowogród, a na wschodzie przez nowogrodzką Syberię. **Jedyny kierunek ekspansji to step**: Kazachstan, a dalej Chiwa, Buchara, Kokand i Turkiestan. Na wschodzie Moskwa sięga Dżungarii i graniczy tam z Chinami Qing.
-- Linia forteczna od Orenburga po Irtysz to granica z Nowogrodem, a nie wewnętrzna granica stepowa jak realnie.
-- **Wielka Gra**: rywal Anglii w Azji Środkowej. Moskwa jest tu bardziej skupiona na Azji niż realna Rosja, bo nie ma innego kierunku.
-- **Journal entry**: „Podbój stepu”: Ordy kazachskie, chanaty środkowoazjatyckie i wyścig z Anglią do Afganistanu.
-- **Journal entry**: „Zbieranie Rusi” kontra eurazjatyzm.
+Raczej **pozostałość po Złotej Ordzie** niż liczące się państwo.
+
+- **Tożsamość**: dziedzic Ordy, a nie Rzymu. Władca jest dla chrześcijan wielkim księciem, a dla muzułmanów chanem.
+- **Terytorium**: rdzeń włodzimiersko-suzdalski, środkowa Wołga do Carycyna (dzisiejszy Wołgograd), Kazań, Baszkiria, południowy Ural, Orenburg. Do tego luźne zwierzchnictwo nad Małą i Średnią Ordą kazachską.
+- **Granice**:
+  - zachód: Litwa-Ruś,
+  - północ i wschód: Nowogród (Syberia, linia Orenburg–Irtysz),
+  - południe: **Osmanowie na Wołdze**, od Carycyna aż po ujście (Astrachań jest osmański), a dalej nad Donem (Rostów i Azow).
+- **Ustrój: silnie zdecentralizowany**. Wielki książę jest pierwszym wśród równych. Władza leży w rękach:
+  - udzielnych książąt ruskich na zachodzie,
+  - tatarskich bejów i murzów w Kazaniu i Kasimowie,
+  - baszkirskich i kazachskich starszyzn rodowych,
+  - kozackich wolnych gromad na pograniczu.
+  - Podatki i wojsko zbiera się przez lokalnych panów, jak w ułusie, a nie przez centralną biurokrację.
+- **Religia**: prawosławny zachód i **zislamizowany wschód** (Tatarzy kazańscy, Baszkirzy, Kazachowie, Nogajowie, część ruskich elit na wschodzie). Islam jest równorzędny z prawosławiem. Na dworze zasiadają obok siebie mułłowie i duchowni prawosławni.
+- **Pozycja w 1836 roku**: duże terytorium, mało znaczenia. Gospodarka jest zacofana i oparta na koczownictwie, a państwo ma poważne problemy z utrzymaniem jedności. Wielka Gra z Anglią to raczej ambicja niż rzeczywistość.
+- **Journal entries**:
+  - „Ułus czy państwo”: centralizacja wokół Moskwy albo dalszy rozpad na chanaty i księstwa (możliwe oderwanie Kazania).
+  - „Podbój stepu”: Ordy kazachskie, Chiwa, Buchara i Kokand. To jedyny otwarty kierunek ekspansji.
+  - „Wołga”: odzyskanie dolnej Wołgi od Osmanów.
 
 ## Pięć kultur wschodniosłowiańskich
 Rusini haliccy (unici), Rusini kijowscy, Białorusini, Nowogrodzianie, Moskale.

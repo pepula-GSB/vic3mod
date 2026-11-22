@@ -7,7 +7,7 @@ Rzeczy jeszcze nieustalone albo do sprawdzenia.
 - **Ameryka Łacińska**: przyjęto przebieg jak realny. Sprawdzić wpływ Luizjany i Nowej Francji.
 - **Abolicja w Anglii**: czy była w 1833 roku? To decyduje, czy Dominium Wirginii startuje w kryzysie.
 - **Status Rygi**: wolne miasto Hanzy, nowogrodzka czy litewska?
-- **Chanat Krymski**: wasal Litwy-Rusi czy niezależny?
+- **Chanat Krymski**: ustalono, że jest wasalem osmańskim.
 - **Unia Szkocji i Anglii**: unia personalna czy jeden parlament po późniejszym kryzysie?
 - **Nazwa kolonii duńskiej w Afryce**: Frederiksnopel czy Frihedskysten?
 - **Głagolica**: przyjęto, że Morawy używają łaciny, a Chorwacja-Panonia może zachować głagolicę jako pismo narodowe lub liturgiczne.

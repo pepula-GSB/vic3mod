@@ -30,7 +30,13 @@
 ## Imperium Osmańskie
 - Anatolia jak realnie: Seldżucy, Mongołowie, bejlikaty, Osmanowie.
 - Zablokowane w Europie, więc środek ciężkości leży w Azji: Egipt (ściślej kontrolowany, Muhammad Ali mniej samodzielny), Lewant, Mezopotamia, Arabia, rywalizacja z Persją, Ocean Indyjski.
-- **W 1836 roku**: imperium bliskowschodnie ze środkową i wschodnią Anatolią, bez Bałkanów, nie „chory człowiek Europy”.
+- **Kierunek północny**: zablokowani na Bałkanach, Osmanowie idą przez Kaukaz i Morze Czarne (porty Synopa i Trapezunt) na step:
+  - Azow (realnie osmański w latach 1475–1696) i Chanat Krymski jako wasal,
+  - **1569**: realna wyprawa na Astrachań i próba przekopania kanału Don–Wołga skończyły się porażką. Tu się udają,
+  - Osmanowie zdobywają Astrachań, ujście Wołgi i dolny Don.
+- **Granica północna w 1836 roku**: Rostów nad Donem i Carycyn (Wołgograd) są osmańskie, a granica z Moskwą biegnie Wołgą aż do ujścia. Kaukaz Północny, Kubań, Kałmucja i Dagestan są osmańskie, podobnie Gruzja i Armenia jako wasale lub prowincje.
+- Imperium kontroluje szlak handlowy z Persji i Azji Środkowej przez Wołgę i Kaukaz.
+- **W 1836 roku**: imperium bliskowschodnio-stepowe: środkowa i wschodnia Anatolia, Bliski Wschód, Egipt, Kaukaz oraz step pontyjsko-kaspijski, bez Bałkanów. Nie jest „chorym człowiekiem Europy”, raczej potęgą azjatycką z wyjściem nad Wołgę.
 
 ## Kwestia Wschodnia
 Konstantynopol i Litwa-Ruś (prawosławie) kontra Osmanowie w Anatolii, z Serbią, Chorwacją-Panonią i Rumunami jako graczami pośrednimi.
