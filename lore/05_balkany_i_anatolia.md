@@ -9,13 +9,14 @@
 - **1453**: Konstantynopol nie upada. Nie ma idei Trzeciego Rzymu na Rusi.
 
 ## Cesarstwo Bułgarsko-Romejskie
-- **Terytorium**: Konstantynopol, Tracja, Bułgaria, Macedonia, Grecja, Albania, zachodnia Anatolia (wybrzeże egejskie).
+- **Terytorium**: Konstantynopol, Tracja, Bułgaria, Macedonia, Grecja, Albania, zachodnia Anatolia (wybrzeże egejskie), a na północ od Dunaju **Muntenia z Bukaresztem i Dobrudża** (temat Paristrion, czyli „Naddunajski”).
+- **Dlaczego Muntenia**: pierwsze państwo bułgarskie panowało na północ od Dunaju, Bizancjum miało tu temat Paristrion, a Asenowie, założyciele drugiego państwa bułgarskiego, sami byli Wołochami. Nizina naddunajska od wieków należy do Konstantynopola, a do Dacji przechodzą tylko góry.
 - **Dynastia** bułgarsko-greckiego pochodzenia.
-- **Języki i pisma**: grecki i bułgarski, alfabet grecki obok cyrylicy.
+- **Języki i pisma**: grecki i bułgarski, alfabet grecki obok cyrylicy. Do tego **Wołosi (Rumuni)** w Munteni i Dobrudży, trzeci naród cesarstwa, przyciągany przez Dację.
 - **Religia**: prawosławie, z patriarchą konstantynopolitańskim jako centrum całego świata prawosławnego.
 - **Sojusznik**: Litwa-Ruś (wiara i małżeństwa).
 - **Ambicje**: Grikowie na południu Włoch, kontrola cieśnin.
-- **Problemy**: kto jest właścicielem tego państwa, Grecy czy Bułgarzy? Rozsadzające je od środka nacjonalizmy XIX wieku, Serbia jako rywal, konkurencja Wenecji i Genui w handlu.
+- **Problemy**: kto jest właścicielem tego państwa, Grecy czy Bułgarzy? Wołosi w Munteni patrzą w stronę Białogrodu. Rozsadzające je od środka nacjonalizmy XIX wieku, Serbia jako rywal, konkurencja Wenecji i Genui w handlu.
 - **Journal entry**: kwestia grecko-bułgarska, z wyborem federacji, hellenizacji albo slawizacji.
 
 ## Serbia
@@ -25,12 +26,12 @@
 ## Księstwo Dacji
 - **Nazwy „Siedmiogród” i „Transylwania” nie istnieją.** Siedmiogród to kalka *Siebenbürgen* od siedmiu grodów saskich kolonistów, a Transylwania (*ultra silvam*) i rumuński *Ardeal* pochodzą od węgierskiej kancelarii. Tu nie ma ani Węgrów, ani Sasów.
 - **Skąd „Dacja”**: kancelaria bizantyjska, a potem bułgarsko-romejska, z upodobaniem do klasycznych nazw, od wieków nazywa ziemie Wołochów na północ od Dunaju **Dacją**. Miejscowi książęta przyjęli tę nazwę w XVI wieku, za księcia-zjednoczyciela (odpowiednik realnego Michała Walecznego). Łączyła ich z Rzymem i odróżniała od słowiańskich sąsiadów.
-- **Terytorium**: rdzeń na wyżynie za Karpatami (realny Siedmiogród) (bez Sasów i Seklerów, ludność rumuńska z resztkami słowiańskimi), do tego Muntenia i Oltenia (realna Wołoszczyzna), Banat i ziemie po Cisę.
-- **Stolica**: Białogród (*Bălgrad*, realna Alba Iulia), stary gród książąt. Bukareszt jest drugim ośrodkiem nad Dunajem.
+- **Terytorium**: rdzeń na wyżynie za Karpatami (realny Siedmiogród, bez Sasów i Seklerów, ludność rumuńska z resztkami słowiańskimi), Oltenia (na zachód od Aluty), Banat i ziemie po Cisę. **Nizina wokół Bukaresztu (Muntenia) i Dobrudża należą do Cesarstwa Bułgarsko-Romejskiego.**
+- **Stolica**: Białogród (*Bălgrad*, realna Alba Iulia), stary gród książąt. Dostęp do Dunaju jest tylko przez Oltenię (Turnu Severin, Calafat).
 - **Religia**: prawosławie, z biskupstwem pod patriarchą konstantynopolitańskim.
 - **W 1836 roku**: niezależne księstwo między Cesarstwem Bułgarsko-Romejskim, Chorwacją-Panonią, Serbią, Haliczem i Litwą-Rusią.
 - **Problem: Mołdawia jest w unii z Haliczem**, więc Rumuni są podzieleni.
-- **Journal entry „Cała Dacja”**: odzyskanie Mołdawii od Halicza, budowa narodu rumuńskiego wokół idei rzymsko-dackiej i spór z Chorwacją-Panonią o ziemie nad Cisą.
+- **Journal entry „Cała Dacja”**: odzyskanie Mołdawii od Halicza i Munteni z Bukaresztem od Konstantynopola, budowa narodu rumuńskiego wokół idei rzymsko-dackiej i spór z Chorwacją-Panonią o ziemie nad Cisą.
 
 ## Imperium Osmańskie
 - Anatolia jak realnie: Seldżucy, Mongołowie, bejlikaty, Osmanowie.
