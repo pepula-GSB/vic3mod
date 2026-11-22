@@ -31,6 +31,7 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [lore/09_ocean_indyjski.md](lore/09_ocean_indyjski.md) | Sułtanat Omanu i Zanzibaru |
 | [lore/10_azja_poludniowo_wschodnia.md](lore/10_azja_poludniowo_wschodnia.md) | Birma, Syjam, Wietnam, cieśniny, Indonezja |
 | [lore/11_chiny_i_japonia.md](lore/11_chiny_i_japonia.md) | Chiny Qing, Japonia Tokugawa, Pacyfik |
+| [lore/12_ameryka_srodkowa_i_karaiby.md](lore/12_ameryka_srodkowa_i_karaiby.md) | Karaiby, Gujany, Ameryka Środkowa |
 | [lore/99_otwarte_kwestie.md](lore/99_otwarte_kwestie.md) | Rzeczy do dopracowania |
 | [maps/europa_1836.html](maps/europa_1836.html) | Interaktywna, schematyczna mapa Europy w 1836 roku (otwórz w przeglądarce) |
 
