@@ -10,9 +10,7 @@ Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i 
 
 **Korona burbońska** (flaga 5), **korona cesarska** i **pszczoły** (flaga 4): [korona_burbonska.png](../emblematy/korona_burbonska.png), [korona_cesarska.png](../emblematy/korona_cesarska.png), [pszczola.png](../emblematy/pszczola.png), wycięte z herbów od autora moda (wyglądają na pliki z Wikimedia Commons, licencję też sprawdzić).
 
-**Dewiza flagi 6** (białe litery po okręgu wokół palmy): u góry *LIBERTÉ AUX ESCLAVES*, u dołu *CHAÎNES BRISÉES*. W Vic3 napis musi być częścią emblematu (DDS), bo skrypt herbowy nie ma tekstu.
-
-**Zerwany łańcuch** (flaga 6, na biało, przed pniem palmy): [lancuch_zerwany.png](../emblematy/lancuch_zerwany.png), od autora moda; źródło ma niską rozdzielczość (powiększone 4×), przy finalnym DDS warto mieć większy plik albo wektor.
+**Dewiza flagi 6** (białe litery po okręgu wokół palmy): *NUL N'EST ESCLAVE EN LOUISIANE* („Nikt nie jest niewolnikiem w Luizjanie”), u góry pierwsza część, u dołu *EN LOUISIANE*. W Vic3 napis musi być częścią emblematu (DDS), bo skrypt herbowy nie ma tekstu.
 
 Wieniec laurowy, kotwica z młotem i liść tytoniu to na razie proste sylwetki wektorowe do podmiany na ilustracje w tym samym stylu.
 
