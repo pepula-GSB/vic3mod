@@ -134,7 +134,8 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
 ### Kwestia włoska: dwie drogi Piemontu
 **1. Królestwo Włoch bez południa („Górne Włochy”)**
 - **Realne precedensy**: napoleońskie Królestwo Włoch (1805–1814) obejmowało tylko północ (Lombardię, Wenecję, Romanię), a plan z Plombières (Cavour i Napoleon III, 1858) zakładał Królestwo Górnych Włoch, osobne państwo środkowe i nietknięte Obojga Sycylii.
-- **Cel**: Lombardia (już piemoncka), Wenecja (od Bawarii), Parma i Modena, Toskania (od Habsburgów burgundzkich), Romania i Legacje papieskie (Bolonia, Ferrara, Rawenna). Rzym i Lacjum mogą zostać papieżowi.
+- **Warunek konieczny: Wenecja.** Bez niej nie ma Górnych Włoch. Trzeba ją odebrać Bawarii, czyli wygrać wojnę z najsilniejszym państwem niemieckim, która jest ceną za uniknięcie konfliktu z Hiszpanią o południe.
+- **Pozostałe cele**: Lombardia (już piemoncka), Parma i Modena, Toskania (od Habsburgów burgundzkich), Romania i Legacje papieskie (Bolonia, Ferrara, Rawenna). Rzym i Lacjum mogą zostać papieżowi.
 - **Przeciwnicy**: Bawaria, Burgundia, papież, a Francja nie chce silnego państwa za Alpami.
 - **Sojusz z Hiszpanią przetrwa**: Neapol zostaje Burbonom, więc Madryt może wspierać Piemont przeciw Bawarii i Burgundii.
 - **Wynik**: bogate, przemysłowe Włochy północne, czyli średnie mocarstwo i stały sojusznik Hiszpanii na Morzu Śródziemnym.
