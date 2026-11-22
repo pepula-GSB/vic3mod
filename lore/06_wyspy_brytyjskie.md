@@ -34,4 +34,4 @@ Założenie: Anglia **nie jest hegemonem**, tylko jedną z kilku potęg morskich
 - **Kolonie**: Dominium Nowej Anglii, Dominium Wirginii, Karaiby, Bengal, forty na Złotym Wybrzeżu.
 - **Nie ma**: USA, Kanady, Przylądka, Cejlonu, Australii, Sierra Leone ani Gambii.
 - **Rywale morscy**: Niderlandy, Dania-Norwegia (cło sundzkie, łowiska, Orkady), Francja.
-- **W Azji**: Wielka Gra jest słaba, bo Moskwa jest zbyt rozbita. Głównymi rywalami w Azji są Osmanowie (Kaukaz, Wołga, Zatoka Perska) i Persja.
+- **W Azji**: tylko Bengal i faktorie. Nie ma brytyjskich Indii, więc **nie ma Wielkiej Gry**. Anglia rywalizuje w Indiach z Francją, Niderlandami i Marathami, a nie w Azji Środkowej.

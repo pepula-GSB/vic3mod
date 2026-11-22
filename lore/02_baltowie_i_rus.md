@@ -55,7 +55,8 @@ Raczej **pozostałość po Złotej Ordzie** niż liczące się państwo.
   - kozackich wolnych gromad na pograniczu.
   - Podatki i wojsko zbiera się przez lokalnych panów, jak w ułusie, a nie przez centralną biurokrację.
 - **Religia**: prawosławny zachód i **zislamizowany wschód** (Tatarzy kazańscy, Baszkirzy, Kazachowie, Nogajowie, część ruskich elit na wschodzie). Islam jest równorzędny z prawosławiem. Na dworze zasiadają obok siebie mułłowie i duchowni prawosławni.
-- **Pozycja w 1836 roku**: duże terytorium, mało znaczenia. Gospodarka jest zacofana i oparta na koczownictwie, a państwo ma poważne problemy z utrzymaniem jedności. Wielka Gra z Anglią to raczej ambicja niż rzeczywistość.
+- **Pozycja w 1836 roku**: duże terytorium, mało znaczenia. Gospodarka jest zacofana i oparta na koczownictwie, a państwo ma poważne problemy z utrzymaniem jedności.
+- **Azja Środkowa zamiast Wielkiej Gry**: nie ma tu brytyjskich Indii, więc nie ma Wielkiej Gry. O Chiwę, Bucharę, Kokand i Afganistan rywalizują Moskwa, Osmanowie (od Kaukazu i Wołgi), Persja, a dalej Afgańczycy, Sikhowie i Chiny Qing.
 - **Journal entries**:
   - „Ułus czy państwo”: centralizacja wokół Moskwy albo dalszy rozpad na chanaty i księstwa (możliwe oderwanie Kazania).
   - „Podbój stepu”: Ordy kazachskie, Chiwa, Buchara i Kokand. To jedyny otwarty kierunek ekspansji.
