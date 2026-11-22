@@ -47,6 +47,9 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 ### Tunezja: Hafsydzi przetrwali
 - Realnie Karol V (cesarz i zarazem król Hiszpanii) zdobył Tunis w 1535 roku i zrobił z Hafsydów swoich wasali, a Osmanowie zajęli kraj w 1574 roku. Tu Karol z Gandawy ma tylko Burgundię i cesarstwo, więc wyprawę na Tunis prowadzi **hiszpański król Ferdynand** (jego brat, założyciel hiszpańskiej gałęzi Habsburgów). Osmanowie są zbyt słabi na zachodzie, więc **Hafsydzi przetrwali** jako wasale Hiszpanii, a potem jako sułtanat pod opieką Hiszpanii i Neapolu.
 - **W 1836 roku**: niezależny sułtanat hafsydzki z silnymi więziami z Sycylią i Maltą, z wieloma sycylijskimi i maltańskimi kupcami i rybakami.
+- **Europejskie przyczółki**:
+  - **La Goletta (Halq al-Wadi)**: hiszpańska twierdza strzegąca wejścia do jeziora i portu Tunisu. Realnie była hiszpańska w latach 1535–1574. Tu zostaje jako gwarancja hiszpańskiej opieki nad Hafsydami, czyli garnizon, który chroni sułtana, ale też go pilnuje.
+  - **Tabarka**: wysepka z fortem przy granicy z Algierią, ośrodek połowu korali. Realnie należała do genueńskiej rodziny Lomellinich w latach 1540–1741. Tu zostaje genueńska aż do końca, a od 1815 roku, gdy Genua trafiła do Piemontu, jest **piemoncka**. To jedyny zamorski przyczółek Piemontu, mały, ale na ważnej granicy francusko-tunezyjskiej.
 - **Zagrożenia**: Francja z Algierii (Bizerta to strategiczny port), Osmanowie z Trypolisu.
 
 ### Libia (Trypolitania i Cyrenajka)
@@ -58,7 +61,7 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 ### Journal entries
 - „Presidia”: hiszpańska ekspansja w Maroku.
 - „Oran”: francusko-hiszpańska rywalizacja w Algierii.
-- „Bizerta”: Tunezja między Francją, Hiszpanią i Neapolem.
+- „Bizerta”: Tunezja między Francją, Hiszpanią (La Goletta), Piemontem (Tabarka) i Neapolem.
 
 ## Afryka Wschodnia
 - **Etiopia**: okres książąt, możliwe kontakty z Konstantynopolem.

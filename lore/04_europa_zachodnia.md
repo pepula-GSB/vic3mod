@@ -104,7 +104,7 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
 - Wenecja walczy o Dalmację z Chorwacją, a na wschodzie ma żywy Konstantynopol.
 - Grikowie w Kalabrii i Salento: romejska irredenta Konstantynopola.
 - **W 1836 roku**:
-  - **Piemont-Sardynia**: Piemont, Sabaudia, Nicea, Lombardia, Genua, Sardynia. Silny start do zjednoczenia.
+  - **Piemont-Sardynia**: Piemont, Sabaudia, Nicea, Lombardia, Genua, Sardynia, a za morzem genueńska **Tabarka** w Tunezji (od 1815 roku). Silny start do zjednoczenia.
   - **Bawaria**: Wenecja.
   - **Toskania**: Habsburgowie burgundzcy.
   - **Parma i Modena**.
