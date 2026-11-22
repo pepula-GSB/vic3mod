@@ -43,6 +43,7 @@ Gens de couleur libres to rzemieślnicy, kupcy, czasem sami właściciele planta
 - **Parowce**: technologia odblokowuje Złoty Wiek Nowego Orleanu: port, banki, opera, karnawał.
 
 ## 6. Kogo zaprosić? (imigracja)
+To luizjańska wersja ogólnej mechaniki dla wszystkich państw osadniczych, zob. [kolonisci.md](kolonisci.md).
 Co kilka lat wydarzenie z wyborem fali imigrantów, każda z innymi skutkami:
 - **Niemcy katolicy** (Badenia, Bawaria): lojalni wobec Kościoła, wzmacniają pogranicze.
 - **Niemcy protestanci i husyci**: pracowici, ale budzą nieufność Kościoła.
