@@ -143,5 +143,4 @@ Czechy, Łużyce i Miśnia dostają wydarzenia o rozszerzeniu autonomii. Prawdop
 - Wojna domowa: walczą dwa stronnictwa z największym poparciem, pozostałe dołączają albo zostają neutralne.
 
 ## Do decyzji
-- Czy Republika Śląska może później dołączyć do zjednoczenia lechickiego albo federacji zachodniosłowiańskiej?
 - Czy wynik ma wpływać na kwestię śląskiej kultury (np. bonus do tożsamości narodowej przy republice)?

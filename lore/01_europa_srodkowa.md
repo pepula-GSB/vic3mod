@@ -124,12 +124,6 @@ W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi d�
 
 ## Kwestie na start gry
 
-### Zjednoczenie lechickie (journal entry)
-Odpowiednik realnego zjednoczenia Niemiec. Pytanie brzmi, czy Polska, Pomorze, Obodrzyce, Wieletia i Stodorania (do tego Prusy jako Bałtowie) zjednoczą się w XIX wieku.
-- **Kandydaci na lidera**: Polska (największa ludność), Pomorze (porty i bogactwo), Morawy (panslawizm i przemysł).
-- **Opór**: dynastie lokalne z tysiącletnią tradycją, odrębne języki, wzajemne urazy.
-- **Wariant „mniejszy”**: tylko państwa połabskie razem (federacja połabska).
-
 ### Kwestia Słowiańska (journal entry)
 1. **Federacja zachodnia**: lechicko-morawsko-panońska, alfabet łaciński, dziedzictwo Cyryla i Metodego.
 2. **Wspólnota prawosławna** pod Litwą-Rusią i Konstantynopolem.
