@@ -34,6 +34,15 @@ Odpowiednik Prus w tym świecie: północne, protestanckie, frontowe państwo wo
   - Westfalia katolicka w protestanckim państwie.
 - **Journal entry**: „Marchia Łaby”. Napięcia na granicy z Obodrzycami i Stodoranią, możliwa wojna o przyczółki na prawym brzegu Łaby.
 
+### Kwestia ujścia Łaby (journal entry)
+Trzy strony, a do tego miasto pośrodku:
+- **Saksonia**: lewy brzeg (Stade, Cuxhaven) i wpływy w Hamburgu.
+- **Dania**: Holsztyn na prawym brzegu poniżej Hamburga. Twierdza celna w Glückstadt pobiera cło od statków na Łabie (realnie od 1617 roku), drugi Sund w miniaturze.
+- **Obodrzyce**: Połabie (Racibórz, Lauenburg) powyżej Hamburga i **kanał Stecknitz**, który łączy Łabę z Liubice. Realnie powstał w 1398 roku, tu jest słowiański. To szlak solny z Lüneburga i najkrótsza droga z Morza Północnego na Bałtyk z ominięciem Sundu.
+- **Hamburg**: wolne miasto, które balansuje między wszystkimi trzema.
+
+Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński Sund czy przez obodrzycki kanał.
+
 ## Austria
 - Marchia przeciw Słowianom panońskim. Habsburgowie wygrywają z Morawami w 1278 roku tylko z trudem.
 - Nie ma unii z Czechami ani Węgrami, więc nie ma monarchii naddunajskiej. Austria to boczna linia i peryferia Habsburgów.
