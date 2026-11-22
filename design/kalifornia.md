@@ -93,6 +93,17 @@ Osadnicy i Kalifornijczycy ogłaszają niepodległość. Kto prowadzi, zależy o
 - **Centralizm siłą**: kolejne wojny. Jeśli wygra wszystkie, Meksyk wychodzi silny i scentralizowany. Jeśli przegra, rozpad.
 - **Rozpad Meksyku**: niepodległe albo przejęte przez obcych są Kalifornia, Teksas (do Luizjany albo samodzielnie), Jukatan (może pod Hiszpanią) i Rio Grande. Z Meksyku zostaje rdzeń wokół stolicy.
 
+**Szukanie pomocy (decyzje Meksyku w czasie kryzysu)**. Każda opcja ma swoją cenę:
+- **Pojednanie z Hiszpanią**: realnie Hiszpania uznała niepodległość Meksyku właśnie w grudniu 1836 roku (traktat Santa María–Calatrava). Tu traktat może pójść dalej, do **sojuszu katolickich monarchii i republik hiszpańskojęzycznych** przeciw Luizjanie i Nowej Francji. Pomoc: flota z Hawany i wojsko z Kuby do Teksasu i na Jukatan. Cena: wpływy hiszpańskie, ustępstwa handlowe, a może baza na Jukatanie, czyli ryzyko, że pomocnik zostanie na dłużej.
+- **Bankierzy z Amsterdamu i Antwerpii**: nowe pożyczki na wojsko. Cena: zastaw w postaci ceł portowych (Veracruz, Tampico), a przy niewypłacalności interwencja wierzycieli.
+- **Najemnicy i ochotnicy z Europy**: Szwajcarzy, Irlandczycy (realnie batalion św. Patryka walczył po stronie Meksyku w 1846 roku), katoliccy Niemcy i Polacy z Mazowsza. Szybko i skutecznie, ale drogo, a najemnicy po wojnie chcą ziemi.
+- **Korona dla europejskiego księcia**: realnie meksykańscy monarchiści latami szukali europejskiego księcia, aż w 1864 roku cesarzem został Maksymilian Habsburg. Tu Meksyk może sam zaoferować koronę:
+  - **Burbonowi z Quebecu**: sojusz z Nową Francją przeciw Luizjanie,
+  - **Habsburgowi z Brukseli**: kapitał i flota burgundzka,
+  - **hiszpańskiemu infantowi**: pełny sojusz z Hiszpanią.
+  - Cena: zamiana republiki w cesarstwo, a federaliści i liberałowie uznają to za zdradę, co może wywołać kolejny bunt.
+- **Układ z Komanczami**: pokój i handel na północy zamiast wojny, co zwalnia wojsko do tłumienia buntów. Cena: uznanie Komanczerii, a osadnicy z północy są wściekli.
+
 **Dla gracza grającego Meksykiem**: najtrudniejszy start na kontynencie. Dla sąsiadów (Luizjana, Nowogród, Nowa Francja, Hiszpania) to okazja.
 
 ## Powiązania
