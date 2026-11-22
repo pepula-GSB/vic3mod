@@ -76,6 +76,25 @@ Osadnicy i Kalifornijczycy ogłaszają niepodległość. Kto prowadzi, zależy o
 5. **Powrót Hiszpanii**: najmniej prawdopodobny, ale możliwy przy rozpadzie Meksyku i wsparciu Kuby i Nowej Granady.
 6. **Odzyskanie przez Meksyk**: wymaga wysokiej kontroli i stabilnego rządu w stolicy.
 
+## Kaskada: kryzys federalny Meksyku
+**Realny zaczep**: w latach 1835–1836 Santa Anna zniósł federację i wprowadził scentralizowaną konstytucję (Siedem Ustaw). Wywołało to falę buntów federalistów: w Teksasie (1835–1836), w Kalifornii (1836), w Zacatecas (1835), w Republice Rio Grande (1840) i na Jukatanie (1841). Wszystkie były ze sobą powiązane.
+
+**Mechanika**: Meksyk ma wskaźnik **„Kryzys federalny”**. Każdy bunt go podnosi, a im jest wyższy, tym łatwiej wybuchają kolejne.
+- **Kalifornia** (Alvarado): start łańcucha.
+- **Teksas**: francuskojęzyczni osadnicy z Luizjany. Bunt wybucha szybciej, jeśli Kalifornia się trzyma, a Luizjana wspiera.
+- **Jukatan**: kreolska elita z Méridy żąda federalizmu i handlu z Kubą. Realnie Jukatan w czasie wojny kast (powstanie Majów, 1847) oferował się USA, Wielkiej Brytanii i Hiszpanii. Tu może poprosić Hiszpanię z Kuby, co oznacza powrót Hiszpanów na kontynent.
+- **Rio Grande**: północne stany (Coahuila, Nuevo León, Tamaulipas) mogą utworzyć własną republikę.
+- **Zacatecas** i inne stany centralne: miejscowe bunty milicji.
+
+**Ograniczenie Meksyku**: armia może skutecznie tłumić tylko jeden bunt naraz. Wysłanie wojska do Kalifornii odsłania Teksas i Jukatan i odwrotnie. Do tego bankructwo (brak żołdu) i Komancze na północy.
+
+**Zakończenia kryzysu**:
+- **Powrót federacji**: ustępstwa wobec stanów, autonomia, a kryzys spada. Meksyk ocalały, ale luźny.
+- **Centralizm siłą**: kolejne wojny. Jeśli wygra wszystkie, Meksyk wychodzi silny i scentralizowany. Jeśli przegra, rozpad.
+- **Rozpad Meksyku**: niepodległe albo przejęte przez obcych są Kalifornia, Teksas (do Luizjany albo samodzielnie), Jukatan (może pod Hiszpanią) i Rio Grande. Z Meksyku zostaje rdzeń wokół stolicy.
+
+**Dla gracza grającego Meksykiem**: najtrudniejszy start na kontynencie. Dla sąsiadów (Luizjana, Nowogród, Nowa Francja, Hiszpania) to okazja.
+
 ## Powiązania
 - Rewolucja w Teksasie (Luizjana) i Jukatan osłabiają Meksyk naraz.
 - Spór oregoński (cztery strony) splata się z losem Kalifornii.

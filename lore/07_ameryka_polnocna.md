@@ -98,6 +98,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **Komanczeria** najeżdża północne prowincje aż po Durango.
 - **Sąsiedzi chcący kawałka**: Luizjana (Teksas), Nowogród (Kalifornia), Nowa Francja (Oregon, Kalifornia), Hiszpania (rekonkwista).
 - **W grze**: wielkie terytorium, ale wszyscy chcą kawałek, trochę jak imperium osmańskie w realnej grze. Stabilizacja zrobi z Meksyku mocarstwo, ale jest bardzo trudna.
+- **Kaskada**: bunt w Kalifornii może obudzić Teksas, Jukatan i Rio Grande naraz (kryzys federalny, realnie po Siedmiu Ustawach z lat 1835–1836), a Meksyk może tłumić tylko jeden bunt naraz. Zob. [design/kalifornia.md](../design/kalifornia.md).
 - **Journal entries**: „Centraliści i federaliści”, „Wolna Kalifornia” (łańcuch), „Teksas”, „Jukatan”, „Komanczeria”, „Długi Meksyku”.
 
 ## Spór oregoński
