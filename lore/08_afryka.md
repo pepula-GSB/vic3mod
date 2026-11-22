@@ -53,6 +53,7 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 - **Europejskie przyczółki**:
   - **La Goletta (Halq al-Wadi)**: hiszpańska twierdza strzegąca wejścia do jeziora i portu Tunisu. Realnie była hiszpańska w latach 1535–1574. Tu zostaje jako gwarancja hiszpańskiej opieki nad Hafsydami, czyli garnizon, który chroni sułtana, ale też go pilnuje.
   - **Tabarka**: wysepka z fortem przy granicy z Algierią, ośrodek połowu korali. Realnie należała do genueńskiej rodziny Lomellinich w latach 1540–1741. Tu zostaje genueńska aż do końca, a od 1815 roku, gdy Genua trafiła do Piemontu, jest **piemoncka**. To jedyny zamorski przyczółek Piemontu, mały, ale na ważnej granicy francusko-tunezyjskiej. **Okno Piemontu na Algierię**: kilkadziesiąt kilometrów dalej jest francuska faktoria koralowa La Calle (realny Bastion de France), a za nią Bône i bejlik Konstantyny.
+  - **Dżerba**: wyspa przy granicy z Trypolitanią. Realnie w 1560 roku chrześcijańska flota pod wodzą Hiszpanii (z silnym udziałem Genueńczyków Gian Andrei Dorii) poniosła tu klęskę z rąk Osmanów. Tu wygrywa, a **Genua dostaje Dżerbę** jako nagrodę, tak jak wcześniej Tabarkę. Od 1815 roku wyspa jest **piemoncka**. To przednia straż przeciw Turkom, a zarazem **okno Piemontu na Libię**.
 - **Zagrożenia**: Francja z Algierii (Bizerta to strategiczny port), Osmanowie z Trypolisu.
 
 ### Libia (Trypolitania i Cyrenajka)
@@ -64,6 +65,7 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 ### Journal entries
 - „Presidia”: hiszpańska ekspansja w Maroku.
 - „Oran”: francusko-hiszpańska rywalizacja w Algierii.
+- **„Czwarty brzeg”** (tak włoska propaganda nazywała realnie Libię): Piemont z Dżerby kontra osmańska Trypolitania. Hiszpania popiera wyprawę, bo słabsi Turcy w Trypolisie to bezpieczniejsza Tunezja. Cel: Trypolis i wybrzeże, a może wspólny podział Libii z Hiszpanią.
 - „Wschodnia Algieria”: Piemont z Tabarki kontra Francja o Konstantynę i Bône. Sojusz Piemontu z Ahmedem Bejem, wyścig koralowy Tabarka kontra La Calle, a w przyszłości możliwy podział Algierii: Hiszpania na zachodzie (Oran), Francja w centrum (Algier), Piemont na wschodzie.
 - „Bizerta”: Tunezja między Francją, Hiszpanią (La Goletta), Piemontem (Tabarka) i Neapolem.
 - „Tarcza przed Turkami”: protektorat hiszpański trwa, dopóki zagrażają Osmanowie z Trypolisu. Jeśli zagrożenie zniknie, rośnie ruch za pełną niezależnością. Jeśli wzrośnie, Tunezja może zostać wcielona do Hiszpanii.
