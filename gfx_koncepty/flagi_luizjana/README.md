@@ -6,7 +6,9 @@ Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i 
 
 **Lilia** we flagach 1 i 5 (w semé jako jeden `<symbol>` wielokrotnie użyty): [../emblematy/lilia.png](../emblematy/lilia.png), od autora moda.
 
-Korona, pszczoły, palma, kajdany, kotwica z młotem i liść tytoniu to na razie proste sylwetki wektorowe do podmiany na ilustracje w tym samym stylu.
+**Palmy** we fladze 6 w dwóch wariantach (`6_wolna`: jedna palma, `6b_wolna_palmy`: dwie skrzyżowane, porównanie w `porownanie_6.png`): [../emblematy/palma.png](../emblematy/palma.png), [../emblematy/palmy_skrzyzowane.png](../emblematy/palmy_skrzyzowane.png), od autora moda.
+
+Korona, pszczoły, kajdany, kotwica z młotem i liść tytoniu to na razie proste sylwetki wektorowe do podmiany na ilustracje w tym samym stylu.
 
 | Plik | Ustrój |
 |---|---|
@@ -16,6 +18,7 @@ Korona, pszczoły, palma, kajdany, kotwica z młotem i liść tytoniu to na razi
 | 4_cesarstwo | Cesarstwo Luizjany (Bonapartowie) |
 | 5_burbonowie | Monarchia burbońska |
 | 6_wolna | Wolna Luizjana (po powstaniu niewolników) |
+| 6b_wolna_palmy | jw., wariant z dwiema palmami |
 | 7_komuna | Republika rad / Komuna Nowoorleańska |
 | 8_konfederacja | Przymierze Plantatorów z Wirginią |
 
