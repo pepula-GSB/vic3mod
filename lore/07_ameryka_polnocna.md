@@ -121,6 +121,22 @@ Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko w
 - **Misje**: realnie w 1838 roku przybyli tu księża z Quebecu (Blanchet i Demers). Tu katolickie misje z Quebecu są głównym narzędziem wpływów Nowej Francji.
 - **Brak osadników**: nie ma szlaku oregońskiego ani amerykańskich wozów. Pierwsza prawdziwa fala osadników zależy od mechaniki poszukiwania kolonistów (zob. [design/kolonisci.md](../design/kolonisci.md)): kto pierwszy osiedli dolinę Willamette i zatokę Puget, ten wygra spór.
 
+**Kto mieszka w Oregonie w 1836 roku** (oprócz ludów tubylczych, kilka tysięcy ludzi):
+- **Metysi i dawni wioślarze z Kanady**: realnie emerytowani francuskojęzyczni pracownicy kompanii futrzarskich osiedlali się z żonami indiańskimi w dolinie Willamette (French Prairie). Tu jest ich więcej, bo Nowa Francja jest silniejsza. To zalążek **nowej, francuskojęzycznej społeczności metyskiej**: katolicy, rolnicy i traperzy, związani rodzinnie z Chinookami i Kalapuja.
+- **Irokezi**: realnie Irokezi z okolic Montrealu pracowali jako traperzy na zachodzie. Tu też.
+- **Hawajczycy**: realnie pracowali w fortach nad Columbią. Tu przypływają statkami nowogrodzkimi i nowofrancuskimi.
+- **Pomorcy i Kreole z Sitki**: kilka rodzin przy faktoriach nowogrodzkich na wybrzeżu.
+- **Skandynawowie** z Novej Danii w faktoriach na północy.
+
+**Kto może przyjść później** (mechanika poszukiwania kolonistów):
+- katolicy z Quebecu i Bretanii (Nowa Francja),
+- Skandynawowie (Nova Dania),
+- Pomorcy, Karelowie, Finowie (Nowogród),
+- awanturnicy, Niemcy i bonapartyści z Luizjany,
+- po odkryciu złota w Kalifornii poszukiwacze z całego świata, w tym Chińczycy.
+
+**Tożsamość**: jeśli Metysi pozostaną najliczniejsi, Oregon staje się **krajem metyskim**: francuskojęzycznym, katolickim i mieszanym. Wtedy „samodzielny Oregon” to republika metyska, coś jak realna społeczność metyska nad Red River (Louis Riel), tylko z własnym państwem.
+
 **Journal entry „Oregon”**:
 - wyścig osadniczy: Nowa Francja (katolicy z Quebecu i Bretanii) kontra Nova Dania (Skandynawowie) kontra Nowogród (Pomorcy z Sitki),
 - dyplomacja: podział wzdłuż Columbii albo konkretnego równoleżnika,
