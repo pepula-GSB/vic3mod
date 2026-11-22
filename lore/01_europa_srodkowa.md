@@ -45,8 +45,15 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
   - **„Cło warszawskie”** (wspólne dla Polski i Mazowsza). Możliwe wyniki:
     - unia celna (kompromis, a z czasem może unia personalna),
     - wojna o Wisłę,
-    - obejście Mazowsza kanałem lub drogą przez Łódź i Radom (drogie, ale niezależne),
+    - obejście Mazowsza **koleją** (zob. „Kolej okrężna”),
     - Mazowsze szuka protektora: Prus, Litwy-Rusi albo Pomorza.
+  - **„Kolej okrężna”** (odblokowuje się po technologii kolei, czyli w latach 40. XIX wieku):
+    - Linia Lublin–Radom–Łódź–Kalisz–Poznań, z odnogą do Torunia, łączy obie połówki rogala z pominięciem Mazowsza.
+    - **Dla Polski** oznacza koniec cła warszawskiego na zbożu, szybkie przerzucanie wojsk między połówkami i spoiwo państwa.
+    - **Koszty**: ogromne, więc potrzebny jest kapitał z zewnątrz (bankierzy z Antwerpii i Amsterdamu, a z czasem śląski węgiel i żelazo). Magnaci ze wschodu wolą spław i są przeciw podatkom na kolej.
+    - **Odpowiedź Mazowsza**: własna kolej, która ma ściągnąć tranzyt przez Warszawę. Może to być linia Warszawa–Kraków do Moraw (odpowiednik realnej Kolei Warszawsko-Wiedeńskiej z lat 1845–1848) albo Warszawa–Toruń do Prus i Pomorza.
+    - **Skutek dla Mazowsza**: jeśli kolej okrężna powstanie przed mazowiecką, dochody z cła spadają. Wtedy wybucha kryzys skarbu, książę traci poparcie Warszawy, a unia z Polską albo protektorat obcego państwa stają się bardzo prawdopodobne.
+    - Wyścig kolejowy zastępuje wojnę: kto pierwszy zbuduje linię, ten wygrywa spór o Wisłę.
   - „Wisła do morza” (Gdańsk i pomorskie cło).
   - „Korona Chrobrego” (zjednoczenie z Mazowszem).
   - „Sejm i król”.
