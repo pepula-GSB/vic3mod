@@ -9,10 +9,10 @@
 - **Afryka uzupełniająco**: Róg Afryki, Sudan, Sahara, Madagaskar.
 
 ## Decyzje do podjęcia
-- **Nazwa dynastii śląskiej** z Wrocławia.
 
 ## Ustalone
 - **Chanat Krymski**: wasal osmański.
+- **Dynastia śląska**: Przemyślidzi opawscy.
 - **Kolonia duńska w Afryce**: Peberkysten, ze stolicą we Frederiksnopel.
 - **Abolicja w Anglii**: w 1836 roku jeszcze nie ma. To temat debaty na start gry.
 - **Anglia i Szkocja**: tylko unia personalna, bez wspólnego parlamentu.

@@ -59,13 +59,14 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Pozycja**: najsilniejszy i najbardziej samodzielny wasal. Praga rywalizuje z Welehradem o prestiż. Silny ruch na rzecz pełnej niezależności albo zamiany ról, czyli przywództwa Pragi w państwie.
 
 **Księstwo Śląskie**
-- **Dynastia**: rodzima dynastia śląska z Wrocławia (do nazwania), lennicy Mojmirowiców od X wieku.
+- **Dynastia**: **Przemyślidzi opawscy**, boczna linia czeskich Przemyślidów (realnie rządziła Opawą i Raciborzem). Śląsk jest lennem Mojmirowiców od X wieku. Linia opawska objęła go w XIII wieku przez małżeństwo i dziedziczenie po wymarciu pierwszych książąt wrocławskich. Przez stulecia dynastia się uśląskowiła: rządzi z Wrocławia i jest lojalna wobec Śląska, a nie Pragi.
+- **Oś Praga–Wrocław**: dwaj najsilniejsi wasale Moraw (Czechy i Śląsk) mają tę samą dynastię. Mogą się wspierać przeciw Welehradowi albo rywalizować o starszeństwo w rodzie. Dla korony morawskiej to największe zagrożenie wewnętrzne.
 - **Terytorium**: Dolny i Górny Śląsk na północ od Pszczyny: Wrocław, Legnica, Głogów, Opole, Racibórz, Gliwice, Bytom, Katowice.
 - **Kultura**: **silna, odrębna kultura śląska** z własnym językiem literackim, pośrednim między czeskim a polskim, wykształconym przez tysiąc lat państwowości. Śląsk nie jest „ani polski, ani morawski”, tylko śląski.
 - **Gospodarka**: najbogatszy wasal Moraw. Ma węgiel i rudy Górnego Śląska oraz handel odrzański (Wrocław, spław do Szczecina). Wrocław to jedno z największych miast słowiańskiego świata, z uniwersytetem i kupiectwem.
 - **Pozycja**: wasal o największym potencjale do niezależności. Ma pieniądze, przemysł i silną tożsamość. Welehrad potrzebuje śląskiego węgla i podatków, więc pilnuje go najbardziej.
-- **Konflikty**: Polska (pretensje do Opolszczyzny i ziemi wschowskiej), Morawy (granica pszczyńska, podatki, przemysł), Pomorze (cła na Odrze).
-- **Journal entry**: „Śląska droga”: pełna niezależność, autonomia w federacji morawskiej albo zbliżenie z Polską.
+- **Konflikty**: Polska (pretensje do Opolszczyzny i ziemi wschowskiej), Morawy (granica pszczyńska, podatki, przemysł, podejrzenia o spisek z Pragą), Czechy (starszeństwo w rodzie Przemyślidów), Pomorze (cła na Odrze).
+- **Journal entry**: „Śląska droga”: pełna niezależność, autonomia w federacji morawskiej, unia z Czechami pod Przemyślidami albo zbliżenie z Polską.
 
 **Margrabstwo Łużyckie**
 - **Ludność**: Serbołużyczanie (Łużyczanie, Milczanie).
