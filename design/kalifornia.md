@@ -7,6 +7,20 @@ W listopadzie 1836 roku Juan Bautista Alvarado i Kalifornijczycy (*californios*)
 
 W tym świecie nie ma USA, za to są Nowogród (Fort Ross), Nowa Francja (traperzy nad Columbią), Luizjana (awanturnicy), Nova Dania i Hiszpania.
 
+## Postacie
+### Juan Bautista Alvarado: główna postać łańcucha
+- **Realnie**: urodzony w 1809 roku w Monterey. W 1836 roku poprowadził bunt Kalifornijczyków, ogłosił Kalifornię wolnym państwem, a potem był gubernatorem w latach 1836–1842. Wykształcony, ambitny, z wielkim ranczem.
+- **W grze**: postać startowa w Kalifornii, agitator i przywódca ruchu Kalifornijczyków (liberalny federalista). Jego losy prowadzą łańcuch:
+  - **Gubernator**: jeśli Meksyk go uzna (kalifornia.1), autonomia rośnie, bunt cichnie, ale Alvarado buduje własną władzę.
+  - **Prezydent Republiki Kalifornijskiej**: jeśli dojdzie do niepodległości za jego życia, zostaje pierwszym przywódcą i odpowiednikiem założyciela państwa.
+  - **Wygnaniec albo męczennik**: jeśli Meksyk zdusi bunt, Alvarado ucieka (do Fortu Ross albo do Nowej Francji) i wraca przy następnym kryzysie. Jeśli zginie, autonomia rośnie z gniewu, ale ruch traci przywódcę.
+  - **Człowiek obcych**: przy przewadze cudzoziemców może stać się marionetką Nowogrodu albo Nowej Francji. Wydarzenie „Alvarado i strzelcy” zmusza go do wyboru między niezależnością a obcą pomocą.
+
+### Postacie poboczne (realne)
+- **Mariano Guadalupe Vallejo**: wuj Alvarado, dowódca wojskowy północy (Sonoma), sąsiad Fortu Ross. Kluczowy dla stosunków z Nowogrodem: może zawrzeć umowę zbożową albo bronić granicy.
+- **José Castro**: towarzysz broni Alvarado, generał, a w razie wojny dowódca armii kalifornijskiej.
+- **Pío Pico**: rywal z południa (Los Angeles). Realnie trwała rywalizacja północy (Monterey) z południem (Los Angeles). Tu Pico może poprowadzić frakcję „południową”, która woli Meksyk albo własną władzę zamiast Monterey. To grozi wojną domową w samej Kalifornii.
+
 ## Kraje biorące udział
 - **Meksyk** (MEX): właściciel prowincji.
 - **Kalifornia** (powstaje w trakcie łańcucha).
@@ -26,7 +40,7 @@ Kontrola spada przy kryzysach w stolicy (zamachy, wojny, bankructwo). Liczba cud
 
 ## Faza I: bunt Alvarado (1836)
 **kalifornia.1 „Wolne i suwerenne państwo”** (start gry, MEX)
-Kalifornijczycy wyrzucają gubernatora z Meksyku. Meksyk wybiera:
+Kalifornijczycy pod przywództwem **Juana Bautisty Alvarado** wyrzucają gubernatora z Meksyku. Meksyk wybiera:
 - *Wysłać wojsko* (koszt, ryzyko porażki przy niskiej kontroli),
 - *Uznać Alvarado za gubernatora* (realne wyjście, autonomia rośnie, bunt cichnie),
 - *Ogłosić Kalifornię zbuntowaną* (napięcie, a kontrola spada przy każdej porażce).
@@ -41,6 +55,7 @@ Alvarado prosi Nowogródzian o pomoc.
 
 ## Faza II: lata autonomii (ok. 1838–1845)
 **kalifornia.4 „Kalifornijczycy kontra Meksyk”**: spory o podatki, cła w Monterey i ziemię misji (sekularyzacja misji, realna od 1834 roku).
+**kalifornia.4a „Monterey kontra Los Angeles”**: Pío Pico i południe kwestionują władzę Alvarado. Ustąpić, podzielić władzę albo stłumić.
 **kalifornia.5 „Rancza i obcy”**: cudzoziemcy kupują ziemię i żenią się z córkami kalifornijskich rodów. Rośnie wpływ zagranicy.
 **kalifornia.6 „Spichlerz Alaski”**: Nowogród proponuje stałą umowę zbożową albo dzierżawę doliny (Bodega, Sonoma).
 **kalifornia.7 „Złoto?”**: realnie złoto odkryto w Sutter's Mill w 1848 roku. Tu odkrycie (losowo ok. 1845–1850) zmienia wszystko: napływ awanturników z całego świata, liczba cudzoziemców gwałtownie rośnie, a wszyscy sąsiedzi nagle chcą Kalifornii.
