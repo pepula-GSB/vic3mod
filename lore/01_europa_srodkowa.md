@@ -148,7 +148,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Religia**: protestancki kościół narodowy (husycko-morawski), z tradycją liturgii Cyryla i Metodego.
 - **Gospodarka**: przemysłowe państwo z węglem zagłębia ostrawsko-karwińskiego. Większy węgiel górnośląski i saski leży u wasali (Śląsk, Miśnia), co jest źródłem napięć.
 - **Rola**: lider zachodniego panslawizmu i główna lądowa siła koalicji antynapoleońskiej. Największa potęga słowiańska na zachodzie.
-- **Sławończycy w północnej Panonii**: na nizinie panońskiej w granicach Moraw mieszkają katoliccy Sławończycy. Ich przodkowie byli poddanymi Moraw, gdy te przejęły Panonię, a potem wytworzyli własną tożsamość i nie chcą być „Morawianami”.
+- **Sławończycy w północnej Panonii: mniejszość.** Po tysiącu lat pod Welehradem większość Słowian panońskich na północy uległa **morawizacji**: mówi po morawsku, chodzi do kościoła morawskiego i uważa się za Morawian. Sławońska tożsamość przetrwała tylko w katolickich enklawach na południu niziny, bliżej Chorwacji-Panonii. To mała, ale uparta mniejszość.
 - **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Sławończycy w Panonii. Lojalność państw zależnych. Spór z Polską o Kraków. Wieczna granica z Austrią.
 
 ### Państwa zależne od Moraw
@@ -237,7 +237,7 @@ Odpowiednik realnego zjednoczenia Niemiec, tylko na mniejszą skalę i między �
 
 ### Kwestia sławońska (journal entry)
 Sławończycy są rozcięci między trzy państwa:
-- **Morawy**: północna Panonia,
+- **Morawy**: północna Panonia (mniejszość, w dużej części zmorawizowana),
 - **Chorwacja-Panonia**: Sławonia między Drawą a Sawą (rdzeń tożsamości),
 - **Dacja**: nizina nad Cisą i Banat.
 
@@ -245,7 +245,7 @@ Katolicy, z dialektem sztokawskim. Ich ruch narodowy w XIX wieku może pójść 
 - autonomia w każdym z trzech państw,
 - zjednoczenie wszystkich Sławończyków w Chorwacji-Panonii (program Zagrzebia),
 - własne państwo sławońskie w środku Kotliny,
-- asymilacja: Morawianie na północy, Chorwaci w centrum, Rumuni na wschodzie.
+- asymilacja: Morawianie na północy (już w dużej mierze się dokonała), Chorwaci w centrum, Rumuni na wschodzie.
 
 Morawy i Dacja grają przeciw Zagrzebiowi, a Zagrzeb gra na wspólnocie wiary i języka.
 
