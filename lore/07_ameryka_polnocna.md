@@ -3,7 +3,7 @@
 W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części, a jedynym niepodległym państwem kontynentu (poza Meksykiem) jest Nowa Francja, obok republiki Luizjany.
 
 ## Królestwo Nowej Francji
-- **Terytorium**: Quebec, Akadia (bez wypędzenia Akadyjczyków w 1755 roku), Wielkie Jeziora, dolina Ohio, droga przez prerie do rzeki Columbia.
+- **Terytorium**: Quebec, Akadia (bez wypędzenia Akadyjczyków w 1755 roku), Wielkie Jeziora, dolina Ohio. Szlaki traperskie przez prerie aż do rzeki Columbia, ale bez posiadania tych ziem (zob. Spór oregoński).
 - **Powstanie**: katolicki Quebec odrzuca rewolucję (sekularyzacja, egzekucja króla w 1793 roku). Burbonowie na emigracji (np. hrabia d'Artois) uciekają do Quebecu, jak dwór portugalski do Brazylii. Po 1815 roku linia z Quebecu nie wraca pod Paryż, jak Brazylia w 1822 roku.
 - **Ustrój**: konserwatywna monarchia katolicka, wroga wobec Paryża Ludwika Filipa.
 - **Ludność**: 1–2 mln (Francja inwestowała w kolonie).
@@ -112,7 +112,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 ## Spór oregoński i ziemie nad Columbią (dzisiejsze Waszyngton, Oregon, Idaho)
 Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko widzem.
 
-**W 1836 roku ziemie te są praktycznie nieskolonizowane.**
+**Na start gry (1836) Oregon jest nieskolonizowany: nie należy do żadnego państwa.** Nowa Francja, Nova Dania, Nowogród i Meksyk mają tylko **roszczenia** i faktorie, a nie terytorium. To celowa furtka dla niepodległego Oregonu.
 - **Ludy tubylcze** są tu gospodarzami: Chinookowie nad ujściem Columbii, Salisze nad zatoką Puget, Jakamowie i Nez Perce w głębi lądu.
 - **Faktorie futrzarskie**:
   - **Nowa Francja**: traperzy i wioślarze z Montrealu prowadzą forty wzdłuż Columbii. Realnie robiła to Kompania Zatoki Hudsona (Fort Vancouver 1825, Fort Nisqually 1833) z francuskojęzycznymi pracownikami z Kanady. Tu są to forty nowofrancuskie.
@@ -141,7 +141,7 @@ Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko w
 - wyścig osadniczy: Nowa Francja (katolicy z Quebecu i Bretanii) kontra Nova Dania (Skandynawowie) kontra Nowogród (Pomorcy z Sitki),
 - dyplomacja: podział wzdłuż Columbii albo konkretnego równoleżnika,
 - wojna o Columbię,
-- **samodzielny Oregon**: osadnicy różnych narodów ogłaszają własne państwo, jeśli żadna strona nie zdobędzie przewagi (realnie osadnicy w Oregonie utworzyli w 1843 roku własny tymczasowy rząd).
+- **niepodległy Oregon**: jeśli żadne mocarstwo nie skolonizuje regionu, a liczba osadników (Metysów i innych) przekroczy próg, mogą ogłosić własne państwo. Realnie osadnicy w Oregonie utworzyli w 1843 roku własny tymczasowy rząd. W grze to państwo do utworzenia z ziem nieskolonizowanych, a wydarzenie „Rząd tymczasowy z Champoeg” (realne miejsce zgromadzenia z 1843 roku) otwiera tę drogę. Wyścig kolonialny mocarstw może ją zamknąć.
 
 ## Ameryka Łacińska
 Napoleon i tak wchodzi do Hiszpanii, więc rewolucje niepodległościowe z lat 1810–1825 przebiegają jak realnie. Brazylia też. Haiti niepodległe od 1804 roku.
