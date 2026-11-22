@@ -53,8 +53,29 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 - Duńsko-norweska kompania futrzarska zamiast Kompanii Zatoki Hudsona.
 
 ## Ameryka Nowogrodzka (Nowogród)
-- Alaska i wybrzeże do 54°40′, możliwa faktoria w Kalifornii.
-- Futra kalanów, a Vitus Bering mógł służyć Nowogrodowi.
+- **Zarząd**: **Kompania Nowogrodzko-Amerykańska** (odpowiednik realnej Kompanii Rosyjsko-Amerykańskiej z 1799 roku), czyli prywatna kompania kupców nowogrodzkich z monopolem nadanym przez wiec. Pasuje do kupieckiej republiki lepiej niż carski urząd.
+- **Terytorium**: Alaska, Aleuty i wybrzeże na południe do 54°40′.
+- **Stolica**: **Nowy Nowogród** na wyspie Sitka (realnie Nowoarchangielsk).
+- **Placówki**: faktoria w Kalifornii (realnie Fort Ross, 1812), faktoria na Hawajach (realnie próba na Kauaʻi w latach 1815–1817).
+- **Gospodarka**: futra kalanów i fok, handel z Chinami przez Kantoń i Kiachtę. Vitus Bering mógł służyć Nowogrodowi.
+- **Ludność**:
+  - **nowogrodzcy osadnicy**: niewielu, głównie Pomorcy znad Morza Białego, Karelowie, prawosławni Finowie i Estończycy z ziem nowogrodzkich,
+  - **Kreole**: realnie w Ameryce Rosyjskiej była to osobna, uprzywilejowana warstwa dzieci osadników i kobiet aleuckich. Tu jest jeszcze ważniejsza, bo stanowi kręgosłup kolonii: nawigatorzy, urzędnicy, duchowni,
+  - **Aleuci**: pracują przy połowach, często przymusowo,
+  - **Tlingitowie**: silni i wrodzy. Realnie zniszczyli rosyjską twierdzę na Sitce w 1802 roku.
+- **Religia**: prawosławne misje (realnie m.in. Herman z Alaski i Innocenty Wieniaminow, który tworzył pismo dla języków tubylczych).
+- **Problemy**:
+  - **zaopatrzenie**: żywność trzeba wozić przez Ochock i Syberię albo kupować w Kalifornii i na Hawajach, a głód to stałe zagrożenie,
+  - **wybijanie kalanów**: zyski maleją,
+  - **wojny z Tlingitami**,
+  - **konkurencja**: Nowa Francja (Columbia), Nova Dania (interior), Meksyk (Kalifornia),
+  - **odległość**: Nowogród jest po drugiej stronie świata, a kompania rządzi się sama.
+- **Poszukiwanie kolonistów** (zob. [design/kolonisci.md](../design/kolonisci.md)): chłopi i rybacy z Pomorza i Karelii, dysydenci religijni szukający spokoju z dala od arcybiskupa nowogrodzkiego, prawosławni Finowie i Estończycy, a z czasem nawet Skandynawowie i Niemcy. Problem polega na tym, że chętnych jest mało, bo kraj jest zimny i daleki.
+- **Journal entries**:
+  - **„Kalifornia”**: rozbudowa Fortu Ross w prawdziwą kolonię rolniczą (spichlerz Alaski) kontra Meksyk.
+  - **„Hawaje”**: faktoria, protektorat albo wycofanie.
+  - **„Kompania czy republika”**: wiec w Nowogrodzie przejmuje kolonię od kompanii, czyli reforma, kontrola i koszty.
+  - **„Tlingitowie”**: wojna, handel albo sojusz.
 
 ## Floryda (Hiszpania)
 - Hiszpańska bez przerwy, zarządzana z Hawany razem z Kubą.

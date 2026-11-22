@@ -11,7 +11,8 @@ Uogólnienie mechaniki „Kogo zaprosić?” z Luizjany. Każde państwo osadnic
 | Dominium Wirginii | Anglicy, Szkoci z gór, Niemcy | białych farmerów (strach przed większością niewolniczą) |
 | Nowe Niderlandy | Holendrzy, Niemcy, kwakrzy, husyci, Żydzi, prześladowani z całej Europy | „każdy pracowity”, najbardziej tolerancyjne |
 | Nova Dania | Duńczycy, Norwegowie, Islandczycy, Szkoci z Orkadów | traperów i rybaków |
-| Ameryka Nowogrodzka i Syberia | Nowogrodzianie, staroobrzędowcy, Pomorcy, Karelowie | traperów, kupców, osadników nad Amurem |
+| Ameryka Nowogrodzka (Alaska) | Pomorcy, Karelowie, prawosławni Finowie i Estończycy, dysydenci religijni | każdego, kto zniesie zimno. Chętnych jest mało, więc ważni są Kreole |
+| Syberia nowogrodzka | Nowogrodzianie, staroobrzędowcy, Pomorcy | traperów, kupców, osadników nad Amurem |
 | Kolonia Przylądkowa (Niderlandy) | Holendrzy, Niemcy, hugenoci, Skandynawowie | rolników na granicę z Xhosa |
 | Nowa Holandia (Australia, Niderlandy) | Holendrzy, Niemcy, Skandynawowie | pierwszych osadników |
 | Peberkysten (Dania) | wyzwoleni z Duńskich Indii Zachodnich, misjonarze morawscy | wolnych osadników |
