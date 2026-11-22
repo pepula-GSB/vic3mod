@@ -44,10 +44,10 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 
 ## Królestwo Morawskie
 - **Dynastia**: Mojmirowice.
-- **Terytorium bezpośrednie**: Morawy, Słowacja, Śląsk, Małopolska z Krakowem, północna Panonia.
+- **Terytorium bezpośrednie**: Morawy, Śląsk Opawski i Cieszyński (z Ostrawą, Cieszynem i Bielskiem, granica ze Śląskiem w okolicach Pszczyny), Słowacja, Małopolska z Krakowem, północna Panonia.
 - **Stolica**: Welehrad lub Brno.
 - **Religia**: protestancki kościół narodowy (husycko-morawski), z tradycją liturgii Cyryla i Metodego.
-- **Gospodarka**: najbardziej uprzemysłowione państwo regionu (węgiel śląski, a w zależnej Miśni także saski).
+- **Gospodarka**: przemysłowe państwo z węglem zagłębia ostrawsko-karwińskiego. Większy węgiel górnośląski i saski leży u wasali (Śląsk, Miśnia), co jest źródłem napięć.
 - **Rola**: lider zachodniego panslawizmu i główna lądowa siła koalicji antynapoleońskiej. Największa potęga słowiańska na zachodzie.
 - **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Lojalność państw zależnych. Spór z Polską o Kraków. Wieczna granica z Austrią.
 
@@ -57,6 +57,15 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Dynastia**: Przemyślidzi jako lennicy Mojmirowiców, od czasu, gdy Wielkie Morawy podporządkowały sobie Czechy w X wieku.
 - **Terytorium**: Czechy. Stolica w Pradze.
 - **Pozycja**: najsilniejszy i najbardziej samodzielny wasal. Praga rywalizuje z Welehradem o prestiż. Silny ruch na rzecz pełnej niezależności albo zamiany ról, czyli przywództwa Pragi w państwie.
+
+**Księstwo Śląskie**
+- **Dynastia**: rodzima dynastia śląska z Wrocławia (do nazwania), lennicy Mojmirowiców od X wieku.
+- **Terytorium**: Dolny i Górny Śląsk na północ od Pszczyny: Wrocław, Legnica, Głogów, Opole, Racibórz, Gliwice, Bytom, Katowice.
+- **Kultura**: **silna, odrębna kultura śląska** z własnym językiem literackim, pośrednim między czeskim a polskim, wykształconym przez tysiąc lat państwowości. Śląsk nie jest „ani polski, ani morawski”, tylko śląski.
+- **Gospodarka**: najbogatszy wasal Moraw. Ma węgiel i rudy Górnego Śląska oraz handel odrzański (Wrocław, spław do Szczecina). Wrocław to jedno z największych miast słowiańskiego świata, z uniwersytetem i kupiectwem.
+- **Pozycja**: wasal o największym potencjale do niezależności. Ma pieniądze, przemysł i silną tożsamość. Welehrad potrzebuje śląskiego węgla i podatków, więc pilnuje go najbardziej.
+- **Konflikty**: Polska (pretensje do Opolszczyzny i ziemi wschowskiej), Morawy (granica pszczyńska, podatki, przemysł), Pomorze (cła na Odrze).
+- **Journal entry**: „Śląska droga”: pełna niezależność, autonomia w federacji morawskiej albo zbliżenie z Polską.
 
 **Margrabstwo Łużyckie**
 - **Ludność**: Serbołużyczanie (Łużyczanie, Milczanie).
