@@ -24,7 +24,7 @@ button{background:transparent;border:0.5px solid var(--border);border-radius:8px
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
 <script>
 const S={
-LOU:['Republika Luizjany','Luizjana','#c94f7c',[-91.5,32.5],1,'Republika plantatorów, stolica Nowy Orlean'],
+LOU:['Republika Luizjany','Luizjana','#c94f7c',[-90,34.5],1,'Republika plantatorów, stolica Nowy Orlean. Od Mobile po St. Louis i Kentucky'],
 NFR:['Królestwo Nowej Francji','Nowa Francja','#5b7fc7',[-80,47.5],1,'Burbonowie w Quebecu, Wielkie Jeziora i dolina Ohio'],
 DEN:['Nova Dania (Dania-Norwegia)','Nova Dania','#a07cc5',[-100,58],1,'Kompania futrzarska, stolica Munkshavn'],
 NOV:['Ameryka Nowogrodzka','Nowogród','#3d8f80',[-152,63],1,'Kompania Nowogrodzko-Amerykańska, Nowy Nowogród na Sitce'],
@@ -41,8 +41,8 @@ HAW:['Królestwo Hawajów','Hawaje','#e0c069',[-157,21],0,'Faktoria nowogrodzka'
 ORE:['Oregon (nieskolonizowany)','Oregon','#c9c3b0',[-121,45.5],0,'Roszczenia czterech państw, furtka do niepodległości'],
 NAT:['Ziemie tubylcze (niezależne)','','#ddd8c8',[0,0],0,'Komancze, Siuksowie, Czarne Stopy, Apacze i inni']
 };
-const ST={Maine:'NEN','New Hampshire':'NEN',Vermont:'NEN',Massachusetts:'NEN','Rhode Island':'NEN',Connecticut:'NEN','New York':'NNE','New Jersey':'NNE',Delaware:'NNE',Pennsylvania:'NNE',Maryland:'VIR',Virginia:'VIR','North Carolina':'VIR','South Carolina':'VIR',Georgia:'VIR','District of Columbia':'VIR','West Virginia':'NFR',Ohio:'NFR',Michigan:'NFR',Indiana:'NFR',Illinois:'NFR',Wisconsin:'NFR',Kentucky:'NFR',Minnesota:'NFR',Missouri:'NFR',Louisiana:'LOU',Arkansas:'LOU',Mississippi:'LOU',Tennessee:'LOU',Alabama:'NAT',Florida:'ESP',Texas:'MEX',California:'MEX',Nevada:'MEX',Utah:'MEX',Arizona:'MEX','New Mexico':'MEX',Washington:'ORE',Oregon:'ORE',Idaho:'ORE',Alaska:'NOV',Hawaii:'HAW','Puerto Rico':'ESP'};
-const SP={Pennsylvania:[['NFR',[-81,39,-78.6,43]]],Tennessee:[['NAT',[-85.5,34,-81,37]]],Alabama:[['ESP',[-89,29,-84.8,31.2]],['LOU',[-89,31.2,-87.6,35.1]]]};
+const ST={Maine:'NEN','New Hampshire':'NEN',Vermont:'NEN',Massachusetts:'NEN','Rhode Island':'NEN',Connecticut:'NEN','New York':'NNE','New Jersey':'NNE',Delaware:'NNE',Pennsylvania:'NNE',Maryland:'VIR',Virginia:'VIR','North Carolina':'VIR','South Carolina':'VIR',Georgia:'VIR','District of Columbia':'VIR','West Virginia':'NFR',Ohio:'NFR',Michigan:'NFR',Indiana:'NFR',Illinois:'NFR',Wisconsin:'NFR',Kentucky:'LOU',Minnesota:'NFR',Missouri:'LOU',Louisiana:'LOU',Arkansas:'LOU',Mississippi:'LOU',Tennessee:'LOU',Alabama:'LOU',Florida:'ESP',Texas:'MEX',California:'MEX',Nevada:'MEX',Utah:'MEX',Arizona:'MEX','New Mexico':'MEX',Washington:'ORE',Oregon:'ORE',Idaho:'ORE',Alaska:'NOV',Hawaii:'HAW','Puerto Rico':'ESP'};
+const SP={Pennsylvania:[['NFR',[-81,39,-78.6,43]]],Tennessee:[['NAT',[-85.5,34,-81,37]]],Alabama:[]};
 const NFRPOLY=[[-95.15,49.0],[-95.15,52.85],[-89.0,56.9],[-85,55.3],[-82.3,55.1],[-82.0,52.9],[-80.5,51.3],[-79.5,51.5],[-79.5,52.0],[-70,52.0],[-63,52.0],[-57.1,51.45],[-59.6,47.6],[-59.5,45.5],[-66,42],[-100,42],[-100,49]];
 const W={'124':['DEN',[['NAT',[[-122.8,48.0],[-114.0,48.0],[-114.1,49.0],[-120.0,53.8],[-122.8,54.0]]],['NOV',[-136,48.2,-122.8,55.2]],['NFR',NFRPOLY],['ENG',[-59.8,46.5,-52.5,51.8]]]],'484':['MEX'],'304':['DEN'],'320':['FAM'],'222':['FAM'],'340':['FAM'],'558':['FAM'],'188':['FAM'],'084':['ENG'],'591':['ESP'],'192':['ESP'],'388':['ENG'],'044':['ENG'],'332':['HAI'],'214':['HAI'],'170':['ESP'],'862':['VEN'],'060':['ENG'],'630':['ESP']};
 const G=[['Ameryka Północna',['LOU','NFR','DEN','NOV','NEN','NNE','VIR','ENG','MEX','ORE','NAT']],['Karaiby i południe',['ESP','HAI','FAM','VEN','HAW']]];
