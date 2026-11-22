@@ -109,8 +109,23 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
 - **Republika Rio Grande** (północne stany: Coahuila, Nuevo León, Tamaulipas; stolica Laredo): możliwa republika w czasie kaskady, jak realnie w 1840 roku. Nie mylić z brazylijską Republiką Riograndense (Farrapos).
 - **Journal entries**: „Centraliści i federaliści”, „Wolna Kalifornia” (łańcuch), „Teksas”, „Jukatan”, „Nowy Meksyk”, „Rio Grande”, „Komanczeria”, „Apaczeria”, „Długi Meksyku”.
 
-## Spór oregoński
+## Spór oregoński i ziemie nad Columbią (dzisiejsze Waszyngton, Oregon, Idaho)
 Cztery strony: Nowogród, Nowa Francja, Nova Dania i Meksyk. Anglia jest tylko widzem.
+
+**W 1836 roku ziemie te są praktycznie nieskolonizowane.**
+- **Ludy tubylcze** są tu gospodarzami: Chinookowie nad ujściem Columbii, Salisze nad zatoką Puget, Jakamowie i Nez Perce w głębi lądu.
+- **Faktorie futrzarskie**:
+  - **Nowa Francja**: traperzy i wioślarze z Montrealu prowadzą forty wzdłuż Columbii. Realnie robiła to Kompania Zatoki Hudsona (Fort Vancouver 1825, Fort Nisqually 1833) z francuskojęzycznymi pracownikami z Kanady. Tu są to forty nowofrancuskie.
+  - **Nova Dania**: faktorie w interiorze na północy.
+  - **Nowogród**: statki z Sitki handlują na wybrzeżu, a granica przebiega na 54°40′.
+- **Misje**: realnie w 1838 roku przybyli tu księża z Quebecu (Blanchet i Demers). Tu katolickie misje z Quebecu są głównym narzędziem wpływów Nowej Francji.
+- **Brak osadników**: nie ma szlaku oregońskiego ani amerykańskich wozów. Pierwsza prawdziwa fala osadników zależy od mechaniki poszukiwania kolonistów (zob. [design/kolonisci.md](../design/kolonisci.md)): kto pierwszy osiedli dolinę Willamette i zatokę Puget, ten wygra spór.
+
+**Journal entry „Oregon”**:
+- wyścig osadniczy: Nowa Francja (katolicy z Quebecu i Bretanii) kontra Nova Dania (Skandynawowie) kontra Nowogród (Pomorcy z Sitki),
+- dyplomacja: podział wzdłuż Columbii albo konkretnego równoleżnika,
+- wojna o Columbię,
+- **samodzielny Oregon**: osadnicy różnych narodów ogłaszają własne państwo, jeśli żadna strona nie zdobędzie przewagi (realnie osadnicy w Oregonie utworzyli w 1843 roku własny tymczasowy rząd).
 
 ## Ameryka Łacińska
 Napoleon i tak wchodzi do Hiszpanii, więc rewolucje niepodległościowe z lat 1810–1825 przebiegają jak realnie. Brazylia też. Haiti niepodległe od 1804 roku.
