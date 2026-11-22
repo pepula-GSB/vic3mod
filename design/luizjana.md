@@ -111,7 +111,7 @@ Dwie oligarchiczne republiki plantatorów na jednym kontynencie.
 - **Między nimi leżą** Appalachy, francuska dolina Ohio i hiszpańska Floryda. Kto kontroluje drogę między Richmond a Nowym Orleanem?
 
 **Przeciwnicy przymierza**:
-- Anglia (chce odzyskać Wirginię),
+- Anglia (chce odzyskać Wirginię, ale sama jest za słaba: może blokować wybrzeże i szukać sojuszników),
 - Dominium Nowej Anglii,
 - Nowe Niderlandy,
 - Haiti, Dania,
@@ -122,7 +122,8 @@ Dwie oligarchiczne republiki plantatorów na jednym kontynencie.
 - trwała konfederacja jako potęga Ameryki Północnej,
 - rozpad przez spór o przywództwo albo przez bonapartystów,
 - przymierze rozbite przez powstanie niewolników w jednym z państw,
-- podbój przez Anglię i jej sojuszników.
+- **zduszenie przez koalicję abolicjonistyczną**: Anglia sama jest za słaba, ale razem z Dominium Nowej Anglii, Nowymi Niderlandami i Danią (blokada morska, pieniądze, ochotnicy, wsparcie dla Haiti i zbiegów) może zmusić przymierze do ustępstw albo rozbić je od środka.
+- **wojna z Nową Francją** o dolinę Ohio i Missisipi: najgroźniejszy realny przeciwnik lądowy (1–2 mln ludzi, katolicka monarchia z armią).
 
 ## 8. Wydarzenia flavour
 - **Żółta febra w Nowym Orleanie** (powracające epidemie): straty w ludności i panika w porcie.
