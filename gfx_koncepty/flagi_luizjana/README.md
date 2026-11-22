@@ -1,6 +1,8 @@
 # Flagi Luizjany (koncepty)
 
-Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i podgląd PNG. Generowane skryptem `generuj_flagi.py`, więc kolory i elementy łatwo zmienić w jednym miejscu.
+Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i podgląd PNG. Generowane skryptem `generuj_flagi.py` (godła wektorowe w `emblematy_wektorowe.py`), więc kolory i elementy łatwo zmienić w jednym miejscu.
+
+**Pelikan** we flagach 1, 2, 5 i 8 to ilustracja od autora moda, wycięta z tła: [../emblematy/pelikan.png](../emblematy/pelikan.png) (1301×1142, przezroczyste tło). Orzeł, korona, pszczoły, palma i kotwica z młotem to na razie proste sylwetki wektorowe do podmiany na ilustracje w tym samym stylu.
 
 | Plik | Ustrój |
 |---|---|
