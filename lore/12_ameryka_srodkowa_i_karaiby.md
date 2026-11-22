@@ -24,7 +24,7 @@ Mozaika wielu flag. Przyczyny:
 - Napoleon przywrócił niewolnictwo w 1802 roku, jak realnie.
 
 ### Anglia
-- **Jamajka** (zdobyta w 1655 roku, przed Stuartami po restauracji, więc zostaje), **Barbados**, Antigua, St. Kitts, Nevis i Montserrat, Bahamy, Bermudy.
+- **Jamajka** (zdobyta za Cromwella w 1655 roku, przed punktem rozejścia z realną historią Anglii), **Barbados**, Antigua, St. Kitts, Nevis i Montserrat, Bahamy, Bermudy.
 - Nie ma Trynidadu, Saint Lucii, Tobago, Grenady ani Dominiki.
 - Abolicja jest niepewna (kryzys abolicyjny, zob. Wyspy Brytyjskie).
 
