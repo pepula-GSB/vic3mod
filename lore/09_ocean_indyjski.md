@@ -20,7 +20,22 @@
 - **Makran**: Gwadar i wybrzeże Beludżystanu.
 - **Afryka Wschodnia**: Zanzibar i Pemba, Mombasa (bez długiej wojny z Mazruiami), Lamu, Kilwa, wybrzeże Benadiru (Mogadiszu, Barawa) i Komory jako strefa wpływów.
 - **Wnętrze Afryki**: szlaki karawan przez Taborę do Udżidżi nad Tanganiką i do Wielkich Jezior.
-- **Placówki**: Sokotra, faktorie w Sindhu i Gudźaracie, kupcy na północnym Madagaskarze.
+- **Placówki**: Sokotra, kupcy na północnym Madagaskarze.
+- **Indie** (zob. niżej): Diu, Karaczi i wybrzeże dolnego Sindhu, Kannur (Arakkal) z Lakszadiwami jako wasal, Malediwy pod protektoratem.
+
+### Kolonie omańskie w Indiach
+- **Diu** (Gudźarat): realnie flota Jarubidów złupiła portugalskie Diu w 1668 roku i nękała Daman, Salsette i wybrzeże Kanary. Tu Portugalia jest słabsza, a Anglia nie ma siły jej pomóc, więc Omańczycy **zatrzymują Diu**. To twierdza i port u wejścia do Zatoki Kambajskiej.
+- **Karaczi i dolny Sindh**: Karaczi (Kolaczi) było portem handlu z Maskatem i Zatoką. Bez Brytyjczyków, którzy realnie zajęli Sindh w 1843 roku, Oman zdobywa port i deltę Indusu jako przedłużenie Gwadaru i Makranu. Władcy Sindhu z dynastii Talpur są w głębi lądu wasalami albo partnerami.
+- **Kannur (Arakkal) i Lakszadiwy**: Arakkal to jedyna muzułmańska dynastia królewska Malabaru, władająca wyspami Lakszadiwów. Naturalny sojusznik ibadyckich kupców. Tu jest omańskim wasalem, a Lakszadiwy są bazą floty na szlaku do Cejlonu.
+- **Malediwy**: sułtanat pod omańskim protektoratem, zamiast realnej zależności od Cejlonu i Brytyjczyków.
+- **Kupcy z Kaććhu i Gudźaratu** (Bhatia, Khoja) to finansowe zaplecze imperium od Mandwi po Zanzibar.
+
+### Relacje w Indiach
+- **Marathowie**: najważniejszy partner lądowy. Wspólny interes polega na trzymaniu Europejczyków na wybrzeżu. Rywalizacja z flotą marathską (tradycja Angre) na wybrzeżu Konkanu.
+- **Anglia**: Bengal i Bombaj (posag Katarzyny Braganzy, 1661, czyli jeszcze za Stuartów). Główny rywal na Morzu Arabskim.
+- **Portugalia**: Goa i Daman, wrogo nastawiona po utracie Diu.
+- **Holendrzy i Francuzi**: partnerzy handlowi i dostawcy okrętów.
+- **Persja**: spór o Makran, Gwadar i Bandar Abbas.
 
 ### Gospodarka
 - Goździki z Zanzibaru i Pemby (światowy monopol), kość słoniowa, daktyle, perły z Zatoki.
