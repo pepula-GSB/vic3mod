@@ -61,6 +61,17 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
     - **Skutki**:
       - Polska linia pierwsza: cło warszawskie traci znaczenie, Mazowsze ma kryzys skarbu, a unia z Polską staje się bardziej prawdopodobna.
       - Mazowiecka linia pierwsza: Warszawa staje się węzłem regionu, Mazowsze rośnie w siłę, a Polska zostaje z drogim cłem i pomorskimi opłatami.
+        - **Konfederacja lubelska**: wschodnia połówka Polski (Lublin, Zamość, Przemyśl, Sanok, Chełm, Wołyń) ma tańszą i szybszą drogę do morza przez Warszawę i Tuwangste niż przez cały rogal do Gdańska. Magnaci, kupcy i część szlachty zawiązują konfederację (stara polska tradycja zbrojnego związku szlachty) i żądają lepszych warunków albo przejścia pod Mazowsze.
+        - **Wydarzenia**:
+          - Mazowsze buduje odnogę Warszawa–Lublin i kusi niższymi podatkami oraz cłami.
+          - Sejmik lubelski grozi zerwaniem z Poznaniem.
+          - Konfederaci zbierają wojsko.
+        - **Opcje Polski**:
+          - ustępstwa: autonomia wschodu, ulgi podatkowe, przyspieszona budowa polskiej linii (kosztowne),
+          - kompromis: wschód zostaje w Polsce, ale dostaje wolny tranzyt przez Mazowsze (Polska płaci Mazowszu),
+          - siła: rozbicie konfederacji (ryzyko wojny z Mazowszem i Prusami),
+          - zgoda na odejście: Polska zostaje tylko z zachodnią połówką.
+        - **Jeśli wschód przejdzie do Mazowsza**: role się odwracają. Mazowsze (Warszawa, Lublin, Przemyśl, Wołyń) staje się większe i silniejsze od Polski, a Piastowie mazowieccy mogą sięgnąć po tytuł królewski. Polska, okrojona do Wielkopolski, Kujaw i Łodzi, zostaje w bloku z Pomorzem i marzy o rewanżu.
       - Obie linie powstają: dwa bloki gospodarcze i trwały podział ziem polskich.
     - **Koszty**: ogromne. Potrzebny jest kapitał zagraniczny i śląskie żelazo. Magnaci z polskiego wschodu wolą spław i są przeciw podatkom na kolej.
   - „Wisła do morza” (Gdańsk i pomorskie cło).
