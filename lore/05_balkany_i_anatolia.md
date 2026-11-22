@@ -55,7 +55,13 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 - **Skąd „Dacja”**: kancelaria bizantyjska, a potem bułgarsko-romejska, z upodobaniem do klasycznych nazw, od wieków nazywa ziemie Wołochów na północ od Dunaju **Dacją**. Miejscowi książęta przyjęli tę nazwę w XVI wieku, za księcia-zjednoczyciela (odpowiednik realnego Michała Walecznego). Łączyła ich z Rzymem i odróżniała od słowiańskich sąsiadów.
 - **Terytorium**: rdzeń na wyżynie za Karpatami (realny Siedmiogród, bez Sasów i Seklerów, ludność rumuńska z resztkami słowiańskimi), Oltenia (na zachód od Aluty), Banat i ziemie po Cisę. **Nizina wokół Bukaresztu (Muntenia) i Dobrudża należą do Cesarstwa Bułgarsko-Romejskiego.**
 - **Stolica**: Białogród (*Bălgrad*, realna Alba Iulia), stary gród książąt. Dostęp do Dunaju jest tylko przez Oltenię (Turnu Severin, Calafat).
-- **Religia**: prawosławie, z biskupstwem pod patriarchą konstantynopolitańskim.
+- **Religia: kraj podzielony.**
+  - **Wschód i góry**: prawosławie, z biskupstwem pod patriarchą w Konstantynopolu.
+  - **Zachód panoński** (Banat, Kriszana, ziemie nad Cisą): **katolicyzm**, łaciński i unicki. Przyszedł z katolickiej Chorwacji-Panonii przez misje, małżeństwa bojarów i handel. Realnie część Rumunów w Siedmiogrodzie przyjęła unię z Rzymem w 1700 roku i stworzyła Kościół greckokatolicki.
+  - **Skutki**:
+    - Katolicki zachód patrzy w stronę Zagrzebia i Rzymu, a prawosławny wschód w stronę Konstantynopola i Bukaresztu.
+    - Spór z Chorwacją-Panonią o ziemie nad Cisą ma wymiar wyznaniowy: Zagrzeb może grać na katolikach.
+    - W czasie Wiosny Ludów katolicki zachód jest ostrożny wobec unii z prawosławną Muntenią.
 - **W 1836 roku**: niezależne księstwo między Cesarstwem Bułgarsko-Romejskim, Chorwacją-Panonią, Serbią, Haliczem i Litwą-Rusią.
 - **Problem: Mołdawia jest w unii z Haliczem**, więc Rumuni są podzieleni.
 - **Journal entry „Cała Dacja”**: odzyskanie Mołdawii od Halicza i Munteni z Bukaresztem od Konstantynopola, budowa narodu rumuńskiego wokół idei rzymsko-dackiej i spór z Chorwacją-Panonią o ziemie nad Cisą.
