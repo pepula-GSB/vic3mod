@@ -6,7 +6,7 @@
 - Panonia się slawizuje: księstwo nad Balatonem (Błatnogród) i Dolna Panonia (Sławonia). Bawarczycy kolonizują tylko zachodni skraj (Wiedeń, Burgenland).
 - Nie ma bitwy nad Lechem (955), więc królestwo wschodniofrankijskie jest słabsze i luźniejsze. Marchie niemieckie na wschodzie upadają, bo Słowianie połabscy mają wsparcie Moraw.
 - **1018**: Bizancjum podbija osłabioną Bułgarię (łatwiej niż realnie).
-- Madziarów niszczą kolejne fale koczowników. Siedmiogród zostaje słowiańsko-wołoski.
+- Madziarów niszczą kolejne fale koczowników. Kraj za Karpatami (późniejsza Dacja) zostaje słowiańsko-wołoski, bez węgierskiej i saskiej kolonizacji.
 
 ## 1000–1300
 - Obodrzyci, Wieleci, Stodoranie i Pomorzanie przyjmują chrzest (z Moraw i z Polski), więc nie ma pretekstu do krucjaty wendyjskiej (1147). Prusów chrzczą biskupi z Pomorza i Mazowsza.

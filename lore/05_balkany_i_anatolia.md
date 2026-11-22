@@ -22,10 +22,15 @@
 - Silniejsza, bo przez stulecia nie musiała walczyć z Węgrami. Carstwo Duszana było jeszcze większe.
 - **W 1836 roku**: niepodległa, z ambicjami na Macedonię i Kosowo. Sojusznik albo rywal Konstantynopola.
 
-## Wołoszczyzna i Siedmiogród
-- Bez węgierskiej i saskiej kolonizacji Siedmiogród jest wołosko-słowiański i stanowi rdzeń państwa rumuńskiego.
-- **W 1836 roku**: niezależne księstwo między Konstantynopolem, Osmanami a Litwą-Rusią.
-- Mołdawia jest w unii z Haliczem, więc Rumuni są podzieleni.
+## Księstwo Dacji
+- **Nazwy „Siedmiogród” i „Transylwania” nie istnieją.** Siedmiogród to kalka *Siebenbürgen* od siedmiu grodów saskich kolonistów, a Transylwania (*ultra silvam*) i rumuński *Ardeal* pochodzą od węgierskiej kancelarii. Tu nie ma ani Węgrów, ani Sasów.
+- **Skąd „Dacja”**: kancelaria bizantyjska, a potem bułgarsko-romejska, z upodobaniem do klasycznych nazw, od wieków nazywa ziemie Wołochów na północ od Dunaju **Dacją**. Miejscowi książęta przyjęli tę nazwę w XVI wieku, za księcia-zjednoczyciela (odpowiednik realnego Michała Walecznego). Łączyła ich z Rzymem i odróżniała od słowiańskich sąsiadów.
+- **Terytorium**: dawny Siedmiogród jako rdzeń (bez Sasów i Seklerów, ludność rumuńska z resztkami słowiańskimi), do tego Muntenia i Oltenia (realna Wołoszczyzna), Banat i ziemie po Cisę.
+- **Stolica**: Białogród (*Bălgrad*, realna Alba Iulia), stary gród książąt. Bukareszt jest drugim ośrodkiem nad Dunajem.
+- **Religia**: prawosławie, z biskupstwem pod patriarchą konstantynopolitańskim.
+- **W 1836 roku**: niezależne księstwo między Cesarstwem Bułgarsko-Romejskim, Chorwacją-Panonią, Serbią, Haliczem i Litwą-Rusią.
+- **Problem: Mołdawia jest w unii z Haliczem**, więc Rumuni są podzieleni.
+- **Journal entry „Cała Dacja”**: odzyskanie Mołdawii od Halicza, budowa narodu rumuńskiego wokół idei rzymsko-dackiej i spór z Chorwacją-Panonią o ziemie nad Cisą.
 
 ## Imperium Osmańskie
 - Anatolia jak realnie: Seldżucy, Mongołowie, bejlikaty, Osmanowie.
