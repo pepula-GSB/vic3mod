@@ -113,10 +113,10 @@ ANCB64='iVBORw0KGgoAAAANSUhEUgAAAZAAAAH5CAYAAACvRGheAAAAIGNIUk0AAHomAACAhAAA+gAA
 def anchor_hammer_img(x,y,col,h=80):
     w=h*946/1195
     anc=f'<g transform="translate({x},{y}) rotate(-45)"><image x="{-w/2:.1f}" y="{-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{ANCB64}"/></g>'
-    hh=h*0.92; hw=hh*593/1539
-    ham=f'<g transform="translate({x},{y}) rotate(45)"><image x="{-hw/2:.1f}" y="{-hh/2:.1f}" width="{hw:.1f}" height="{hh:.1f}" href="data:image/png;base64,{HAMB64}"/></g>'
+    hh=h*0.88; hw=hh*593/1539; d=h*0.14
+    ham=f'<g transform="translate({x},{y}) rotate(45)"><image x="{-hw/2:.1f}" y="{-hh/2-d:.1f}" width="{hw:.1f}" height="{hh:.1f}" href="data:image/png;base64,{HAMB64}"/></g>'
     sc=hh/1539; ow=653*sc; oh=1599*sc
-    halo=f'<g transform="translate({x},{y}) rotate(45)"><image x="{-ow/2:.1f}" y="{-oh/2:.1f}" width="{ow:.1f}" height="{oh:.1f}" href="data:image/png;base64,{HALOB64}"/></g>'
+    halo=f'<g transform="translate({x},{y}) rotate(45)"><image x="{-ow/2:.1f}" y="{-oh/2-d:.1f}" width="{ow:.1f}" height="{oh:.1f}" href="data:image/png;base64,{HALOB64}"/></g>'
     return anc+halo+ham
 def tobacco(x,y,s,col,vein):
     return f'<g transform="translate({x},{y}) scale({s})"><path d="M0,-36 C24,-22 24,18 0,36 C-24,18 -24,-22 0,-36Z" fill="{col}"/><path d="M0,-30 L0,40 M0,-14 L-11,-22 M0,-14 L11,-22 M0,2 L-14,-6 M0,2 L14,-6 M0,18 L-12,10 M0,18 L12,10" stroke="{vein}" stroke-width="2" fill="none" stroke-linecap="round"/></g>'
@@ -133,7 +133,7 @@ F['4_cesarstwo']=svg(f'<rect width="300" height="200" fill="{PURPLE}"/>'+laureli
 sem=''.join(fleur(x,y,.36,GOLD) for x in range(25,300,42) for y in range(24,200,42) if not (100<x<200 and y<180))
 F['5_burbonowie']=svg(f'<rect width="300" height="200" fill="{BLUE}"/>{sem}<path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="{WHITE}"/><path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="none" stroke="{GOLD}" stroke-width="3"/>'+pelimg(150,106,78)+crownimg(150,58,70))
 F['6_wolna']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,172,142)+ring_text(150,106,84,80,"NUL N'EST ESCLAVE","EN LOUISIANE",WHITE,fs=12.5,ls=1.6))
-F['7_komuna']=svg(f'<rect width="300" height="100" fill="{RED}"/><rect y="100" width="300" height="100" fill="{BLUE}"/>'+wave(100,WHITE,12)+anchor_hammer_img(52,46,WHITE,h=62))
+F['7_komuna']=svg(f'<rect width="300" height="100" fill="{RED}"/><rect y="100" width="300" height="100" fill="{BLUE}"/>'+wave(100,WHITE,12)+anchor_hammer_img(48,50,WHITE,h=62))
 F['8_konfederacja']=svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="{RED}"/><rect width="76" height="200" fill="{BLUE}"/>'+star(38,64,16,WHITE)+star(38,136,16,WHITE)+pelimg(188,52,92)+leafimg(188,148,80))
 import os
 OUT='/home/claude/vic3mod/gfx_koncepty/flagi_luizjana'
