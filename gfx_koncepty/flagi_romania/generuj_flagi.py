@@ -34,14 +34,14 @@ F={
  '2_republika': svg(''.join(f'<rect y="{k*200/9:.3f}" width="300" height="{200/9+0.05:.3f}" fill="{RED if k%2==0 else GOLD}"/>' for k in range(9))
                     +f'<rect width="{200*5/9:.3f}" height="{200*5/9:.3f}" fill="{RED}"/>'
                     +f'<rect x="{200*2/9:.3f}" width="{200/9:.3f}" height="{200*5/9:.3f}" fill="{GOLD}"/><rect y="{200*2/9:.3f}" width="{200*5/9:.3f}" height="{200/9:.3f}" fill="{GOLD}"/>'),
- # Rewolucja: wzór republiki (greckie pasy), w kantonie złoty młot zamiast krzyża, na złotych pasach hasło po grecku:
- # „Proletariusze wszystkich krajów, łączcie się!”
+ # Rewolucja: wzór republiki (greckie pasy), w kantonie złoty młot zamiast krzyża, pod nim hasło z 1821 roku przejęte przez partyzantkę ELAS:
+ # „Wolność albo śmierć”
  '3_rewolucja': svg(''.join(f'<rect y="{k*200/9:.3f}" width="300" height="{200/9+0.05:.3f}" fill="{RED if k%2==0 else GOLD}"/>' for k in range(9))
-                    +f'<rect width="{200*5/9:.3f}" height="{200*5/9:.3f}" fill="{RED}"/>'
-                    +f'<g transform="translate({100*5/9:.2f},{100*5/9:.2f}) rotate(35)"><image x="{-84*HW/HH/2:.1f}" y="-42" width="{84*HW/HH:.1f}" height="84" href="data:image/png;base64,{HAMZ}"/></g>'
-                    +f'<g font-family="DejaVu Sans" font-weight="bold" fill="{RED}" text-anchor="middle">'
-                     f'<text x="150" y="{200*6/9-5.2:.2f}" font-size="13.5" letter-spacing="0.6">ΠΡΟΛΕΤΑΡΙΟΙ ΟΛΩΝ ΤΩΝ ΧΩΡΩΝ,</text>'
-                     f'<text x="150" y="{200*8/9-5.2:.2f}" font-size="13.5" letter-spacing="2">ΕΝΩΘΕΙΤΕ!</text></g>'),
+                    +f'<rect width="111.111" height="111.111" fill="{RED}"/>'
+                    +f'<g transform="translate(55.56,40) rotate(35)"><image x="{-58*HW/HH/2:.1f}" y="-29" width="{58*HW/HH:.1f}" height="58" href="data:image/png;base64,{HAMZ}"/></g>'
+                    +f'<g font-family="DejaVu Sans" font-weight="bold" fill="{GOLD}" text-anchor="middle">'
+                     f'<text x="55.56" y="86" font-size="11" letter-spacing="1">ΛΕΥΤΕΡΙΑ</text>'
+                     f'<text x="55.56" y="101" font-size="11" letter-spacing="1">Η ΘΑΝΑΤΟΣ</text></g>'),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
