@@ -44,7 +44,7 @@ F={
  '5_czechy': svg(f'<polygon points="{UPL}" fill="{WHITE}"/><polygon points="{LOR}" fill="{RED}"/>'+chalice(150,100,150,None,[(UPL,RED),(LOR,WHITE)])),
  # Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na czerwonej tarczy w złotej obwódce
  '6_mazowsze': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/>'
-                   f'<path d="M98,18 L202,18 L202,106 Q202,160 150,186 Q98,160 98,106Z" fill="{RED}" stroke="{GOLD}" stroke-width="3.5"/>'+eagle(MZE,150,98,122)),
+                   f'<path d="M94,36 L206,36 L206,98 Q206,146 150,166 Q94,146 94,98Z" fill="{RED}" stroke="{GOLD}" stroke-width="3.5"/>'+eagle(MZE,150,98,112)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
