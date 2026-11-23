@@ -17,7 +17,7 @@ F={
  'obodryci_1_ksiestwo': svg(f'<rect width="300" height="200" fill="{BLUE}"/><rect y="172" width="300" height="28" fill="{GOLD}"/>'+img(GO,GOW,GOH,150,88,152)),
  # Obodryci, republika kupiecka (Liubice, słowiańska Hanza): biel nad czerwienią jak barwy Hanzy, na środku błękitne koło ze złotym gryfem
  'obodryci_2_republika': svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'
-                            f'<circle cx="150" cy="100" r="62" fill="{BLUE}" stroke="{GOLD}" stroke-width="4"/>'+img(GO,GOW,GOH,152,100,104)),
+                            f'<circle cx="150" cy="100" r="62" fill="{BLUE}" stroke="{GOLD}" stroke-width="4"/>'+img(GO,GOW,GOH,147.5,105,98)),
  # Obodryci rewolucyjni: czerwień, złoty gryf trzyma się gwiazdy (gwiazda przed szponami)
  'obodryci_3_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="172" width="300" height="28" fill="{BLUE}"/>'+img(GO,GOW,GOH,162,92,150)+star(92,40,20,GOLD)),
 }
