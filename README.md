@@ -49,5 +49,6 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [gfx_koncepty/flagi_pomorze/](gfx_koncepty/flagi_pomorze/) | Flagi Księstwa Pomorskiego (koncepty) |
 | [gfx_koncepty/flagi_morawy/](gfx_koncepty/flagi_morawy/) | Flagi Królestwa Morawskiego (koncepty) |
 | [gfx_koncepty/flagi_czechy/](gfx_koncepty/flagi_czechy/) | Flagi Księstwa Czeskiego (koncepty) |
+| [gfx_koncepty/flagi_polabie/](gfx_koncepty/flagi_polabie/) | Godła i flagi państw połabskich (koncepty) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
