@@ -9,5 +9,5 @@ Cesarstwo z Konstantynopolem, Muntenią, Dobrudżą i Despotatem Epiru i Albanii
 | Plik | Ustrój |
 |---|---|
 | 1_cesarstwo | Cesarstwo (start): romejski krzyż z krzesiwami, na skrzyżowaniu czerwona tamga IYI, czyli unia Rzymu i Bułgarii |
-| 2_republika | Republika: złoto z dużą czerwoną tamgą IYI, bez cesarskich krzesiw |
+| 2_republika | Republika: na wzór flagi greckiej, dziewięć pasów czerwień-złoto, w kantonie złoty krzyż |
 | 3_rewolucja | Rewolucja: czerwień, złota tamga IYI i złota gwiazda |

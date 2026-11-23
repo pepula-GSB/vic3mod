@@ -29,8 +29,10 @@ def tetragram(center=''):
 F={
  # Cesarstwo (start): romejski krzyż z krzesiwami, na skrzyżowaniu czerwona tamga IYI
  '1_cesarstwo': svg(tetragram(iyi(150,100,26,RED))),
- # Republika: złoto z dużą czerwoną tamgą IYI (bułgarski znak ludowy, bez cesarskich krzesiw)
- '2_republika': svg(f'<rect width="300" height="200" fill="{GOLD}"/>'+iyi(150,102,204,RED)),
+ # Republika: na wzór flagi greckiej. Dziewięć pasów czerwień-złoto, w kantonie czerwień ze złotym krzyżem
+ '2_republika': svg(''.join(f'<rect y="{k*200/9:.3f}" width="300" height="{200/9+0.05:.3f}" fill="{RED if k%2==0 else GOLD}"/>' for k in range(9))
+                    +f'<rect width="{200*5/9:.3f}" height="{200*5/9:.3f}" fill="{RED}"/>'
+                    +f'<rect x="{200*2/9:.3f}" width="{200/9:.3f}" height="{200*5/9:.3f}" fill="{GOLD}"/><rect y="{200*2/9:.3f}" width="{200*5/9:.3f}" height="{200/9:.3f}" fill="{GOLD}"/>'),
  # Rewolucja: czerwień, złota tamga IYI, nad nią złota gwiazda
  '3_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/>'+iyi(150,122,150,GOLD)+star(150,50,24,GOLD)),
 }
