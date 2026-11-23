@@ -8,6 +8,16 @@ BLK=b64('orzel_slaski_s.png');  BW,BH=500,548     # czarny orzeł dolnośląski 
 DIM=b64('orzel_slaski_polaczony_s.png'); DW,DH=500,581   # orzeł dzielony: dolny (czarny) i górny (złoty) Śląsk
 GOLD='#fcd116'; BLUE='#3044b5'; WHITE='#fbfaf6'; RED='#b3262b'; YEL='#f2c230'; BLACK='#1b1a1a'
 
+KM=b64('kielich_maska_s.png'); KW,KH=300,581
+HAM=b64('mlot_s.png'); HW,HH=240,623
+import math
+def star(cx,cy,r,col):
+    p=[f"{cx+(r if i%2==0 else r*.4)*math.cos(math.radians(-90+i*36)):.2f},{cy+(r if i%2==0 else r*.4)*math.sin(math.radians(-90+i*36)):.2f}" for i in range(10)]
+    return f'<polygon points="{' '.join(p)}" fill="{col}"/>'
+def chalice(cx,cy,h,parts):
+    w=h*KW/KH; mid=f"k{int(cx)}{int(cy)}"
+    m=f'<defs><mask id="{mid}" maskUnits="userSpaceOnUse" x="0" y="0" width="300" height="200"><image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{KM}"/></mask></defs>'
+    return m+f'<g mask="url(#{mid})">'+''.join(f'<polygon points="{pts}" fill="{c}"/>' for pts,c in parts)+'</g>'
 def img(b,w0,h0,cx,cy,h):
     w=h*w0/h0; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{b}"/>'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
@@ -25,6 +35,12 @@ F={
  # Śląsk pod polskim kandydatem (po kądzieli): układ polski, białe pasy po bokach, złoto z czarnym orłem w środku
  '5_polski_kandydat': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect x="62" width="176" height="200" fill="{GOLD}"/>'
                           f'<rect x="62" y="186" width="176" height="14" fill="{RED}"/>'+img(BLK,BW,BH,150,96,168)),
+ # Śląsk rewolucyjny (górnicy i hutnicy Górnego Śląska): czerwień, u dołu złoty i niebieski pasek, w rogu gwiazda nad młotem, bez orła
+ '6_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="164" width="300" height="18" fill="{GOLD}"/><rect y="182" width="300" height="18" fill="{BLUE}"/>'
+                    +star(56,34,18,WHITE)+f'<g transform="translate(56,96) rotate(35)"><image x="{-80*HW/HH/2:.1f}" y="-40" width="{80*HW/HH:.1f}" height="80" href="data:image/png;base64,{HAM}"/></g>'),
+ # Teokracja husycka (Śląsk jest husyckim lennem Moraw): złoto nad czernią, kielich w kontrbarwach
+ '7_teokracja': svg(f'<rect width="300" height="100" fill="{GOLD}"/><rect y="100" width="300" height="100" fill="{BLACK}"/>'
+                    +chalice(150,100,160,[('0,0 300,0 300,100 0,100',BLACK),('0,100 300,100 300,200 0,200',GOLD)])),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
