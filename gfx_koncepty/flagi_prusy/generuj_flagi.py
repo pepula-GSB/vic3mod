@@ -23,8 +23,8 @@ def cross(cx,cy,h,col):
 F={
  # Księstwo (start): wzór od autora moda
  '1_ksiestwo': svg(bands()+shield()+prus(150,96,84)),
- # Republika: bez tarczy, Prus w białym kole na czerwonym pasie
- '2_republika': svg(bands()+f'<circle cx="150" cy="100" r="44" fill="{WHITE}" stroke="{BLACK}" stroke-width="2"/>'+prus(150,99,72)),
+ # Republika: same pasy, bez godła
+ '2_republika': svg(bands()),
  # Teokracja katolicka (biskupi warmińscy z Fromborka): środkowy pas złoty, nad tarczą złoty krzyż
  '3_teokracja': svg(bands(GOLD)+shield()+prus(150,100,80)+cross(150,30,30,GOLD)),
  # Prusy rewolucyjne: czerwień, u dołu czarny pas z białą lamówką, w środku czarna gwiazda w białym obrysie

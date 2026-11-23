@@ -7,6 +7,6 @@ Prusy są **katolickim** państwem bałtyckim (Tuwangste, Warmia z Fromborkiem),
 | Plik | Ustrój |
 |---|---|
 | 1_ksiestwo | Księstwo (start): wzór od autora moda |
-| 2_republika | Republika: bez tarczy, Prus w białym kole |
+| 2_republika | Republika: same pasy, bez godła |
 | 3_teokracja | Teokracja katolicka (biskupi warmińscy): złoty pas środkowy, złoty krzyż nad tarczą |
 | 4_rewolucja | Prusy rewolucyjne: czerwień z czarnym pasem u dołu, czarna gwiazda w białym obrysie |
