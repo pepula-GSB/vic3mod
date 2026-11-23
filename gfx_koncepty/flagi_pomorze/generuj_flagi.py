@@ -28,8 +28,8 @@ F={
  # Teokracja husycka: jak księstwo, ale pas u dołu czarny, a gryf trzyma w uniesionym szponie mały kielich
  '3_teokracja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLACK}"/>'+gryf(GR,150,92,136)
                     +(lambda h:f'<image x="{104-h*KRW/KRH/2:.1f}" y="{22-h/2:.1f}" width="{h*KRW/KRH:.1f}" height="{h:.1f}" href="data:image/png;base64,{KRC}"/>')(28)),
- # Pomorze rewolucyjne: czerwień, biały gryf, nad nim biała gwiazda w rogu
- '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="168" width="300" height="32" fill="{BLUE}"/><rect y="164" width="300" height="4" fill="{WHITE}"/>'+gryf(GRW,150,88,140)+star(40,36,16,WHITE)),
+ # Pomorze rewolucyjne: układ republiki (niebieski pas przy drzewcu, biel), zamiast gryfa czerwona gwiazda
+ '4_rewolucja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="90" height="200" fill="{BLUE}"/>'+star(195,104,58,RED)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
