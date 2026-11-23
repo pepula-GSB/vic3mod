@@ -3,7 +3,7 @@
 ## Regiony jeszcze nieopisane
 - **Indie**: największa dziura. Mamy tylko fragmenty: angielski Bengal, portugalski Bombaj, Goa i Daman, francuski Koromandel, holenderski Cejlon, faktorie duńskie i burgundzkie, omańskie Diu, Karaczi i Arakkal, silni Marathowie. Brakuje Mogołów, Sikhów, Hajdarabadu i Majsuru.
 - **Persja, Afganistan i Azja Środkowa**: Kadżarowie, Durrani, Chiwa, Buchara, Kokand. Rywalizacja Moskwy, Osmanów i Persji.
-- **Bliski Wschód**: stolica Osmanów ustalona (Adana). Egipt i Lewant opisane. Do opisania: Saudowie i Wahabici, Persja (granica na Araksie ustalona, Kaukaz osmański), spór o Ziemię Świętą z Cesarstwem Bułgarsko-Romejskim, Jemen i Aden.
+- **Bliski Wschód**: stolica Osmanów ustalona (Adana). Egipt i Lewant opisane. Do opisania: Saudowie i Wahabici, Persja (granica na Araksie ustalona, Kaukaz osmański), spór o Ziemię Świętą z Cesarstwem Bułgarsko-Romejskim. Jemen i Aden opisane (Aden omański od 1829 roku).
 - **Australia i Oceania**: holenderska Nowa Holandia, Nowa Zelandia, Hawaje (faktoria nowogrodzka?), Tahiti.
 - **Afryka uzupełniająco**: Róg Afryki, Sudan, Sahara, Madagaskar.
 

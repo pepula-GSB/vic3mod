@@ -20,7 +20,8 @@
 - **Makran**: Gwadar i wybrzeże Beludżystanu.
 - **Afryka Wschodnia**: Zanzibar i Pemba, Mombasa (bez długiej wojny z Mazruiami), Lamu, Kilwa, wybrzeże Benadiru (Mogadiszu, Barawa) i Komory jako strefa wpływów.
 - **Wnętrze Afryki**: szlaki karawan przez Taborę do Udżidżi nad Tanganiką i do Wielkich Jezior.
-- **Placówki**: Sokotra, kupcy na północnym Madagaskarze.
+- **Aden** (od 1829 roku, zob. niżej) i **Sokotra**: brama Morza Czerwonego.
+- **Placówki**: kupcy na północnym Madagaskarze.
 - **Indie** (zob. niżej): Diu, Karaczi i wybrzeże dolnego Sindhu, Kannur (Arakkal) z Lakszadiwami jako wasal, Malediwy pod protektoratem.
 
 ### Kolonie omańskie w Indiach
@@ -48,11 +49,22 @@
 - Islam ibadycki elity, sunnicka większość na wybrzeżu Afryki.
 - Społeczeństwo arabsko-suahilijskie z indyjską diasporą kupiecką.
 
+### Aden i Jemen
+- **Przyczyna**: realnie Brytyjczycy zajęli Aden w 1839 roku jako stację węglową na trasie parowców Bombaj–Suez. Tu nie ma brytyjskich Indii ani tej trasy, za to Oman ma Sokotrę, Zanzibar i interesy w Indiach, a podupadły port sułtana Lahidżu leży mu dokładnie po drodze.
+- **1829**: Oman wykupuje Aden od sułtana Lahidżu, częściowo pieniędzmi, a częściowo groźbą floty. Lahidż zostaje w głębi lądu jako niespokojny sąsiad, który liczy, że kiedyś odzyska port.
+- **Jemen w 1836 roku**:
+  - **Aden**: omański, z garnizonem beludżyjskim i kupcami z Gudżaratu i Zanzibaru.
+  - **Tihama i Mokka** (port kawowy): osmańskie, rządzone z Dżiddy. Realnie zajął je Egipt Muhammada Alego, tu prosto Adana.
+  - **Góry i Sana**: zajdycki imamat, niezależny i podzielony.
+- **Cieśnina Bab al-Mandab**: Oman w Adenie i Osmanowie w Mokce pilnują jej z dwóch stron, więc kto ma przewagę, ten kontroluje wejście na Morze Czerwone.
+- **Kanał Sueski** (jeśli powstanie) robi z Adenu najważniejszy port Omanu: wszystkie statki z Europy do Indii i Zanzibaru przechodzą tuż obok.
+
 ### Problemy na start gry
 - **Muskat czy Zanzibar?** Plemienny interior Omanu i konserwatywni ibadyci (tradycja wybieralnego imamatu) nie ufają kosmopolitycznemu sułtanowi z Zanzibaru. Realnie po śmierci Sa'ida w 1856 roku imperium podzieliło się na dwa sułtanaty.
 - **Wahabici i Saudowie** w głębi Arabii.
 - **Persja** chce odzyskać Bandar Abbas i Ormuz.
-- **Osmanowie** w Basrze i Al-Hasie.
+- **Osmanowie** w Basrze i Al-Hasie oraz w Mokce, naprzeciw Adenu.
+- **Lahidż** chce odzyskać Aden.
 - **Portugalia** walczy o północny Mozambik (Cabo Delgado).
 - **Abolicjoniści**: Dania i Nowe Niderlandy naciskają, żeby zakazać handlu niewolnikami.
 
@@ -61,3 +73,4 @@
 - „Muskat czy Zanzibar”: centralizacja albo podział dynastyczny.
 - „Szlaki karawan”: ekspansja do Wielkich Jezior i wyścig z Europejczykami o wnętrze Afryki.
 - „Kwestia niewolnictwa”: zależność od handlu kontra naciski z zewnątrz.
+- „Brama Łez” (dosłowne znaczenie nazwy Bab al-Mandab): rywalizacja z Osmanami o cieśninę, Mokkę i Tihamę. Po otwarciu Kanału Sueskiego stawka rośnie.
