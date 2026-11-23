@@ -53,3 +53,4 @@
 - 1830: rewolucja lipcowa we Francji (Ludwik Filip), Algieria francuska.
 - 1829: Meksyk znosi niewolnictwo, co budzi konflikt z luizjańskimi plantatorami w Teksasie.
 - W Anglii trwa debata abolicyjna. Niewolnictwa nie zniesiono, a Dominium Wirginii obserwuje parlament z niepokojem.
+- **1811–1816**: osmańska wojna o Hidżaz odbija Mekkę i Medynę z rąk wahabitów, ale Dirijja w Nadżdzie przetrwa. Bez armii Muhammada Alego pierwsze państwo Saudów nie upada.

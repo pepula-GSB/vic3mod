@@ -103,5 +103,20 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 - Imperium kontroluje szlak handlowy z Persji i Azji Środkowej przez Wołgę i Kaukaz.
 - **W 1836 roku**: imperium bliskowschodnio-stepowe: środkowa i wschodnia Anatolia, Bliski Wschód, Egipt, Kaukaz oraz step pontyjsko-kaspijski, bez Bałkanów. Nie jest „chorym człowiekiem Europy”, raczej potęgą azjatycką z wyjściem nad Wołgę.
 
+## Arabia: Saudowie przetrwali
+- **Przyczyna**: realnie pierwsze państwo Saudów (stolica Dirijja) zajęło Mekkę i Medynę w latach 1803–1805, a w 1818 roku zniszczyła je egipska armia Ibrahima Paszy, syna Muhammada Alego, wysłana na rozkaz sułtana. Tu nie ma Muhammada Alego ani jego armii. Adana musi radzić sobie sama, a jej wojska są zajęte Kaukazem, Wołgą i Persją.
+- **Wojna o Hidżaz (1811–1816)**: osmańska wyprawa z Syrii i przez Dżiddę odbija Mekkę i Medynę, ale nie daje rady przejść przez pustynię do Nadżdu. Dirijja nie zostaje zburzona.
+- **W 1836 roku**:
+  - **Emirat Dirijji** (Saudowie): Nadżd, Kasim, Jamama. Pierwsze państwo saudyjskie trwa nieprzerwanie od XVIII wieku, z wahabickimi ulemami z rodu asz-Szajch. Jest silniejsze i bardziej zwarte niż realne drugie państwo saudyjskie z Rijadem jako stolicą (od 1824 roku).
+  - **Hidżaz**: osmański, z szarifem Mekki z rodu Haszymidów jako lokalnym władcą i osmańskim garnizonem w Dżiddzie.
+  - **Al-Hasa**: osmańska, odebrana Saudom przez wyprawę z Basry. Saudowie chcą jej z powrotem jako wyjścia do Zatoki.
+  - **Dżabal Szammar** (Hail): realnie w 1836 roku władzę przejmuje tam ród Raszidów. Tu są oni wasalami Saudów, ale z własnymi ambicjami, więc mogą stać się sojusznikiem Osmanów przeciw Dirijji.
+- **Spór o kalifat**: Osmanowie są kalifami od podboju Egiptu w 1517 roku. Wahabici uważają ich islam za skażony, a utrata Mekki w latach 1803–1811 uderzyła w prestiż Adany. Każdy pielgrzym przez Nadżd to pytanie, kto naprawdę strzeże świętych miast.
+- **Wschód**: najazdy wahabitów na Oman (realnie zmuszały sułtana do płacenia daniny) i spór o oazę Buraimi.
+- **Journal entries**:
+  - **„Strażnik Dwóch Meczetów”**: Saudowie kontra Osmanowie o Hidżaz. Utrata Mekki kosztuje Adanę legitymację w całym świecie islamu.
+  - **„Raszidzi”**: Osmanowie mogą podburzyć Hail przeciw Dirijji, a Saudowie mogą ich zmiażdżyć.
+  - **„Buraimi”**: granica saudyjsko-omańska i dostęp do Zatoki.
+
 ## Kwestia Wschodnia
 Konstantynopol i Litwa-Ruś (prawosławie) kontra Osmanowie w Anatolii, z Serbią, Chorwacją-Panonią i Rumunami jako graczami pośrednimi.
