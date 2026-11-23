@@ -14,6 +14,6 @@ Złoty gryf od autora moda, wycięty z błękitnej tarczy: [../emblematy/gryf_ob
 |---|---|
 | obodryci_1_ksiestwo | Księstwo (start, Niklotowice): złoty gryf na błękicie, złoty pas u dołu |
 | obodryci_2_republika | Republika kupiecka (Liubice, słowiańska Hanza): biel nad czerwienią w barwach Hanzy, błękitne koło ze złotym gryfem |
-| obodryci_3_rewolucja | Obodryci rewolucyjni: czerwień, złoty gryf i złota gwiazda, błękitny pas u dołu |
+| obodryci_3_rewolucja | Obodryci rewolucyjni: czerwień, złoty gryf na środku, złota gwiazda w lewym górnym rogu, błękitny pas u dołu |
 
 Wyznanie Obodrytów nie jest jeszcze ustalone w lore, więc nie ma na razie wariantu teokratycznego.
