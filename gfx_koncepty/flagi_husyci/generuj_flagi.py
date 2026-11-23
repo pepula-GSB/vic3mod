@@ -5,6 +5,8 @@ import base64, os, subprocess
 HERE=os.path.dirname(os.path.abspath(__file__))
 MASK=base64.b64encode(open(os.path.join(HERE,'..','emblematy','kielich_maska_s.png'),'rb').read()).decode()
 MW,MH=300,581
+PLE=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_polski_kielich_s.png'),'rb').read()).decode()
+PLW,PLH=566,691
 WHITE='#fbfaf6'; RED='#b3262b'; BLACK='#1b1a1a'; GOLD='#e2b53a'; BLUE='#1f4e8c'; YEL='#f2c230'
 
 def defs():
@@ -27,8 +29,10 @@ UPL='0,0 300,0 0,200'; LOR='300,0 300,200 0,200'   # podział w skos (od dolnego
 F={
  # chorągiew wojen husyckich: czerwony kielich na czerni; blok husycki albo rząd radykalny (taboryci)
  '1_liga_husycka': svg(f'<rect width="300" height="200" fill="{BLACK}"/>'+chalice(150,100,150,RED)),
- # Polska (Poznań): biało-czerwona, mały czerwony kielich w białym polu przy drzewcu
- '2_polska': svg(bands(WHITE,RED)+chalice(52,50,74,RED)),
+ # Polska (Poznań): chorągiew królewska, biały orzeł w koronie z czerwonym kielichem na piersi
+ '2_polska': svg(f'<rect width="300" height="200" fill="{RED}"/>'+(lambda h:f'<image x="{150-h*PLW/PLH/2:.1f}" y="{100-h/2:.1f}" width="{h*PLW/PLH:.1f}" height="{h:.1f}" href="data:image/png;base64,{PLE}"/>')(176)),
+ # Polska, wersja cywilna: biało-czerwona z małym kielichem przy drzewcu
+ '2b_polska_cywilna': svg(bands(WHITE,RED)+chalice(52,50,74,RED)),
  # Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich
  '3_morawy': svg(f'<rect width="300" height="200" fill="{GOLD}"/><rect x="10" y="10" width="280" height="180" fill="{RED}"/>'
                  f'<rect x="16" y="16" width="268" height="168" fill="none" stroke="{GOLD}" stroke-width="1.6"/>'+chalice(150,100,140,GOLD)),
