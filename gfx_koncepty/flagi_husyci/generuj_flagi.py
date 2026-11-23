@@ -1,0 +1,41 @@
+"""Flagi husyckie z kielichem (koncepty). Uruchom z katalogu repo: python3 gfx_koncepty/flagi_husyci/generuj_flagi.py
+Kielich to maska PNG (../emblematy/kielich_maska.png) barwiona przez filtr SVG,
+więc jedna grafika daje kielich w dowolnym kolorze i w kontrbarwach (pół na pół)."""
+import base64, os, subprocess
+HERE=os.path.dirname(os.path.abspath(__file__))
+MASK=base64.b64encode(open(os.path.join(HERE,'..','emblematy','kielich_maska_s.png'),'rb').read()).decode()
+MW,MH=300,581
+WHITE='#fbfaf6'; RED='#b3262b'; BLACK='#1b1a1a'; GOLD='#e2b53a'; BLUE='#1f4e8c'; YEL='#f2c230'
+
+def defs():
+    return (f'<defs><mask id="k" maskUnits="userSpaceOnUse" x="0" y="0" width="300" height="200">'
+            f'<image id="kimg" x="0" y="0" width="0" height="0" href="data:image/png;base64,{MASK}"/></mask></defs>')
+
+def chalice(cx,cy,h,col_top,col_bot=None,split=None):
+    """Kielich wysokości h; col_bot+split = kontrbarwa (powyżej split kolor col_top, poniżej col_bot)."""
+    w=h*MW/MH; x=cx-w/2; y=cy-h/2
+    img=f'<image x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{MASK}"/>'
+    m=f'<defs><mask id="km{cx}{cy}" maskUnits="userSpaceOnUse">{img}</mask></defs>'
+    if col_bot is None:
+        return m+f'<rect width="300" height="200" fill="{col_top}" mask="url(#km{cx}{cy})"/>'
+    return (m+f'<rect width="300" height="{split}" fill="{col_top}" mask="url(#km{cx}{cy})"/>'
+             f'<rect y="{split}" width="300" height="{200-split}" fill="{col_bot}" mask="url(#km{cx}{cy})"/>')
+
+def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
+def bands(top,bot): return f'<rect width="300" height="100" fill="{top}"/><rect y="100" width="300" height="100" fill="{bot}"/>'
+
+F={
+ # chorągiew wojen husyckich: czerwony kielich na czerni; dla bloku/ligi husyckiej albo rządu radykalnego (taboryci)
+ '1_liga_husycka': svg(f'<rect width="300" height="200" fill="{BLACK}"/>'+chalice(150,100,150,RED)),
+ # Polska (Poznań): biało-czerwona, kielich w kontrbarwach
+ '2_polska': svg(bands(WHITE,RED)+chalice(150,100,150,RED,WHITE,100)),
+ # Morawy: żółto-czerwone barwy morawskie, kielich w kontrbarwach
+ '3_morawy': svg(bands(YEL,RED)+chalice(150,100,150,RED,YEL,100)),
+ # Pomorze (Gryfici): biało-niebieskie, kielich w kontrbarwach
+ '4_pomorze': svg(bands(WHITE,BLUE)+chalice(150,100,150,BLUE,WHITE,100)),
+ # Czechy: czerwone pole, biały kielich
+ '5_czechy': svg(f'<rect width="300" height="200" fill="{RED}"/>'+chalice(150,100,150,WHITE)),
+}
+for k,v in F.items():
+    p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
+    subprocess.run(['rsvg-convert','-w','600','-h','400',p,'-o',p[:-4]+'.png'],check=True)

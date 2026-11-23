@@ -44,3 +44,4 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [maps/ameryka_polnocna_1836.html](maps/ameryka_polnocna_1836.html) | Interaktywna mapa Ameryki Północnej w 1836 roku |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
+| gfx_koncepty/flagi_husyci/ | Flagi państw husyckich z kielichem (koncepty) |
