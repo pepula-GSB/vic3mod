@@ -13,5 +13,5 @@ Flagi Księstwa Śląskiego i możliwych wyników łańcucha „Bezkrólewie śl
 | 3_unia_czeska | Unia z Czechami (linia praska): barwy czeskie, czarny orzeł w złotym polu przy drzewcu |
 | 4_prowincja_morawska | Wcielenie do Moraw: barwy morawskie, orzeł śląski na złotej tarczy |
 | 5_polski_kandydat | Polski kandydat na tronie: układ flagi polskiej, złoto z czarnym orłem, czerwony pasek u dołu |
-| 6_rewolucja | Śląsk rewolucyjny (górnicy i hutnicy): czerwień ze złotym i niebieskim paskiem u dołu, gwiazda nad młotem, bez orła |
+| 6_rewolucja | Śląsk rewolucyjny (górnicy i hutnicy): górnicza zieleń nad czernią, żółte skrzyżowane młotki (pyrlik i żelazko, wg flagi od autora moda), nad nimi czerwona gwiazda |
 | 7_teokracja | Teokracja husycka: złoto nad czernią, kielich w kontrbarwach |

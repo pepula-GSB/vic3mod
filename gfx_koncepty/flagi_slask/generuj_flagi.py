@@ -9,6 +9,7 @@ DIM=b64('orzel_slaski_polaczony_s.png'); DW,DH=500,581   # orzeł dzielony: doln
 GOLD='#fcd116'; BLUE='#3044b5'; WHITE='#fbfaf6'; RED='#b3262b'; YEL='#f2c230'; BLACK='#1b1a1a'
 
 KM=b64('kielich_maska_s.png'); KW,KH=300,581
+MG=b64('mloty_gornicze_s.png'); MGW,MGH=400,384
 HAM=b64('mlot_s.png'); HW,HH=240,623
 import math
 def star(cx,cy,r,col):
@@ -35,9 +36,9 @@ F={
  # Śląsk pod polskim kandydatem (po kądzieli): układ polski, białe pasy po bokach, złoto z czarnym orłem w środku
  '5_polski_kandydat': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect x="62" width="176" height="200" fill="{GOLD}"/>'
                           f'<rect x="62" y="186" width="176" height="14" fill="{RED}"/>'+img(BLK,BW,BH,150,96,168)),
- # Śląsk rewolucyjny (górnicy i hutnicy Górnego Śląska): czerwień, u dołu złoty i niebieski pasek, w rogu gwiazda nad młotem, bez orła
- '6_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="164" width="300" height="18" fill="{GOLD}"/><rect y="182" width="300" height="18" fill="{BLUE}"/>'
-                    +star(56,34,18,WHITE)+f'<g transform="translate(56,96) rotate(35)"><image x="{-80*HW/HH/2:.1f}" y="-40" width="{80*HW/HH:.1f}" height="80" href="data:image/png;base64,{HAM}"/></g>'),
+ # Śląsk rewolucyjny (górnicy i hutnicy Górnego Śląska): górnicza zieleń nad czernią, żółte skrzyżowane młotki, nad nimi czerwona gwiazda
+ '6_rewolucja': svg(f'<rect width="300" height="100" fill="#0f9a2e"/><rect y="100" width="300" height="100" fill="{BLACK}"/>'
+                    +img(MG,MGW,MGH,150,118,96)+star(150,44,26,'#d81e1e')),
  # Teokracja husycka (Śląsk jest husyckim lennem Moraw): złoto nad czernią, kielich w kontrbarwach
  '7_teokracja': svg(f'<rect width="300" height="100" fill="{GOLD}"/><rect y="100" width="300" height="100" fill="{BLACK}"/>'
                     +chalice(150,100,160,[('0,0 300,0 300,100 0,100',BLACK),('0,100 300,100 300,200 0,200',GOLD)])),
