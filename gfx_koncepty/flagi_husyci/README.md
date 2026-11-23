@@ -12,7 +12,7 @@ Kielich husycki (komunia pod dwiema postaciami) jako wspólny znak państw kośc
 | 3_morawy | Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich |
 | 4_pomorze | Pomorze (Gryfici): niebieski pas przy drzewcu, niebieski kielich na bieli |
 | 5_czechy | Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach |
-| 6_mazowsze | Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na tarczy |
+| 6_mazowsze | Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na tarczy w złotej obwódce |
 
 Do Vic3 kielich idzie jako emblemat (DDS z maską), a pasy i kolory w skrypcie herbowym.
 

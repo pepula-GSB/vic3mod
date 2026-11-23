@@ -42,9 +42,9 @@ F={
  '4_pomorze': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="100" height="200" fill="{BLUE}"/>'+chalice(200,100,140,BLUE)),
  # Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach
  '5_czechy': svg(f'<polygon points="{UPL}" fill="{WHITE}"/><polygon points="{LOR}" fill="{RED}"/>'+chalice(150,100,150,None,[(UPL,RED),(LOR,WHITE)])),
- # Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na czerwonej tarczy
+ # Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na czerwonej tarczy w złotej obwódce
  '6_mazowsze': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/>'
-                   f'<path d="M104,22 L196,22 L196,112 Q196,162 150,182 Q104,162 104,112Z" fill="{RED}" stroke="{WHITE}" stroke-width="4"/>'+eagle(MZE,150,98,128)),
+                   f'<path d="M98,18 L202,18 L202,106 Q202,160 150,186 Q98,160 98,106Z" fill="{RED}" stroke="{GOLD}" stroke-width="3.5"/>'+eagle(MZE,150,98,122)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
