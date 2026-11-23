@@ -7,6 +7,7 @@ EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
 LEW=b64('lew_czeski.png'); LW,LH=287,376
 ORZ=b64('orzel_swietowaclawski.png'); OW,OH=569,675
+GL=b64('godlo_czeskie_ludowe.png'); GLW,GLH=373,532
 KM=b64('kielich_maska_s.png'); KW,KH=300,581
 RED='#ce0000'; WHITE='#fbfaf6'; BLACK='#111111'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
@@ -33,8 +34,8 @@ F={
  # Teokracja husycka (Praga, kolebka Husa): szachownica z lwami na czerwieni, a zamiast orła biały kielich na czerni
  '3_teokracja': svg(kwadraty()+lew(75,50,84)+lew(225,150,84)+f'<rect x="150" width="150" height="100" fill="{BLACK}"/><rect y="100" width="150" height="100" fill="{BLACK}"/>'
                     +chalice(225,50,44,WHITE)+chalice(75,150,44,WHITE)),
- # Czechy rewolucyjne: pięć poziomych pasów czerwono-białych, złota gwiazda na środku
- '4_rewolucja': svg(''.join(f'<rect y="{i*40}" width="300" height="40" fill="{'#8a0000' if i%2==0 else WHITE}"/>' for i in range(5))+'<circle cx="150" cy="112" r="64" fill="#8a0000" stroke="#000000" stroke-width="2"/>'+lew(150,114,104)+star(150,26,18,'#f2c230').replace('/>',' stroke="#000000" stroke-width="1.8" stroke-linejoin="round"/>')),
+ # Czechy rewolucyjne: pięć poziomych pasów (ciemna czerwień i biel), na środku godło ludowe od autora moda (lew w tarczy z gwiazdą)
+ '4_rewolucja': svg(''.join(f'<rect y="{i*40}" width="300" height="40" fill="{'#8a0000' if i%2==0 else WHITE}"/>' for i in range(5))+img(GL,GLW,GLH,150,100,172)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
