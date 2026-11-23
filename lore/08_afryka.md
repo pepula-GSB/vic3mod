@@ -61,7 +61,17 @@ Hiszpania nie traci sił na północy Europy, a Osmanowie są słabsi na zachodn
 - Osmańska. Osmanowie odebrali władzę miejscowej dynastii Karamanlich w 1835 roku, jak realnie. To ich jedyny przyczółek na zachodnim Morzu Śródziemnym.
 
 ### Egipt
-- Ściślej osmański, Muhammad Ali mniej samodzielny.
+Ściślej osmański niż realnie: spichlerz i skarbiec imperium, kilka dni żeglugi od stolicy w Adanie.
+
+- **Nie ma Muhammada Alego.** Realnie był osmańskim Albańczykiem z Kawali, wysłanym do Egiptu w 1801 roku. Tu Kawala leży w Cesarstwie Bułgarsko-Romejskim, a Albańczycy są chrześcijanami, więc taka kariera nie jest możliwa.
+- **Nie ma wojny z sułtanem z lat 1831–1833** ani egipskiego zajęcia Syrii. Lewant zostaje spokojnie osmański.
+- **Namiestnik (pasza)** jest zmieniany przez Adanę co kilka lat i nie tworzy dynastii.
+- **Mamelucy przetrwali.** Realnie Muhammad Ali wymordował ich w 1811 roku w Cytadeli. Tu bejowie mameluccy nadal są lokalną elitą: mają ziemię, podatki i prywatne oddziały. Paszę popierają, dopóki ten nie rusza ich przywilejów.
+- **Na start gry**: Egipt jest bogatą, ale zacofaną prowincją. Modernizacja (bawełna długowłóknista, kanały, fabryki) zależy od tego, czy Adana zechce i zdoła złamać mameluków.
+- **Journal entries**:
+  - **„Ambitny pasza”**: w kryzysie imperium (przegrana wojna, bunt w Anatolii) namiestnik sprzymierza się z bejami albo z obcym mocarstwem i ogłasza dziedziczną władzę. Sukces daje odrębny Egipt jak realnie, tylko później i słabszy.
+  - **„Powrót mameluków”**: bejowie obalają paszę i rządzą przez własnego szejka al-balad, jak w XVIII wieku. Konserwatywny Egipt, który trzeba odbić albo uznać.
+  - **„Kanał Sueski”**: pomysł Francji, Hiszpanii albo Piemontu. Imperium może go zbudować samo, z kapitałem z Adany, albo oddać koncesję obcym w zamian za pieniądze i ryzyko, jak realnie.
 
 ### Journal entries
 - „Presidia”: hiszpańska ekspansja w Maroku.

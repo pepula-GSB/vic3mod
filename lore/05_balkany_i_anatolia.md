@@ -91,6 +91,9 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
   - **Bawełna**: równina Czukurowa to żyzny rdzeń imperium. W czasie „głodu bawełny”, gdy zabraknie dostaw z Luizjany, Adana może się wzbogacić.
   - **Słabość**: malaryczne bagna Czukurowy. Osuszanie ich to wątek modernizacyjny albo wydarzenie z epidemią.
   - **Bursa** zostaje świętym miastem dynastii, z grobami pierwszych sułtanów. Patrzy na Konstantynopol, którego Osmanowie nigdy nie zdobyli.
+- **Lewant** jest spokojnie osmański, bo nie było egipskiego najazdu z lat 1831–1833.
+  - **Góra Liban**: emirat Szihabów z maronitami i druzami pod osmańskim zwierzchnictwem, jak realnie. Napięcia między maronitami i druzami mogą wybuchnąć jak realnie w 1860 roku.
+  - **Ziemia Święta**: opiekunem prawosławnych jest **Cesarstwo Bułgarsko-Romejskie**, a nie Rosja. Spór o klucze do Bazyliki Grobu Pańskiego w Jerozolimie, który realnie doprowadził do wojny krymskiej, jest tu iskrą wojny Konstantynopola z Adaną. Katolików chroni Francja (albo Hiszpania, jeśli papież jest na wygnaniu w Santiago).
 - **Kierunek północny**: zablokowani na Bałkanach, Osmanowie idą przez Kaukaz i Morze Czarne (porty Synopa i Trapezunt) na step:
   - Azow (realnie osmański w latach 1475–1696) i Chanat Krymski jako wasal,
   - **1569**: realna wyprawa na Astrachań i próba przekopania kanału Don–Wołga skończyły się porażką. Tu się udają,
