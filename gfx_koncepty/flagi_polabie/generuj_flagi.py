@@ -19,7 +19,7 @@ F={
  'obodryci_2_republika': svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'
                             f'<circle cx="150" cy="100" r="62" fill="{BLUE}" stroke="{GOLD}" stroke-width="4"/>'+img(GO,GOW,GOH,147.5,105,98)),
  # Obodryci rewolucyjni: czerwień, złoty gryf trzyma się gwiazdy (gwiazda przed szponami)
- 'obodryci_3_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="172" width="300" height="28" fill="{BLUE}"/>'+img(GO,GOW,GOH,162,92,150)+star(92,40,20,GOLD).replace('/>',' stroke="#000000" stroke-width="1.8" stroke-linejoin="round"/>')),
+ 'obodryci_3_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="172" width="300" height="28" fill="{BLUE}"/>'+img(GO,GOW,GOH,162,92,150)+star(92,40,20,GOLD).replace('/>',' stroke="#000000" stroke-width="0.6" stroke-linejoin="round"/>')),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
