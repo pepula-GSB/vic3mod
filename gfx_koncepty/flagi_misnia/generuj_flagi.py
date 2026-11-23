@@ -25,7 +25,7 @@ F={
  # Teokracja husycka: złoto z czarnym lwem, czarny pas u dołu z białym kielichem
  '3_teokracja': svg(f'<rect width="300" height="200" fill="{GOLD}"/><rect y="160" width="300" height="40" fill="{BLACK}"/>'+lew(LEW,150,82,138)+chalice(150,180,30,WHITE)),
  # Miśnia rewolucyjna: czerwień, złoty lew, czarny pas u dołu, złota gwiazda w lewym górnym rogu
- '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="176" width="300" height="24" fill="{BLACK}"/>'+lew(LEWZ,156,92,150)+star(34,32,18,STAR)),
+ '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="176" width="300" height="24" fill="{BLACK}"/>'+lew(LEWZ,156,92,150)+star(34,32,18,STAR,sw=0).replace(" stroke=\"#000\" stroke-width=\"0\"","")),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
