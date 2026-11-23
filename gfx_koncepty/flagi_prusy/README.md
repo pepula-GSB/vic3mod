@@ -10,4 +10,4 @@ Prusy są **katolickim** państwem bałtyckim (Tuwangste, Warmia z Fromborkiem),
 | 2_republika | Republika: na czerwonym pasie biały, konturowy Prus bez tarczy ([../emblematy/prus_bialy.png](../emblematy/prus_bialy.png), od autora moda) |
 | 2b_republika_bez_godla | Republika, wariant: same pasy |
 | 3_teokracja | Teokracja katolicka (biskupi warmińscy): złoty pas środkowy, złoty krzyż nad tarczą |
-| 4_rewolucja | Prusy rewolucyjne: czerwień z czarnym pasem u dołu, czarna gwiazda w białym obrysie |
+| 4_rewolucja | Prusy rewolucyjne: sama czerwień, żółty konturowy Prus |
