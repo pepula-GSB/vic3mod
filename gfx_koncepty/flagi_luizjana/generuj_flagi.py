@@ -133,7 +133,7 @@ F['4_cesarstwo']=svg(f'<rect width="300" height="200" fill="{PURPLE}"/>'+laureli
 sem=''.join(fleur(x,y,.36,GOLD) for x in range(25,300,42) for y in range(24,200,42) if not (100<x<200 and y<180))
 F['5_burbonowie']=svg(f'<rect width="300" height="200" fill="{BLUE}"/>{sem}<path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="{WHITE}"/><path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="none" stroke="{GOLD}" stroke-width="3"/>'+pelimg(150,106,78)+crownimg(150,58,70))
 F['6_wolna']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,172,142)+ring_text(150,106,84,80,"NUL N'EST ESCLAVE","EN LOUISIANE",WHITE,fs=12.5,ls=1.6))
-F['7_komuna']=svg(f'<rect width="300" height="200" fill="{RED}"/>'+laurelimg(150,100,66,WHITE)+anchor_hammer_img(150,97,WHITE,h=88)+wave(186,WHITE,5))
+F['7_komuna']=svg(f'<rect width="300" height="100" fill="{RED}"/><rect y="100" width="300" height="100" fill="{BLUE}"/>'+wave(100,WHITE,12)+anchor_hammer_img(52,46,WHITE,h=62))
 F['8_konfederacja']=svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="{RED}"/><rect width="76" height="200" fill="{BLUE}"/>'+star(38,64,16,WHITE)+star(38,136,16,WHITE)+pelimg(188,52,92)+leafimg(188,148,80))
 import os
 OUT='/home/claude/vic3mod/gfx_koncepty/flagi_luizjana'

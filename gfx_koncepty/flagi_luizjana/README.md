@@ -12,11 +12,11 @@ Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i 
 
 **Dewiza flagi 6** (białe litery po okręgu wokół palmy): *NUL N'EST ESCLAVE EN LOUISIANE* („Nikt nie jest niewolnikiem w Luizjanie”), u góry pierwsza część, u dołu *EN LOUISIANE*. W Vic3 napis musi być częścią emblematu (DDS), bo skrypt herbowy nie ma tekstu.
 
-**Wieniec laurowy** (flagi 3, 4 i 7, przebarwiany na zielono, złoto i biało): [wieniec_laurowy.png](../emblematy/wieniec_laurowy.png), cienki wieniec ze skrzyżowanymi łodygami od autora moda (z craftstarters.com, sprawdzić warunki licencji; źródło małe, powiększone 8×).
+**Wieniec laurowy** (flagi 3 i 4, zielony i złoty): [wieniec_laurowy.png](../emblematy/wieniec_laurowy.png), cienki wieniec ze skrzyżowanymi łodygami od autora moda (z craftstarters.com, sprawdzić warunki licencji; źródło małe, powiększone 8×).
 
 **Liść tytoniu** (flaga 8, złoty liść, żyłki wycięte w kolorze tła, ogonek cienkim złotym konturem): [lisc_tytoniu.png](../emblematy/lisc_tytoniu.png), od autora moda.
 
-**Kotwica i młot** (flaga 7, białe sylwetki skrzyżowane pod kątem prostym, młot oddzielony od kotwicy czerwoną obwódką): [kotwica.png](../emblematy/kotwica.png), [mlot.png](../emblematy/mlot.png), od autora moda. Kotwica ma małe źródło (powiększona 6×), więc do finalnego DDS przyda się większa.
+**Kotwica i młot** (flaga 7: czerwień nad granatem z białą falą jak we fladze 6, godło w lewym górnym rogu; białe sylwetki skrzyżowane pod kątem prostym, młot oddzielony od kotwicy czerwoną obwódką): [kotwica.png](../emblematy/kotwica.png), [mlot.png](../emblematy/mlot.png), od autora moda. Kotwica ma małe źródło (powiększona 6×), więc do finalnego DDS przyda się większa.
 
 Wszystkie godła są już z ilustracji; w kodzie zostały tylko tła, pasy, gwiazdy, fala i napis.
 
