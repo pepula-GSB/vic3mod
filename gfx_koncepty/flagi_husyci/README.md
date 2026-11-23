@@ -16,9 +16,13 @@ Kielich husycki (komunia pod dwiema postaciami) jako wspólny znak państw kośc
 | 4_pomorze | Pomorze (Gryfici): niebieski pas przy drzewcu, niebieski kielich na bieli |
 | 5_czechy | Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach |
 | 6_mazowsze | Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na tarczy w złotej obwódce |
+| 6a_mazowsze_krolestwo | Mazowsze, królestwo (koronacja przez prymasa w Płocku): orzeł w koronie |
+| 6b_mazowsze_teokracja | Mazowsze, teokracja katolicka (rządy prymasa): złoty pas w barwach papieskich, orzeł ze złotym krzyżem na piersi (odpowiednik husyckiego kielicha) |
+| 6c_mazowsze_republika | Mazowsze, republika: czerwony panel przy drzewcu z orłem bez korony, reszta czerwono-biało-czerwona |
+| 6d_mazowsze_rewolucja | Mazowsze rewolucyjne: gwiazda, orzeł bez korony i młot w rogu, biały pas niżej |
 
 Do Vic3 kielich idzie jako emblemat (DDS z maską), a pasy i kolory w skrypcie herbowym.
 
 **Orzeł polski** (średniowieczna stylizacja, koronowany) od autora moda, wycięty z tarczy: [../emblematy/orzel_polski.png](../emblematy/orzel_polski.png), z kielichem: [../emblematy/orzel_polski_kielich.png](../emblematy/orzel_polski_kielich.png). Mazowsze ma tego samego orła bez korony ([../emblematy/orzel_mazowiecki.png](../emblematy/orzel_mazowiecki.png)) (orzeł mazowiecki był niekoronowany, w odróżnieniu od królewskiego). Licencję obrazka sprawdzić przed publikacją.
 
-Porównanie wariantów Polski: [polska_warianty.png](polska_warianty.png).
+Porównanie wariantów Polski: [polska_warianty.png](polska_warianty.png), Mazowsza: [mazowsze_warianty.png](mazowsze_warianty.png).

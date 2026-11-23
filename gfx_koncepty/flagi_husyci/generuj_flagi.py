@@ -10,6 +10,8 @@ PLW,PLH=566,691
 PLR=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_polski_bez_korony_kielich_s.png'),'rb').read()).decode()
 KGO=base64.b64encode(open(os.path.join(HERE,'..','emblematy','kielich_zloty_kontur.png'),'rb').read()).decode()
 HAM=base64.b64encode(open(os.path.join(HERE,'..','emblematy','mlot_s.png'),'rb').read()).decode()
+PLC=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_polski_s.png'),'rb').read()).decode()
+MZK=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_mazowiecki_krzyz_s.png'),'rb').read()).decode()
 MZE=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_mazowiecki_s.png'),'rb').read()).decode()
 def eagle(b64,cx,cy,h): w=h*PLW/PLH; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{b64}"/>'
 WHITE='#fbfaf6'; RED='#b3262b'; BLACK='#1b1a1a'; GOLD='#e2b53a'; BLUE='#1f4e8c'; YEL='#f2c230'
@@ -27,6 +29,9 @@ def chalice(cx,cy,h,col,parts=None):
         return m+f'<rect width="300" height="200" fill="{col}" mask="url(#{mid})"/>'
     return m+f'<g mask="url(#{mid})">'+''.join(f'<polygon points="{pts}" fill="{c}"/>' for pts,c in parts)+'</g>'
 import math
+MSHIELD='M94,36 L206,36 L206,98 Q206,146 150,166 Q94,146 94,98Z'
+def mshield(b64,col_border):
+    return f'<path d="{MSHIELD}" fill="{RED}" stroke="{col_border}" stroke-width="3.5"/>'+eagle(b64,150,98,112)
 def star(cx,cy,r,col):
     p=[f"{cx+(r if i%2==0 else r*.4)*math.cos(math.radians(-90+i*36)):.2f},{cy+(r if i%2==0 else r*.4)*math.sin(math.radians(-90+i*36)):.2f}" for i in range(10)]
     return f'<polygon points="{" ".join(p)}" fill="{col}"/>'
@@ -59,7 +64,17 @@ F={
  '5_czechy': svg(f'<polygon points="{UPL}" fill="{WHITE}"/><polygon points="{LOR}" fill="{RED}"/>'+chalice(150,100,150,None,[(UPL,RED),(LOR,WHITE)])),
  # Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na czerwonej tarczy w złotej obwódce
  '6_mazowsze': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/>'
-                   f'<path d="M94,36 L206,36 L206,98 Q206,146 150,166 Q94,146 94,98Z" fill="{RED}" stroke="{GOLD}" stroke-width="3.5"/>'+eagle(MZE,150,98,112)),
+                   +mshield(MZE,GOLD)),
+ # Mazowsze, królestwo (po koronacji przez prymasa w Płocku): orzeł w koronie, „prawdziwa Polska”
+ '6a_mazowsze_krolestwo': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/>'+mshield(PLC,GOLD)),
+ # Mazowsze, teokracja katolicka (rządy prymasa): złoty pas w barwach papieskich, orzeł ze złotym krzyżem na piersi
+ '6b_mazowsze_teokracja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{GOLD}"/>'+mshield(MZK,WHITE)),
+ # Mazowsze, republika: czerwony panel przy drzewcu z orłem bez korony, reszta czerwono-biało-czerwona
+ '6c_mazowsze_republika': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/><rect width="110" height="200" fill="{RED}"/>'
+                              f'<rect x="110" width="3" height="200" fill="{WHITE}"/>'+eagle(MZE,55,100,120)),
+ # Mazowsze rewolucyjne: biały pas przez środek, w rogu gwiazda, orzeł bez korony i młot
+ '6d_mazowsze_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="132" width="300" height="20" fill="{WHITE}"/>'+star(46,17,9,WHITE)+eagle(MZE,46,64,80)
+                              +(lambda L:f'<g transform="translate(46,110) rotate(-90)"><image x="{-L*240/623/2:.1f}" y="{-L/2:.1f}" width="{L*240/623:.1f}" height="{L:.1f}" href="data:image/png;base64,{HAM}"/></g>')(52)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
