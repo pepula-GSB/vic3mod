@@ -42,6 +42,7 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [design/kalifornia.md](design/kalifornia.md) | Projekt łańcucha wydarzeń: wyzwolenie Kalifornii |
 | [maps/europa_1836.html](maps/europa_1836.html) | Interaktywna, schematyczna mapa Europy w 1836 roku (otwórz w przeglądarce) |
 | [maps/ameryka_polnocna_1836.html](maps/ameryka_polnocna_1836.html) | Interaktywna mapa Ameryki Północnej w 1836 roku |
+| [gfx_koncepty/flagi_luizjana/](gfx_koncepty/flagi_luizjana/) | Flagi Luizjany dla 8 ustrojów (koncepty) |
+| [gfx_koncepty/flagi_husyci/](gfx_koncepty/flagi_husyci/) | Flagi państw husyckich z kielichem (koncepty) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
-| gfx_koncepty/flagi_husyci/ | Flagi państw husyckich z kielichem (koncepty) |
