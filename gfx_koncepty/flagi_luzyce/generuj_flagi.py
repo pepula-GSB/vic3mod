@@ -38,13 +38,13 @@ def star(cx,cy,r,col,sw=0.6):
     p=[f"{cx+(r if i%2==0 else r*.4)*math.cos(math.radians(-90+i*36)):.2f},{cy+(r if i%2==0 else r*.4)*math.sin(math.radians(-90+i*36)):.2f}" for i in range(10)]
     return f'<polygon points="{" ".join(p)}" fill="{col}" stroke="#000" stroke-width="{sw}" stroke-linejoin="round"/>'
 def trojbarwa(): return f'<rect width="300" height="67" fill="{BLUE}"/><rect y="67" width="300" height="66" fill="{RED}"/><rect y="133" width="300" height="67" fill="{WHITE}"/>'
-SH='M100,26 L200,26 L200,104 Q200,154 150,174 Q100,154 100,104Z'
+SH='M94,40 L206,40 L206,102 Q206,146 150,164 Q94,146 94,102Z'
 def tarcza():
     # jedno pole: złoty mur Górnych Łużyc na błękicie, przed murem czerwony wół Dolnych Łużyc
     return (f'<defs><clipPath id="sh"><path d="{SH}"/></clipPath></defs>'
-            f'<g clip-path="url(#sh)"><rect x="96" y="20" width="108" height="160" fill="{BLUE}"/>'
-            f'{mur(96,128,108,52,rows=4,merlons=3,sw=1)}'
-            f'{wol(150,96,94)}</g>'
+            f'<g clip-path="url(#sh)"><rect x="90" y="30" width="120" height="150" fill="{BLUE}"/>'
+            f'{mur(90,110,120,60,rows=5,merlons=3,sw=1)}'
+            f'{wol(150,84,66)}</g>'
             f'<path d="{SH}" fill="none" stroke="{BLACK}" stroke-width="2.4"/>')
 
 F={
