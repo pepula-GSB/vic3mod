@@ -99,6 +99,7 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
   - **1569**: realna wyprawa na Astrachań i próba przekopania kanału Don–Wołga skończyły się porażką. Tu się udają,
   - Osmanowie zdobywają Astrachań, ujście Wołgi i dolny Don.
 - **Granica północna w 1836 roku**: Rostów nad Donem i Carycyn (Wołgograd) są osmańskie, a granica z Moskwą biegnie Wołgą aż do ujścia. Kaukaz Północny, Kubań, Kałmucja i Dagestan są osmańskie, podobnie Gruzja i Armenia jako wasale lub prowincje.
+- **Granica z Persją na Kaukazie biegnie Araksem**, czyli tam, gdzie realnie wyznaczył ją traktat turkmanczajski z 1828 roku. Tu jednak ziemie na północ od rzeki (Erywań, Szirwan, Baku, Karabach) zabrali Persji Osmanowie, a nie Rosjanie. Osmanowie trzymali Szirwan już realnie w latach 1578–1607. Persja Kadżarów chce je odzyskać i to jej główny rewanżyzm (journal entry „Ziemie za Araksem”). Ropa z Baku robi z tego sporu sprawę pierwszej wagi pod koniec XIX wieku.
 - Imperium kontroluje szlak handlowy z Persji i Azji Środkowej przez Wołgę i Kaukaz.
 - **W 1836 roku**: imperium bliskowschodnio-stepowe: środkowa i wschodnia Anatolia, Bliski Wschód, Egipt, Kaukaz oraz step pontyjsko-kaspijski, bez Bałkanów. Nie jest „chorym człowiekiem Europy”, raczej potęgą azjatycką z wyjściem nad Wołgę.
 
