@@ -17,3 +17,16 @@ Złoty gryf od autora moda, wycięty z błękitnej tarczy: [../emblematy/gryf_ob
 | obodryci_3_rewolucja | Obodryci rewolucyjni: czerwień, złoty gryf na środku, złota gwiazda w lewym górnym rogu, błękitny pas u dołu |
 
 Wyznanie Obodrytów nie jest jeszcze ustalone w lore, więc nie ma na razie wariantu teokratycznego.
+
+## Wieletia (Lucice, Rugia z Arkoną)
+
+Godło: kołowrót od autora moda, przerobiony na maskę barwioną w skrypcie ([../emblematy/kolowrot_maska.png](../emblematy/kolowrot_maska.png)). Podgląd jest w [wieletia_arkusz.png](wieletia_arkusz.png).
+
+**Uwaga przed publikacją:** kołowrót w tej formie to symbol XX-wiecznego rodzimowierstwa, a nie historyczny znak Wieletów. Używają go też skrajnie prawicowe grupy, więc Steam Workshop może zgłosić mod z takim symbolem, a w Niemczech grozi blokada. Na taki wypadek zapasowe godła to krąg słoneczny Swarożyca albo biały koń Świętowita.
+
+| Plik | Ustrój |
+|---|---|
+| wieletia_1_kaplani | Rządy kapłanów Radogoszczy i Arkony (start): biel z czerwonymi pasami, czerwony kołowrót |
+| wieletia_2_ksiestwo | Księstwo świeckie: czerwień, złoty kołowrót |
+| wieletia_3_republika | Republika: biel i czerwień dzielone pionowo, kołowrót w kontrbarwach |
+| wieletia_4_rewolucja | Wieletia rewolucyjna: czerwień z białym pasem, złota gwiazda w rogu, bez symbolu religijnego |
