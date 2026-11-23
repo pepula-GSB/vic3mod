@@ -7,6 +7,8 @@ MASK=base64.b64encode(open(os.path.join(HERE,'..','emblematy','kielich_maska_s.p
 MW,MH=300,581
 PLE=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_polski_kielich_s.png'),'rb').read()).decode()
 PLW,PLH=566,691
+MZE=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_mazowiecki_s.png'),'rb').read()).decode()
+def eagle(b64,cx,cy,h): w=h*PLW/PLH; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{b64}"/>'
 WHITE='#fbfaf6'; RED='#b3262b'; BLACK='#1b1a1a'; GOLD='#e2b53a'; BLUE='#1f4e8c'; YEL='#f2c230'
 
 def defs():
@@ -29,8 +31,8 @@ UPL='0,0 300,0 0,200'; LOR='300,0 300,200 0,200'   # podział w skos (od dolnego
 F={
  # chorągiew wojen husyckich: czerwony kielich na czerni; blok husycki albo rząd radykalny (taboryci)
  '1_liga_husycka': svg(f'<rect width="300" height="200" fill="{BLACK}"/>'+chalice(150,100,150,RED)),
- # Polska (Poznań): chorągiew królewska, biały orzeł w koronie z czerwonym kielichem na piersi
- '2_polska': svg(f'<rect width="300" height="200" fill="{RED}"/>'+(lambda h:f'<image x="{150-h*PLW/PLH/2:.1f}" y="{100-h/2:.1f}" width="{h*PLW/PLH:.1f}" height="{h:.1f}" href="data:image/png;base64,{PLE}"/>')(176)),
+ # Polska (Poznań): białe pionowe pasy po bokach, czerwień z orłem w koronie i czarno obrysowanym kielichem na piersi
+ '2_polska': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect x="62" width="176" height="200" fill="{RED}"/>'+eagle(PLE,150,100,170)),
  # Polska, wersja cywilna: biało-czerwona z małym kielichem przy drzewcu
  '2b_polska_cywilna': svg(bands(WHITE,RED)+chalice(52,50,74,RED)),
  # Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich
@@ -40,6 +42,9 @@ F={
  '4_pomorze': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="100" height="200" fill="{BLUE}"/>'+chalice(200,100,140,BLUE)),
  # Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach
  '5_czechy': svg(f'<polygon points="{UPL}" fill="{WHITE}"/><polygon points="{LOR}" fill="{RED}"/>'+chalice(150,100,150,None,[(UPL,RED),(LOR,WHITE)])),
+ # Mazowsze (katolickie, dla porównania): czerwień z białym pasem przez środek, orzeł bez korony na czerwonej tarczy
+ '6_mazowsze': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/>'
+                   f'<path d="M104,22 L196,22 L196,112 Q196,162 150,182 Q104,162 104,112Z" fill="{RED}" stroke="{WHITE}" stroke-width="4"/>'+eagle(MZE,150,98,128)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
