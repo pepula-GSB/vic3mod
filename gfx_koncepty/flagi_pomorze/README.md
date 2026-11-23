@@ -8,7 +8,7 @@ Pomorze Gryfitów: husyckie, kupieckie (Szczecin, Gdańsk), w bloku z Polską. P
 |---|---|
 | 1_ksiestwo | Księstwo (start, Gryfici): biel z niebieskim pasem morza u dołu, czerwony gryf |
 | 2_republika | Republika kupiecka (Hanza): niebieski pas przy drzewcu, gryf na bieli |
-| 3_teokracja | Teokracja husycka: czarny kielich przy drzewcu, gryf, czarny pas u dołu |
+| 3_teokracja | Teokracja husycka: jak księstwo z czarnym pasem u dołu, gryf trzyma w uniesionym szponie mały kielich |
 | 4_rewolucja | Pomorze rewolucyjne: czerwień, biały gryf, biała gwiazda, pas morza u dołu |
 
 Flaga z samym kielichem w [../flagi_husyci/](../flagi_husyci/) (`4_pomorze`) zostaje jako wersja „husycka” do zestawu bloku.

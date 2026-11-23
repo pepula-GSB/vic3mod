@@ -5,6 +5,7 @@ HERE=os.path.dirname(os.path.abspath(__file__))
 EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
 GR=b64('gryf.png'); GRW=b64('gryf_bialy.png'); GW,GH=340,384
+KRC=b64('kielich_czerwony_kontur.png'); KRW,KRH=89,162
 KM=b64('kielich_maska_s.png'); KW,KH=300,581
 WHITE='#fbfaf6'; BLUE='#1f4e8c'; RED='#c8102e'; BLACK='#111111'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
@@ -24,8 +25,9 @@ F={
  '1_ksiestwo': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLUE}"/>'+gryf(GR,150,84,140)),
  # Republika kupiecka (Szczecin, Gdańsk, Hanza): niebieski pas przy drzewcu, gryf na bieli
  '2_republika': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="90" height="200" fill="{BLUE}"/>'+gryf(GR,195,100,150)),
- # Teokracja husycka: biel z niebieskim pasem u dołu, gryf trzyma się kielicha (kielich czarny przy drzewcu)
- '3_teokracja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLACK}"/>'+chalice(66,84,120,BLACK)+gryf(GR,190,84,140)),
+ # Teokracja husycka: jak księstwo, ale pas u dołu czarny, a gryf trzyma w uniesionym szponie mały kielich
+ '3_teokracja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLACK}"/>'+gryf(GR,150,92,136)
+                    +(lambda h:f'<image x="{104-h*KRW/KRH/2:.1f}" y="{22-h/2:.1f}" width="{h*KRW/KRH:.1f}" height="{h:.1f}" href="data:image/png;base64,{KRC}"/>')(28)),
  # Pomorze rewolucyjne: czerwień, biały gryf, nad nim biała gwiazda w rogu
  '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="168" width="300" height="32" fill="{BLUE}"/><rect y="164" width="300" height="4" fill="{WHITE}"/>'+gryf(GRW,150,88,140)+star(40,36,16,WHITE)),
 }
