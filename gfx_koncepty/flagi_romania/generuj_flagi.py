@@ -1,0 +1,39 @@
+"""Flagi Cesarstwa Bułgarsko-Romejskiego (koncepty). Uruchom z katalogu repo:
+python3 gfx_koncepty/flagi_romania/generuj_flagi.py
+Łączy romejski krzyż z czterema krzesiwami (tetragrammatyczny, Paleologowie) z bułgarską tamgą IYI rodu Dulo."""
+import base64, os, subprocess, math
+HERE=os.path.dirname(os.path.abspath(__file__))
+EMB=os.path.join(HERE,'..','emblematy')
+def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
+KRZ=b64('krzesiwo_bizantyjskie_maska.png'); KW,KH=676,908
+RED='#b0001a'; GOLD='#fdc70f'
+def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
+_n=[0]
+def krzesiwo(cx,cy,h,col,flip=False):
+    _n[0]+=1; mid=f"kz{_n[0]}"; w=h*KW/KH
+    t=f' transform="translate({2*cx},0) scale(-1,1)"' if flip else ''
+    return (f'<defs><mask id="{mid}" maskUnits="userSpaceOnUse" x="-300" y="0" width="900" height="200"><g{t}><image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{KRZ}"/></g></mask></defs>'
+            f'<rect width="300" height="200" fill="{col}" mask="url(#{mid})"/>')
+def iyi(cx,cy,w,col):
+    """Tamga IYI: trzy pionowe belki złączone u dołu."""
+    h=w*0.453; bw=w*0.176; bb=h*0.31; x0=cx-w/2; y0=cy-h/2
+    d=(f'M{x0:.2f},{y0:.2f} h{bw:.2f} v{h-bb:.2f} h{(w-3*bw)/2:.2f} v{-(h-bb):.2f} h{bw:.2f} v{h-bb:.2f} h{(w-3*bw)/2:.2f} v{-(h-bb):.2f} h{bw:.2f} v{h:.2f} h{-w:.2f}Z')
+    return f'<path d="{d}" fill="{col}"/>'
+def star(cx,cy,r,col):
+    p=[f"{cx+(r if i%2==0 else r*.4)*math.cos(math.radians(-90+i*36)):.2f},{cy+(r if i%2==0 else r*.4)*math.sin(math.radians(-90+i*36)):.2f}" for i in range(10)]
+    return f'<polygon points="{" ".join(p)}" fill="{col}"/>'
+def tetragram(center=''):
+    return (f'<rect width="300" height="200" fill="{RED}"/><rect x="133" width="34" height="200" fill="{GOLD}"/><rect y="82" width="300" height="36" fill="{GOLD}"/>'
+            +krzesiwo(65,37,57,GOLD)+krzesiwo(65,163,57,GOLD)+krzesiwo(234,37,57,GOLD,True)+krzesiwo(234,163,57,GOLD,True)+center)
+
+F={
+ # Cesarstwo (start): romejski krzyż z krzesiwami, na skrzyżowaniu czerwona tamga IYI
+ '1_cesarstwo': svg(tetragram(iyi(150,100,26,RED))),
+ # Republika: złoto z dużą czerwoną tamgą IYI (bułgarski znak ludowy, bez cesarskich krzesiw)
+ '2_republika': svg(f'<rect width="300" height="200" fill="{GOLD}"/>'+iyi(150,102,204,RED)),
+ # Rewolucja: czerwień, złota tamga IYI, nad nią złota gwiazda
+ '3_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/>'+iyi(150,122,150,GOLD)+star(150,50,24,GOLD)),
+}
+for k,v in F.items():
+    p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
+    subprocess.run(['rsvg-convert','-w','600','-h','400',p,'-o',p[:-4]+'.png'],check=True)
