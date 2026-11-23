@@ -25,6 +25,7 @@
 - **XV wiek**: Polska (Poznań) przyjmuje husycki kościół narodowy. Mazowsze zostaje katolickie i przyjmuje uciekającego prymasa. Wojny husyckie na ziemiach polskich przekreślają zjednoczenie i utrwalają podział na Polskę i Mazowsze. Wschód Polski (Lublin, Przemyśl) zostaje katolicki.
 - Osmanowie rosną w Anatolii, ale Cesarstwo Bułgarsko-Romejskie trzyma cieśniny. **Konstantynopol nie upada w 1453 roku**, więc nie powstaje idea Trzeciego Rzymu.
 - Moskwa jako poborca Złotej Ordy staje się zdecentralizowanym, rusko-tatarskim dziedzicem chanów, a jej wschód się islamizuje.
+- **1517–1520**: Osmanowie podbijają Egipt mameluków i przenoszą stolicę z Bursy do **Adany**, na zawias między Anatolią a światem arabskim.
 - **1569**: Osmanowie zdobywają Astrachań i budują kanał Don–Wołga (realnie ta wyprawa się nie udała). Granica z Moskwą biegnie odtąd na Wołdze.
 - Dania wykupuje Orkady i Szetlandy (zastawione w 1468–1469 roku).
 - **1477**: Maksymilian żeni się z Marią Burgundzką i Habsburgowie przenoszą centrum do Brukseli. Królestwo Burgundii.

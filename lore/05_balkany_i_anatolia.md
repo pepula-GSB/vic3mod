@@ -85,6 +85,12 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 ## Imperium Osmańskie
 - Anatolia jak realnie: Seldżucy, Mongołowie, bejlikaty, Osmanowie.
 - Zablokowane w Europie, więc środek ciężkości leży w Azji: Egipt (ściślej kontrolowany, Muhammad Ali mniej samodzielny), Lewant, Mezopotamia, Arabia, rywalizacja z Persją, Ocean Indyjski.
+- **Stolica: Adana** (od ok. 1520 roku).
+  - **Przyczyna**: realnie Adana była stolicą bejlikatu Ramazanidów, wasali mameluków. Osmanowie przejęli ją w 1517 roku przy podboju Egiptu. Tu, po tym podboju, sułtan przenosi tam dwór, bo środek ciężkości państwa leży już za Taurusem, a Bursa naprzeciw bizantyjskiego Konstantynopola jest stolicą na linii frontu.
+  - **Zawias imperium**: Bramy Cylicyjskie w Taurusie prowadzą na Konyę i Anatolię, a Bramy Syryjskie na Aleppo, Mezopotamię i Egipt. Porty Mersin, Ajas i Aleksandretta dają najkrótszą drogę morską do Egiptu i Lewantu.
+  - **Bawełna**: równina Czukurowa to żyzny rdzeń imperium. W czasie „głodu bawełny”, gdy zabraknie dostaw z Luizjany, Adana może się wzbogacić.
+  - **Słabość**: malaryczne bagna Czukurowy. Osuszanie ich to wątek modernizacyjny albo wydarzenie z epidemią.
+  - **Bursa** zostaje świętym miastem dynastii, z grobami pierwszych sułtanów. Patrzy na Konstantynopol, którego Osmanowie nigdy nie zdobyli.
 - **Kierunek północny**: zablokowani na Bałkanach, Osmanowie idą przez Kaukaz i Morze Czarne (porty Synopa i Trapezunt) na step:
   - Azow (realnie osmański w latach 1475–1696) i Chanat Krymski jako wasal,
   - **1569**: realna wyprawa na Astrachań i próba przekopania kanału Don–Wołga skończyły się porażką. Tu się udają,
