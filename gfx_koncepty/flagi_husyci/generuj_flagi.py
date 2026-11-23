@@ -26,6 +26,10 @@ def chalice(cx,cy,h,col,parts=None):
     if not parts:
         return m+f'<rect width="300" height="200" fill="{col}" mask="url(#{mid})"/>'
     return m+f'<g mask="url(#{mid})">'+''.join(f'<polygon points="{pts}" fill="{c}"/>' for pts,c in parts)+'</g>'
+import math
+def star(cx,cy,r,col):
+    p=[f"{cx+(r if i%2==0 else r*.4)*math.cos(math.radians(-90+i*36)):.2f},{cy+(r if i%2==0 else r*.4)*math.sin(math.radians(-90+i*36)):.2f}" for i in range(10)]
+    return f'<polygon points="{" ".join(p)}" fill="{col}"/>'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def bands(top,bot): return f'<rect width="300" height="100" fill="{top}"/><rect y="100" width="300" height="100" fill="{bot}"/>'
 
@@ -41,9 +45,9 @@ F={
  # Polska, teokracja husycka (rządy duchowieństwa): czarne pasy jak chorągiew husycka, duży złoty kielich
  '2c_polska_teokracja': svg(f'<rect width="300" height="200" fill="{BLACK}"/><rect x="62" width="176" height="200" fill="{RED}"/>'
                             +(lambda h:f'<image x="{150-h*222/416/2:.1f}" y="{100-h/2:.1f}" width="{h*222/416:.1f}" height="{h:.1f}" href="data:image/png;base64,{KGO}"/>')(150)),
- # Polska, rewolucyjna/radykalna (taboryci, komuna): czerwień, mały orzeł bez korony w kantonie, pod nim młot
+ # Polska, rewolucyjna/radykalna (taboryci, komuna): czerwień, mały orzeł bez korony w kantonie, nad nim gwiazda, pod nim młot
  '2d_polska_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect width="300" height="200" fill="none" stroke="{WHITE}" stroke-width="0"/>'
-                            f'<rect y="150" width="300" height="14" fill="{WHITE}"/>'+eagle(PLR,46,54,86)+(lambda L:f'<g transform="translate(46,103) rotate(-90)"><image x="{-L*240/623/2:.1f}" y="{-L/2:.1f}" width="{L*240/623:.1f}" height="{L:.1f}" href="data:image/png;base64,{HAM}"/></g>')(52)),
+                            f'<rect y="150" width="300" height="14" fill="{WHITE}"/>'+star(46,17,9,WHITE)+eagle(PLR,46,64,80)+(lambda L:f'<g transform="translate(46,110) rotate(-90)"><image x="{-L*240/623/2:.1f}" y="{-L/2:.1f}" width="{L*240/623:.1f}" height="{L:.1f}" href="data:image/png;base64,{HAM}"/></g>')(52)),
  # Polska, wersja cywilna: biało-czerwona z małym kielichem przy drzewcu
  '2b_polska_cywilna': svg(bands(WHITE,RED)+chalice(52,50,74,RED)),
  # Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich
