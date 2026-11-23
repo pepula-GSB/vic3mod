@@ -9,4 +9,4 @@ Czechy praskich Przemyślidów: husyckie lenno Moraw, rywal Welehradu w koronie 
 | 1_ksiestwo | Księstwo (start, Przemyślidzi): lwy na czerwieni, orły św. Wacława na bieli |
 | 2_republika | Republika: ta sama szachownica, same lwy (orzeł św. Wacława to znak dynastii) |
 | 3_teokracja | Teokracja husycka: lwy na czerwieni, białe pola zamienione na czarne z białym kielichem |
-| 4_rewolucja | Czechy rewolucyjne: szachownica z gwiazdami w kontrbarwach |
+| 4_rewolucja | Czechy rewolucyjne: pięć poziomych pasów czerwono-białych, złota gwiazda na środku |
