@@ -72,9 +72,10 @@ F={
  # Mazowsze, republika: czerwony panel przy drzewcu z orłem bez korony, reszta czerwono-biało-czerwona
  '6c_mazowsze_republika': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/><rect width="110" height="200" fill="{RED}"/>'
                               f'<rect x="110" width="3" height="200" fill="{WHITE}"/>'+eagle(MZE,55,100,120)),
- # Mazowsze rewolucyjne: biały pas przez środek, w rogu gwiazda, orzeł bez korony i młot
- '6d_mazowsze_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="132" width="300" height="20" fill="{WHITE}"/>'+star(46,17,9,WHITE)+eagle(MZE,46,64,80)
-                              +(lambda L:f'<g transform="translate(46,110) rotate(-90)"><image x="{-L*240/623/2:.1f}" y="{-L/2:.1f}" width="{L*240/623:.1f}" height="{L:.1f}" href="data:image/png;base64,{HAM}"/></g>')(52)),
+ # Mazowsze rewolucyjne: pasy czerwono-biało-czerwone zostają, na środku czerwone koło w białym pierścieniu z gwiazdą i orłem bez korony
+ '6d_mazowsze_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="76" width="300" height="48" fill="{WHITE}"/>'
+                              f'<circle cx="150" cy="100" r="66" fill="{WHITE}"/><circle cx="150" cy="100" r="60" fill="{RED}"/>'
+                              +star(150,56,10,WHITE)+eagle(MZE,150,110,84)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
