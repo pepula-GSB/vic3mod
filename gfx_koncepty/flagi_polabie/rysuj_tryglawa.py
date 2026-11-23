@@ -24,6 +24,11 @@ def head_profile(cx,cy,d):
     must=f'<path d="M{X(-17)},{cy+21} Q{X(-8)},{cy+20} {X(-4)},{cy+28} Q{X(-10)},{cy+25} {X(-17)},{cy+25}Z" fill="{K}"/>'
     strands=''.join(f'<path d="M{X(dx)},{cy-6+ (dx+12)*0.5:.1f} Q{X(dx+3)},{cy-20} {X(dx*0.6)},{cy-30}" stroke="{K}" stroke-width="1.1" fill="none"/>' for dx in (-14,-6,2,10))
     return hair+strands+face+eye+must
+def neck(cx,top,bot,wt,wb):
+    return (f'<path d="M{cx-wt},{top} L{cx-wb},{bot} L{cx+wb},{bot} L{cx+wt},{top}Z" fill="{W}"/>'
+            f'<path d="M{cx-wt},{top} Q{cx-wt-1},{(top+bot)/2} {cx-wb},{bot} M{cx+wt},{top} Q{cx+wt+1},{(top+bot)/2} {cx+wb},{bot}" stroke="{K}" stroke-width="{sw}" fill="none"/>')
+def necks():
+    return neck(100,110,134,8,11)+neck(58,118,140,7,11)+neck(142,118,140,7,11)
 def body():
     m=f'<path d="M34,232 L36,150 Q44,124 100,122 Q156,124 164,150 L166,232Z" fill="{W}" stroke="{K}" stroke-width="{sw}"/>'
     fold=f'<path d="M100,140 L100,232 M70,140 L62,232 M130,140 L138,232" stroke="{K}" stroke-width="1.6" fill="none"/>'
@@ -41,9 +46,8 @@ def nimbus_rays():
         rays+=f'<line x1="{100+r1*ca:.1f}" y1="{104+r1*sa:.1f}" x2="{100+r2*ca:.1f}" y2="{104+r2*sa:.1f}" stroke="{G}" stroke-width="3" stroke-linecap="round"/>'
     return rays
 body_svg=(f'<defs><clipPath id="c"><path d="{S}"/></clipPath></defs><path d="{S}" fill="{RED}"/>'
-          f'<g clip-path="url(#c)">{nimbus_rays()}{body()}'
-          f'<rect x="50" y="120" width="14" height="16" fill="{W}" stroke="{K}" stroke-width="{sw}"/><rect x="136" y="120" width="14" height="16" fill="{W}" stroke="{K}" stroke-width="{sw}"/><rect x="92" y="114" width="16" height="18" fill="{W}" stroke="{K}" stroke-width="{sw}"/>'
-          f'{head_profile(58,90,-1)}{head_profile(142,90,1)}{head_front(100,80)}</g>'
+          f'<g clip-path="url(#c)">{nimbus_rays()}{necks()}{body()}'
+          f'{head_profile(58,90,1)}{head_profile(142,90,-1)}{head_front(100,80)}</g>'
           f'<path d="{S}" fill="none" stroke="{K}" stroke-width="4"/>')
 svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 242" width="800" height="968">{body_svg}</svg>'
 open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"..","emblematy","tryglaw_herb.svg"),"w").write(svg)
