@@ -16,7 +16,9 @@ Płaskie flagi wektorowe 3:2 (SVG 1536×1024) dla ośmiu form rządu Luizjany i 
 
 **Liść tytoniu** (flaga 8, złoty liść, żyłki wycięte w kolorze tła, ogonek cienkim złotym konturem): [lisc_tytoniu.png](../emblematy/lisc_tytoniu.png), od autora moda.
 
-Kotwica z młotem to na razie prosta sylwetka wektorowe do podmiany na ilustracje w tym samym stylu.
+**Kotwica i młot** (flaga 7, białe sylwetki skrzyżowane pod kątem prostym, młot oddzielony od kotwicy czerwoną obwódką): [kotwica.png](../emblematy/kotwica.png), [mlot.png](../emblematy/mlot.png), od autora moda. Kotwica ma małe źródło (powiększona 6×), więc do finalnego DDS przyda się większa.
+
+Wszystkie godła są już z ilustracji; w kodzie zostały tylko tła, pasy, gwiazdy, fala i napis.
 
 | Plik | Ustrój |
 |---|---|
