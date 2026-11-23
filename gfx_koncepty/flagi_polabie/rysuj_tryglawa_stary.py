@@ -50,4 +50,4 @@ body_svg=(f'<defs><clipPath id="c"><path d="{S}"/></clipPath></defs><path d="{S}
           f'{head_profile(58,90,1)}{head_profile(142,90,-1)}{head_front(100,80)}</g>'
           f'<path d="{S}" fill="none" stroke="{K}" stroke-width="4"/>')
 svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 242" width="800" height="968">{body_svg}</svg>'
-open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"..","emblematy","tryglaw_herb.svg"),"w").write(svg)
+open(__import__("os").path.join(__import__("os").path.dirname(__import__("os").path.abspath(__file__)),"..","emblematy","tryglaw_szkic.svg"),"w").write(svg)

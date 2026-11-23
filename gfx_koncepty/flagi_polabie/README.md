@@ -2,9 +2,9 @@
 
 ## Stodorania: herb z Trygławem
 
-[../emblematy/tryglaw_herb.png](../emblematy/tryglaw_herb.png) (źródło SVG obok): trójgłowy Trygław na czerwonej tarczy, z promienistą aureolą, złotymi włosami „pod garnek”, wąsami i białym płaszczem spiętym złotą zaponą. Kult Trygława był ośrodkiem Brenny (Brandenburga), stolicy Stodoran, więc pasuje jako godło Stodoranii.
+[../emblematy/tryglaw_herb.png](../emblematy/tryglaw_herb.png): trójgłowy Trygław na czerwonej tarczy w złotej obwódce. Boczne głowy są z profilu, środkowa en face, za nimi złota promienista aureola, a niżej biały płaszcz spięty złotą zaponą. Kult Trygława był ośrodkiem Brenny (Brandenburga), stolicy Stodoran.
 
-Herb jest **narysowany od zera** wektorowo skryptem [rysuj_tryglawa.py](rysuj_tryglawa.py), w płaskim stylu heraldycznym. Nie korzysta z żadnej cudzej ilustracji, więc można go swobodnie publikować razem z modem.
+Wersja od autora moda, oparta na naszym szkicu. Uproszczona do płaskich barw heraldycznych (czerwień, złoto, kremowa biel i czerń, bez faktury i cieniowania), żeby dobrze wyglądała w małym rozmiarze w grze. Pierwszy, wektorowy szkic generuje [rysuj_tryglawa_stary.py](rysuj_tryglawa_stary.py).
 
 ## Obodryci (Meklemburgia, Niklotowice, Liubice)
 
