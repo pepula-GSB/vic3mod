@@ -9,6 +9,7 @@ PLE=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_polski_kieli
 PLW,PLH=566,691
 PLR=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_polski_bez_korony_kielich_s.png'),'rb').read()).decode()
 KGO=base64.b64encode(open(os.path.join(HERE,'..','emblematy','kielich_zloty_kontur.png'),'rb').read()).decode()
+HAM=base64.b64encode(open(os.path.join(HERE,'..','emblematy','mlot_s.png'),'rb').read()).decode()
 MZE=base64.b64encode(open(os.path.join(HERE,'..','emblematy','orzel_mazowiecki_s.png'),'rb').read()).decode()
 def eagle(b64,cx,cy,h): w=h*PLW/PLH; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{b64}"/>'
 WHITE='#fbfaf6'; RED='#b3262b'; BLACK='#1b1a1a'; GOLD='#e2b53a'; BLUE='#1f4e8c'; YEL='#f2c230'
@@ -40,9 +41,9 @@ F={
  # Polska, teokracja husycka (rządy duchowieństwa): czarne pasy jak chorągiew husycka, duży złoty kielich
  '2c_polska_teokracja': svg(f'<rect width="300" height="200" fill="{BLACK}"/><rect x="62" width="176" height="200" fill="{RED}"/>'
                             +(lambda h:f'<image x="{150-h*222/416/2:.1f}" y="{100-h/2:.1f}" width="{h*222/416:.1f}" height="{h:.1f}" href="data:image/png;base64,{KGO}"/>')(150)),
- # Polska, rewolucyjna/radykalna (taboryci, komuna): czerwień, mały orzeł bez korony w kantonie
+ # Polska, rewolucyjna/radykalna (taboryci, komuna): czerwień, mały orzeł bez korony w kantonie, pod nim młot
  '2d_polska_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect width="300" height="200" fill="none" stroke="{WHITE}" stroke-width="0"/>'
-                            f'<rect y="150" width="300" height="14" fill="{WHITE}"/>'+eagle(PLR,46,58,92)),
+                            f'<rect y="150" width="300" height="14" fill="{WHITE}"/>'+eagle(PLR,46,54,86)+(lambda L:f'<g transform="translate(46,103) rotate(-90)"><image x="{-L*240/623/2:.1f}" y="{-L/2:.1f}" width="{L*240/623:.1f}" height="{L:.1f}" href="data:image/png;base64,{HAM}"/></g>')(52)),
  # Polska, wersja cywilna: biało-czerwona z małym kielichem przy drzewcu
  '2b_polska_cywilna': svg(bands(WHITE,RED)+chalice(52,50,74,RED)),
  # Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich

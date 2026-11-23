@@ -11,7 +11,7 @@ Kielich husycki (komunia pod dwiema postaciami) jako wspólny znak państw kośc
 | 2a_polska_republika | Polska, republika: ten sam układ, orzeł bez korony |
 | 2b_polska_cywilna | Polska, wersja cywilna: biało-czerwona, mały czerwony kielich przy drzewcu |
 | 2c_polska_teokracja | Polska, teokracja husycka: czarne pasy jak chorągiew husycka, duży złoty kielich |
-| 2d_polska_rewolucja | Polska rewolucyjna (taboryci, komuna): czerwień z białym pasem u dołu, mały orzeł bez korony w rogu |
+| 2d_polska_rewolucja | Polska rewolucyjna (taboryci, komuna): czerwień z białym pasem u dołu, mały orzeł bez korony w rogu, pod nim młot |
 | 3_morawy | Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich |
 | 4_pomorze | Pomorze (Gryfici): niebieski pas przy drzewcu, niebieski kielich na bieli |
 | 5_czechy | Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach |
