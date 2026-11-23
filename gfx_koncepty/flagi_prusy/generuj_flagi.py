@@ -5,6 +5,7 @@ HERE=os.path.dirname(os.path.abspath(__file__))
 EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
 PRUS=b64('prus_s.png'); PW,PH=400,537
+PRB=b64('prus_bialy_s.png'); PBW,PBH=300,413
 BLACK='#000000'; WHITE='#ffffff'; RED='#d40000'; GOLD='#e2b53a'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def prus(cx,cy,h): w=h*PW/PH; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{PRUS}"/>'
@@ -23,8 +24,10 @@ def cross(cx,cy,h,col):
 F={
  # Księstwo (start): wzór od autora moda
  '1_ksiestwo': svg(bands()+shield()+prus(150,96,84)),
- # Republika: same pasy, bez godła
- '2_republika': svg(bands()),
+ # Republika: same pasy, na czerwonym pasie biały, konturowy Prus (bez tarczy)
+ '2_republika': svg(bands()+(lambda h:f'<image x="{150-h*PBW/PBH/2:.1f}" y="{100-h/2:.1f}" width="{h*PBW/PBH:.1f}" height="{h:.1f}" href="data:image/png;base64,{PRB}"/>')(54)),
+ # Republika, wariant bez godła
+ '2b_republika_bez_godla': svg(bands()),
  # Teokracja katolicka (biskupi warmińscy z Fromborka): środkowy pas złoty, nad tarczą złoty krzyż
  '3_teokracja': svg(bands(GOLD)+shield()+prus(150,100,80)+cross(150,30,30,GOLD)),
  # Prusy rewolucyjne: czerwień, u dołu czarny pas z białą lamówką, w środku czarna gwiazda w białym obrysie
