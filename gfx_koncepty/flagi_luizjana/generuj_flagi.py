@@ -134,7 +134,16 @@ F['1_oligarchia']=svg(bands+''.join(fleur(33,y,.55,GOLD) for y in (48,103,158))+
 F['2_demokracja']=svg(bands+''.join(star(150+60*math.cos(math.radians(a)),112+60*math.sin(math.radians(a)),6.5,GOLD) for a in range(-162,-10,19))+pelimg(150,116,104))
 F['3_konsulat']=svg(bands+f'<rect x="66" width="5" height="200" fill="{GOLD}"/><rect x="229" width="5" height="200" fill="{GOLD}"/>'+laurelimg(150,104,64,GREEN)+eagimg(150,104,96))
 F['4_cesarstwo']=svg(f'<rect width="300" height="200" fill="{PURPLE}"/>'+laurelimg(150,113,66,GOLD)+eagimg(150,105,86)+crownimp(150,48,46)+''.join(beeimg(x,y,30) for x,y in ((30,30),(270,30),(30,170),(270,170))))
-sem=''.join(fleur(x,y,.36,GOLD) for x in range(25,300,42) for y in range(24,200,42) if not (100<x<200 and y<180))
+def _shield_hw(y):
+    # połowa szerokości tarczy z koroną na wysokości y (do omijania przez semé)
+    if y<4: return 0
+    if y<58: return 38          # korona
+    if y<=118: return 42        # prosta część tarczy
+    if y<=176: return 42*(1-((y-118)/58)**2)
+    return 0
+def _free(x,y,m=13):
+    return all(abs(x-150) > _shield_hw(yy)+m for yy in (y-13,y,y+13))
+sem=''.join(fleur(x,y,.36,GOLD) for r,y in enumerate(range(20,200,40)) for x in (range(22,300,43) if r%2==0 else range(43,290,43)) if _free(x,y))
 F['5_burbonowie']=svg(f'<rect width="300" height="200" fill="{BLUE}"/>{sem}<path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="{WHITE}"/><path d="M108,52 L192,52 L192,118 Q192,162 150,176 Q108,162 108,118Z" fill="none" stroke="{GOLD}" stroke-width="3"/>'+pelimg(150,106,78)+crownimg(150,58,70))
 F['6_wolna']=svg(f'<rect width="300" height="100" fill="{BLUE}"/><rect y="100" width="300" height="100" fill="{RED}"/>'+wave(100,WHITE,12)+palmimg(150,172,142)+ring_text(150,106,84,80,"NUL N'EST ESCLAVE","EN LOUISIANE",WHITE,fs=12.5,ls=1.6))
 F['7_komuna']=svg(f'<rect width="300" height="100" fill="{RED}"/><rect y="100" width="300" height="100" fill="{BLUE}"/>'+wave(100,WHITE,12)+anchor_hammer_img(50,50,WHITE,h=60,o=0.15,mir=True))
