@@ -4,6 +4,8 @@ import base64, os, subprocess, math
 HERE=os.path.dirname(os.path.abspath(__file__))
 EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
+TRY=b64('tryglaw_herb_s.png'); TW,TH=400,438
+TG='#ecb22e'; TR='#c8101c'  # złoto i czerwień z herbu Trygława
 KOL=b64('kolowrot_maska_s.png')
 GO=b64('gryf_obodrzycki.png'); GOW,GOH=332,410
 BLUE='#1d6091'; GOLD='#f2b84b'; WHITE='#fbfaf6'; RED='#c8102e'
@@ -35,6 +37,14 @@ F={
                             +f'<g clip-path="url(#lw)">{kolowrot(150,100,130,RED)}</g><g clip-path="url(#pw)">{kolowrot(150,100,130,WHITE).replace("kol150100","kol150100b")}</g>'),
  # Wieletia rewolucyjna: czerwień, biały pas u dołu, złota gwiazda w rogu (bez symbolu religijnego)
  'wieletia_4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="160" width="300" height="16" fill="{WHITE}"/>'+star(46,46,26,GOLD).replace('/>',' stroke="#000000" stroke-width="0.6" stroke-linejoin="round"/>')),
+ # Stodorania, księstwo (start, Brenna): czerwień ze złotymi pasami u góry i dołu, herb z Trygławem
+ 'stodorania_1_ksiestwo': svg(f'<rect width="300" height="200" fill="{TR}"/><rect width="300" height="16" fill="{TG}"/><rect y="184" width="300" height="16" fill="{TG}"/>'+img(TRY,TW,TH,150,100,150)),
+ # Stodorania, republika: czerwień ze złotym pasem przez środek, bez godła
+ 'stodorania_2_republika': svg(f'<rect width="300" height="200" fill="{TR}"/><rect y="80" width="300" height="40" fill="{TG}"/>'),
+ # Stodorania, rządy kapłanów Trygława: złote pole, herb na środku
+ 'stodorania_3_kaplani': svg(f'<rect width="300" height="200" fill="{TG}"/>'+img(TRY,TW,TH,150,100,164)),
+ # Stodorania rewolucyjna: czerwień, trzy złote gwiazdy w rzędzie (trzy głowy Trygława bez bóstwa)
+ 'stodorania_4_rewolucja': svg(f'<rect width="300" height="200" fill="{TR}"/>'+star(92,100,24,TG)+star(150,100,24,TG)+star(208,100,24,TG)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
