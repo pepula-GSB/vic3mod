@@ -37,7 +37,7 @@ F={
  '5_polski_kandydat': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect x="62" width="176" height="200" fill="{GOLD}"/>'
                           f'<rect x="62" y="186" width="176" height="14" fill="{RED}"/>'+img(BLK,BW,BH,150,96,168)),
  # Śląsk rewolucyjny (górnicy i hutnicy Górnego Śląska): górnicza zieleń nad czernią, żółte skrzyżowane młotki, nad nimi czerwona gwiazda
- '6_rewolucja': svg(f'<rect width="300" height="100" fill="#0f9a2e"/><rect y="100" width="300" height="100" fill="{BLACK}"/>'
+ '6_rewolucja': svg(f'<rect width="300" height="100" fill="#1e6a3c"/><rect y="100" width="300" height="100" fill="{BLACK}"/>'
                     +img(MG,MGW,MGH,150,118,96)+star(150,44,26,'#d81e1e')),
  # Teokracja husycka (Śląsk jest husyckim lennem Moraw): złoto nad czernią, kielich w kontrbarwach
  '7_teokracja': svg(f'<rect width="300" height="100" fill="{GOLD}"/><rect y="100" width="300" height="100" fill="{BLACK}"/>'
