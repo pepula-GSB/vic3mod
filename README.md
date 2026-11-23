@@ -46,5 +46,6 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [gfx_koncepty/flagi_husyci/](gfx_koncepty/flagi_husyci/) | Flagi państw husyckich z kielichem (koncepty) |
 | [gfx_koncepty/flagi_slask/](gfx_koncepty/flagi_slask/) | Flagi Śląska dla wyników bezkrólewia (koncepty) |
 | [gfx_koncepty/flagi_prusy/](gfx_koncepty/flagi_prusy/) | Flagi Księstwa Pruskiego (koncepty) |
+| [gfx_koncepty/flagi_pomorze/](gfx_koncepty/flagi_pomorze/) | Flagi Księstwa Pomorskiego (koncepty) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
