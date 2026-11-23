@@ -8,7 +8,10 @@ Kielich husycki (komunia pod dwiema postaciami) jako wspólny znak państw kośc
 |---|---|
 | 1_liga_husycka | Chorągiew husycka (czerwony kielich na czerni): blok husycki albo rząd radykalny |
 | 2_polska | Polska (Poznań): białe pionowe pasy po bokach, czerwień z orłem w koronie i kielichem (czarny kontur) na piersi |
+| 2a_polska_republika | Polska, republika: ten sam układ, orzeł bez korony |
 | 2b_polska_cywilna | Polska, wersja cywilna: biało-czerwona, mały czerwony kielich przy drzewcu |
+| 2c_polska_teokracja | Polska, teokracja husycka: czarne pasy jak chorągiew husycka, duży złoty kielich |
+| 2d_polska_rewolucja | Polska rewolucyjna (taboryci, komuna): czerwień z białym pasem u dołu, mały orzeł bez korony w rogu |
 | 3_morawy | Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich |
 | 4_pomorze | Pomorze (Gryfici): niebieski pas przy drzewcu, niebieski kielich na bieli |
 | 5_czechy | Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach |
@@ -17,3 +20,5 @@ Kielich husycki (komunia pod dwiema postaciami) jako wspólny znak państw kośc
 Do Vic3 kielich idzie jako emblemat (DDS z maską), a pasy i kolory w skrypcie herbowym.
 
 **Orzeł polski** (średniowieczna stylizacja, koronowany) od autora moda, wycięty z tarczy: [../emblematy/orzel_polski.png](../emblematy/orzel_polski.png), z kielichem: [../emblematy/orzel_polski_kielich.png](../emblematy/orzel_polski_kielich.png). Mazowsze ma tego samego orła bez korony ([../emblematy/orzel_mazowiecki.png](../emblematy/orzel_mazowiecki.png)) (orzeł mazowiecki był niekoronowany, w odróżnieniu od królewskiego). Licencję obrazka sprawdzić przed publikacją.
+
+Porównanie wariantów Polski: [polska_warianty.png](polska_warianty.png).
