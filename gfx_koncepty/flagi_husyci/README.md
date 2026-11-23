@@ -7,9 +7,9 @@ Kielich husycki (komunia pod dwiema postaciami) jako wspólny znak państw kośc
 | Plik | Państwo / użycie |
 |---|---|
 | 1_liga_husycka | Chorągiew husycka (czerwony kielich na czerni): blok husycki albo rząd radykalny |
-| 2_polska | Polska (Poznań): biało-czerwona, kielich w kontrbarwach |
-| 3_morawy | Morawy: żółto-czerwona, kielich w kontrbarwach |
-| 4_pomorze | Pomorze (Gryfici): biało-niebieska, kielich w kontrbarwach |
-| 5_czechy | Czechy: biały kielich na czerwieni |
+| 2_polska | Polska (Poznań): biało-czerwona, mały czerwony kielich w białym polu przy drzewcu |
+| 3_morawy | Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich |
+| 4_pomorze | Pomorze (Gryfici): niebieski pas przy drzewcu, niebieski kielich na bieli |
+| 5_czechy | Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach |
 
 Do Vic3 kielich idzie jako emblemat (DDS z maską), a pasy i kolory w skrypcie herbowym.

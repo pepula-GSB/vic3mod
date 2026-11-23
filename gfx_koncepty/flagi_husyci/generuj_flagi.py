@@ -11,30 +11,31 @@ def defs():
     return (f'<defs><mask id="k" maskUnits="userSpaceOnUse" x="0" y="0" width="300" height="200">'
             f'<image id="kimg" x="0" y="0" width="0" height="0" href="data:image/png;base64,{MASK}"/></mask></defs>')
 
-def chalice(cx,cy,h,col_top,col_bot=None,split=None):
-    """Kielich wysokości h; col_bot+split = kontrbarwa (powyżej split kolor col_top, poniżej col_bot)."""
-    w=h*MW/MH; x=cx-w/2; y=cy-h/2
+def chalice(cx,cy,h,col,parts=None):
+    """Kielich wysokości h w kolorze col; parts=[(wielokąt_punkty, kolor), ...] daje kontrbarwy dowolnie podzielone."""
+    w=h*MW/MH; x=cx-w/2; y=cy-h/2; mid=f"km{cx}_{cy}_{h}".replace('.','_')
     img=f'<image x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{MASK}"/>'
-    m=f'<defs><mask id="km{cx}{cy}" maskUnits="userSpaceOnUse">{img}</mask></defs>'
-    if col_bot is None:
-        return m+f'<rect width="300" height="200" fill="{col_top}" mask="url(#km{cx}{cy})"/>'
-    return (m+f'<rect width="300" height="{split}" fill="{col_top}" mask="url(#km{cx}{cy})"/>'
-             f'<rect y="{split}" width="300" height="{200-split}" fill="{col_bot}" mask="url(#km{cx}{cy})"/>')
-
+    m=f'<defs><mask id="{mid}" maskUnits="userSpaceOnUse" x="0" y="0" width="300" height="200">{img}</mask></defs>'
+    if not parts:
+        return m+f'<rect width="300" height="200" fill="{col}" mask="url(#{mid})"/>'
+    return m+f'<g mask="url(#{mid})">'+''.join(f'<polygon points="{pts}" fill="{c}"/>' for pts,c in parts)+'</g>'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def bands(top,bot): return f'<rect width="300" height="100" fill="{top}"/><rect y="100" width="300" height="100" fill="{bot}"/>'
 
+TOP='0,0 300,0 300,100 0,100'; BOT='0,100 300,100 300,200 0,200'
+UPL='0,0 300,0 0,200'; LOR='300,0 300,200 0,200'   # podział w skos (od dolnego drzewca do górnego rogu swobodnego)
 F={
- # chorągiew wojen husyckich: czerwony kielich na czerni; dla bloku/ligi husyckiej albo rządu radykalnego (taboryci)
+ # chorągiew wojen husyckich: czerwony kielich na czerni; blok husycki albo rząd radykalny (taboryci)
  '1_liga_husycka': svg(f'<rect width="300" height="200" fill="{BLACK}"/>'+chalice(150,100,150,RED)),
- # Polska (Poznań): biało-czerwona, kielich w kontrbarwach
- '2_polska': svg(bands(WHITE,RED)+chalice(150,100,150,RED,WHITE,100)),
- # Morawy: żółto-czerwone barwy morawskie, kielich w kontrbarwach
- '3_morawy': svg(bands(YEL,RED)+chalice(150,100,150,RED,YEL,100)),
- # Pomorze (Gryfici): biało-niebieskie, kielich w kontrbarwach
- '4_pomorze': svg(bands(WHITE,BLUE)+chalice(150,100,150,BLUE,WHITE,100)),
- # Czechy: czerwone pole, biały kielich
- '5_czechy': svg(f'<rect width="300" height="200" fill="{RED}"/>'+chalice(150,100,150,WHITE)),
+ # Polska (Poznań): biało-czerwona, mały czerwony kielich w białym polu przy drzewcu
+ '2_polska': svg(bands(WHITE,RED)+chalice(52,50,74,RED)),
+ # Morawy, kolebka ruchu: czerwień w złotej obwódce, duży złoty kielich
+ '3_morawy': svg(f'<rect width="300" height="200" fill="{GOLD}"/><rect x="10" y="10" width="280" height="180" fill="{RED}"/>'
+                 f'<rect x="16" y="16" width="268" height="168" fill="none" stroke="{GOLD}" stroke-width="1.6"/>'+chalice(150,100,140,GOLD)),
+ # Pomorze (Gryfici, Hanza): niebieski pas przy drzewcu, biel, niebieski kielich na bieli
+ '4_pomorze': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="100" height="200" fill="{BLUE}"/>'+chalice(200,100,140,BLUE)),
+ # Czechy: biel i czerwień dzielone w skos, kielich w kontrbarwach
+ '5_czechy': svg(f'<polygon points="{UPL}" fill="{WHITE}"/><polygon points="{LOR}" fill="{RED}"/>'+chalice(150,100,150,None,[(UPL,RED),(LOR,WHITE)])),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
