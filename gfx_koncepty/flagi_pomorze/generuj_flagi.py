@@ -39,9 +39,8 @@ F={
  '1_ksiestwo': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLUE}"/>'+gryf(GR,150,84,140)),
  # Republika kupiecka (Szczecin, Gdańsk, Hanza): niebieski pas przy drzewcu, gryf na bieli
  '2_republika': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="90" height="200" fill="{BLUE}"/>'+gryf(GR,195,100,150)),
- # Teokracja husycka: jak księstwo, ale pas u dołu czarny, a gryf trzyma w uniesionym szponie mały kielich
- '3_teokracja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLACK}"/>'+gryf(GR,150,92,136)
-                    +(lambda h:f'<image x="{104-h*KRW/KRH/2:.1f}" y="{22-h/2:.1f}" width="{h*KRW/KRH:.1f}" height="{h:.1f}" href="data:image/png;base64,{KRC}"/>')(28)),
+ # Teokracja husycka: jak księstwo, ale pas u dołu czarny, a na nim pod gryfem mały biały kielich
+ '3_teokracja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLACK}"/>'+gryf(GR,150,84,140)+chalice(150,180,30,WHITE)),
  # Pomorze rewolucyjne: układ republiki, czerwona gwiazda zamiast gryfa, hasło po kaszubsku: „Cała władza ludowi”
  '4_rewolucja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="90" height="200" fill="{BLUE}"/>'+star(195,100,40,RED)+ring_text(195,100,56,'WSZËTKÔ MÒC','LËDOWI',BLUE)),
 }
