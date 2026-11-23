@@ -6,6 +6,7 @@ HERE=os.path.dirname(os.path.abspath(__file__))
 EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
 KRZ=b64('krzesiwo_bizantyjskie_maska.png'); KW,KH=676,908
+HAMZ=b64('mlot_zloty_s.png'); HW,HH=240,623
 RED='#b0001a'; GOLD='#fdc70f'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 _n=[0]
@@ -33,8 +34,14 @@ F={
  '2_republika': svg(''.join(f'<rect y="{k*200/9:.3f}" width="300" height="{200/9+0.05:.3f}" fill="{RED if k%2==0 else GOLD}"/>' for k in range(9))
                     +f'<rect width="{200*5/9:.3f}" height="{200*5/9:.3f}" fill="{RED}"/>'
                     +f'<rect x="{200*2/9:.3f}" width="{200/9:.3f}" height="{200*5/9:.3f}" fill="{GOLD}"/><rect y="{200*2/9:.3f}" width="{200*5/9:.3f}" height="{200/9:.3f}" fill="{GOLD}"/>'),
- # Rewolucja: czerwień, złota tamga IYI, nad nią złota gwiazda
- '3_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/>'+iyi(150,122,150,GOLD)+star(150,50,24,GOLD)),
+ # Rewolucja: wzór republiki (greckie pasy), w kantonie złoty młot zamiast krzyża, na złotych pasach hasło po grecku:
+ # „Proletariusze wszystkich krajów, łączcie się!”
+ '3_rewolucja': svg(''.join(f'<rect y="{k*200/9:.3f}" width="300" height="{200/9+0.05:.3f}" fill="{RED if k%2==0 else GOLD}"/>' for k in range(9))
+                    +f'<rect width="{200*5/9:.3f}" height="{200*5/9:.3f}" fill="{RED}"/>'
+                    +f'<g transform="translate({100*5/9:.2f},{100*5/9:.2f}) rotate(35)"><image x="{-84*HW/HH/2:.1f}" y="-42" width="{84*HW/HH:.1f}" height="84" href="data:image/png;base64,{HAMZ}"/></g>'
+                    +f'<g font-family="DejaVu Sans" font-weight="bold" fill="{RED}" text-anchor="middle">'
+                     f'<text x="150" y="{200*6/9-5.2:.2f}" font-size="13.5" letter-spacing="0.6">ΠΡΟΛΕΤΑΡΙΟΙ ΟΛΩΝ ΤΩΝ ΧΩΡΩΝ,</text>'
+                     f'<text x="150" y="{200*8/9-5.2:.2f}" font-size="13.5" letter-spacing="2">ΕΝΩΘΕΙΤΕ!</text></g>'),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
