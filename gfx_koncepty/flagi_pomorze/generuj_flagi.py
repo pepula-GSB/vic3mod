@@ -28,8 +28,11 @@ F={
  # Teokracja husycka: jak księstwo, ale pas u dołu czarny, a gryf trzyma w uniesionym szponie mały kielich
  '3_teokracja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="160" width="300" height="40" fill="{BLACK}"/>'+gryf(GR,150,92,136)
                     +(lambda h:f'<image x="{104-h*KRW/KRH/2:.1f}" y="{22-h/2:.1f}" width="{h*KRW/KRH:.1f}" height="{h:.1f}" href="data:image/png;base64,{KRC}"/>')(28)),
- # Pomorze rewolucyjne: układ republiki (niebieski pas przy drzewcu, biel), zamiast gryfa czerwona gwiazda
- '4_rewolucja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="90" height="200" fill="{BLUE}"/>'+star(195,104,58,RED)),
+ # Pomorze rewolucyjne: układ republiki, czerwona gwiazda zamiast gryfa, hasło po kaszubsku: „Robotnicy wszystkich krajów, łączcie się!”
+ '4_rewolucja': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect width="90" height="200" fill="{BLUE}"/>'+star(195,100,48,RED)
+                    +f'<g font-family="DejaVu Serif" font-weight="bold" fill="{BLUE}" text-anchor="middle">'
+                     f'<text x="195" y="32" font-size="8.4" letter-spacing="0.3">ROBÒTNICË WSZËTCZICH KRAJÓW,</text>'
+                     f'<text x="195" y="178" font-size="13" letter-spacing="1.2">ŁĄCZTA SÃ!</text></g>'),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
