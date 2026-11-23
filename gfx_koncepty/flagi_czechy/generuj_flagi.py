@@ -34,7 +34,7 @@ F={
  '3_teokracja': svg(kwadraty()+lew(75,50,84)+lew(225,150,84)+f'<rect x="150" width="150" height="100" fill="{BLACK}"/><rect y="100" width="150" height="100" fill="{BLACK}"/>'
                     +chalice(225,50,44,WHITE)+chalice(75,150,44,WHITE)),
  # Czechy rewolucyjne: pięć poziomych pasów czerwono-białych, złota gwiazda na środku
- '4_rewolucja': svg(''.join(f'<rect y="{i*40}" width="300" height="40" fill="{RED if i%2==0 else WHITE}"/>' for i in range(5))+star(150,100,46,'#f2c230').replace('/>',' stroke="#8a0000" stroke-width="2.2" stroke-linejoin="round"/>')),
+ '4_rewolucja': svg(''.join(f'<rect y="{i*40}" width="300" height="40" fill="{'#8a0000' if i%2==0 else WHITE}"/>' for i in range(5))+star(150,100,46,'#f2c230').replace('/>',' stroke="#000000" stroke-width="2.2" stroke-linejoin="round"/>')),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
