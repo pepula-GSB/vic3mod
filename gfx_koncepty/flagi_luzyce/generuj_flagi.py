@@ -40,12 +40,12 @@ def star(cx,cy,r,col,sw=0.6):
 def trojbarwa(): return f'<rect width="300" height="67" fill="{BLUE}"/><rect y="67" width="300" height="66" fill="{RED}"/><rect y="133" width="300" height="67" fill="{WHITE}"/>'
 SH='M100,26 L200,26 L200,104 Q200,154 150,174 Q100,154 100,104Z'
 def tarcza():
-    # tarcza dzielona w słup: Górne Łużyce (mur na błękicie) | Dolne Łużyce (wół na bieli)
-    return (f'<defs><clipPath id="sh"><path d="{SH}"/></clipPath><clipPath id="L"><rect x="100" y="0" width="50" height="200"/></clipPath><clipPath id="R"><rect x="150" y="0" width="50" height="200"/></clipPath></defs>'
-            f'<g clip-path="url(#sh)"><rect x="100" y="20" width="50" height="160" fill="{BLUE}"/><rect x="150" y="20" width="50" height="160" fill="{WHITE}"/>'
-            f'<g clip-path="url(#L)">{mur(100,110,50,70,rows=5,merlons=2,sw=1)}</g>'
-            f'<g clip-path="url(#R)">{wol(175,96,48)}</g></g>'
-            f'<path d="{SH}" fill="none" stroke="{BLACK}" stroke-width="2.4"/><line x1="150" y1="26" x2="150" y2="174" stroke="{BLACK}" stroke-width="1.4"/>')
+    # tarcza dzielona w pas: u góry Dolne Łużyce (czerwony wół na bieli), u dołu Górne Łużyce (złoty mur na błękicie)
+    return (f'<defs><clipPath id="sh"><path d="{SH}"/></clipPath></defs>'
+            f'<g clip-path="url(#sh)"><rect x="96" y="20" width="108" height="80" fill="{WHITE}"/><rect x="96" y="100" width="108" height="80" fill="{BLUE}"/>'
+            f'{mur(96,126,108,54,rows=4,merlons=3,sw=1)}'
+            f'{wol(150,63,66)}</g>'
+            f'<line x1="100" y1="100" x2="200" y2="100" stroke="{BLACK}" stroke-width="1.4"/><path d="{SH}" fill="none" stroke="{BLACK}" stroke-width="2.4"/>')
 
 F={
  # Margrabstwo (start, lenno Moraw): łużycka trójbarwa (błękit, czerwień, biel) z tarczą dzieloną: mur i wół

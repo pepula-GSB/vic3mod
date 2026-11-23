@@ -8,7 +8,7 @@
 
 | Plik | Ustrój |
 |---|---|
-| 1_margrabstwo | Margrabstwo (start, lenno Moraw): łużycka trójbarwa błękit-czerwień-biel z tarczą dzieloną (mur, wół) |
+| 1_margrabstwo | Margrabstwo (start, lenno Moraw): łużycka trójbarwa błękit-czerwień-biel z tarczą dzieloną w pas: u góry wół na bieli, u dołu złoty mur na błękicie |
 | 2_republika | Republika: sama łużycka trójbarwa |
 | 3_teokracja | Teokracja husycka: biel z czerwonym wołem, czarny pas u dołu z białym kielichem |
 | 4_rewolucja | Łużyce rewolucyjne: czerwień, złoty mur z blankami u dołu, złota gwiazda |
