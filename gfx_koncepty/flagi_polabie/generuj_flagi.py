@@ -43,7 +43,7 @@ F={
  # Stodorania, republika: czerwień ze złotym pasem przez środek, bez godła
  'stodorania_2_republika': svg(f'<rect width="300" height="200" fill="{TR}"/><rect y="80" width="300" height="40" fill="{TG}"/>'),
  # Stodorania, rządy kapłanów Trygława: złote pole, herb na środku
- 'stodorania_3_kaplani': svg(f'<rect width="300" height="200" fill="{TG}"/>'+img(TRYR,TW,TH,150,100,164)),
+ 'stodorania_3_kaplani': svg(f'<rect width="300" height="200" fill="{TG}"/>'+img(TRYR,TW,TH,150,100,72)),
  # Stodorania rewolucyjna: czerwień, trzy złote gwiazdy w rzędzie (trzy głowy Trygława bez bóstwa)
  'stodorania_4_rewolucja': svg(f'<rect width="300" height="200" fill="{TR}"/>'+star(92,100,24,TG)+star(150,100,24,TG)+star(208,100,24,TG)),
 }
