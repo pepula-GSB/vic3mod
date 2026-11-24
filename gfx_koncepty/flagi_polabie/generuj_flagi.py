@@ -5,6 +5,7 @@ HERE=os.path.dirname(os.path.abspath(__file__))
 EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
 TRY=b64('tryglaw_herb_s.png'); TW,TH=400,438
+TRYR=b64('tryglaw_czerwony_s.png')
 TG='#ecb22e'; TR='#c8101c'  # złoto i czerwień z herbu Trygława
 KOL=b64('kolowrot_maska_s.png')
 GO=b64('gryf_obodrzycki.png'); GOW,GOH=332,410
@@ -42,7 +43,7 @@ F={
  # Stodorania, republika: czerwień ze złotym pasem przez środek, bez godła
  'stodorania_2_republika': svg(f'<rect width="300" height="200" fill="{TR}"/><rect y="80" width="300" height="40" fill="{TG}"/>'),
  # Stodorania, rządy kapłanów Trygława: złote pole, herb na środku
- 'stodorania_3_kaplani': svg(f'<rect width="300" height="200" fill="{TG}"/>'+img(TRY,TW,TH,150,100,164)),
+ 'stodorania_3_kaplani': svg(f'<rect width="300" height="200" fill="{TG}"/>'+img(TRYR,TW,TH,150,100,164)),
  # Stodorania rewolucyjna: czerwień, trzy złote gwiazdy w rzędzie (trzy głowy Trygława bez bóstwa)
  'stodorania_4_rewolucja': svg(f'<rect width="300" height="200" fill="{TR}"/>'+star(92,100,24,TG)+star(150,100,24,TG)+star(208,100,24,TG)),
 }
