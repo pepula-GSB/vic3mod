@@ -20,7 +20,7 @@ def star(cx,cy,r,col):
 
 F={
  # Wielkie Księstwo / królestwo (start): zieleń-biel-czerwień, tarcza z trzema Pogoniami i koroną na środku
- '1_ksiestwo': svg(f'<rect width="300" height="50" fill="{GREEN}"/><rect y="50" width="300" height="100" fill="{WHITE}"/><rect y="150" width="300" height="50" fill="{RED2}"/>'+herb(150,91,150)),
+ '1_ksiestwo': svg(f'<rect width="300" height="50" fill="{GREEN}"/><rect y="50" width="300" height="100" fill="{WHITE}"/><rect y="150" width="300" height="50" fill="{RED2}"/>'+herb(150,100,96)),
  # Republika: zieleń, czerwony pas, biel, złoty krzyż podwójny (wzór od autora moda)
  '2_republika': svg(f'<rect width="300" height="90" fill="{GREEN}"/><rect y="90" width="300" height="25" fill="{RED}"/><rect y="115" width="300" height="85" fill="{WHITE}"/>'
                     +krzyz_podwojny(151,38,120,GOLD)),
