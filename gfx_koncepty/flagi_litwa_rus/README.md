@@ -8,5 +8,5 @@ Prawosławna Litwa-Ruś z Wilnem i Kijowem. Płaskie flagi 3:2 (SVG 1536×1024) 
 
 | Plik | Ustrój |
 |---|---|
-| 1_ksiestwo | Wielkie Księstwo (start): błękit-biel-czerwień, tarcza z trzema Pogoniami i koroną przy drzewcu |
+| 1_ksiestwo | Wielkie Księstwo, monarchia (start): zieleń-biel-czerwień, tarcza z trzema Pogoniami i koroną na środku |
 | 2_republika | Republika: zieleń, czerwony pas i biel, złoty krzyż podwójny |
