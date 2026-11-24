@@ -54,5 +54,6 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [gfx_koncepty/flagi_misnia/](gfx_koncepty/flagi_misnia/) | Flagi Marchii Miśnieńskiej (koncepty) |
 | [gfx_koncepty/flagi_saksonia/](gfx_koncepty/flagi_saksonia/) | Flagi Królestwa Saskiego (koncepty) |
 | [gfx_koncepty/flagi_romania/](gfx_koncepty/flagi_romania/) | Flagi Cesarstwa Bułgarsko-Romejskiego (koncepty) |
+| [gfx_koncepty/flagi_litwa_rus/](gfx_koncepty/flagi_litwa_rus/) | Flagi Wielkiego Księstwa Litewsko-Ruskiego (koncepty) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
