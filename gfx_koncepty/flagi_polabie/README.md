@@ -10,7 +10,7 @@ Flagi generuje `generuj_flagi.py`, a podgląd jest w [stodorania_arkusz.png](sto
 
 | Plik | Ustrój |
 |---|---|
-| stodorania_1_ksiestwo | Księstwo (start, Brenna): czerwień ze złotymi pasami, herb z Trygławem |
+| stodorania_1_ksiestwo | Księstwo (start, Brenna): czerwień ze złotymi pasami, mały herb z Trygławem na środku (proporcje jak słońce na fladze Argentyny) |
 | stodorania_2_republika | Republika: czerwień ze złotym pasem przez środek, bez godła |
 | stodorania_3_kaplani | Rządy kapłanów Trygława: złote pole, herb na środku |
 | stodorania_4_rewolucja | Rewolucja: czerwień, trzy złote gwiazdy w rzędzie, czyli trzy głowy Trygława bez bóstwa |

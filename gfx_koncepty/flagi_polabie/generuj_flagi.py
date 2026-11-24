@@ -38,7 +38,7 @@ F={
  # Wieletia rewolucyjna: czerwień, biały pas u dołu, złota gwiazda w rogu (bez symbolu religijnego)
  'wieletia_4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="160" width="300" height="16" fill="{WHITE}"/>'+star(46,46,26,GOLD).replace('/>',' stroke="#000000" stroke-width="0.6" stroke-linejoin="round"/>')),
  # Stodorania, księstwo (start, Brenna): czerwień ze złotymi pasami u góry i dołu, herb z Trygławem
- 'stodorania_1_ksiestwo': svg(f'<rect width="300" height="200" fill="{TR}"/><rect width="300" height="16" fill="{TG}"/><rect y="184" width="300" height="16" fill="{TG}"/>'+img(TRY,TW,TH,150,100,150)),
+ 'stodorania_1_ksiestwo': svg(f'<rect width="300" height="200" fill="{TR}"/><rect width="300" height="16" fill="{TG}"/><rect y="184" width="300" height="16" fill="{TG}"/>'+img(TRY,TW,TH,150,100,72)),
  # Stodorania, republika: czerwień ze złotym pasem przez środek, bez godła
  'stodorania_2_republika': svg(f'<rect width="300" height="200" fill="{TR}"/><rect y="80" width="300" height="40" fill="{TG}"/>'),
  # Stodorania, rządy kapłanów Trygława: złote pole, herb na środku
