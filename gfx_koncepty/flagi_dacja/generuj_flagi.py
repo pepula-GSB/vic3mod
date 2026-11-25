@@ -25,9 +25,8 @@ F={
  'panonia_1_republika': svg(TRI),
  # Królestwo Panonii: ta sama trójbarwa co republika, bez korony
  'panonia_2_monarchia': svg(TRI),
- # Teokracja unicka (biskupi Timișoary w unii z Rzymem, obrządek wschodni): błękit ze złotym krzyżem trójbelkowym, u dołu cienkie pasy czerwień i żółć
- 'panonia_3_teokracja': svg(f'<rect width="300" height="200" fill="{B}"/><rect y="164" width="300" height="18" fill="{R}"/><rect y="182" width="300" height="18" fill="{Y}"/>'
-                            +krzyz_trojbelkowy(150,20,132,Y)),
+ # Teokracja unicka (biskupi Timișoary w unii z Rzymem, obrządek wschodni): trójbarwa jak republika, na środku biały krzyż trójbelkowy
+ 'panonia_3_teokracja': svg(TRI+krzyz_trojbelkowy(150,24,152,W)),
  # Panonia rewolucyjna: czerwień, u dołu cienkie pasy błękit i żółć, złota gwiazda w rogu
  'panonia_4_rewolucja': svg(f'<rect width="300" height="200" fill="{R}"/><rect y="164" width="300" height="18" fill="{B}"/><rect y="182" width="300" height="18" fill="{Y}"/>'+star(44,42,24,Y)),
 }
