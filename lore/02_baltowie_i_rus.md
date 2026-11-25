@@ -22,9 +22,10 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Wydarzenie „Wielki Patriarchat Ruski”** (gdy państwo przyjmie teokrację, czyli rządy metropolity kijowskiego):
   - **Przenosiny stolicy do Kijowa**: Wilno to stolica książąt, a Kijów to stolica wiary, z Ławrą Peczerską i Soborem Sofijskim, ośrodek metropolii od 988 roku. Rząd duchownych przenosi się tam, gdzie ma swój tron.
   - **Zmiana nazwy** na **Wielki Patriarchat Ruski**. Metropolita kijowski ogłasza się patriarchą Kijowa i całej Rusi, a flaga przechodzi na purpurę ze złotym krzyżem podwójnym (zob. [../gfx_koncepty/flagi_litwa_rus/](../gfx_koncepty/flagi_litwa_rus/)).
-  - **Warunek: autokefalia.** Metropolia kijowska podlega patriarsze Konstantynopola, a ten siedzi w Cesarstwie Bułgarsko-Romejskim, najbliższym sojuszniku Litwy-Rusi. Kijów może:
-    - poprosić Konstantynopol o uznanie patriarchatu: drogo w dyplomacji, ale bez zerwania sojuszu;
-    - ogłosić autokefalię jednostronnie: schizma z Konstantynopolem, koniec sojuszu i wpływów cesarstwa, za to pełna niezależność.
+  - **Warunek: zgoda Konstantynopola.** Metropolia kijowska podlega patriarsze ekumenicznemu w Konstantynopolu, a ten siedzi w Cesarstwie Bułgarsko-Romejskim, najbliższym sojuszniku Litwy-Rusi. Bez jego zgody metropolita nie może się sam ogłosić patriarchą. Stąd trzy drogi, a od wybranej zależy nazwa państwa:
+    - **Prośba o patriarchat**: Konstantynopol podnosi Kijów do rangi patriarchatu, jak realnie Moskwę w 1589 roku. Kosztuje to dużo dyplomacji, ustępstw albo pieniędzy dla cesarstwa, ale sojusz zostaje. Nazwa: **Wielki Patriarchat Ruski**.
+    - **Bez zgody, ale w jedności**: metropolita rządzi państwem, wciąż podległy Konstantynopolowi, który zyskuje wpływ na politykę Kijowa. Nazwa: **Wielka Metropolia Ruska**. Patriarchat można wywalczyć później.
+    - **Autokefalia jednostronna**: schizma z Konstantynopolem, koniec sojuszu i wpływów cesarstwa, za to pełna niezależność. Nazwa: **Wielki Patriarchat Ruski**, nieuznawany przez resztę prawosławia.
   - **Skutki wewnętrzne**:
     - **Wilno traci stolicę**: litewska i białoruska szlachta tracą wpływy na rzecz duchowieństwa i Rusinów kijowskich. To może dać ruch „Wilno wraca” albo litewskie dążenia separatystyczne, łatwiejsze tam, gdzie Litwa jest częściowo katolicka.
     - **Białorusini** czują się zepchnięci na margines między Wilnem a Kijowem.
