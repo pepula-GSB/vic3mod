@@ -36,8 +36,8 @@ def bg(col):
 F = {
     # Sułtanat (dynastia Osmanów, Adana): zieleń z białym półksiężycem i gwiazdą (wzór od autora moda)
     'osmanowie_1_sultanat': svg(bg(G) + ksiezyc_gwiazda(W, 'm')),
-    # Republika: czerwień z białym półksiężycem i gwiazdą (nawiązanie do realnej czerwonej flagi osmańskiej)
-    'osmanowie_2_republika': svg(bg(R) + ksiezyc_gwiazda(W, 'm')),
+    # Republika: zieleń jak sułtanat, biały półksiężyc i gwiazda wyśrodkowane
+    'osmanowie_2_republika': svg(bg(G) + ksiezyc_gwiazda(W, 'm', dx=26.65)),
     # Kalifat (teokracja): ciemna zieleń ze złotym półksiężycem i gwiazdą
     'osmanowie_3_kalifat': svg(bg(GD) + ksiezyc_gwiazda(Y, 'm')),
     # Rewolucja: czerwień ze złotym półksiężycem i gwiazdą
