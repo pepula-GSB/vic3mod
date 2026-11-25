@@ -9,4 +9,4 @@ Nowogród: prawosławna republika kupiecka od Estonii po Alaskę. Płaskie flagi
 | 1_republika | Republika (start, wiece i Rada Panów): biel nad błękitem, tron z niedźwiedziami, ryby na błękicie |
 | 2_teokracja | „Dom Świętej Zofii”, rządy arcybiskupa nowogrodzkiego: granat ze złotym krzyżem na Golgocie z włócznią i gąbką ([../emblematy/krzyz_golgota_maska.png](../emblematy/krzyz_golgota_maska.png), wzór od autora moda) |
 | 3_rewolucja | Nowogród rewolucyjny: czerwień nad błękitem, złota gwiazda, białe ryby (rybacy i flisacy) |
-| nowy_nowogrod | Republika Nowego Nowogrodu (Sitka, po buncie Kompanii): wzór od autora moda w stylu flagi Republiki Kalifornijskiej, lampart na zielonym wzgórzu ([../emblematy/lampart_nowy_nowogrod.png](../emblematy/lampart_nowy_nowogrod.png)), granatowa gwiazda i pas, napis *РЕСПУБЛИКА НОВЫЙ НОВГОРОДЪ* w ówczesnej pisowni z jerem |
+| nowy_nowogrod | Republika Nowego Nowogrodu (Sitka, po buncie Kompanii): układ w stylu flagi Republiki Kalifornijskiej, w granacie na bieli Wielki Wóz i Gwiazda Polarna (jak na fladze Alaski), napis *РЕСПУБЛИКА НОВЫЙ НОВГОРОДЪ* w ówczesnej pisowni z jerem, granatowy pas u dołu |
