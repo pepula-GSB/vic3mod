@@ -30,7 +30,7 @@ F={
  # Republika Nowego Nowogrodu (Sitka, po buncie Kompanii): układ w stylu flagi Republiki Kalifornijskiej.
  # Wielki Wóz i Gwiazda Polarna (jak na fladze Alaski) w granacie na bieli, napis w ówczesnej pisowni z jerem, granatowy pas u dołu.
  'nowy_nowogrod': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="167" width="300" height="33" fill="#2d2dcc"/>'
-                      +star(66.0,54.6,6.2,'#2d2dcc')+star(96.2,65.8,6.2,'#2d2dcc')+star(111.2,81.8,6.2,'#2d2dcc')+star(126.4,98.6,6.2,'#2d2dcc')+star(124.4,122.4,6.2,'#2d2dcc')+star(158.4,133.6,6.2,'#2d2dcc')+star(171.6,114.8,6.2,'#2d2dcc')+star(234.0,18.0,10.5,'#2d2dcc')
+                      +star(95.4,55.1,4.2,'#2d2dcc')+star(115.0,62.4,4.2,'#2d2dcc')+star(124.8,72.8,4.2,'#2d2dcc')+star(134.7,83.7,4.2,'#2d2dcc')+star(133.4,99.2,4.2,'#2d2dcc')+star(155.5,106.4,4.2,'#2d2dcc')+star(164.0,94.2,4.2,'#2d2dcc')+star(204.6,31.0,7,'#2d2dcc')
                       +'<text x="150" y="152" font-family="DejaVu Sans" font-weight="bold" font-size="13.2" fill="#2d2dcc" text-anchor="middle" letter-spacing="0.2">РЕСПУБЛИКА НОВЫЙ НОВГОРОДЪ</text>'),
 }
 for k,v in F.items():
