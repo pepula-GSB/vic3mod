@@ -19,19 +19,19 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Ryga podzielona Dźwiną**: rzeka to granica litewsko-nowogrodzka. Stare miasto i port na prawym brzegu są nowogrodzkie, a Zadźwinie na lewym brzegu i twierdza u ujścia litewskie. Litwa może zamknąć wyjście z rzeki, a Nowogród ma miasto i kupców. Spór o cła od spławu Dźwiną z Połocka i Witebska.
 - **Problemy**: kozaczyzna na stepie, Chanat Krymski (wasal osmański) i osmański Azow na stepie, łotewski ruch narodowy (naród podzielony z Nowogrodem), Napoleon próbował ją najechać.
 
-- **Wydarzenie „Wielki Patriarchat Ruski”** (gdy państwo przyjmie teokrację, czyli rządy metropolity kijowskiego):
+- **Wydarzenie „Wielka Metropolia Rusi”** (gdy państwo przyjmie teokrację, czyli rządy metropolity kijowskiego):
   - **Przenosiny stolicy do Kijowa**: Wilno to stolica książąt, a Kijów to stolica wiary, z Ławrą Peczerską i Soborem Sofijskim, ośrodek metropolii od 988 roku. Rząd duchownych przenosi się tam, gdzie ma swój tron.
-  - **Zmiana nazwy** na **Wielki Patriarchat Ruski**. Metropolita kijowski ogłasza się patriarchą Kijowa i całej Rusi, a flaga przechodzi na purpurę ze złotym krzyżem podwójnym (zob. [../gfx_koncepty/flagi_litwa_rus/](../gfx_koncepty/flagi_litwa_rus/)).
-  - **Warunek: zgoda Konstantynopola.** Metropolia kijowska podlega patriarsze ekumenicznemu w Konstantynopolu, a ten siedzi w Cesarstwie Bułgarsko-Romejskim, najbliższym sojuszniku Litwy-Rusi. Bez jego zgody metropolita nie może się sam ogłosić patriarchą. Stąd trzy drogi, a od wybranej zależy nazwa państwa:
-    - **Prośba o patriarchat**: Konstantynopol podnosi Kijów do rangi patriarchatu, jak realnie Moskwę w 1589 roku. Kosztuje to dużo dyplomacji, ustępstw albo pieniędzy dla cesarstwa, ale sojusz zostaje. Nazwa: **Wielki Patriarchat Ruski**.
-    - **Bez zgody, ale w jedności**: metropolita rządzi państwem, wciąż podległy Konstantynopolowi, który zyskuje wpływ na politykę Kijowa. Nazwa: **Wielka Metropolia Ruska**. Patriarchat można wywalczyć później.
-    - **Autokefalia jednostronna**: schizma z Konstantynopolem, koniec sojuszu i wpływów cesarstwa, za to pełna niezależność. Nazwa: **Wielki Patriarchat Ruski**, nieuznawany przez resztę prawosławia.
+  - **Zmiana nazwy** na **Wielką Metropolię Rusi**. Metropolita kijowski zostaje głową państwa, ale w Cerkwi wciąż podlega patriarsze ekumenicznemu w Konstantynopolu. Flaga przechodzi na purpurę ze złotym krzyżem podwójnym (zob. [../gfx_koncepty/flagi_litwa_rus/](../gfx_koncepty/flagi_litwa_rus/)).
+  - **Zależność od Konstantynopola**: patriarcha siedzi w Cesarstwie Bułgarsko-Romejskim, najbliższym sojuszniku. Przez metropolitę cesarstwo ma wpływ na politykę Kijowa, co bywa wygodne (silny sojusz) albo uciążliwe (Kijów idzie na wojny cesarstwa).
+  - **Dalsza droga: własny patriarchat** (journal entry). W prawosławiu patriarchów może być kilku naraz, ale nowy musi uznać Konstantynopol:
+    - **Uznany patriarchat**: Konstantynopol podnosi Kijów do rangi patriarchatu, jak realnie Moskwę w 1589 roku. Wymaga dyplomacji, ustępstw albo pieniędzy dla cesarstwa, a sojusz zostaje. Nazwa: **Patriarchat Rusi**.
+    - **Autokefalia jednostronna**: schizma z Konstantynopolem, koniec sojuszu i wpływów cesarstwa, za to pełna niezależność. Patriarchat Rusi nieuznawany przez resztę prawosławia.
   - **Skutki wewnętrzne**:
     - **Wilno traci stolicę**: litewska i białoruska szlachta tracą wpływy na rzecz duchowieństwa i Rusinów kijowskich. To może dać ruch „Wilno wraca” albo litewskie dążenia separatystyczne, łatwiejsze tam, gdzie Litwa jest częściowo katolicka.
     - **Białorusini** czują się zepchnięci na margines między Wilnem a Kijowem.
   - **Skutki zewnętrzne**:
     - **Nowogród** (też prawosławny) nie uznaje tytułu „całej Rusi”. Spór o zwierzchnictwo nad cerkwiami w Nowogrodzie, Rydze i na Syberii.
-    - **Halicz** (unicki) widzi w tym zagrożenie, bo Patriarchat zaczyna agitować prawosławnych na Wołyniu i w Mołdawii.
+    - **Halicz** (unicki) widzi w tym zagrożenie, bo Metropolia zaczyna agitować prawosławnych na Wołyniu i w Mołdawii.
     - **Odwrót**: jeśli teokracja upadnie, wybór, czy wrócić do Wilna i starej nazwy, czy zostać w Kijowie jako Wielkie Księstwo Kijowskie.
 
 ## Republika Nowogrodzka
