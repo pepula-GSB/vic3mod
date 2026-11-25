@@ -8,6 +8,7 @@ TRON=b64('nowogrod_tron_niedzwiedzie.png'); TW,TH=824,832
 RYBY=b64('nowogrod_ryby.png'); RYBYW=b64('nowogrod_ryby_biale.png'); RW,RH=704,164
 GOLG=b64('krzyz_golgota_maska.png'); GW,GH=1245,1254
 LAMP=b64('lampart_pskowski.png'); LPW,LPH=921,499
+ZAM=b64('zamek_nowogrod_maska.png'); ZW,ZH=552,580
 WHITE='#ffffff'; BLUE='#0087dd'; GOLD='#e8a317'; RED='#c8102e'; PURPLE='#4a1a5c'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def img(b,w0,h0,cx,cy,h): w=h*w0/h0; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{b}"/>'
@@ -23,6 +24,10 @@ F={
  # Republika (start, wiece i Rada Panów): biel nad błękitem, tron z niedźwiedziami, ryby na błękicie (wzór od autora moda)
  '1_republika': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="{YB}" width="300" height="{200-YB}" fill="{BLUE}"/>'
                     +img(TRON,TW,TH,150,72,112)+img(RYBY,RW,RH,150,166,32)),
+ # Monarchia (Księstwo Nowogrodzkie, gdy książę przejmie władzę od wiecu): złoto, ciemna czerwień i biel, tarcza ze złotym zamkiem (Detyniec) (wzór od autora moda)
+ '1b_monarchia': svg('<rect width="300" height="66" fill="#f6c13a"/><rect y="66" width="300" height="67" fill="#8b0000"/><rect y="133" width="300" height="67" fill="#ffffff"/>'
+                     +'<path d="M108,43 L192,43 L192,120 Q192,140 162,146 Q153,148 150,155 Q147,148 138,146 Q108,140 108,120Z" fill="#8b0000"/>'
+                     +maska(ZAM,ZW,ZH,150,94,68,'#f6c13a','zam')),
  # Teokracja „Dom Świętej Zofii”: granat ze złotym krzyżem na Golgocie z włócznią i gąbką (wzór od autora moda)
  '2_teokracja': svg('<rect width="300" height="200" fill="#1a417a"/>'+maska(GOLG,GW,GH,150,99,163,'#dda733','golg')),
  # Nowogród rewolucyjny: czerwień nad błękitem, białe ryby (rybacy i flisacy), złota gwiazda
