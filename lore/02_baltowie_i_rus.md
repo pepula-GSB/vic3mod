@@ -118,5 +118,21 @@ Raczej **pozostałość po Złotej Ordzie** niż liczące się państwo.
   - „Podbój stepu”: Ordy kazachskie, Chiwa, Buchara i Kokand. To jedyny otwarty kierunek ekspansji.
   - „Wołga”: odzyskanie dolnej Wołgi od Osmanów.
 
+- **Journal entry „Półksiężyc nad Kremlem”** (powolne słabnięcie prawosławia):
+  - **Przyczyny**:
+    - **Islam jest religią elit Ordy.** Murzowie i bejowie z Kazania i Kasimowa obsadzają urzędy, ziemie i dowództwa. Ruski bojar, który przejdzie na islam, wchodzi do tego kręgu, jak realnie Tatarzy chrzczeni na dworze moskiewskim, tylko w drugą stronę.
+    - **Cerkiew jest „obca”.** Metropolia moskiewska podlega Kijowowi, czyli Litwie-Rusi, a przez nią Konstantynopolowi. Dla chana duchowni prawosławni to ludzie obcego mocarstwa, a mułłowie to swoi.
+    - **Handel na Wołdze** należy do tatarskich i osmańskich kupców. Osmanowie w Astrachaniu i Carycynie fundują meczety i medresy.
+    - **Małżeństwa mieszane** na dworze i wśród szlachty pogranicza.
+  - **Mechanika**: z każdym dziesięcioleciem udział prawosławnych spada najpierw w miastach nad Wołgą, a potem wśród szlachty. Gracz może to przyspieszyć (przywileje dla konwertytów, nadania dla mułłów) albo hamować (pieniądze dla klasztorów, własny metropolita, sojusz z Litwą-Rusią).
+  - **Wydarzenia po drodze**:
+    - **Nawrócenie wielkiego księcia**: władca przyjmuje islam i bierze tylko tytuł chana. Prawosławni bojarzy są oburzeni, Kijów protestuje, a Adana się cieszy.
+    - **Ucieczka metropolity**: metropolita moskiewski przenosi się do Tweru albo na Litwę-Ruś. Prawosławie w Moskwie traci głowę.
+    - **Monastery jako twierdze**: Ławra Troicko-Siergijewska i klasztory północy stają się ośrodkami oporu, jak twierdze wiary.
+  - **Zakończenia**:
+    - **Chanat Moskiewski**: islam staje się religią państwową, flaga przechodzi na zieleń z półksiężycem. Bliżej Osmanów, dalej od Rusi. Prawosławny zachód jest niespokojny.
+    - **Rozłam**: prawosławne ziemie zachodnie (Twer, Riazań, Smoleńsk) odrywają się jako osobne księstwo pod opieką Litwy-Rusi, a reszta zostaje chanatem.
+    - **Odrodzenie prawosławia**: gracz utrzymuje równowagę albo odwraca trend. Moskwa wybiera Ruś, ale traci poparcie Tatarów i ryzykuje oderwanie Kazania.
+
 ## Pięć kultur wschodniosłowiańskich
 Rusini haliccy (unici), Rusini kijowscy, Białorusini, Nowogrodzianie, Moskale.
