@@ -25,10 +25,8 @@ F={
  # Republika: zieleń, czerwony pas, biel, złoty krzyż podwójny (wzór od autora moda)
  '2_republika': svg(f'<rect width="300" height="90" fill="{GREEN}"/><rect y="90" width="300" height="25" fill="{RED}"/><rect y="115" width="300" height="85" fill="{WHITE}"/>'
                     +krzyz_podwojny(151,38,120,GOLD)),
- # Litwa-Ruś rewolucyjna (nawiązanie do Litbelu): cała czerwień, biały jeździec Pogoni bez krzyża na tarczy, złota gwiazda w rogu
- '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/>'
-                    +(lambda h:f'<image x="{150-h*PW/PH/2:.1f}" y="{100-h/2:.1f}" width="{h*PW/PH:.1f}" height="{h:.1f}" href="data:image/png;base64,{POG}"/>')(132)
-                    +star(38,36,20,GOLD)),
+ # Litwa-Ruś rewolucyjna: gładka czerwień, jak sztandar Litbelu (1919)
+ '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/>'),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
