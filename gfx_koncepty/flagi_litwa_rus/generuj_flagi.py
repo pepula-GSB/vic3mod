@@ -5,6 +5,7 @@ HERE=os.path.dirname(os.path.abspath(__file__))
 EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
 HERB=b64('herb_litwa_rus.png'); HW,HH=422,640
+POG=b64('pogon_bialy.png'); PW,PH=688,764
 BLUE='#2274e0'; WHITE='#ffffff'; RED2='#c42424'; GREEN='#006a44'; RED='#c1272d'; GOLD='#fdb913'; BLACK='#111111'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def herb(cx,cy,h): w=h*HW/HH; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{HERB}"/>'
@@ -24,6 +25,10 @@ F={
  # Republika: zieleń, czerwony pas, biel, złoty krzyż podwójny (wzór od autora moda)
  '2_republika': svg(f'<rect width="300" height="90" fill="{GREEN}"/><rect y="90" width="300" height="25" fill="{RED}"/><rect y="115" width="300" height="85" fill="{WHITE}"/>'
                     +krzyz_podwojny(151,38,120,GOLD)),
+ # Litwa-Ruś rewolucyjna: czerwień z zielonym pasem u dołu, biały jeździec Pogoni bez krzyża na tarczy, złota gwiazda w rogu
+ '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="168" width="300" height="32" fill="{GREEN}"/>'
+                    +(lambda h:f'<image x="{150-h*PW/PH/2:.1f}" y="{92-h/2:.1f}" width="{h*PW/PH:.1f}" height="{h:.1f}" href="data:image/png;base64,{POG}"/>')(132)
+                    +star(38,36,20,GOLD)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)

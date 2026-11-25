@@ -10,3 +10,4 @@ Prawosławna Litwa-Ruś z Wilnem i Kijowem. Płaskie flagi 3:2 (SVG 1536×1024) 
 |---|---|
 | 1_ksiestwo | Wielkie Księstwo, monarchia (start): zieleń-biel-czerwień, tarcza z trzema Pogoniami i koroną na środku |
 | 2_republika | Republika: zieleń, czerwony pas i biel, złoty krzyż podwójny |
+| 4_rewolucja | Litwa-Ruś rewolucyjna: czerwień z zielonym pasem u dołu, biały jeździec Pogoni ([../emblematy/pogon_bialy.png](../emblematy/pogon_bialy.png)), złota gwiazda w rogu |
