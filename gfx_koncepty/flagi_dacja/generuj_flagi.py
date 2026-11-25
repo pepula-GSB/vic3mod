@@ -6,6 +6,14 @@ def star(cx,cy,r,col):
     p=[f"{cx+(r if i%2==0 else r*.4)*math.cos(math.radians(-90+i*36)):.2f},{cy+(r if i%2==0 else r*.4)*math.sin(math.radians(-90+i*36)):.2f}" for i in range(10)]
     return f'<polygon points="{" ".join(p)}" fill="{col}"/>'
 TRI=f'<rect width="300" height="67" fill="{B}"/><rect y="67" width="300" height="66" fill="{R}"/><rect y="133" width="300" height="67" fill="{Y}"/>'
+def krzyz_trojbelkowy(cx,top,h,col):
+    """Krzyż trójbelkowy obrządku wschodniego (unici): tabliczka, belka główna, skośny podnóżek."""
+    t=h*0.10; w1=h*0.30; w2=h*0.58; w3=h*0.36
+    y1=top+h*0.12; y2=top+h*0.30; y3=top+h*0.74
+    return (f'<rect x="{cx-t/2:.2f}" y="{top:.2f}" width="{t:.2f}" height="{h:.2f}" fill="{col}"/>'
+            f'<rect x="{cx-w1/2:.2f}" y="{y1:.2f}" width="{w1:.2f}" height="{t:.2f}" fill="{col}"/>'
+            f'<rect x="{cx-w2/2:.2f}" y="{y2:.2f}" width="{w2:.2f}" height="{t*1.1:.2f}" fill="{col}"/>'
+            f'<g transform="rotate(-20 {cx:.2f} {y3+t/2:.2f})"><rect x="{cx-w3/2:.2f}" y="{y3:.2f}" width="{w3:.2f}" height="{t:.2f}" fill="{col}"/></g>')
 def korona(cx,base,w,col):
     h=w*0.62
     pts=f'{cx-w/2},{base} {cx-w/2},{base-h*0.55} {cx-w/4},{base-h*0.25} {cx},{base-h} {cx+w/4},{base-h*0.25} {cx+w/2},{base-h*0.55} {cx+w/2},{base}'
@@ -17,9 +25,9 @@ F={
  'panonia_1_republika': svg(TRI),
  # Królestwo Panonii: ta sama trójbarwa, na czerwonym pasie złota korona
  'panonia_2_monarchia': svg(TRI+korona(150,116,56,Y)),
- # Teokracja katolicka (biskupi Timișoary, pod opieką papieża): błękit ze złotym krzyżem łacińskim, u dołu cienkie pasy czerwień i żółć
+ # Teokracja unicka (biskupi Timișoary w unii z Rzymem, obrządek wschodni): błękit ze złotym krzyżem trójbelkowym, u dołu cienkie pasy czerwień i żółć
  'panonia_3_teokracja': svg(f'<rect width="300" height="200" fill="{B}"/><rect y="164" width="300" height="18" fill="{R}"/><rect y="182" width="300" height="18" fill="{Y}"/>'
-                            f'<rect x="141" y="22" width="18" height="128" fill="{Y}"/><rect x="112" y="52" width="76" height="18" fill="{Y}"/>'),
+                            +krzyz_trojbelkowy(150,20,132,Y)),
  # Panonia rewolucyjna: czerwień, u dołu cienkie pasy błękit i żółć, złota gwiazda w rogu
  'panonia_4_rewolucja': svg(f'<rect width="300" height="200" fill="{R}"/><rect y="164" width="300" height="18" fill="{B}"/><rect y="182" width="300" height="18" fill="{Y}"/>'+star(44,42,24,Y)),
 }
