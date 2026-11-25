@@ -7,6 +7,7 @@ def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decod
 TRON=b64('nowogrod_tron_niedzwiedzie.png'); TW,TH=824,832
 RYBY=b64('nowogrod_ryby.png'); RYBYW=b64('nowogrod_ryby_biale.png'); RW,RH=704,164
 GOLG=b64('krzyz_golgota_maska.png'); GW,GH=1245,1254
+LAMP=b64('lampart_pskowski.png'); LPW,LPH=921,499
 WHITE='#ffffff'; BLUE='#0087dd'; GOLD='#e8a317'; RED='#c8102e'; PURPLE='#4a1a5c'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def img(b,w0,h0,cx,cy,h): w=h*w0/h0; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{b}"/>'
@@ -32,6 +33,14 @@ F={
  'nowy_nowogrod': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="167" width="300" height="33" fill="#2d2dcc"/>'
                       +star(95.4,55.1,4.2,'#2d2dcc')+star(115.0,62.4,4.2,'#2d2dcc')+star(124.8,72.8,4.2,'#2d2dcc')+star(134.7,83.7,4.2,'#2d2dcc')+star(133.4,99.2,4.2,'#2d2dcc')+star(155.5,106.4,4.2,'#2d2dcc')+star(164.0,94.2,4.2,'#2d2dcc')+star(204.6,31.0,7,'#2d2dcc')
                       +'<text x="150" y="152" font-family="DejaVu Sans" font-weight="bold" font-size="13.2" fill="#2d2dcc" text-anchor="middle" letter-spacing="0.2">РЕСПУБЛИКА НОВЫЙ НОВГОРОДЪ</text>'),
+ # Republika Pskowska („młodszy brat” Nowogrodu): układ Nowogrodu, biel nad błękitem, lampart pskowski na zielonym wzgórzu
+ 'psków': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="{YB}" width="300" height="{200-YB}" fill="{BLUE}"/>'+img(LAMP,LPW,LPH,150,72,96)),
+ # Wolna Republika Ochocka (Daleki Wschód): biel nad granatem Pacyfiku, złote słońce wschodzące nad horyzontem
+ 'ochock': svg(f'<rect width="300" height="200" fill="{WHITE}"/>'
+               +''.join(f'<polygon points="150,{YB} {150+86*math.cos(math.radians(a-4)):.1f},{YB-86*math.sin(math.radians(a-4)):.1f} {150+86*math.cos(math.radians(a+4)):.1f},{YB-86*math.sin(math.radians(a+4)):.1f}" fill="{GOLD}"/>' for a in range(10,180,20))
+               +f'<circle cx="150" cy="{YB}" r="30" fill="{GOLD}"/><rect y="{YB}" width="300" height="{200-YB}" fill="#0b3d6e"/>'),
+ # Księstwo Syberyjskie (Stroganowowie, Tobolsk): biel nad zielenią (barwy regionalne Syberii), godło do dodania (sobole z herbu Syberii)
+ 'syberia': svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="#1b7a3e"/>'),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
