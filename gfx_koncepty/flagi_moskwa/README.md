@@ -11,6 +11,6 @@ Moskwa: pozostałość Złotej Ordy, z prawosławnym zachodem i zislamizowanym w
 | 2b_republika_islamska | Republika islamska (gdy islam weźmie górę): ta sama trójbarwa ze złotym, zdobionym półksiężycem i gwiazdą ([../emblematy/polksiezyc_ozdobny_maska.png](../emblematy/polksiezyc_ozdobny_maska.png), wzór od autora moda) |
 | 3a_teokracja_prawoslawna | Teokracja prawosławna (metropolita moskiewski): granat ze złotym krzyżem ośmioramiennym |
 | 3b_teokracja_islamska | Teokracja islamska (ulemowie z Kazania, chanat): zieleń z białym półksiężycem i gwiazdą |
-| 4_rewolucja | Rewolucja: czerwień, w rogu złoty półksiężyc z gwiazdą (półksiężyc jak sierp, wspólny znak Rusinów i Tatarów) |
+| 4_rewolucja | Rewolucja: czerwień, złoty półksiężyc jak sierp z gwiazdą i młot pod nim ([../emblematy/polksiezyc_mlot_maska.png](../emblematy/polksiezyc_mlot_maska.png), wzór od autora moda), czyli wspólny znak Rusinów i Tatarów |
 
 Teokracja ma dwa warianty, zależnie od tego, która wiara przejmie władzę w państwie dwóch religii.

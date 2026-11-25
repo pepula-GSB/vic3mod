@@ -6,6 +6,7 @@ EMB=os.path.join(HERE,'..','emblematy')
 def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decode()
 JERZY=b64('jerzy_moskiewski.png'); JW,JH=622,732
 PKO=b64('polksiezyc_ozdobny_maska.png'); PKW,PKH=492,510
+PKM=b64('polksiezyc_mlot_maska.png'); PMW,PMH=712,858
 CRIM='#a8002c'; WHITE='#ffffff'; GOLD='#f2c230'; GREEN='#00703c'; NAVY='#0e3a73'; RED='#c8102e'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def jerzy(cx,cy,h): w=h*JW/JH; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{JERZY}"/>'
@@ -42,8 +43,8 @@ F={
  '3a_teokracja_prawoslawna': svg(f'<rect width="300" height="200" fill="{NAVY}"/>'+krzyz_prawoslawny(150,30,140,GOLD)),
  # Teokracja islamska (rządy ulemów z Kazania, chanat): zieleń, biały półksiężyc i gwiazda
  '3b_teokracja_islamska': svg(f'<rect width="300" height="200" fill="{GREEN}"/>'+polksiezyc(140,100,48,WHITE,GREEN)+star(168,100,16,WHITE,rot=18)),
- # Rewolucja: czerwień, złoty półksiężyc z gwiazdą w rogu (półksiężyc jak sierp, wspólny znak Rusinów i Tatarów)
- '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/>'+polksiezyc(48,48,30,GOLD,RED)+star(64,48,11,GOLD,rot=18)),
+ # Rewolucja: czerwień, złoty półksiężyc-sierp z gwiazdą i młot pod nim (wzór od autora moda), wspólny znak Rusinów i Tatarów
+ '4_rewolucja': svg('<rect width="300" height="200" fill="#cc0000"/>'+maska(PKM,PMW,PMH,151,100,150,'#ffd700','pkm')),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
