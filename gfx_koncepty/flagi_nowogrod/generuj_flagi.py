@@ -38,6 +38,11 @@ F={
  'nowy_nowogrod': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="167" width="300" height="33" fill="#2d2dcc"/>'
                       +star(95.4,55.1,4.2,'#2d2dcc')+star(115.0,62.4,4.2,'#2d2dcc')+star(124.8,72.8,4.2,'#2d2dcc')+star(134.7,83.7,4.2,'#2d2dcc')+star(133.4,99.2,4.2,'#2d2dcc')+star(155.5,106.4,4.2,'#2d2dcc')+star(164.0,94.2,4.2,'#2d2dcc')+star(204.6,31.0,7,'#2d2dcc')
                       +'<text x="150" y="152" font-family="DejaVu Sans" font-weight="bold" font-size="13.2" fill="#2d2dcc" text-anchor="middle" letter-spacing="0.2">РЕСПУБЛИКА НОВЫЙ НОВГОРОДЪ</text>'),
+ # Socjalistyczna Republika Nowego Nowogrodu: czerwień, żółty Wielki Wóz z Gwiazdą Polarną, żółty napis w ówczesnej pisowni (dopełniacz „Новаго”)
+ 'nowy_nowogrod_rewolucja': svg('<rect width="300" height="200" fill="#c8102e"/>'+star(95.4,47.1,4.2,'#ffd200')+star(115.0,54.4,4.2,'#ffd200')+star(124.8,64.8,4.2,'#ffd200')+star(134.7,75.7,4.2,'#ffd200')+star(133.4,91.2,4.2,'#ffd200')+star(155.5,98.4,4.2,'#ffd200')+star(164.0,86.2,4.2,'#ffd200')+star(204.6,23.0,7,'#ffd200')
+                      +'<g font-family="DejaVu Sans" font-weight="bold" fill="#ffd200" text-anchor="middle">'
+                       '<text x="150" y="156" font-size="12.4" letter-spacing="0.2">СОЦИАЛИСТИЧЕСКАЯ РЕСПУБЛИКА</text>'
+                       '<text x="150" y="178" font-size="12.4" letter-spacing="1">НОВАГО НОВГОРОДА</text></g>'),
  # Republika Pskowska („młodszy brat” Nowogrodu): układ Nowogrodu, biel nad błękitem, lampart pskowski na zielonym wzgórzu
  'psków': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="{YB}" width="300" height="{200-YB}" fill="{BLUE}"/>'+img(LAMP,LPW,LPH,150,72,96)),
  # Wolna Republika Ochocka (Daleki Wschód): biel nad granatem Pacyfiku, złote słońce wschodzące nad horyzontem

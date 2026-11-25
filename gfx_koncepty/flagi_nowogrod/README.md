@@ -16,3 +16,4 @@ Nowogród: prawosławna republika kupiecka od Estonii po Alaskę. Płaskie flagi
 | syberia | Księstwo Syberyjskie (Stroganowowie, Tobolsk): biel nad zielenią, barwy regionalne Syberii. Godło do dodania (sobole z herbu Syberii) |
 
 Podgląd nowych państw (Psków, Ochock, Syberia): [nowe_panstwa.png](nowe_panstwa.png).
+| nowy_nowogrod_rewolucja | Socjalistyczna Republika Nowego Nowogrodu: czerwień, żółty Wielki Wóz z Gwiazdą Polarną, żółty napis *СОЦИАЛИСТИЧЕСКАЯ РЕСПУБЛИКА НОВАГО НОВГОРОДА* (ówczesna pisownia, dopełniacz „Новаго”) |
