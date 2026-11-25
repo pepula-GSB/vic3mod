@@ -23,8 +23,8 @@ def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 20
 F={
  # Republika Panońska (wzór od autora moda): błękit, czerwień, żółć
  'panonia_1_republika': svg(TRI),
- # Królestwo Panonii: ta sama trójbarwa, na czerwonym pasie złota korona
- 'panonia_2_monarchia': svg(TRI+korona(150,116,56,Y)),
+ # Królestwo Panonii: ta sama trójbarwa co republika, bez korony
+ 'panonia_2_monarchia': svg(TRI),
  # Teokracja unicka (biskupi Timișoary w unii z Rzymem, obrządek wschodni): błękit ze złotym krzyżem trójbelkowym, u dołu cienkie pasy czerwień i żółć
  'panonia_3_teokracja': svg(f'<rect width="300" height="200" fill="{B}"/><rect y="164" width="300" height="18" fill="{R}"/><rect y="182" width="300" height="18" fill="{Y}"/>'
                             +krzyz_trojbelkowy(150,20,132,Y)),

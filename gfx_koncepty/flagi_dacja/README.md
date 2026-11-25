@@ -5,7 +5,7 @@ Płaskie flagi 3:2 (SVG 1536×1024) i podgląd PNG, generowane skryptem `generuj
 | Plik | Państwo / ustrój |
 |---|---|
 | panonia_1_republika | Republika Panońska (katolicki zachód Dacji między Karpatami a Cisą, jeśli się oderwie): błękit, czerwień i żółć (wzór od autora moda) |
-| panonia_2_monarchia | Królestwo Panonii: trójbarwa, na czerwonym pasie złota korona |
+| panonia_2_monarchia | Królestwo Panonii: ta sama trójbarwa co republika |
 | panonia_3_teokracja | Teokracja unicka (biskupi Timișoary w unii z Rzymem, obrządek wschodni): błękit ze złotym krzyżem trójbelkowym, u dołu cienkie pasy czerwień i żółć |
 | panonia_4_rewolucja | Panonia rewolucyjna: czerwień, złota gwiazda w rogu, u dołu cienkie pasy błękit i żółć |
 
