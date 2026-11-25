@@ -7,5 +7,5 @@ Nowogród: prawosławna republika kupiecka od Estonii po Alaskę. Płaskie flagi
 | Plik | Ustrój |
 |---|---|
 | 1_republika | Republika (start, wiece i Rada Panów): biel nad błękitem, tron z niedźwiedziami, ryby na błękicie |
-| 2_teokracja | Rządy arcybiskupa nowogrodzkiego (realnie przewodniczącego Radzie Panów): purpura ze złotą linią zamiast błękitu, tron bez ryb |
+| 2_teokracja | „Dom Świętej Zofii”, rządy arcybiskupa nowogrodzkiego: granat ze złotym krzyżem na Golgocie z włócznią i gąbką ([../emblematy/krzyz_golgota_maska.png](../emblematy/krzyz_golgota_maska.png), wzór od autora moda) |
 | 3_rewolucja | Nowogród rewolucyjny: czerwień nad błękitem, złota gwiazda, białe ryby (rybacy i flisacy) |
