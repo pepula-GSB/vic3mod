@@ -48,6 +48,18 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
   - Ludność Syberii jest nieliczna: rosyjskojęzyczni (nowogrodzcy) osadnicy, a większość stanowią ludy tubylcze (Tatarzy syberyjscy, Chanty, Mansowie, Jakuci, Buriaci, Ewenkowie).
 - **Rywale**: Szwecja (Finlandia), Moskwa (granica na Uralu i Irtyszu, futra, przejście na Syberię), Chiny Qing (Amur).
 
+- **Wydarzenie „Dom Świętej Zofii”** (gdy Nowogród przyjmie teokrację, czyli rządy arcybiskupa nowogrodzkiego):
+  - **Podstawa historyczna**: realnie arcybiskup (władyka) przewodniczył Radzie Panów, przechowywał skarbiec i pieczęć republiki, a ziemie Nowogrodu nazywano „Domem Świętej Zofii” od soboru Mądrości Bożej. Mówiono: „gdzie Święta Zofia, tam Nowogród”. Teokracja nie jest więc tu obcym przewrotem, tylko powrotem do korzeni.
+  - **Zmiana nazwy** na **Dom Świętej Zofii**. Stolica zostaje w Nowogrodzie przy soborze, w przeciwieństwie do Litwy-Rusi, która przenosi się do Kijowa. Flaga przechodzi na purpurę z samym tronem (zob. [../gfx_koncepty/flagi_nowogrod/](../gfx_koncepty/flagi_nowogrod/)).
+  - **Spór o zwierzchnictwo**: arcybiskup nowogrodzki tradycyjnie podlega metropolicie kijowskiemu. Rządzący państwem władyka nie chce słuchać Kijowa, zwłaszcza gdy tam też rządzi Cerkiew (Wielka Metropolia Rusi). Stąd journal entry:
+    - **Metropolia Nowogrodzka**: prośba do Konstantynopola o podniesienie Nowogrodu do rangi metropolii, podległej bezpośrednio patriarsze, z pominięciem Kijowa. Kijów protestuje, a Konstantynopol może grać jednym przeciw drugiemu.
+    - Jeśli Kijów jest Wielką Metropolią albo Patriarchatem Rusi i domaga się zwierzchnictwa nad Nowogrodem, to rywalizacja dwóch teokracji o to, kto jest prawdziwą Rusią.
+  - **Skutki wewnętrzne**:
+    - **Kupcy i wiec tracą władzę**: bojarzy i kupieckie rody z Rady Panów są wypchnięci przez duchownych. Ryzyko, że **Kompania Nowogrodzko-Amerykańska** i syberyjscy Stroganowowie zaczną rządzić się sami. Kolonie mogą się usamodzielnić, a w Ameryce zostanie tylko nominalna władza Nowogrodu.
+    - **Misje**: Cerkiew nawraca ludy Syberii i Alaski szybciej, ale budzi przy tym opór (Jakuci, Buriaci, ludy wybrzeża Pacyfiku).
+    - **Psków**, z własnym biskupem i dawną tradycją odrębności, może się zbuntować przeciw władzy nowogrodzkiego władyki.
+  - **Odwrót**: upadek teokracji to wybór, czy przywrócić wiec (republika), czy oddać władzę kupcom (oligarchia).
+
 ## Królestwo Halicko-Wołyńskie
 - **Terytorium**: Ruś Czerwona ze Lwowem (bez Przemyśla, Sanoka i Chełma, które są polskie), wschodni Wołyń (Łuck, Równe), Podole, Mołdawia (dostęp do Morza Czarnego przez Dniestr).
 - **Stolice**: Lwów, Halicz, Łuck.
