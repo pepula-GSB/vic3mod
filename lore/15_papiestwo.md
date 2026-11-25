@@ -2,7 +2,7 @@
 
 ## Chrześcijaństwo w tym świecie
 Trzy wielkie wyznania i kilka mniejszych:
-- **Katolicy (Rzym)**: Francja, Hiszpania z Aragonią, Portugalia, Burgundia, Bawaria, państwa włoskie, Irlandia, Mazowsze, Prusy, Chorwacja-Panonia, zachodnia Dacja, katolicki wschód Polski (Lublin, Przemyśl), Nowa Francja, Luizjana, Ameryka Łacińska.
+- **Katolicy (Rzym)**: Francja, Hiszpania z Aragonią, Portugalia, Burgundia, Bawaria, państwa włoskie, Irlandia, Mazowsze, Prusy, Chorwacja-Sławonia, zachodnia Dacja, katolicki wschód Polski (Lublin, Przemyśl), Nowa Francja, Luizjana, Ameryka Łacińska.
 - **Husyci (kościół morawski)**: Morawy z wasalami (Czechy, Śląsk, Łużyce, Miśnia), Polska (Poznań), Pomorze, Saksonia i większość protestanckich Niemiec, Skandynawia, Niderlandy (w odmianie kalwińsko-morawskiej), wpływy w Anglii (lollardzi).
 - **Prawosławni (Konstantynopol)**: Cesarstwo Bułgarsko-Romejskie, Litwa-Ruś, Nowogród, prawosławny zachód Moskwy, Serbia, wschodnia Dacja.
 - **Mniejsze**: unici haliccy (z Rzymem, obrządek wschodni), Kościół bośniacki (bogomili), wspólnoty Wieletii z tradycją Arkony.

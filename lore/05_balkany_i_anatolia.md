@@ -43,7 +43,7 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 - **Dacja**: entuzjazm, ochotnicy przez Karpaty, a rząd w Białogrodzie stoi przed dylematem, czy otwarcie wesprzeć rewolucję (wojna z Konstantynopolem i Haliczem), czy tylko pomagać po cichu.
 - **Cesarstwo Bułgarsko-Romejskie**: Wołosi dają przykład. **Bułgarzy** żądają równouprawnienia z Grekami (własny patriarchat, język w szkołach i urzędach), **Grecy** odpowiadają hasłem hellenizacji. Groźba rozpadu na trzy narody.
 - **Serbia**: wspiera ruchy antygreckie i liczy na Macedonię.
-- **Chorwacja-Panonia**: ruch iliryjski i spór o ziemie nad Cisą z Dacją.
+- **Chorwacja-Sławonia**: ruch iliryjski i spór o ziemie nad Cisą z Dacją.
 
 **Kto tłumi:**
 - Konstantynopol wysyła wojsko do Bukaresztu.
@@ -63,7 +63,7 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 ## Serbia
 - Silniejsza, bo przez stulecia nie musiała walczyć z Węgrami. Carstwo Duszana było jeszcze większe.
 - **W 1836 roku**: niepodległa, z ambicjami na Macedonię i Kosowo. Sojusznik albo rywal Konstantynopola.
-- **Na północy**: irredenta wobec Serbów w Chorwacji-Panonii (Srem, ziemie nad Dunajem, Krajina) i poparcie dla Bośniaków przeciw Zagrzebiowi.
+- **Na północy**: irredenta wobec Serbów w Chorwacji-Sławonii (Srem, ziemie nad Dunajem, Krajina) i poparcie dla Bośniaków przeciw Zagrzebiowi.
 
 ## Księstwo Dacji
 - **Nazwy „Siedmiogród” i „Transylwania” nie istnieją.** Siedmiogród to kalka *Siebenbürgen* od siedmiu grodów saskich kolonistów, a Transylwania (*ultra silvam*) i rumuński *Ardeal* pochodzą od węgierskiej kancelarii. Tu nie ma ani Węgrów, ani Sasów.
@@ -72,15 +72,15 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
 - **Stolica**: Białogród (*Bălgrad*, realna Alba Iulia), stary gród książąt. Dostęp do Dunaju jest tylko przez Oltenię (Turnu Severin, Calafat).
 - **Religia: kraj podzielony.**
   - **Wschód i góry**: prawosławie, z biskupstwem pod patriarchą w Konstantynopolu.
-  - **Zachód panoński** (Banat, Kriszana, ziemie nad Cisą): **katolicyzm**, łaciński i unicki. Przyszedł z katolickiej Chorwacji-Panonii przez misje, małżeństwa bojarów i handel. Realnie część Rumunów w Siedmiogrodzie przyjęła unię z Rzymem w 1700 roku i stworzyła Kościół greckokatolicki.
-  - **Sławończycy na zachodzie**: na nizinie nad Cisą i w Banacie żyją katoliccy Sławończycy. To potomkowie Słowian panońskich, którzy byli kiedyś częścią morawskiej Panonii, ale oddzielili się od Morawian i wytworzyli własną tożsamość. Są tym samym ludem co Sławończycy w Chorwacji-Panonii i w morawskiej północnej Panonii, tylko rozcięci granicami trzech państw. Stanowią trzon katolickiego zachodu Dacji.
+  - **Panonia** (po rumuńsku *Panonia*, zachodni region Dacji: Banat, Kriszana, ziemie nad Cisą): **katolicyzm**, łaciński i unicki. Przyszedł z katolickiej Chorwacji-Sławonii przez misje, małżeństwa bojarów i handel. Realnie część Rumunów w Siedmiogrodzie przyjęła unię z Rzymem w 1700 roku i stworzyła Kościół greckokatolicki.
+  - **Sławończycy na zachodzie**: na nizinie nad Cisą i w Banacie żyją katoliccy Sławończycy. To potomkowie Słowian panońskich, którzy byli kiedyś częścią morawskiej Panonii, ale oddzielili się od Morawian i wytworzyli własną tożsamość. Są tym samym ludem co Sławończycy w Chorwacji-Sławonii i w morawskiej północnej Panonii, tylko rozcięci granicami trzech państw. Stanowią trzon katolickiego zachodu Dacji.
   - **Skutki**:
     - Katolicki zachód patrzy w stronę Zagrzebia i Rzymu, a prawosławny wschód w stronę Konstantynopola i Bukaresztu.
-    - Spór z Chorwacją-Panonią o ziemie nad Cisą ma wymiar wyznaniowy i narodowy: Zagrzeb może grać na katolikach i na wspólnocie ze Sławończykami po swojej stronie granicy.
+    - Spór z Chorwacją-Sławonią o ziemie nad Cisą ma wymiar wyznaniowy i narodowy: Zagrzeb może grać na katolikach i na wspólnocie ze Sławończykami po swojej stronie granicy.
     - W czasie Wiosny Ludów katolicki zachód jest ostrożny wobec unii z prawosławną Muntenią.
-- **W 1836 roku**: niezależne księstwo między Cesarstwem Bułgarsko-Romejskim, Chorwacją-Panonią, Serbią, Haliczem i Litwą-Rusią.
+- **W 1836 roku**: niezależne księstwo między Cesarstwem Bułgarsko-Romejskim, Chorwacją-Sławonią, Serbią, Haliczem i Litwą-Rusią.
 - **Problem: Mołdawia jest w unii z Haliczem**, więc Rumuni są podzieleni.
-- **Journal entry „Cała Dacja”**: odzyskanie Mołdawii od Halicza i Munteni z Bukaresztem od Konstantynopola, budowa narodu rumuńskiego wokół idei rzymsko-dackiej i spór z Chorwacją-Panonią o ziemie nad Cisą.
+- **Journal entry „Cała Dacja”**: odzyskanie Mołdawii od Halicza i Munteni z Bukaresztem od Konstantynopola, budowa narodu rumuńskiego wokół idei rzymsko-dackiej i spór z Chorwacją-Sławonią o ziemie nad Cisą.
 
 ## Imperium Osmańskie
 - Anatolia jak realnie: Seldżucy, Mongołowie, bejlikaty, Osmanowie.
@@ -119,4 +119,4 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
   - **„Buraimi”**: granica saudyjsko-omańska i dostęp do Zatoki.
 
 ## Kwestia Wschodnia
-Konstantynopol i Litwa-Ruś (prawosławie) kontra Osmanowie w Anatolii, z Serbią, Chorwacją-Panonią i Rumunami jako graczami pośrednimi.
+Konstantynopol i Litwa-Ruś (prawosławie) kontra Osmanowie w Anatolii, z Serbią, Chorwacją-Sławonią i Rumunami jako graczami pośrednimi.

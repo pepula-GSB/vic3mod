@@ -16,7 +16,7 @@
 - **Abolicja w Anglii**: w 1836 roku jeszcze nie ma. To temat debaty na start gry.
 - **Anglia i Szkocja**: tylko unia personalna, bez wspólnego parlamentu.
 - **Ryga**: podzielona Dźwiną. Prawy brzeg ze starym miastem jest nowogrodzki, lewy brzeg z twierdzą u ujścia litewski.
-- **Głagolica**: Morawy używają łaciny, a Chorwacja-Panonia może zachować głagolicę jako pismo narodowe lub liturgiczne.
+- **Głagolica**: Morawy używają łaciny, a Chorwacja-Sławonia może zachować głagolicę jako pismo narodowe lub liturgiczne.
 - **Łużyce i Miśnia**: osobne margrabstwa zależne od Moraw.
 
 ## Praca techniczna nad modem

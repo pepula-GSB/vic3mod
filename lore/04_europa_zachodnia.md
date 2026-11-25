@@ -64,7 +64,7 @@ Kto kontroluje ujście, ten decyduje, czy handel bałtycki idzie przez duński S
 - **Austria nie istnieje.** W 1278 roku Habsburgowie przegrywają z Morawami, a kotlina wiedeńska staje się morawska. Ziemie alpejskie, dawna bawarska Marchia Wschodnia i karyntyjska, przechodzą do **Wittelsbachów**.
 - **Terytorium**: Bawaria, kraj nad Anizą (Linz, czyli realna Górna Austria), Salzburg, Tyrol, Styria (Graz), Karyntia, a od 1815 roku **Wenecja** (wyjście na Adriatyk).
 - **Religia**: katolicka, kontrreformacyjna. Wspiera katolickie Mazowsze i Prusy, a Rzym ma w niej oparcie przeciw husyckim Morawom.
-- **Pozycja**: najsilniejsze państwo niemieckie i główny rywal Saksonii o przywództwo w Niemczech. Także główny rywal Moraw na południu: granica alpejska z Morawami w Lasku Wiedeńskim i z Chorwacją-Panonią w Karyntii i Styrii.
+- **Pozycja**: najsilniejsze państwo niemieckie i główny rywal Saksonii o przywództwo w Niemczech. Także główny rywal Moraw na południu: granica alpejska z Morawami w Lasku Wiedeńskim i z Chorwacją-Sławonią w Karyntii i Styrii.
 - **Problemy**: Słoweńcy w Karyntii i Styrii (patrzą w stronę Zagrzebia), Włosi w Wenecji, odrębność Tyrolu, napięcie między Monachium a alpejskimi prowincjami.
 
 ## Szwajcaria

@@ -148,7 +148,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 - **Religia**: protestancki kościół narodowy (husycko-morawski), z tradycją liturgii Cyryla i Metodego.
 - **Gospodarka**: przemysłowe państwo z węglem zagłębia ostrawsko-karwińskiego. Większy węgiel górnośląski i saski leży u wasali (Śląsk, Miśnia), co jest źródłem napięć.
 - **Rola**: lider zachodniego panslawizmu i główna lądowa siła koalicji antynapoleońskiej. Największa potęga słowiańska na zachodzie.
-- **Sławończycy w północnej Panonii: mniejszość.** Po tysiącu lat pod Welehradem większość Słowian panońskich na północy uległa **morawizacji**: mówi po morawsku, chodzi do kościoła morawskiego i uważa się za Morawian. Sławońska tożsamość przetrwała tylko w katolickich enklawach na południu niziny, bliżej Chorwacji-Panonii. To mała, ale uparta mniejszość.
+- **Sławończycy w północnej Panonii: mniejszość.** Po tysiącu lat pod Welehradem większość Słowian panońskich na północy uległa **morawizacji**: mówi po morawsku, chodzi do kościoła morawskiego i uważa się za Morawian. Sławońska tożsamość przetrwała tylko w katolickich enklawach na południu niziny, bliżej Chorwacji-Sławonii. To mała, ale uparta mniejszość.
 - **Problemy**: jeden naród morawski czy osobni Słowacy i Małopolanie? Sławończycy w Panonii. Lojalność państw zależnych. Spór z Polską o Kraków. Granica z Bawarią w Lasku Wiedeńskim.
 
 ### Państwa zależne od Moraw
@@ -217,7 +217,7 @@ Państwa lechickie i połabskie są **osobnymi, ugruntowanymi państwami** od mn
 W Vic3 wszystkie trzy są państwami zależnymi (subjects) Moraw z rosnącymi dążeniami do autonomii. Journal entry: centralizacja kontra federalizacja korony morawskiej.
 
 ## Królestwo Chorwacko-Panońskie
-- **Terytorium**: Chorwacja, Dalmacja (spór z Bawarią, która ma Wenecję), Sławonia, środkowa Panonia (nad Balatonem), Bośnia, Słowenia.
+- **Terytorium**: Chorwacja, Dalmacja (spór z Bawarią, która ma Wenecję), Sławonia, ziemie nad Balatonem, Bośnia, Słowenia.
 - **Kultury**: Chorwaci, Słoweńcy (blisko Słowaków, ślad dawnej ciągłości), Sławończycy (dialekt sztokawski; ten sam lud mieszka też w morawskiej północnej Panonii i w zachodniej Dacji nad Cisą), Bośniacy, Serbowie, mniejszość niemiecka na zachodzie, Dalmatyńcy i Włosi w miastach wybrzeża.
 - Nigdy nie było pod Turkami.
 - **Religie**:
@@ -256,12 +256,12 @@ Odpowiednik realnego zjednoczenia Niemiec, tylko na mniejszą skalę i między �
 ### Kwestia sławońska (journal entry)
 Sławończycy są rozcięci między trzy państwa:
 - **Morawy**: północna Panonia (mniejszość, w dużej części zmorawizowana),
-- **Chorwacja-Panonia**: Sławonia między Drawą a Sawą (rdzeń tożsamości),
+- **Chorwacja-Sławonia**: Sławonia między Drawą a Sawą (rdzeń tożsamości),
 - **Dacja**: nizina nad Cisą i Banat.
 
 Katolicy, z dialektem sztokawskim. Ich ruch narodowy w XIX wieku może pójść kilkoma drogami:
 - autonomia w każdym z trzech państw,
-- zjednoczenie wszystkich Sławończyków w Chorwacji-Panonii (program Zagrzebia),
+- zjednoczenie wszystkich Sławończyków w Chorwacji-Sławonii (program Zagrzebia),
 - własne państwo sławońskie w środku Kotliny,
 - asymilacja: Morawianie na północy (już w dużej mierze się dokonała), Chorwaci w centrum, Rumuni na wschodzie.
 
