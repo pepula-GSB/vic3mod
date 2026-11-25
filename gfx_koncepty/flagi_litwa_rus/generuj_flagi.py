@@ -25,6 +25,9 @@ F={
  # Republika: zieleń, czerwony pas, biel, złoty krzyż podwójny (wzór od autora moda)
  '2_republika': svg(f'<rect width="300" height="90" fill="{GREEN}"/><rect y="90" width="300" height="25" fill="{RED}"/><rect y="115" width="300" height="85" fill="{WHITE}"/>'
                     +krzyz_podwojny(151,38,120,GOLD)),
+ # Teokracja prawosławna (rządy metropolity kijowskiego): purpura z wąskimi złotymi pasami u góry i dołu, złoty krzyż podwójny
+ '3_teokracja': svg(f'<rect width="300" height="200" fill="#4a1a5c"/><rect y="14" width="300" height="6" fill="{GOLD}"/><rect y="180" width="300" height="6" fill="{GOLD}"/>'
+                    +krzyz_podwojny(150,40,120,GOLD,stroke="#2a0d36",sw=1)),
  # Litwa-Ruś rewolucyjna: gładka czerwień, jak sztandar Litbelu (1919)
  '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/>'),
 }
