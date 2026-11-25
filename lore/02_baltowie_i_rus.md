@@ -19,6 +19,20 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
 - **Ryga podzielona Dźwiną**: rzeka to granica litewsko-nowogrodzka. Stare miasto i port na prawym brzegu są nowogrodzkie, a Zadźwinie na lewym brzegu i twierdza u ujścia litewskie. Litwa może zamknąć wyjście z rzeki, a Nowogród ma miasto i kupców. Spór o cła od spławu Dźwiną z Połocka i Witebska.
 - **Problemy**: kozaczyzna na stepie, Chanat Krymski (wasal osmański) i osmański Azow na stepie, łotewski ruch narodowy (naród podzielony z Nowogrodem), Napoleon próbował ją najechać.
 
+- **Wydarzenie „Wielki Patriarchat Ruski”** (gdy państwo przyjmie teokrację, czyli rządy metropolity kijowskiego):
+  - **Przenosiny stolicy do Kijowa**: Wilno to stolica książąt, a Kijów to stolica wiary, z Ławrą Peczerską i Soborem Sofijskim, ośrodek metropolii od 988 roku. Rząd duchownych przenosi się tam, gdzie ma swój tron.
+  - **Zmiana nazwy** na **Wielki Patriarchat Ruski**. Metropolita kijowski ogłasza się patriarchą Kijowa i całej Rusi, a flaga przechodzi na purpurę ze złotym krzyżem podwójnym (zob. [../gfx_koncepty/flagi_litwa_rus/](../gfx_koncepty/flagi_litwa_rus/)).
+  - **Warunek: autokefalia.** Metropolia kijowska podlega patriarsze Konstantynopola, a ten siedzi w Cesarstwie Bułgarsko-Romejskim, najbliższym sojuszniku Litwy-Rusi. Kijów może:
+    - poprosić Konstantynopol o uznanie patriarchatu: drogo w dyplomacji, ale bez zerwania sojuszu;
+    - ogłosić autokefalię jednostronnie: schizma z Konstantynopolem, koniec sojuszu i wpływów cesarstwa, za to pełna niezależność.
+  - **Skutki wewnętrzne**:
+    - **Wilno traci stolicę**: litewska i białoruska szlachta tracą wpływy na rzecz duchowieństwa i Rusinów kijowskich. To może dać ruch „Wilno wraca” albo litewskie dążenia separatystyczne, łatwiejsze tam, gdzie Litwa jest częściowo katolicka.
+    - **Białorusini** czują się zepchnięci na margines między Wilnem a Kijowem.
+  - **Skutki zewnętrzne**:
+    - **Nowogród** (też prawosławny) nie uznaje tytułu „całej Rusi”. Spór o zwierzchnictwo nad cerkwiami w Nowogrodzie, Rydze i na Syberii.
+    - **Halicz** (unicki) widzi w tym zagrożenie, bo Patriarchat zaczyna agitować prawosławnych na Wołyniu i w Mołdawii.
+    - **Odwrót**: jeśli teokracja upadnie, wybór, czy wrócić do Wilna i starej nazwy, czy zostać w Kijowie jako Wielkie Księstwo Kijowskie.
+
 ## Republika Nowogrodzka
 - **Terytorium**: Nowogród, Psków, Karelia, wschodnia Finlandia (Sawonia), Ingria i ujście Newy (nie ma Petersburga, zamiast niego port nowogrodzki), Estonia (Rewal, Narwa, Parnawa, Tartu), Inflanty na północ od Dźwiny ze starym miastem Rygi, wybrzeże Morza Białego, ziemie po Ural, a za Uralem **cała Syberia** aż po Ałtaj, Sajany, Bajkał, Amur, Ochock i Kamczatkę.
 - **Ustrój**: kupiecka oligarchia, wiec.
