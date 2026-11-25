@@ -7,6 +7,7 @@ def b64(n): return base64.b64encode(open(os.path.join(EMB,n),'rb').read()).decod
 TRON=b64('nowogrod_tron_niedzwiedzie.png'); TW,TH=824,832
 RYBY=b64('nowogrod_ryby.png'); RYBYW=b64('nowogrod_ryby_biale.png'); RW,RH=704,164
 GOLG=b64('krzyz_golgota_maska.png'); GW,GH=1245,1254
+LAMP=b64('lampart_nowy_nowogrod.png'); LPW,LPH=921,499
 WHITE='#ffffff'; BLUE='#0087dd'; GOLD='#e8a317'; RED='#c8102e'; PURPLE='#4a1a5c'
 def svg(b): return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="1536" height="1024">{b}</svg>'
 def img(b,w0,h0,cx,cy,h): w=h*w0/h0; return f'<image x="{cx-w/2:.1f}" y="{cy-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" href="data:image/png;base64,{b}"/>'
@@ -27,6 +28,11 @@ F={
  # Nowogród rewolucyjny: czerwień nad błękitem, białe ryby (rybacy i flisacy), złota gwiazda
  '3_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="{YB}" width="300" height="{200-YB}" fill="{BLUE}"/>'
                     +star(150,66,40,GOLD)+img(RYBYW,RW,RH,150,166,32)),
+ # Republika Nowego Nowogrodu (Sitka, po buncie Kompanii): wzór od autora moda w stylu flagi Republiki Kalifornijskiej.
+ # Lampart (z herbu Pskowa i Nowogrodu) na zielonym wzgórzu, granatowa gwiazda, napis w ówczesnej pisowni z jerem, granatowy pas u dołu.
+ 'nowy_nowogrod': svg(f'<rect width="300" height="200" fill="{WHITE}"/><rect y="167" width="300" height="33" fill="#2d2dcc"/>'
+                      +star(54,38,22,'#2d2dcc')+img(LAMP,LPW,LPH,150,84,92)
+                      +'<text x="150" y="152" font-family="DejaVu Sans" font-weight="bold" font-size="13.2" fill="#5a4228" text-anchor="middle" letter-spacing="0.2">РЕСПУБЛИКА НОВЫЙ НОВГОРОДЪ</text>'),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
