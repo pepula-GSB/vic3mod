@@ -38,9 +38,6 @@ F={
  '2_republika': svg('<rect width="300" height="67" fill="#000000"/><rect y="67" width="300" height="66" fill="#0e7644"/><rect y="133" width="300" height="67" fill="#ffffff"/>'),
  # Republika islamska (gdy islam weźmie górę): ta sama trójbarwa ze złotym, zdobionym półksiężycem i gwiazdą (wzór od autora moda)
  '2b_republika_islamska': svg('<rect width="300" height="67" fill="#000000"/><rect y="67" width="300" height="66" fill="#0e7644"/><rect y="133" width="300" height="67" fill="#ffffff"/>'+maska(PKO,PKW,PKH,148,99.5,47,'#fac01e','pko')),
- # Republika dwóch wiar (wariant): karmazyn, na środku białe koło, w nim złoty krzyż i złoty półksiężyc obok siebie (dwie wiary jako równe)
- '2c_republika_dwoch_wiar': svg(f'<rect width="300" height="200" fill="{CRIM}"/><circle cx="150" cy="100" r="58" fill="{WHITE}"/>'
-                    +krzyz_prawoslawny(127,68,64,GOLD)+polksiezyc(176,100,24,GOLD,WHITE)),
  # Teokracja prawosławna (metropolita moskiewski): granat z płaszcza Jerzego, złoty krzyż ośmioramienny
  '3a_teokracja_prawoslawna': svg(f'<rect width="300" height="200" fill="{NAVY}"/>'+krzyz_prawoslawny(150,30,140,GOLD)),
  # Teokracja islamska (rządy ulemów z Kazania, chanat): zieleń, biały półksiężyc i gwiazda
