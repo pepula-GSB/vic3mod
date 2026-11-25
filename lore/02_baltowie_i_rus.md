@@ -131,6 +131,14 @@ Raczej **pozostałość po Złotej Ordzie** niż liczące się państwo.
     - **Monastery jako twierdze**: Ławra Troicko-Siergijewska i klasztory północy stają się ośrodkami oporu, jak twierdze wiary.
   - **Zakończenia**:
     - **Chanat Moskiewski**: islam staje się religią państwową, flaga przechodzi na zieleń z półksiężycem. Bliżej Osmanów, dalej od Rusi. Prawosławny zachód jest niespokojny.
+  - **Wydarzenie „Tron nad Kazanką”** (po zwycięstwie islamu): przeniesienie stolicy do Kazania.
+    - **Dlaczego**: Moskwa to miasto cerkwi, klasztorów i prawosławnych bojarów, którzy nie ufają chanowi. Kazań to serce muzułmańskiej elity, z meczetami, medresami i tatarskimi rodami, a do tego węzeł handlu wołżańskiego i najkrótsza droga do Osmanów w Carycynie i Astrachaniu.
+    - **Wybór**:
+      - **Przenieść dwór do Kazania**: państwo zmienia nazwę na **Chanat Kazański** i ma kreml kazański za stolicę. Elity muzułmańskie są lojalne, handel z Osmanami rośnie, ale Moskwa staje się prowincjonalnym, prawosławnym miastem pełnym urazy. Wyraźnie rośnie ryzyko rozłamu, czyli oderwania prawosławnego zachodu pod opieką Litwy-Rusi.
+      - **Zostać w Moskwie**: nazwa Chanat Moskiewski zostaje. Chan rządzi z Kremla jako władca obu wiar, co jest spokojniejsze dla zachodu, ale tatarskie rody uważają, że zwycięstwo islamu zostało zmarnowane. Rośnie ryzyko oderwania Kazania.
+    - **Skutki dalsze**:
+      - Kazań jako stolica może sięgać po przywództwo nad muzułmanami stepu (Baszkirzy, Kazachowie, Chiwa, Buchara) i rywalizować z kalifem w Adanie o ich lojalność.
+      - Moskwa bez dworu może stać się ośrodkiem prawosławnego odrodzenia i w kryzysie ogłosić się osobnym **Wielkim Księstwem Moskiewskim**.
     - **Rozłam**: prawosławne ziemie zachodnie (Twer, Riazań, Smoleńsk) odrywają się jako osobne księstwo pod opieką Litwy-Rusi, a reszta zostaje chanatem.
     - **Odrodzenie prawosławia**: gracz utrzymuje równowagę albo odwraca trend. Moskwa wybiera Ruś, ale traci poparcie Tatarów i ryzykuje oderwanie Kazania.
 
