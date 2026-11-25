@@ -77,6 +77,7 @@ Region jest beczką prochu. Realnie w 1848 roku wybuchły rewolucje w Bukareszci
   - **Skutki**:
     - Katolicki zachód patrzy w stronę Zagrzebia i Rzymu, a prawosławny wschód w stronę Konstantynopola i Bukaresztu.
     - Spór z Chorwacją-Sławonią o ziemie nad Cisą ma wymiar wyznaniowy i narodowy. Rzeka jest granicą, ale Sławończycy mieszkają na obu jej brzegach, więc Zagrzeb może grać na katolikach i na wspólnocie z nimi po dackiej stronie. Program „Sławonia po Karpaty” chce przesunąć granicę z Cisy na wschód.
+    - **Oderwanie Panonii**: jeśli Białogród siłą narzuca prawosławie albo rumunizację, katolicy i Sławończycy z Banatu i Kriszany mogą ogłosić własne państwo **Panonię**, z Timișoarą jako stolicą i pod opieką Zagrzebia albo papieża. Flaga: błękit, czerwień i żółć (zob. [../gfx_koncepty/flagi_dacja/](../gfx_koncepty/flagi_dacja/)).
     - W czasie Wiosny Ludów katolicki zachód jest ostrożny wobec unii z prawosławną Muntenią.
 - **W 1836 roku**: niezależne księstwo między Cesarstwem Bułgarsko-Romejskim, Chorwacją-Sławonią, Serbią, Haliczem i Litwą-Rusią.
 - **Problem: Mołdawia jest w unii z Haliczem**, więc Rumuni są podzieleni.
