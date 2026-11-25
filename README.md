@@ -57,5 +57,6 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [gfx_koncepty/flagi_litwa_rus/](gfx_koncepty/flagi_litwa_rus/) | Flagi Wielkiego Księstwa Litewsko-Ruskiego (koncepty) |
 | [gfx_koncepty/flagi_nowogrod/](gfx_koncepty/flagi_nowogrod/) | Flagi Republiki Nowogrodzkiej (koncepty) |
 | [gfx_koncepty/flagi_halicz/](gfx_koncepty/flagi_halicz/) | Flagi Królestwa Halicko-Wołyńskiego (koncepty) |
+| [gfx_koncepty/flagi_moskwa/](gfx_koncepty/flagi_moskwa/) | Flagi Wielkiego Księstwa Moskiewskiego (koncepty) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
