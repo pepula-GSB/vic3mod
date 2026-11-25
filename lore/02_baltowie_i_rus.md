@@ -77,6 +77,17 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
     - **Wielka Metropolia Rusi** (jeśli Kijów jest teokracją) może przyjąć biskupa Pskowa pod swoje zwierzchnictwo i wbić klin w Nowogród.
   - **Flaga Republiki Pskowskiej**: do zrobienia. Herb to lampart pod ręką Bożą wyłaniającą się z obłoku.
 
+- **Wydarzenie „Upadek wiecu, bunt kolonii”** (gdy Nowogród przestaje być republiką: monarchia, teokracja, dyktatura albo rewolucja):
+  - **Przyczyna**: kolonie zakładali i utrzymywali kupcy, Pomorcy i promyszlennicy, którzy byli lojalni wobec „Pana Wielkiego Nowogrodu”, czyli wiecu i Rady Panów, a nie wobec księcia czy władyki. Monopol Kompanii Nowogrodzko-Amerykańskiej i przywileje syberyjskich kupców nadał wiec. Gdy wiec upada, kolonie uważają, że dawne umowy wygasły.
+  - **Trzy ogniska**, każde z osobnym wyborem dla gracza (ugoda, siła albo zgoda na odejście):
+    - **Syberia Zachodnia** (Ob, Irtysz, Tobolsk, Mangazeja): rody Stroganowów i kupcy futrzani. Najbliżej metropolii i najbardziej zależna od niej. Zwykle wystarcza ugoda, czyli szerokie przywileje dla Stroganowów. Jeśli się nie uda, powstaje **Księstwo Syberyjskie** Stroganowów z Tobolskiem.
+    - **Daleki Wschód** (Jakuck, Ochock, Kamczatka, Nerczyńsk i Amur): najdalej, z miesiącami drogi do metropolii, więc ma największą szansę na sukces. Promyszlennicy, kozacy i kupcy ogłaszają **Wolną Republikę Ochocką** z wiecem na wzór nowogrodzki, czyli „prawdziwy Nowogród” na końcu świata. Ryzyko: Chiny Qing mogą wykorzystać chaos nad Amurem i odebrać Nerczyńsk.
+    - **Ameryka Nowogrodzka** (Alaska, Aleuty, Wyspa Sadki z Sofijskiem, Wołchowsk): Kompania Nowogrodzko-Amerykańska przejmuje władzę jako **Republika Nowego Nowogrodu** ze stolicą na Sitce. Rządzi nią rada udziałowców, czyli kupiecka oligarchia jak dawny Nowogród. Szuka protektora albo partnera handlowego: Nowa Dania przez Ziemię Ruperta, Nowa Francja albo niezależny Oregon.
+  - **Powiązania**:
+    - Jeśli Nowy Nowogród i Republika Ochocka powstaną razem, mogą się sprzymierzyć: Ochock dostarcza futra i zboże z Amuru, a Sitka statki i rynek amerykański.
+    - Powrót Nowogrodu do republiki daje szansę na pokojowe ponowne zjednoczenie (journal entry „Pod wiecem”), jeśli kolonie są jeszcze słabe.
+    - W Ameryce bunt otwiera wyścig o północny Pacyfik: Oregon, Kalifornia, Nowa Dania i ewentualnie Japonia, jeśli się otworzy.
+
 ## Królestwo Halicko-Wołyńskie
 - **Terytorium**: Ruś Czerwona ze Lwowem (bez Przemyśla, Sanoka i Chełma, które są polskie), wschodni Wołyń (Łuck, Równe), Podole, Mołdawia (dostęp do Morza Czarnego przez Dniestr).
 - **Stolice**: Lwów, Halicz, Łuck.

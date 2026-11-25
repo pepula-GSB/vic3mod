@@ -95,6 +95,7 @@ W tym świecie nie ma USA. Wybrzeże wschodnie jest podzielone na trzy części,
   - **Sofijsk** (realnie Victoria): port i twierdza na południowym cyplu wyspy, od soboru Mądrości Bożej (św. Zofii) w Nowogrodzie. Stare nowogrodzkie hasło brzmiało: „gdzie Święta Zofia, tam Nowogród”. Główna baza na południu.
   - **Wołchowsk** (realnie Vancouver): faktoria u ujścia rzeki Fraser, od rzeki Wołchow, nad którą leży Nowogród. Najdalej na południe położone miasto nowogrodzkie na lądzie.
 - **Stolica**: **Nowy Nowogród** na wyspie Sitka (realnie Nowoarchangielsk).
+- **Odrębność**: jeśli Nowogród przestanie być republiką, Kompania może ogłosić **Republikę Nowego Nowogrodu** (zob. wydarzenie „Upadek wiecu, bunt kolonii” w [02_baltowie_i_rus.md](02_baltowie_i_rus.md)).
 - **Placówki**: faktoria w Kalifornii (realnie Fort Ross, 1812), faktoria na Hawajach (realnie próba na Kauaʻi w latach 1815–1817).
 - **Gospodarka**: futra kalanów i fok, handel z Chinami przez Kantoń i Kiachtę. Vitus Bering mógł służyć Nowogrodowi.
 - **Ludność**:
