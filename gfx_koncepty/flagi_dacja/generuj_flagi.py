@@ -27,8 +27,8 @@ F={
  'panonia_2_monarchia': svg(TRI),
  # Teokracja unicka (biskupi Timișoary w unii z Rzymem, obrządek wschodni): trójbarwa jak republika, na środku biały krzyż trójbelkowy
  'panonia_3_teokracja': svg(TRI+krzyz_trojbelkowy(150,24,152,W)),
- # Panonia rewolucyjna: czerwień, u dołu cienkie pasy błękit i żółć, złota gwiazda w rogu
- 'panonia_4_rewolucja': svg(f'<rect width="300" height="200" fill="{R}"/><rect y="164" width="300" height="18" fill="{B}"/><rect y="182" width="300" height="18" fill="{Y}"/>'+star(44,42,24,Y)),
+ # Panonia rewolucyjna: trójbarwa jak republika, na środku biała gwiazda
+ 'panonia_4_rewolucja': svg(TRI+star(150,104,40,W)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
