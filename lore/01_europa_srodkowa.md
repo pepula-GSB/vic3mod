@@ -257,7 +257,7 @@ Odpowiednik realnego zjednoczenia Niemiec, tylko na mniejszą skalę i między �
 Sławończycy są rozcięci między trzy państwa:
 - **Morawy**: północna Panonia (mniejszość, w dużej części zmorawizowana),
 - **Chorwacja-Sławonia**: Sławonia między Drawą a Sawą (rdzeń tożsamości),
-- **Dacja**: nizina nad Cisą i Banat.
+- **Dacja**: Panonia, czyli nizina na wschód od Cisy i Banat (granicą z Chorwacją-Sławonią jest Cisa).
 
 Katolicy, z dialektem sztokawskim. Ich ruch narodowy w XIX wieku może pójść kilkoma drogami:
 - autonomia w każdym z trzech państw,
