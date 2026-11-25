@@ -60,5 +60,6 @@ Reszta to łańcuch przyczyn i skutków aż do 1836 roku.
 | [gfx_koncepty/flagi_moskwa/](gfx_koncepty/flagi_moskwa/) | Flagi Wielkiego Księstwa Moskiewskiego (koncepty) |
 | [gfx_koncepty/flagi_dacja/](gfx_koncepty/flagi_dacja/) | Flagi Dacji i Panonii (koncepty) |
 | [gfx_koncepty/flagi_oman/](gfx_koncepty/flagi_oman/) | Flagi Omanu: sułtanat, imamat, republika, rewolucja (koncepty) |
+| [gfx_koncepty/flagi_osmanowie/](gfx_koncepty/flagi_osmanowie/) | Flagi Osmanów (Adana): sułtanat, republika, kalifat, rewolucja (koncepty) |
 
 Pliki opisują stan na **1836.1.1**: ustroje, granice, ludność i główne konflikty, które w grze mają być journal entries i ruchami politycznymi.
