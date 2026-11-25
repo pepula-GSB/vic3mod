@@ -17,3 +17,5 @@ Nowogród: prawosławna republika kupiecka od Estonii po Alaskę. Płaskie flagi
 
 Podgląd nowych państw (Psków, Ochock, Syberia): [nowe_panstwa.png](nowe_panstwa.png).
 | nowy_nowogrod_rewolucja | Socjalistyczna Republika Nowego Nowogrodu: czerwień, żółty Wielki Wóz z Gwiazdą Polarną, żółty napis *СОЦИАЛИСТИЧЕСКАЯ РЕСПУБЛИКА НОВАГО НОВГОРОДА* (ówczesna pisownia, dopełniacz „Новаго”) |
+| nowy_nowogrod_monarchia | Nowy Nowogród, monarchia: układ monarchii Nowogrodu w barwach Pacyfiku (złoto, granat, biel), granatowa tarcza ze złotym zamkiem i Gwiazdą Polarną |
+| nowy_nowogrod_teokracja | Nowy Nowogród, teokracja (misja prawosławna na Alasce): biel z granatowym pasem, granatowy krzyż na Golgocie, złota Gwiazda Polarna nad nim |

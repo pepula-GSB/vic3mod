@@ -51,6 +51,13 @@ F={
                +f'<circle cx="150" cy="{YB}" r="30" fill="{GOLD}"/><rect y="{YB}" width="300" height="{200-YB}" fill="#0b3d6e"/>'),
  # Księstwo Syberyjskie (Stroganowowie, Tobolsk): biel nad zielenią (barwy regionalne Syberii), godło do dodania (sobole z herbu Syberii)
  'syberia': svg(f'<rect width="300" height="100" fill="{WHITE}"/><rect y="100" width="300" height="100" fill="#1b7a3e"/>'),
+ # Nowy Nowogród, teokracja (misja prawosławna na Alasce): biel z granatowym pasem u dołu, granatowy krzyż na Golgocie, nad nim złota Gwiazda Polarna
+ 'nowy_nowogrod_teokracja': svg('<rect width="300" height="200" fill="#ffffff"/><rect y="167" width="300" height="33" fill="#0b3d6e"/>'
+                                +maska(GOLG,GW,GH,150,96,128,'#0b3d6e','golg2')+star(150,20,9,'#e8a317')),
+ # Nowy Nowogród, monarchia: układ monarchii Nowogrodu w barwach Pacyfiku (złoto, granat, biel), granatowa tarcza ze złotym zamkiem i Gwiazdą Polarną nad nim
+ 'nowy_nowogrod_monarchia': svg('<rect width="300" height="66" fill="#f6c13a"/><rect y="66" width="300" height="67" fill="#0b3d6e"/><rect y="133" width="300" height="67" fill="#ffffff"/>'
+                                +'<path d="M108,43 L192,43 L192,120 Q192,140 162,146 Q153,148 150,155 Q147,148 138,146 Q108,140 108,120Z" fill="#0b3d6e"/>'
+                                +maska(ZAM,ZW,ZH,150,102,58,'#f6c13a','zam2')+star(150,60,7,'#f6c13a')),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)
