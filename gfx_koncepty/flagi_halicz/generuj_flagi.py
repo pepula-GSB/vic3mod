@@ -19,7 +19,7 @@ F={
  # Teokracja unicka (metropolita lwowski w unii z Rzymem): barwy papieskie, złoto i biel pionowo, błękitny lew na środku
  '3_teokracja': svg(f'<rect width="150" height="200" fill="{GOLD}"/><rect x="150" width="150" height="200" fill="{WHITE}"/>'+lew(LEWN,150,100,150)),
  # Rewolucja: czerwień, złoty lew i złota gwiazda w rogu, błękitny pas u dołu
- '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="170" width="300" height="30" fill="{BLUE}"/>'+lew(LEW,160,88,132)+star(40,36,20,GOLD)),
+ '4_rewolucja': svg(f'<rect width="300" height="200" fill="{RED}"/><rect y="170" width="300" height="30" fill="{BLUE}"/>'+star(48,28,16,GOLD)+lew(LEW,48,98,94)),
 }
 for k,v in F.items():
     p=os.path.join(HERE,k+'.svg'); open(p,'w').write(v)

@@ -9,4 +9,4 @@ Halicz: unickie królestwo z Lwowem, Haliczem, Łuckiem i Mołdawią. Płaskie f
 | 1_krolestwo | Królestwo (start): złoty lew na błękicie, złote pasy u góry i dołu |
 | 2_republika | Republika: błękit nad złotem (barwy halickie), lew w kantonie |
 | 3_teokracja | Teokracja unicka (metropolita lwowski w unii z Rzymem): złoto i biel pionowo w barwach papieskich, błękitny lew |
-| 4_rewolucja | Rewolucja: czerwień, złoty lew, złota gwiazda w rogu, błękitny pas u dołu |
+| 4_rewolucja | Rewolucja: czerwień, przy drzewcu złota gwiazda, a pod nią złoty lew, błękitny pas u dołu |
