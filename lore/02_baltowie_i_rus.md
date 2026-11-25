@@ -57,8 +57,25 @@ Najważniejsza zmiana: bez niemieckiego zakonu na wschodzie (ląd blokuje Połab
   - **Skutki wewnętrzne**:
     - **Kupcy i wiec tracą władzę**: bojarzy i kupieckie rody z Rady Panów są wypchnięci przez duchownych. Ryzyko, że **Kompania Nowogrodzko-Amerykańska** i syberyjscy Stroganowowie zaczną rządzić się sami. Kolonie mogą się usamodzielnić, a w Ameryce zostanie tylko nominalna władza Nowogrodu.
     - **Misje**: Cerkiew nawraca ludy Syberii i Alaski szybciej, ale budzi przy tym opór (Jakuci, Buriaci, ludy wybrzeża Pacyfiku).
-    - **Psków**, z własnym biskupem i dawną tradycją odrębności, może się zbuntować przeciw władzy nowogrodzkiego władyki.
+    - **Psków** może się zbuntować przeciw władzy nowogrodzkiego władyki (zob. wydarzenie „Wolny Psków”).
   - **Odwrót**: upadek teokracji to wybór, czy przywrócić wiec (republika), czy oddać władzę kupcom (oligarchia).
+
+- **Wydarzenie „Wolny Psków”** (oderwanie Pskowa):
+  - **Podstawa historyczna**: realnie Psków był „młodszym bratem” Nowogrodu i wywalczył niezależność traktatem bołotowskim w 1348 roku. Przez setki lat nie miał jednak własnego biskupa, tylko podlegał arcybiskupowi nowogrodzkiemu. To była stała kość niezgody: władyka ściągał z Pskowa daniny i sądził jego duchownych. Psków przyjmował też książąt z Litwy, a św. Dowmunt, litewski książę Pskowa, jest jego patronem.
+  - **Tu**: Psków został przy Nowogrodzie, ale z własnym wiecem, sądem i dumą miasta-twierdzy (Krom, Izborsk). Pskowianie pamiętają, że mogli być wolni.
+  - **Wyzwalacze** (którykolwiek):
+    - Nowogród przyjmuje teokrację (Dom Świętej Zofii) i władyka zaczyna rządzić też Pskowem;
+    - przegrana wojna Nowogrodu albo okupacja ziem nad Peipusem;
+    - kryzys wiecu: kupcy z Nowogrodu narzucają Pskowowi cła i podatki.
+  - **Żądania Pskowa**: własny biskup (a w teokracji własna katedra niezależna od władyki), własny wiec i sąd, wolność od nowogrodzkich ceł.
+  - **Opcje Nowogrodu**:
+    - **Ugoda „bołotowska”**: Psków dostaje biskupa i autonomię jako „młodszy brat”, czyli stan wasalny z własnym rządem. Spokój, ale mniej podatków i wojska.
+    - **Twarda ręka**: władyka i wojsko tłumią opór. Bunt może przerodzić się w wojnę domową.
+    - **Pozwolić odejść**: powstaje **Republika Pskowska** (Psków, Izborsk, Ostrów, Opoczka, Gdów), mała republika miejska nad Peipusem.
+  - **Gracze z zewnątrz**:
+    - **Litwa-Ruś** może poprzeć Psków i wysłać księcia w duchu Dowmunta. Szansa na wpływy, a nawet wasala, przy granicy z Nowogrodem.
+    - **Wielka Metropolia Rusi** (jeśli Kijów jest teokracją) może przyjąć biskupa Pskowa pod swoje zwierzchnictwo i wbić klin w Nowogród.
+  - **Flaga Republiki Pskowskiej**: do zrobienia. Herb to lampart pod ręką Bożą wyłaniającą się z obłoku.
 
 ## Królestwo Halicko-Wołyńskie
 - **Terytorium**: Ruś Czerwona ze Lwowem (bez Przemyśla, Sanoka i Chełma, które są polskie), wschodni Wołyń (Łuck, Równe), Podole, Mołdawia (dostęp do Morza Czarnego przez Dniestr).
