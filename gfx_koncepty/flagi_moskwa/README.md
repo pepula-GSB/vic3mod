@@ -7,7 +7,9 @@ Moskwa: pozostałość Złotej Ordy, z prawosławnym zachodem i zislamizowanym w
 | Plik | Ustrój |
 |---|---|
 | 1_ksiestwo | Wielkie Księstwo (start): karmazyn z Jerzym (wzór od autora moda) |
-| 2_republika | Republika: karmazyn, białe koło ze złotym krzyżem i złotym półksiężycem obok siebie, czyli dwie wiary jako równe |
+| 2_republika | Republika świecka: czerń, zieleń i biel (wzór od autora moda bez półksiężyca) |
+| 2b_republika_islamska | Republika islamska (gdy islam weźmie górę): ta sama trójbarwa ze złotym, zdobionym półksiężycem i gwiazdą ([../emblematy/polksiezyc_ozdobny_maska.png](../emblematy/polksiezyc_ozdobny_maska.png), wzór od autora moda) |
+| 2c_republika_dwoch_wiar | Republika dwóch wiar (wariant): karmazyn, białe koło ze złotym krzyżem i złotym półksiężycem obok siebie |
 | 3a_teokracja_prawoslawna | Teokracja prawosławna (metropolita moskiewski): granat ze złotym krzyżem ośmioramiennym |
 | 3b_teokracja_islamska | Teokracja islamska (ulemowie z Kazania, chanat): zieleń z białym półksiężycem i gwiazdą |
 | 4_rewolucja | Rewolucja: czerwień, w rogu złoty półksiężyc z gwiazdą (półksiężyc jak sierp, wspólny znak Rusinów i Tatarów) |
